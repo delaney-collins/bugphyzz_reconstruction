@@ -75,6 +75,18 @@ def _require_columns(
             + ", ".join(missing)
         )
 
+def _clip_probability_scores(values: pd.Series) -> pd.Series:
+    scores = pd.to_numeric(values, errors="coerce").astype("float64")
+
+    tolerance = 1e-12
+    invalid = scores.lt(-tolerance) | scores.gt(1.0 + tolerance)
+    if invalid.any():
+        raise TaxonomySetError(
+            "Calculated probability scores fall outside [0, 1]."
+        )
+
+    return scores.clip(lower=0.0, upper=1.0)
+
 
 def _get_single_nonmissing_value(
     values: pd.Series,
@@ -604,6 +616,8 @@ def get_set_with_ids(
 
     result = _normalize_scores_by_taxid(result)
 
+    result["Score"] = _clip_probability_scores(result["Score"])
+
     result["Frequency"] = score_to_frequency(
         result["Score"]
     )
@@ -776,6 +790,8 @@ def get_set_without_ids(
 
         result = _drop_exact_duplicates(result)
 
+        result["Score"] = _clip_probability_scores(result["Score"])
+
         result["Frequency"] = score_to_frequency(
             result["Score"]
         )
@@ -897,6 +913,8 @@ def get_set_without_ids(
     )
 
     result = _drop_exact_duplicates(result)
+
+    result["Score"] = _clip_probability_scores(result["Score"])
 
     result["Frequency"] = score_to_frequency(
         result["Score"]

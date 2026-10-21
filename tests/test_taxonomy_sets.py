@@ -12,6 +12,12 @@ frozen R outputs:
     03_without_ids.tsv
         Expected output from getSetWithoutIDs().
 
+    04_combined_before_completion.tsv
+        Expected direct- and parent-derived rows before trait completion.
+
+    05_prepared.tsv
+        Expected output from the complete getDataReady() preparation stage.
+
 Three representative attribute types are tested:
 
 - binary
@@ -31,6 +37,7 @@ from __future__ import annotations
 
 from dataclasses import dataclass
 from pathlib import Path
+import sys
 from typing import Literal
 
 import numpy as np
@@ -39,30 +46,37 @@ import pytest
 import traceback
 from pandas.testing import assert_frame_equal
 
-from bugphyzz.preprocessing.taxonomy_sets import (
+# Permit direct execution from a src-layout checkout without requiring an
+# editable installation in the selected interpreter.
+REPOSITORY_ROOT = Path(__file__).resolve().parents[1]
+SOURCE_ROOT = REPOSITORY_ROOT / "src"
+if str(SOURCE_ROOT) not in sys.path:
+    sys.path.insert(0, str(SOURCE_ROOT))
+
+from bugphyzz_reconstruction.preprocessing.taxonomy_sets import (
     get_set_with_ids,
     get_set_without_ids,
 )
-from bugphyzz.taxonomy.frozen import FrozenTaxonomyProvider
+from bugphyzz_reconstruction.preprocessing.pipeline import prepare_trait_data
+from bugphyzz_reconstruction.taxonomy.frozen import FrozenTaxonomyProvider
 
 
 # ---------------------------------------------------------------------------
 # User settings
 # ---------------------------------------------------------------------------
 
-PROJECT_ROOT = Path(__file__).resolve().parents[2]
+PROJECT_ROOT = REPOSITORY_ROOT
 
 RESOURCE_DIR = (
     PROJECT_ROOT
-    /"bugphyzz_package"
     / "src"
-    / "bugphyzz"
+    / "bugphyzz_reconstruction"
     / "resources"
     / "taxonomy_2023"
 )
 
 FROZEN_OUTPUT_DIR = (
-    PROJECT_ROOT
+    PROJECT_ROOT.parent
     / "asr_python"
     / "frozen_r_outputs"
 )
@@ -84,6 +98,8 @@ class TaxonomyParityCase:
     filtered_file: Path
     with_ids_file: Path
     without_ids_file: Path
+    combined_file: Path
+    prepared_file: Path
 
 
 TEST_CASES: tuple[TaxonomyParityCase, ...] = (
@@ -105,6 +121,16 @@ TEST_CASES: tuple[TaxonomyParityCase, ...] = (
             / "binary_example"
             / "03_without_ids.tsv"
         ),
+        combined_file=(
+            FROZEN_OUTPUT_DIR
+            / "binary_example"
+            / "04_combined_before_completion.tsv"
+        ),
+        prepared_file=(
+            FROZEN_OUTPUT_DIR
+            / "binary_example"
+            / "05_prepared.tsv"
+        ),
     ),
     TaxonomyParityCase(
         name="multistate_intersection",
@@ -124,6 +150,16 @@ TEST_CASES: tuple[TaxonomyParityCase, ...] = (
             / "intersection_example"
             / "03_without_ids.tsv"
         ),
+        combined_file=(
+            FROZEN_OUTPUT_DIR
+            / "intersection_example"
+            / "04_combined_before_completion.tsv"
+        ),
+        prepared_file=(
+            FROZEN_OUTPUT_DIR
+            / "intersection_example"
+            / "05_prepared.tsv"
+        ),
     ),
     TaxonomyParityCase(
         name="range",
@@ -142,6 +178,16 @@ TEST_CASES: tuple[TaxonomyParityCase, ...] = (
             FROZEN_OUTPUT_DIR
             / "range_example"
             / "03_without_ids.tsv"
+        ),
+        combined_file=(
+            FROZEN_OUTPUT_DIR
+            / "range_example"
+            / "04_combined_before_completion.tsv"
+        ),
+        prepared_file=(
+            FROZEN_OUTPUT_DIR
+            / "range_example"
+            / "05_prepared.tsv"
         ),
     ),
 )
@@ -212,6 +258,34 @@ def read_parity_tsv(
         )
 
     return table
+
+
+def drop_all_missing_columns(
+    table: pd.DataFrame | None,
+) -> pd.DataFrame | None:
+    """Apply the all-missing-column cleanup used by prepare_trait_data()."""
+    if table is None:
+        return None
+    return table.dropna(axis="columns", how="all")
+
+
+def combine_optional_tables(
+    *tables: pd.DataFrame | None,
+) -> pd.DataFrame:
+    """Combine direct and parent tables using bind-rows semantics."""
+    usable = [
+        table
+        for table in tables
+        if table is not None and not table.empty
+    ]
+    if not usable:
+        return pd.DataFrame()
+    return pd.concat(
+        usable,
+        axis=0,
+        ignore_index=True,
+        sort=False,
+    )
 
 
 # ---------------------------------------------------------------------------
@@ -876,7 +950,7 @@ def prepared_case(
     request: pytest.FixtureRequest,
     taxonomy: FrozenTaxonomyProvider,
 ) -> dict[str, object]:
-    """Run both taxonomy stages for one parity fixture."""
+    """Run taxonomy, combination, and preparation stages for one fixture."""
     case: TaxonomyParityCase = request.param
 
     filtered = read_parity_tsv(
@@ -899,6 +973,20 @@ def prepared_case(
         set_with_ids=actual_with_ids,
     )
 
+    actual_combined = combine_optional_tables(
+        drop_all_missing_columns(actual_with_ids),
+        drop_all_missing_columns(actual_without_ids),
+    )
+    actual_prepared = prepare_trait_data(
+        filtered,
+        taxonomy,
+    )
+    if isinstance(actual_prepared, dict):
+        raise TypeError(
+            "These parity fixtures must produce one prepared DataFrame, "
+            "not multistate-union component tables."
+        )
+
     expected_with_ids = read_parity_tsv(
         case.with_ids_file,
         allow_missing=True,
@@ -908,14 +996,26 @@ def prepared_case(
         case.without_ids_file,
         allow_missing=True,
     )
+    expected_combined = read_parity_tsv(
+        case.combined_file,
+        allow_missing=True,
+    )
+    expected_prepared = read_parity_tsv(
+        case.prepared_file,
+        allow_missing=True,
+    )
 
     return {
         "case": case,
         "filtered": filtered,
         "actual_with_ids": actual_with_ids,
         "actual_without_ids": actual_without_ids,
+        "actual_combined": actual_combined,
+        "actual_prepared": actual_prepared,
         "expected_with_ids": expected_with_ids,
         "expected_without_ids": expected_without_ids,
+        "expected_combined": expected_combined,
+        "expected_prepared": expected_prepared,
     }
 
 
@@ -952,6 +1052,38 @@ def test_without_ids_matches_frozen_r_output(
         prepared_case["expected_without_ids"],
         case_name=case.name,
         stage_name="03_without_ids",
+    )
+
+
+def test_combined_before_completion_matches_frozen_r_output(
+    prepared_case: dict[str, object],
+) -> None:
+    """Compare combined taxonomy rows against stage 04."""
+    case = prepared_case["case"]
+
+    assert isinstance(case, TaxonomyParityCase)
+
+    assert_tables_match(
+        prepared_case["actual_combined"],
+        prepared_case["expected_combined"],
+        case_name=case.name,
+        stage_name="04_combined_before_completion",
+    )
+
+
+def test_prepared_matches_frozen_r_output(
+    prepared_case: dict[str, object],
+) -> None:
+    """Compare complete trait preparation against stage 05."""
+    case = prepared_case["case"]
+
+    assert isinstance(case, TaxonomyParityCase)
+
+    assert_tables_match(
+        prepared_case["actual_prepared"],
+        prepared_case["expected_prepared"],
+        case_name=case.name,
+        stage_name="05_prepared",
     )
 
 
@@ -1308,6 +1440,14 @@ def run_parity_tests_directly() -> None:
                 case.without_ids_file,
                 allow_missing=True,
             )
+            expected_combined = read_parity_tsv(
+                case.combined_file,
+                allow_missing=True,
+            )
+            expected_prepared = read_parity_tsv(
+                case.prepared_file,
+                allow_missing=True,
+            )
 
             actual_with_ids = get_set_with_ids(
                 filtered,
@@ -1319,6 +1459,18 @@ def run_parity_tests_directly() -> None:
                 taxonomy,
                 set_with_ids=actual_with_ids,
             )
+            actual_combined = combine_optional_tables(
+                drop_all_missing_columns(actual_with_ids),
+                drop_all_missing_columns(actual_without_ids),
+            )
+            actual_prepared = prepare_trait_data(
+                filtered,
+                taxonomy,
+            )
+            if isinstance(actual_prepared, dict):
+                raise TypeError(
+                    "Parity fixture unexpectedly produced union components."
+                )
 
             assert_tables_match(
                 actual_with_ids,
@@ -1357,7 +1509,36 @@ def run_parity_tests_directly() -> None:
                     )
                 )
             )
-            
+
+            assert_tables_match(
+                actual_combined,
+                expected_combined,
+                case_name=case.name,
+                stage_name="04_combined_before_completion",
+            )
+            print(
+                "[PASS] 04_combined_before_completion: "
+                f"{len(actual_combined):,} rows × "
+                f"{len(actual_combined.columns):,} columns"
+            )
+
+            assert_tables_match(
+                actual_prepared,
+                expected_prepared,
+                case_name=case.name,
+                stage_name="05_prepared",
+            )
+            print(
+                "[PASS] 05_prepared: "
+                + (
+                    "None"
+                    if actual_prepared is None
+                    else (
+                        f"{len(actual_prepared):,} rows × "
+                        f"{len(actual_prepared.columns):,} columns"
+                    )
+                )
+            )
         
         except Exception as error:
             failures.append(case.name)
