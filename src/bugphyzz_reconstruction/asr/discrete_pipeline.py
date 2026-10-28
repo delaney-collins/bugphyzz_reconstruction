@@ -119,8 +119,11 @@ def prepare_discrete_asr_input(
     prepared_data: pd.DataFrame,
     *,
     trait_name: str | None = None,
+    min_annotated_tips: int | None = None,
 ) -> DiscreteASRInput:
     """Construct observed and uniform hidden-tip state matrices."""
+    if min_annotated_tips is not None and min_annotated_tips < 1:
+        raise ValueError("min_annotated_tips must be at least 1.")
     joined = join_discrete_tip_data(tip_data, prepared_data)
     tip_labels = _tree_tip_labels(tree)
 
@@ -235,6 +238,11 @@ def prepare_discrete_asr_input(
         else:
             trait_name = "discrete_trait"
 
+    asr_run = (
+        annotated_count >= min_annotated_tips
+        if min_annotated_tips is not None
+        else coverage_percent >= 1
+    )
     coverage = pd.DataFrame(
         [
             {
@@ -242,8 +250,12 @@ def prepare_discrete_asr_input(
                 "annotated_tips": annotated_count,
                 "total_tips": len(tip_labels),
                 "coverage_percent": coverage_percent,
-                "rounding": "floor",
-                "asr_run": coverage_percent >= 1,
+                "rounding": (
+                    "annotated-tip count"
+                    if min_annotated_tips is not None
+                    else "floor"
+                ),
+                "asr_run": asr_run,
             }
         ]
     )
@@ -363,6 +375,7 @@ def run_discrete_asr_pipeline(
     prepared_data: pd.DataFrame,
     *,
     trait_name: str | None = None,
+    min_annotated_tips: int | None = None,
 ) -> DiscreteASRStages:
     """Run the discrete branch through the long-form ASR prediction table."""
     prepared_input = prepare_discrete_asr_input(
@@ -370,6 +383,7 @@ def run_discrete_asr_pipeline(
         tip_data,
         prepared_data,
         trait_name=trait_name,
+        min_annotated_tips=min_annotated_tips,
     )
     if not bool(prepared_input.coverage["asr_run"].iloc[0]):
         raise DiscreteASRError(

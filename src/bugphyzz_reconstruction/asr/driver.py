@@ -7,7 +7,7 @@ trait propagation, multistate-union reassembly, and the final Zenodo tables.
 
 from __future__ import annotations
 
-from dataclasses import dataclass
+from dataclasses import dataclass, replace
 from pathlib import Path
 from typing import Mapping
 
@@ -17,6 +17,11 @@ from bugphyzz_reconstruction.asr.ltp import LTPResources
 from bugphyzz_reconstruction.asr.orchestrator import (
     BugphyzzBuildResult,
     build_bugphyzz_resources,
+    propagate_trait,
+)
+from bugphyzz_reconstruction.io.observations import (
+    read_trait_observations,
+    validate_trait_observations,
 )
 from bugphyzz_reconstruction.preprocessing.filtering import filter_data
 from bugphyzz_reconstruction.preprocessing.pipeline import prepare_trait_data
@@ -34,6 +39,25 @@ class BugphyzzPipelineResult:
     filtered_traits: dict[str, pd.DataFrame]
     prepared_traits: dict[str, PreparedTrait]
     skipped_traits: dict[str, str]
+
+
+@dataclass(frozen=True)
+class TraitReconstructionResult:
+    """Inspectable result of reconstructing one raw trait table.
+
+    ``prepared`` is a mapping only for multistate-union traits. Those traits
+    are reassembled directly from their prepared observations and therefore
+    always have ``asr_run=False`` and an empty coverage table.
+    """
+
+    raw: pd.DataFrame
+    filtered: pd.DataFrame
+    prepared: PreparedTrait
+    propagated: pd.DataFrame
+    coverage: pd.DataFrame
+    asr_run: bool
+    attribute_group: str
+    attribute_type: str
 
 
 def _single_value(table: pd.DataFrame, column: str, *, context: str) -> str:
@@ -95,6 +119,144 @@ def reassemble_multistate_union(
         return pd.DataFrame()
 
     return pd.concat(frames, ignore_index=True, sort=False)
+
+
+def reconstruct_trait(
+    observations: pd.DataFrame | str | Path,
+    taxonomy: FrozenTaxonomyProvider,
+    resources: LTPResources,
+    *,
+    allow_custom_vocabulary: bool = False,
+    min_annotated_tips: int | None = None,
+) -> TraitReconstructionResult:
+    """Filter, prepare, and reconstruct one raw trait table.
+
+    Parameters
+    ----------
+    observations
+        A raw observation DataFrame or a CSV, TSV, or tab-delimited TXT path.
+        File inputs preserve taxonomy identifiers as strings at read time.
+    taxonomy
+        Frozen taxonomy provider, including the attribute vocabulary used by
+        filtering.
+    resources
+        LTP tree, tip data, and node data used by the ASR branches.
+    allow_custom_vocabulary
+        Accept the discrete ``Attribute`` terms declared in this observation
+        table even when they are absent from the packaged Bugphyzz vocabulary.
+        The terms are added only to an in-memory copy of the taxonomy provider.
+    min_annotated_tips
+        If supplied, run ASR when at least this many distinct LTP tips are
+        annotated, instead of applying the historical one-percent rule.
+
+    Returns
+    -------
+    TraitReconstructionResult
+        The validated raw, filtered, prepared, and propagated stages together
+        with the coverage decision and whether ASR ran.
+
+    Notes
+    -----
+    Multistate-union traits deliberately bypass ASR. Their prepared binary
+    components are reassembled into the published union representation.
+    """
+    if isinstance(observations, pd.DataFrame):
+        raw = validate_trait_observations(observations.copy())
+    elif isinstance(observations, (str, Path)):
+        raw = read_trait_observations(observations)
+    else:
+        raise TypeError(
+            "observations must be a pandas DataFrame or a CSV, TSV, or TXT path."
+        )
+
+    if min_annotated_tips is not None and min_annotated_tips < 1:
+        raise ValueError("min_annotated_tips must be at least 1.")
+
+    filtering_taxonomy = taxonomy
+    if allow_custom_vocabulary:
+        if taxonomy.attributes is None:
+            raise ValueError(
+                "allow_custom_vocabulary requires a taxonomy provider loaded "
+                "with attributes.tsv."
+            )
+        attribute_type = _single_value(
+            raw,
+            "Attribute_type",
+            context="raw trait",
+        )
+        if attribute_type != "range":
+            declared = (
+                raw.loc[:, ["Attribute_group", "Attribute"]]
+                .dropna()
+                .rename(
+                    columns={
+                        "Attribute_group": "attribute_group",
+                        "Attribute": "attribute",
+                    }
+                )
+                .drop_duplicates()
+            )
+            attributes = pd.concat(
+                [taxonomy.attributes, declared],
+                ignore_index=True,
+                sort=False,
+            ).drop_duplicates(subset=["attribute_group", "attribute"])
+            filtering_taxonomy = replace(taxonomy, attributes=attributes)
+
+    filtered = filter_data(raw, taxonomy=filtering_taxonomy)
+    if filtered is None or filtered.empty:
+        raise ValueError("Trait filtering produced no usable rows.")
+
+    attribute_group = _single_value(
+        filtered,
+        "Attribute_group",
+        context="filtered trait",
+    )
+    attribute_type = _single_value(
+        filtered,
+        "Attribute_type",
+        context="filtered trait",
+    )
+
+    prepared = prepare_trait_data(filtered, taxonomy)
+    if prepared is None or (
+        isinstance(prepared, (pd.DataFrame, dict)) and len(prepared) == 0
+    ):
+        raise ValueError("Trait preparation produced no usable rows.")
+
+    if isinstance(prepared, dict):
+        propagated = reassemble_multistate_union(
+            prepared,
+            attribute_group=attribute_group,
+        )
+        if propagated.empty:
+            raise ValueError(
+                "Multistate-union reassembly produced no usable rows."
+            )
+        coverage = pd.DataFrame()
+        asr_run = False
+    else:
+        propagation = propagate_trait(
+            prepared,
+            resources,
+            attribute_group=attribute_group,
+            attribute_type=attribute_type,
+            min_annotated_tips=min_annotated_tips,
+        )
+        propagated = propagation.data
+        coverage = propagation.coverage
+        asr_run = propagation.asr_run
+
+    return TraitReconstructionResult(
+        raw=raw,
+        filtered=filtered,
+        prepared=prepared,
+        propagated=propagated,
+        coverage=coverage,
+        asr_run=asr_run,
+        attribute_group=attribute_group,
+        attribute_type=attribute_type,
+    )
 
 
 def prepare_and_build_bugphyzz(

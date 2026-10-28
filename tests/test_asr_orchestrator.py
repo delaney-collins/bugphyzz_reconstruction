@@ -23,6 +23,7 @@ if str(SOURCE_ROOT) not in sys.path:
 
 from bugphyzz_reconstruction.asr.driver import (  # noqa: E402
     prepare_and_build_bugphyzz,
+    reconstruct_trait,
 )
 from bugphyzz_reconstruction.asr.ltp import (  # noqa: E402
     LTPResources,
@@ -210,3 +211,95 @@ def test_prepare_and_build_bugphyzz_end_to_end_smoke(
     for path in gmt_paths.values():
         first_line = path.read_text(encoding="utf-8").splitlines()[0]
         assert first_line.startswith("# bugphyzz ")
+
+
+def test_reconstruct_trait_accepts_dataframe_and_dispatches_discrete(
+    taxonomy: FrozenTaxonomyProvider,
+    resources: LTPResources,
+    raw_smoke_traits: dict[str, pd.DataFrame],
+) -> None:
+    """The public wrapper retains every stage for a discrete trait."""
+    result = reconstruct_trait(
+        raw_smoke_traits["motility"],
+        taxonomy,
+        resources,
+    )
+
+    assert result.attribute_group == "motility"
+    assert result.attribute_type == "binary"
+    assert not result.raw.empty
+    assert not result.filtered.empty
+    assert isinstance(result.prepared, pd.DataFrame)
+    assert not result.propagated.empty
+    assert not result.asr_run
+    assert result.coverage["coverage_percent"].iloc[0] == 0
+
+
+def test_reconstruct_trait_accepts_file_and_dispatches_continuous(
+    taxonomy: FrozenTaxonomyProvider,
+    resources: LTPResources,
+    raw_smoke_traits: dict[str, pd.DataFrame],
+    tmp_path: Path,
+) -> None:
+    """File inputs preserve taxonomy IDs and reach the continuous branch."""
+    source = tmp_path / "growth_temperature.tsv"
+    raw_smoke_traits["growth temperature"].to_csv(
+        source,
+        sep="\t",
+        index=False,
+    )
+
+    result = reconstruct_trait(source, taxonomy, resources)
+
+    assert result.attribute_group == "growth temperature"
+    assert result.attribute_type == "range"
+    assert result.raw["NCBI_ID"].dtype.name == "string"
+    assert isinstance(result.prepared, pd.DataFrame)
+    assert not result.propagated.empty
+    assert not result.asr_run
+
+
+def test_reconstruct_trait_bypasses_asr_for_union(
+    taxonomy: FrozenTaxonomyProvider,
+    resources: LTPResources,
+    raw_smoke_traits: dict[str, pd.DataFrame],
+) -> None:
+    """Union traits are reassembled from prepared observations without ASR."""
+    result = reconstruct_trait(
+        raw_smoke_traits["habitat"],
+        taxonomy,
+        resources,
+    )
+
+    assert result.attribute_group == "habitat"
+    assert result.attribute_type == "multistate-union"
+    assert isinstance(result.prepared, dict)
+    assert not result.asr_run
+    assert result.coverage.empty
+    assert result.propagated["Attribute"].eq("habitat").all()
+    assert result.propagated["Attribute_value"].eq("aquatic biome").all()
+
+
+def test_reconstruct_trait_accepts_custom_vocabulary_and_tip_threshold(
+    taxonomy: FrozenTaxonomyProvider,
+    resources: LTPResources,
+    raw_smoke_traits: dict[str, pd.DataFrame],
+) -> None:
+    """Custom terms and count-based coverage are scoped to the wrapper call."""
+    custom = raw_smoke_traits["motility"].copy()
+    custom["Attribute_group"] = "custom binary trait"
+    custom["Attribute"] = "custom binary trait"
+
+    result = reconstruct_trait(
+        custom,
+        taxonomy,
+        resources,
+        allow_custom_vocabulary=True,
+        min_annotated_tips=2,
+    )
+
+    assert result.attribute_group == "custom binary trait"
+    assert not result.filtered.empty
+    assert result.coverage["annotated_tips"].iloc[0] == 1
+    assert result.coverage["rounding"].iloc[0] == "annotated-tip count"
+    assert not result.asr_run

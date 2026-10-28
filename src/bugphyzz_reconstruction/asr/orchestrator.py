@@ -131,6 +131,7 @@ def propagate_continuous_trait(
     *,
     attribute_group: str | None = None,
     weighted: bool = True,
+    min_annotated_tips: int | None = None,
 ) -> TraitPropagationResult:
     """Propagate one range trait, or retain observations below 1% coverage."""
     group = _single_metadata_value(
@@ -141,6 +142,7 @@ def propagate_continuous_trait(
         resources.tip_data,
         prepared_data,
         trait_name=group,
+        min_annotated_tips=min_annotated_tips,
     )
     asr_run = bool(prepared.coverage["asr_run"].iloc[0])
     if not asr_run:
@@ -198,6 +200,7 @@ def propagate_discrete_trait(
     *,
     attribute_group: str | None = None,
     attribute_type: str | None = None,
+    min_annotated_tips: int | None = None,
 ) -> TraitPropagationResult:
     """Propagate one binary/multistate trait with R-compatible coverage logic."""
     group = _single_metadata_value(
@@ -214,6 +217,7 @@ def propagate_discrete_trait(
         resources.tip_data,
         prepared_data,
         trait_name=group,
+        min_annotated_tips=min_annotated_tips,
     )
     asr_run = bool(prepared.coverage["asr_run"].iloc[0])
     if not asr_run:
@@ -236,6 +240,7 @@ def propagate_discrete_trait(
         taxonomy,
         prepared_data,
         trait_name=group,
+        min_annotated_tips=min_annotated_tips,
     )
     combined = combine_observed_and_predictions(
         _observed_rows(prepared_data),
@@ -258,6 +263,7 @@ def propagate_trait(
     *,
     attribute_group: str | None = None,
     attribute_type: str | None = None,
+    min_annotated_tips: int | None = None,
 ) -> TraitPropagationResult:
     """Dispatch one prepared trait to the continuous or discrete branch."""
     kind = _single_metadata_value(
@@ -268,6 +274,7 @@ def propagate_trait(
             prepared_data,
             resources,
             attribute_group=attribute_group,
+            min_annotated_tips=min_annotated_tips,
         )
     if kind in {"binary", "multistate-intersection"}:
         return propagate_discrete_trait(
@@ -275,6 +282,7 @@ def propagate_trait(
             resources,
             attribute_group=attribute_group,
             attribute_type=kind,
+            min_annotated_tips=min_annotated_tips,
         )
     raise ValueError(
         f"Attribute_type {kind!r} is not directly reconstructable. "

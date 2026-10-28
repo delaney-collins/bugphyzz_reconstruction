@@ -125,8 +125,11 @@ def prepare_continuous_asr_input(
     prepared_data: pd.DataFrame,
     *,
     trait_name: str | None = None,
+    min_annotated_tips: int | None = None,
 ) -> ContinuousASRInput:
     """Build the exact observed/hidden vector consumed by continuous ASR."""
+    if min_annotated_tips is not None and min_annotated_tips < 1:
+        raise ValueError("min_annotated_tips must be at least 1.")
     joined = join_continuous_tip_data(tip_data, prepared_data)
     tip_labels = _tree_tip_labels(tree)
 
@@ -206,15 +209,25 @@ def prepare_continuous_asr_input(
         else:
             trait_name = "continuous_trait"
 
+    annotated_count = len(annotated)
+    asr_run = (
+        annotated_count >= min_annotated_tips
+        if min_annotated_tips is not None
+        else coverage_percent >= 1
+    )
     coverage = pd.DataFrame(
         [
             {
                 "trait": trait_name,
-                "annotated_tips": len(annotated),
+                "annotated_tips": annotated_count,
                 "total_tips": len(tip_labels),
                 "coverage_percent": coverage_percent,
-                "rounding": "round",
-                "asr_run": coverage_percent >= 1,
+                "rounding": (
+                    "annotated-tip count"
+                    if min_annotated_tips is not None
+                    else "round"
+                ),
+                "asr_run": asr_run,
             }
         ]
     )
