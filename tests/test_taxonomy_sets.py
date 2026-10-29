@@ -76,9 +76,9 @@ RESOURCE_DIR = (
 )
 
 FROZEN_OUTPUT_DIR = (
-    PROJECT_ROOT.parent
-    / "asr_python"
-    / "frozen_r_outputs"
+    PROJECT_ROOT
+    / "r_reference_outputs"
+    / "r_data_preparation"
 )
 
 

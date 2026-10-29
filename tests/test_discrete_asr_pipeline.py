@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 from pathlib import Path
+import sys
 
 import numpy as np
 import pandas as pd
@@ -13,22 +14,22 @@ SOURCE_ROOT = REPOSITORY_ROOT / "src"
 if str(SOURCE_ROOT) not in sys.path:
     sys.path.insert(0, str(SOURCE_ROOT))
 
-from bugphyzz_reconstruction.trees.asr_shared import (
+from bugphyzz_reconstruction.asr.asr_shared import (
     deduplicate_taxonomy_predictions,
     join_reconstruction_to_taxonomy,
     make_tree_taxonomy_table,
 )
-from bugphyzz_reconstruction.trees.discrete_pipeline import (
+from bugphyzz_reconstruction.asr.discrete_pipeline import (
     make_discrete_long_predictions,
     prepare_discrete_asr_input,
     select_discrete_mappable_unannotated,
 )
-from bugphyzz_reconstruction.trees.ltp import ltp
+from bugphyzz_reconstruction.asr.ltp import ltp
 
 
-PACKAGE_DIR = Path(__file__).resolve().parents[1]
-REFERENCE_DIR = PACKAGE_DIR / "asr_reference_2023"
-RESOURCE_DIR = PACKAGE_DIR / "resources"
+PACKAGE_DIR = REPOSITORY_ROOT
+REFERENCE_DIR = PACKAGE_DIR / "r_reference_outputs" / "r_asr_pipeline_2023"
+RESOURCE_DIR = SOURCE_ROOT / "bugphyzz_reconstruction" / "resources" / "taxonomy_2023"
 
 
 @pytest.fixture(scope="module")

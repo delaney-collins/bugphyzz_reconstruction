@@ -35,7 +35,7 @@ from bugphyzz_reconstruction.asr.ltp import LTPResources, ltp  # noqa: E402
 
 
 REFERENCE_ROOT = (
-    REPOSITORY_ROOT.parent / "asr_python" / "asr_reference_2023"
+    REPOSITORY_ROOT / "r_reference_outputs" / "r_asr_pipeline_2023"
 )
 RESOURCE_DIR = (
     REPOSITORY_ROOT
