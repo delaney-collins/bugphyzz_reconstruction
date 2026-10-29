@@ -1,0 +1,91 @@
+NCBI_ID	Attribute	Taxon_name	Rank	Attribute_source	Confidence_in_curation	Evidence	Frequency	Score	Attribute_group	Attribute_type	taxid	Attribute_group_2
+s__1008460	hydrothermal vents--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1008460	hydrothermal vents--TRUE	Pyrococcus yayanosii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1008460	hydrothermal vents
+s__1042877	hydrothermal vents--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1042877	hydrothermal vents--TRUE	Thermococcus sp. 4557	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1042877	hydrothermal vents
+s__1183377	hydrothermal vents--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1183377	hydrothermal vents--TRUE	Pyrococcus sp. ST04	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1183377	hydrothermal vents
+s__13773	hydrothermal vents--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__13773	hydrothermal vents--TRUE	Pyrobaculum aerophilum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	13773	hydrothermal vents
+s__145262	hydrothermal vents--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__145262	hydrothermal vents--TRUE	Methanothermobacter thermautotrophicus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	145262	hydrothermal vents
+s__149715	hydrothermal vents--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__149715	hydrothermal vents--TRUE	Marinitoga piezophila	species	ProTraits	medium	igc	always	1	habitat	multistate-union	149715	hydrothermal vents
+s__155863	hydrothermal vents--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__155863	hydrothermal vents--TRUE	Methanothermococcus okinawensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	155863	hydrothermal vents
+s__160232	hydrothermal vents--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__160232	hydrothermal vents--TRUE	Nanoarchaeum equitans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	160232	hydrothermal vents
+s__163003	hydrothermal vents--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__163003	hydrothermal vents--TRUE	Thermococcus cleftensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	163003	hydrothermal vents
+s__186192	hydrothermal vents--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__186192	hydrothermal vents--TRUE	Marinithermus hydrothermalis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	186192	hydrothermal vents
+s__187137	hydrothermal vents--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__187137	hydrothermal vents--TRUE	Oceanithermus profundus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	187137	hydrothermal vents
+s__187878	hydrothermal vents--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__187878	hydrothermal vents--TRUE	Thermococcus gammatolerans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	187878	hydrothermal vents
+s__197162	hydrothermal vents--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__197162	hydrothermal vents--TRUE	Deferribacter desulfuricans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	197162	hydrothermal vents
+s__2189	hydrothermal vents--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__2189	hydrothermal vents--TRUE	Methanotorris igneus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2189	hydrothermal vents
+s__2190	hydrothermal vents--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__2190	hydrothermal vents--TRUE	Methanocaldococcus jannaschii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2190	hydrothermal vents
+s__2234	hydrothermal vents--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__2234	hydrothermal vents--TRUE	Archaeoglobus fulgidus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2234	hydrothermal vents
+s__2261	hydrothermal vents--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__2261	hydrothermal vents--TRUE	Pyrococcus furiosus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2261	hydrothermal vents
+s__2265	hydrothermal vents--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__2265	hydrothermal vents--TRUE	Thermococcus litoralis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2265	hydrothermal vents
+s__2280	hydrothermal vents--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__2280	hydrothermal vents--TRUE	Staphylothermus marinus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2280	hydrothermal vents
+s__244787	hydrothermal vents--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__244787	hydrothermal vents--TRUE	Nautilia profundicola	species	ProTraits	medium	igc	always	1	habitat	multistate-union	244787	hydrothermal vents
+s__246969	hydrothermal vents--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__246969	hydrothermal vents--TRUE	Thermococcus sp. AM4	species	ProTraits	medium	igc	always	1	habitat	multistate-union	246969	hydrothermal vents
+s__269261	hydrothermal vents--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__269261	hydrothermal vents--TRUE	Nitratifractor salsuginis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	269261	hydrothermal vents
+s__29292	hydrothermal vents--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__29292	hydrothermal vents--TRUE	Pyrococcus abyssi	species	ProTraits	medium	igc	always	1	habitat	multistate-union	29292	hydrothermal vents
+s__309805	hydrothermal vents--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__309805	hydrothermal vents--TRUE	Persephonella marina	species	ProTraits	medium	igc	always	1	habitat	multistate-union	309805	hydrothermal vents
+s__311400	hydrothermal vents--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__311400	hydrothermal vents--TRUE	Thermococcus kodakarensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	311400	hydrothermal vents
+s__342948	hydrothermal vents--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__342948	hydrothermal vents--TRUE	Thermococcus onnurineus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	342948	hydrothermal vents
+s__342949	hydrothermal vents--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__342949	hydrothermal vents--TRUE	Pyrococcus sp. NA2	species	ProTraits	medium	igc	always	1	habitat	multistate-union	342949	hydrothermal vents
+s__379547	hydrothermal vents--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__379547	hydrothermal vents--TRUE	Candidatus Aciduliprofundum boonei	species	ProTraits	medium	igc	always	1	habitat	multistate-union	379547	hydrothermal vents
+s__387092	hydrothermal vents--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__387092	hydrothermal vents--TRUE	Nitratiruptor sp. SB155-2	species	ProTraits	medium	igc	always	1	habitat	multistate-union	387092	hydrothermal vents
+s__387093	hydrothermal vents--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__387093	hydrothermal vents--TRUE	Sulfurovum sp. NBC37-1	species	ProTraits	medium	igc	always	1	habitat	multistate-union	387093	hydrothermal vents
+s__39765	hydrothermal vents--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__39765	hydrothermal vents--TRUE	Hydrogenovibrio crunogenus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	39765	hydrothermal vents
+s__53953	hydrothermal vents--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__53953	hydrothermal vents--TRUE	Pyrococcus horikoshii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	53953	hydrothermal vents
+s__54252	hydrothermal vents--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__54252	hydrothermal vents--TRUE	Pyrolobus fumarii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	54252	hydrothermal vents
+s__54256	hydrothermal vents--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__54256	hydrothermal vents--TRUE	Pyrodictium abyssi	species	ProTraits	medium	igc	always	1	habitat	multistate-union	54256	hydrothermal vents
+s__54261	hydrothermal vents--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__54261	hydrothermal vents--TRUE	Ferroglobus placidus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	54261	hydrothermal vents
+s__55802	hydrothermal vents--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__55802	hydrothermal vents--TRUE	Thermococcus barophilus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	55802	hydrothermal vents
+s__56636	hydrothermal vents--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__56636	hydrothermal vents--TRUE	Aeropyrum pernix	species	ProTraits	medium	igc	always	1	habitat	multistate-union	56636	hydrothermal vents
+s__58290	hydrothermal vents--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__58290	hydrothermal vents--TRUE	Archaeoglobus veneficus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	58290	hydrothermal vents
+s__64160	hydrothermal vents--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__64160	hydrothermal vents--TRUE	Desulfurobacterium thermolithotrophum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	64160	hydrothermal vents
+s__644281	hydrothermal vents--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__644281	hydrothermal vents--TRUE	Methanocaldococcus sp. FS406-22	species	ProTraits	medium	igc	always	1	habitat	multistate-union	644281	hydrothermal vents
+s__67760	hydrothermal vents--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__67760	hydrothermal vents--TRUE	Methanocaldococcus infernus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	67760	hydrothermal vents
+s__73913	hydrothermal vents--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__73913	hydrothermal vents--TRUE	Methanocaldococcus vulcanius	species	ProTraits	medium	igc	always	1	habitat	multistate-union	73913	hydrothermal vents
+s__83171	hydrothermal vents--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__83171	hydrothermal vents--TRUE	Methanocaldococcus fervens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	83171	hydrothermal vents
+s__84156	hydrothermal vents--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__84156	hydrothermal vents--TRUE	Archaeoglobus profundus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	84156	hydrothermal vents
+s__84599	hydrothermal vents--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__84599	hydrothermal vents--TRUE	Staphylothermus hellenicus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	84599	hydrothermal vents

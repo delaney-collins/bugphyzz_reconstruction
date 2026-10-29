@@ -1,0 +1,11 @@
+NCBI_ID	Attribute	Taxon_name	Rank	Attribute_source	Confidence_in_curation	Evidence	Frequency	Score	Attribute_group	Attribute_type	taxid	Attribute_group_2
+s__342949	hydrothermal vent--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__342949	hydrothermal vent--TRUE	Pyrococcus sp. NA2	species	BacMap	low	nas	always	1	habitat	multistate-union	342949	hydrothermal vent
+t__529709	hydrothermal vent--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__529709	hydrothermal vent--TRUE	Pyrococcus yayanosii CH1	strain	BacMap	low	nas	always	1	habitat	multistate-union	529709	hydrothermal vent
+t__647113	hydrothermal vent--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__647113	hydrothermal vent--TRUE	Methanothermococcus okinawensis IH1	strain	BacMap	low	nas	always	1	habitat	multistate-union	647113	hydrothermal vent
+t__648996	hydrothermal vent--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__648996	hydrothermal vent--TRUE	Thermovibrio ammonificans HB-1	strain	BacMap	low	nas	always	1	habitat	multistate-union	648996	hydrothermal vent
+t__670487	hydrothermal vent--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__670487	hydrothermal vent--TRUE	Oceanithermus profundus DSM 14977	strain	BacMap	low	nas	always	1	habitat	multistate-union	670487	hydrothermal vent

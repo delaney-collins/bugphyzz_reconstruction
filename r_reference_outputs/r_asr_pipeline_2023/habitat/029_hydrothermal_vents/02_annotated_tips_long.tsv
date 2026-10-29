@@ -1,0 +1,9 @@
+tip_label	Attribute	Score
+Hydrogenovibrio_crunogenus-_-L40810--_ATCC_35932_T	hydrothermal vents--FALSE	0
+Hydrogenovibrio_crunogenus-_-L40810--_ATCC_35932_T	hydrothermal vents--TRUE	1
+Thermococcus_cleftensis-_-CP003651--_CL1_T	hydrothermal vents--FALSE	0
+Thermococcus_cleftensis-_-CP003651--_CL1_T	hydrothermal vents--TRUE	1
+Pyrococcus_horikoshii-_-AY099169--_DSM_12428_T	hydrothermal vents--FALSE	0
+Pyrococcus_horikoshii-_-AY099169--_DSM_12428_T	hydrothermal vents--TRUE	1
+Aeropyrum_pernix-_-D83259--_K1_LTP__T	hydrothermal vents--FALSE	0
+Aeropyrum_pernix-_-D83259--_K1_LTP__T	hydrothermal vents--TRUE	1

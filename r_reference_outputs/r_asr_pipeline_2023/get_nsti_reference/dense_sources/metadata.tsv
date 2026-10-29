@@ -1,0 +1,7 @@
+property	value
+description	Every tenth tip is annotated: exercises a dense realistic multi-source case.
+annotated_tip_count	2351
+requested_node_count	2299
+unannotated_tip_count	21150
+returned_node_count	2299
+result_row_count	23449

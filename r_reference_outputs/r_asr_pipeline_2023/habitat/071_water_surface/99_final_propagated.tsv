@@ -1,0 +1,5 @@
+NCBI_ID	Attribute	Taxon_name	Rank	Attribute_source	Confidence_in_curation	Evidence	Frequency	Score	Attribute_group	Attribute_type	taxid	Attribute_group_2
+s__314267	water surface--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__314267	water surface--TRUE	Sulfitobacter sp. NAS-14.1	species	ProTraits	medium	igc	always	1	habitat	multistate-union	314267	water surface
+s__330214	water surface--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__330214	water surface--TRUE	Nitrospira defluvii	species	BacMap	low	nas	always	1	habitat	multistate-union	330214	water surface

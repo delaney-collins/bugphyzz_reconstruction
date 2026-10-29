@@ -1,0 +1,7 @@
+stage	component	object_type	n_rows	n_columns
+00_raw	NA	data.frame	30710	19
+01_filtered	NA	data.frame	4562	11
+02_with_ids	NA	data.frame	4325	12
+03_without_ids	NA	data.frame	2	12
+04_combined_before_completion	NA	data.frame	4327	12
+05_prepared	NA	data.frame	82782	12

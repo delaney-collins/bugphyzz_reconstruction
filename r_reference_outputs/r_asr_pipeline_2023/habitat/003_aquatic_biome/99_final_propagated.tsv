@@ -1,0 +1,499 @@
+NCBI_ID	Attribute	Taxon_name	Rank	Attribute_source	Confidence_in_curation	Evidence	Frequency	Score	Attribute_group	Attribute_type	taxid	Attribute_group_2
+s__1100	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1100	aquatic biome--TRUE	Pelodictyon luteolum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1100	aquatic biome
+s__110662	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__110662	aquatic biome--TRUE	Synechococcus sp. CC9605	species	ProTraits	medium	igc	always	1	habitat	multistate-union	110662	aquatic biome
+s__1116375	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1116375	aquatic biome--TRUE	Vibrio sp. EJY3	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1116375	aquatic biome
+s__111955	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__111955	aquatic biome--TRUE	Sulfurisphaera tokodaii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	111955	aquatic biome
+s__1148	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1148	aquatic biome--TRUE	Synechocystis sp. PCC 6803	species	BacMap	low	nas	always	1	habitat	multistate-union	1148	aquatic biome
+s__1183377	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1183377	aquatic biome--TRUE	Pyrococcus sp. ST04	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1183377	aquatic biome
+s__1200300	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1200300	aquatic biome--TRUE	Thermogladius calderae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1200300	aquatic biome
+s__121277	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__121277	aquatic biome--TRUE	Pyrobaculum arsenaticum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	121277	aquatic biome
+s__13773	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__13773	aquatic biome--TRUE	Pyrobaculum aerophilum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	13773	aquatic biome
+s__150340	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__150340	aquatic biome--TRUE	Vibrio antiquarius	species	ProTraits	medium	igc	always	1	habitat	multistate-union	150340	aquatic biome
+s__166314	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__166314	aquatic biome--TRUE	Synechococcus sp. WH 8109	species	ProTraits	medium	igc	always	1	habitat	multistate-union	166314	aquatic biome
+s__166318	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__166318	aquatic biome--TRUE	Synechococcus sp. WH 8016	species	ProTraits	medium	igc	always	1	habitat	multistate-union	166318	aquatic biome
+s__182710	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__182710	aquatic biome--TRUE	Oceanobacillus iheyensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	182710	aquatic biome
+s__192073	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__192073	aquatic biome--TRUE	Shewanella denitrificans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	192073	aquatic biome
+s__197222	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__197222	aquatic biome--TRUE	Paraglaciecola mesophila	species	ProTraits	medium	igc	always	1	habitat	multistate-union	197222	aquatic biome
+s__204773	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__204773	aquatic biome--TRUE	Herminiimonas arsenicoxydans	species	BacMap	low	nas	always	1	habitat	multistate-union	204773	aquatic biome
+s__2190	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__2190	aquatic biome--TRUE	Methanocaldococcus jannaschii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2190	aquatic biome
+s__221359	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__221359	aquatic biome--TRUE	Synechococcus sp. RS9916	species	ProTraits	medium	igc	always	1	habitat	multistate-union	221359	aquatic biome
+s__221360	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__221360	aquatic biome--TRUE	Synechococcus sp. RS9917	species	ProTraits	medium	igc	always	1	habitat	multistate-union	221360	aquatic biome
+s__2238	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__2238	aquatic biome--TRUE	Haloarcula marismortui	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2238	aquatic biome
+s__2242	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__2242	aquatic biome--TRUE	Halobacterium salinarum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2242	aquatic biome
+s__2280	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__2280	aquatic biome--TRUE	Staphylothermus marinus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2280	aquatic biome
+s__234831	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__234831	aquatic biome--TRUE	Pseudoalteromonas sp. SM9913	species	BacMap	low	nas	always	1	habitat	multistate-union	234831	aquatic biome
+s__290400	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__290400	aquatic biome--TRUE	Jannaschia sp. CCS1	species	ProTraits	medium	igc	always	1	habitat	multistate-union	290400	aquatic biome
+s__29292	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__29292	aquatic biome--TRUE	Pyrococcus abyssi	species	ProTraits	medium	igc	always	1	habitat	multistate-union	29292	aquatic biome
+s__309806	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__309806	aquatic biome--TRUE	Sulfurihydrogenibium azorense	species	ProTraits	medium	igc	always	1	habitat	multistate-union	309806	aquatic biome
+s__313603	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__313603	aquatic biome--TRUE	Maribacter sp. HTCC2170	species	BacMap	low	nas	always	1	habitat	multistate-union	313603	aquatic biome
+s__313625	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__313625	aquatic biome--TRUE	Synechococcus sp. BL107	species	ProTraits	medium	igc	always	1	habitat	multistate-union	313625	aquatic biome
+s__316278	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__316278	aquatic biome--TRUE	Synechococcus sp. RCC307	species	ProTraits	medium	igc	always	1	habitat	multistate-union	316278	aquatic biome
+s__316279	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__316279	aquatic biome--TRUE	Synechococcus sp. CC9902	species	ProTraits	medium	igc	always	1	habitat	multistate-union	316279	aquatic biome
+s__31899	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__31899	aquatic biome--TRUE	Caldicellulosiruptor bescii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	31899	aquatic biome
+s__32049	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__32049	aquatic biome--TRUE	Picosynechococcus sp. PCC 7002	species	BacMap	low	nas	always	1	habitat	multistate-union	32049	aquatic biome
+s__32051	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__32051	aquatic biome--TRUE	Synechococcus sp. WH 7803	species	ProTraits	medium	igc	always	1	habitat	multistate-union	32051	aquatic biome
+s__321327	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__321327	aquatic biome--TRUE	Synechococcus sp. JA-3-3Ab	species	ProTraits	medium	igc	always	1	habitat	multistate-union	321327	aquatic biome
+s__342949	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__342949	aquatic biome--TRUE	Pyrococcus sp. NA2	species	ProTraits	medium	igc	always	1	habitat	multistate-union	342949	aquatic biome
+s__349106	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__349106	aquatic biome--TRUE	Psychrobacter sp. PRwf-1	species	BacMap	low	nas	always	1	habitat	multistate-union	349106	aquatic biome
+s__351745	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__351745	aquatic biome--TRUE	Shewanella sp. W3-18-1	species	ProTraits	medium	igc	always	1	habitat	multistate-union	351745	aquatic biome
+s__359303	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__359303	aquatic biome--TRUE	Shewanella loihica	species	ProTraits	medium	igc	always	1	habitat	multistate-union	359303	aquatic biome
+s__368405	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__368405	aquatic biome--TRUE	Paraglaciecola chathamensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	368405	aquatic biome
+s__375286	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__375286	aquatic biome--TRUE	Janthinobacterium sp. Marseille	species	BacMap	low	nas	always	1	habitat	multistate-union	375286	aquatic biome
+s__380749	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__380749	aquatic biome--TRUE	Hydrogenobaculum sp. Y04AAS1	species	ProTraits	medium	igc	always	1	habitat	multistate-union	380749	aquatic biome
+s__395961	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__395961	aquatic biome--TRUE	Cyanothece sp. PCC 7425	species	ProTraits	medium	igc	always	1	habitat	multistate-union	395961	aquatic biome
+s__400668	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__400668	aquatic biome--TRUE	Marinomonas sp. MWYL1	species	BacMap	low	nas	always	1	habitat	multistate-union	400668	aquatic biome
+s__413888	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__413888	aquatic biome--TRUE	Caldicellulosiruptor hydrothermalis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	413888	aquatic biome
+s__413889	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__413889	aquatic biome--TRUE	Caldicellulosiruptor kronotskyensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	413889	aquatic biome
+s__443144	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__443144	aquatic biome--TRUE	Geobacter sp. M21	species	BacMap	low	nas	always	1	habitat	multistate-union	443144	aquatic biome
+s__458033	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__458033	aquatic biome--TRUE	Chloracidobacterium thermophilum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	458033	aquatic biome
+s__53953	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__53953	aquatic biome--TRUE	Pyrococcus horikoshii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	53953	aquatic biome
+s__54261	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__54261	aquatic biome--TRUE	Ferroglobus placidus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	54261	aquatic biome
+s__544556	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__544556	aquatic biome--TRUE	Geobacillus sp. Y412MC61	species	ProTraits	medium	igc	always	1	habitat	multistate-union	544556	aquatic biome
+s__55802	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__55802	aquatic biome--TRUE	Thermococcus barophilus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	55802	aquatic biome
+s__56636	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__56636	aquatic biome--TRUE	Aeropyrum pernix	species	ProTraits	medium	igc	always	1	habitat	multistate-union	56636	aquatic biome
+s__59931	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__59931	aquatic biome--TRUE	Synechococcus sp. WH 7805	species	ProTraits	medium	igc	always	1	habitat	multistate-union	59931	aquatic biome
+s__60481	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__60481	aquatic biome--TRUE	Shewanella sp. MR-7	species	ProTraits	medium	igc	always	1	habitat	multistate-union	60481	aquatic biome
+s__62322	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__62322	aquatic biome--TRUE	Shewanella baltica	species	ProTraits	medium	igc	always	1	habitat	multistate-union	62322	aquatic biome
+s__644281	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__644281	aquatic biome--TRUE	Methanocaldococcus sp. FS406-22	species	ProTraits	medium	igc	always	1	habitat	multistate-union	644281	aquatic biome
+s__64471	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__64471	aquatic biome--TRUE	Synechococcus sp. CC9311	species	ProTraits	medium	igc	always	1	habitat	multistate-union	64471	aquatic biome
+s__663	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__663	aquatic biome--TRUE	Vibrio alginolyticus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	663	aquatic biome
+s__670	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__670	aquatic biome--TRUE	Vibrio parahaemolyticus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	670	aquatic biome
+s__713887	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__713887	aquatic biome--TRUE	Candidatus Atelocyanobacterium thalassae	species	BacMap	low	nas	always	1	habitat	multistate-union	713887	aquatic biome
+s__717785	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__717785	aquatic biome--TRUE	Hyphomicrobium sp. MC1	species	BacMap	low	nas	always	1	habitat	multistate-union	717785	aquatic biome
+s__73913	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__73913	aquatic biome--TRUE	Methanocaldococcus vulcanius	species	ProTraits	medium	igc	always	1	habitat	multistate-union	73913	aquatic biome
+s__83171	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__83171	aquatic biome--TRUE	Methanocaldococcus fervens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	83171	aquatic biome
+s__84156	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__84156	aquatic biome--TRUE	Archaeoglobus profundus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	84156	aquatic biome
+s__84980	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__84980	aquatic biome--TRUE	Desulfotalea psychrophila	species	ProTraits	medium	igc	always	1	habitat	multistate-union	84980	aquatic biome
+s__85683	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__85683	aquatic biome--TRUE	Salisediminibacterium selenitireducens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	85683	aquatic biome
+s__94122	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__94122	aquatic biome--TRUE	Shewanella sp. ANA-3	species	ProTraits	medium	igc	always	1	habitat	multistate-union	94122	aquatic biome
+s__99007	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__99007	aquatic biome--TRUE	Pyrobaculum oguniense	species	ProTraits	medium	igc	always	1	habitat	multistate-union	99007	aquatic biome
+t__1140	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__1140	aquatic biome--TRUE	Synechococcus elongatus PCC 7942 = FACHB-805	strain	BacMap	low	nas	always	1	habitat	multistate-union	1140	aquatic biome
+t__123214	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__123214	aquatic biome--TRUE	Persephonella marina EX-H1	strain	BacMap	low	nas	always	1	habitat	multistate-union	123214	aquatic biome
+t__146891	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__146891	aquatic biome--TRUE	Prochlorococcus marinus str. AS9601	strain	BacMap	low	nas	always	1	habitat	multistate-union	146891	aquatic biome
+t__156889	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__156889	aquatic biome--TRUE	Magnetococcus marinus MC-1	strain	BacMap	low	nas	always	1	habitat	multistate-union	156889	aquatic biome
+t__158189	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__158189	aquatic biome--TRUE	Sphaerochaeta globosa str. Buddy	strain	BacMap	low	nas	always	1	habitat	multistate-union	158189	aquatic biome
+t__167539	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__167539	aquatic biome--TRUE	Prochlorococcus marinus subsp. marinus str. CCMP1375	strain	BacMap	low	nas	always	1	habitat	multistate-union	167539	aquatic biome
+t__167542	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__167542	aquatic biome--TRUE	Prochlorococcus marinus str. MIT 9515	strain	BacMap	low	nas	always	1	habitat	multistate-union	167542	aquatic biome
+t__167546	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__167546	aquatic biome--TRUE	Prochlorococcus marinus str. MIT 9301	strain	BacMap	low	nas	always	1	habitat	multistate-union	167546	aquatic biome
+t__167555	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__167555	aquatic biome--TRUE	Prochlorococcus marinus str. NATL1A	strain	BacMap	low	nas	always	1	habitat	multistate-union	167555	aquatic biome
+t__177416	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__177416	aquatic biome--TRUE	Francisella tularensis subsp. tularensis SCHU S4	strain	BacMap	low	nas	always	1	habitat	multistate-union	177416	aquatic biome
+t__1774373	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__1774373	aquatic biome--TRUE	Alteromonas mediterranea DE	strain	BacMap	low	nas	always	1	habitat	multistate-union	1774373	aquatic biome
+t__178306	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__178306	aquatic biome--TRUE	Pyrobaculum aerophilum str. IM2	strain	BacMap	low	nas	always	1	habitat	multistate-union	178306	aquatic biome
+t__186497	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__186497	aquatic biome--TRUE	Pyrococcus furiosus DSM 3638	strain	BacMap	low	nas	always	1	habitat	multistate-union	186497	aquatic biome
+t__187272	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__187272	aquatic biome--TRUE	Alkalilimnicola ehrlichii MLHE-1	strain	BacMap	low	nas	always	1	habitat	multistate-union	187272	aquatic biome
+t__188937	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__188937	aquatic biome--TRUE	Methanosarcina acetivorans C2A	strain	BacMap	low	nas	always	1	habitat	multistate-union	188937	aquatic biome
+t__190650	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__190650	aquatic biome--TRUE	Caulobacter vibrioides CB15	strain	BacMap	low	nas	always	1	habitat	multistate-union	190650	aquatic biome
+t__196600	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__196600	aquatic biome--TRUE	Vibrio vulnificus YJ016	strain	BacMap	low	nas	always	1	habitat	multistate-union	196600	aquatic biome
+t__203122	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__203122	aquatic biome--TRUE	Saccharophagus degradans 2-40	strain	BacMap	low	nas	always	1	habitat	multistate-union	203122	aquatic biome
+t__203124	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__203124	aquatic biome--TRUE	Trichodesmium erythraeum IMS101	strain	BacMap	low	nas	always	1	habitat	multistate-union	203124	aquatic biome
+t__204536	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__204536	aquatic biome--TRUE	Sulfurihydrogenibium azorense Az-Fu1	strain	BacMap	low	nas	always	1	habitat	multistate-union	204536	aquatic biome
+t__216432	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__216432	aquatic biome--TRUE	Croceibacter atlanticus HTCC2559	strain	BacMap	low	nas	always	1	habitat	multistate-union	216432	aquatic biome
+t__216895	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__216895	aquatic biome--TRUE	Vibrio vulnificus CMCP6	strain	BacMap	low	nas	always	1	habitat	multistate-union	216895	aquatic biome
+t__223926	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__223926	aquatic biome--TRUE	Vibrio parahaemolyticus RIMD 2210633	strain	BacMap	low	nas	always	1	habitat	multistate-union	223926	aquatic biome
+t__224325	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__224325	aquatic biome--TRUE	Archaeoglobus fulgidus DSM 4304	strain	BacMap	low	nas	always	1	habitat	multistate-union	224325	aquatic biome
+t__228405	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__228405	aquatic biome--TRUE	Hyphomonas neptunium ATCC 15444	strain	BacMap	low	nas	always	1	habitat	multistate-union	228405	aquatic biome
+t__235909	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__235909	aquatic biome--TRUE	Geobacillus kaustophilus HTA426	strain	BacMap	low	nas	always	1	habitat	multistate-union	235909	aquatic biome
+t__243090	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__243090	aquatic biome--TRUE	Rhodopirellula baltica SH 1	strain	BacMap	low	nas	always	1	habitat	multistate-union	243090	aquatic biome
+t__243232	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__243232	aquatic biome--TRUE	Methanocaldococcus jannaschii DSM 2661	strain	BacMap	low	nas	always	1	habitat	multistate-union	243232	aquatic biome
+t__243277	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__243277	aquatic biome--TRUE	Vibrio cholerae O1 biovar El Tor str. N16961	strain	BacMap	low	nas	always	1	habitat	multistate-union	243277	aquatic biome
+t__246194	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__246194	aquatic biome--TRUE	Carboxydothermus hydrogenoformans Z-2901	strain	BacMap	low	nas	always	1	habitat	multistate-union	246194	aquatic biome
+t__246200	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__246200	aquatic biome--TRUE	Ruegeria pomeroyi DSS-3	strain	BacMap	low	nas	always	1	habitat	multistate-union	246200	aquatic biome
+t__259564	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__259564	aquatic biome--TRUE	Methanococcoides burtonii DSM 6242	strain	BacMap	low	nas	always	1	habitat	multistate-union	259564	aquatic biome
+t__264732	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__264732	aquatic biome--TRUE	Moorella thermoacetica ATCC 39073	strain	BacMap	low	nas	always	1	habitat	multistate-union	264732	aquatic biome
+t__267377	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__267377	aquatic biome--TRUE	Methanococcus maripaludis S2	strain	BacMap	low	nas	always	1	habitat	multistate-union	267377	aquatic biome
+t__269084	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__269084	aquatic biome--TRUE	Synechococcus elongatus PCC 6301	strain	BacMap	low	nas	always	1	habitat	multistate-union	269084	aquatic biome
+t__269799	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__269799	aquatic biome--TRUE	Geobacter metallireducens GS-15	strain	BacMap	low	nas	always	1	habitat	multistate-union	269799	aquatic biome
+t__272569	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__272569	aquatic biome--TRUE	Haloarcula marismortui ATCC 43049	strain	BacMap	low	nas	always	1	habitat	multistate-union	272569	aquatic biome
+t__272844	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__272844	aquatic biome--TRUE	Pyrococcus abyssi GE5	strain	BacMap	low	nas	always	1	habitat	multistate-union	272844	aquatic biome
+t__290315	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__290315	aquatic biome--TRUE	Chlorobium limicola DSM 245	strain	BacMap	low	nas	always	1	habitat	multistate-union	290315	aquatic biome
+t__290317	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__290317	aquatic biome--TRUE	Chlorobium phaeobacteroides DSM 266	strain	BacMap	low	nas	always	1	habitat	multistate-union	290317	aquatic biome
+t__290318	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__290318	aquatic biome--TRUE	Chlorobium phaeovibrioides DSM 265	strain	BacMap	low	nas	always	1	habitat	multistate-union	290318	aquatic biome
+t__290512	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__290512	aquatic biome--TRUE	Prosthecochloris aestuarii DSM 271	strain	BacMap	low	nas	always	1	habitat	multistate-union	290512	aquatic biome
+t__309799	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__309799	aquatic biome--TRUE	Dictyoglomus thermophilum H-6-12	strain	BacMap	low	nas	always	1	habitat	multistate-union	309799	aquatic biome
+t__309800	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__309800	aquatic biome--TRUE	Haloferax volcanii DS2	strain	BacMap	low	nas	always	1	habitat	multistate-union	309800	aquatic biome
+t__311424	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__311424	aquatic biome--TRUE	Dehalococcoides mccartyi VS	strain	BacMap	low	nas	always	1	habitat	multistate-union	311424	aquatic biome
+t__312153	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__312153	aquatic biome--TRUE	Polynucleobacter asymbioticus QLW-P1DMWA-1	strain	BacMap	low	nas	always	1	habitat	multistate-union	312153	aquatic biome
+t__313596	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__313596	aquatic biome--TRUE	Robiginitalea biformata HTCC2501	strain	BacMap	low	nas	always	1	habitat	multistate-union	313596	aquatic biome
+t__314225	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__314225	aquatic biome--TRUE	Erythrobacter litoralis HTCC2594	strain	BacMap	low	nas	always	1	habitat	multistate-union	314225	aquatic biome
+t__314260	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__314260	aquatic biome--TRUE	Parvularcula bermudensis HTCC2503	strain	BacMap	low	nas	always	1	habitat	multistate-union	314260	aquatic biome
+t__316275	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__316275	aquatic biome--TRUE	Aliivibrio salmonicida LFI1238	strain	BacMap	low	nas	always	1	habitat	multistate-union	316275	aquatic biome
+t__317025	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__317025	aquatic biome--TRUE	Hydrogenovibrio crunogenus XCL-2	strain	BacMap	low	nas	always	1	habitat	multistate-union	317025	aquatic biome
+t__317655	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__317655	aquatic biome--TRUE	Sphingopyxis alaskensis RB2256	strain	BacMap	low	nas	always	1	habitat	multistate-union	317655	aquatic biome
+t__318161	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__318161	aquatic biome--TRUE	Shewanella denitrificans OS217	strain	BacMap	low	nas	always	1	habitat	multistate-union	318161	aquatic biome
+t__319795	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__319795	aquatic biome--TRUE	Deinococcus geothermalis DSM 11300	strain	BacMap	low	nas	always	1	habitat	multistate-union	319795	aquatic biome
+t__323261	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__323261	aquatic biome--TRUE	Nitrosococcus oceani ATCC 19707	strain	BacMap	low	nas	always	1	habitat	multistate-union	323261	aquatic biome
+t__325240	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__325240	aquatic biome--TRUE	Shewanella baltica OS155	strain	BacMap	low	nas	always	1	habitat	multistate-union	325240	aquatic biome
+t__326442	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__326442	aquatic biome--TRUE	Pseudoalteromonas translucida TAC125	strain	BacMap	low	nas	always	1	habitat	multistate-union	326442	aquatic biome
+t__329726	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__329726	aquatic biome--TRUE	Acaryochloris marina MBIC11017	strain	BacMap	low	nas	always	1	habitat	multistate-union	329726	aquatic biome
+t__331678	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__331678	aquatic biome--TRUE	Chlorobium phaeobacteroides BS1	strain	BacMap	low	nas	always	1	habitat	multistate-union	331678	aquatic biome
+t__335543	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__335543	aquatic biome--TRUE	Syntrophobacter fumaroxidans MPOB	strain	BacMap	low	nas	always	1	habitat	multistate-union	335543	aquatic biome
+t__335992	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__335992	aquatic biome--TRUE	Candidatus Pelagibacter ubique HTCC1062	strain	BacMap	low	nas	always	1	habitat	multistate-union	335992	aquatic biome
+t__338963	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__338963	aquatic biome--TRUE	Syntrophotalea carbinolica DSM 2380	strain	BacMap	low	nas	always	1	habitat	multistate-union	338963	aquatic biome
+t__340099	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__340099	aquatic biome--TRUE	Thermoanaerobacter pseudethanolicus ATCC 33223	strain	BacMap	low	nas	always	1	habitat	multistate-union	340099	aquatic biome
+t__340100	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__340100	aquatic biome--TRUE	Bordetella petrii DSM 12804	strain	BacMap	low	nas	always	1	habitat	multistate-union	340100	aquatic biome
+t__340102	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__340102	aquatic biome--TRUE	Pyrobaculum arsenaticum DSM 13514	strain	BacMap	low	nas	always	1	habitat	multistate-union	340102	aquatic biome
+t__340177	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__340177	aquatic biome--TRUE	Chlorobium chlorochromatii CaD3	strain	BacMap	low	nas	always	1	habitat	multistate-union	340177	aquatic biome
+t__342108	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__342108	aquatic biome--TRUE	Paramagnetospirillum magneticum AMB-1	strain	BacMap	low	nas	always	1	habitat	multistate-union	342108	aquatic biome
+t__345073	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__345073	aquatic biome--TRUE	Vibrio cholerae O395	strain	BacMap	low	nas	always	1	habitat	multistate-union	345073	aquatic biome
+t__348780	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__348780	aquatic biome--TRUE	Natronomonas pharaonis DSM 2160	strain	BacMap	low	nas	always	1	habitat	multistate-union	348780	aquatic biome
+t__349161	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__349161	aquatic biome--TRUE	Desulforamulus reducens MI-1	strain	BacMap	low	nas	always	1	habitat	multistate-union	349161	aquatic biome
+t__349521	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__349521	aquatic biome--TRUE	Hahella chejuensis KCTC 2396	strain	BacMap	low	nas	always	1	habitat	multistate-union	349521	aquatic biome
+t__350688	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__350688	aquatic biome--TRUE	Alkaliphilus oremlandii OhILAs	strain	BacMap	low	nas	always	1	habitat	multistate-union	350688	aquatic biome
+t__351348	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__351348	aquatic biome--TRUE	Marinobacter nauticus VT8	strain	BacMap	low	nas	always	1	habitat	multistate-union	351348	aquatic biome
+t__351607	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__351607	aquatic biome--TRUE	Acidothermus cellulolyticus 11B	strain	BacMap	low	nas	always	1	habitat	multistate-union	351607	aquatic biome
+t__357804	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__357804	aquatic biome--TRUE	Psychromonas ingrahamii 37	strain	BacMap	low	nas	always	1	habitat	multistate-union	357804	aquatic biome
+t__362976	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__362976	aquatic biome--TRUE	Haloquadratum walsbyi DSM 16790	strain	BacMap	low	nas	always	1	habitat	multistate-union	362976	aquatic biome
+t__365044	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__365044	aquatic biome--TRUE	Polaromonas naphthalenivorans CJ2	strain	BacMap	low	nas	always	1	habitat	multistate-union	365044	aquatic biome
+t__368407	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__368407	aquatic biome--TRUE	Methanoculleus marisnigri JR1	strain	BacMap	low	nas	always	1	habitat	multistate-union	368407	aquatic biome
+t__369723	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__369723	aquatic biome--TRUE	Salinispora tropica CNB-440	strain	BacMap	low	nas	always	1	habitat	multistate-union	369723	aquatic biome
+t__373903	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__373903	aquatic biome--TRUE	Halothermothrix orenii H 168	strain	BacMap	low	nas	always	1	habitat	multistate-union	373903	aquatic biome
+t__382245	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__382245	aquatic biome--TRUE	Aeromonas salmonicida subsp. salmonicida A449	strain	BacMap	low	nas	always	1	habitat	multistate-union	382245	aquatic biome
+t__383372	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__383372	aquatic biome--TRUE	Roseiflexus castenholzii DSM 13941	strain	BacMap	low	nas	always	1	habitat	multistate-union	383372	aquatic biome
+t__390874	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__390874	aquatic biome--TRUE	Thermotoga petrophila RKU-1	strain	BacMap	low	nas	always	1	habitat	multistate-union	390874	aquatic biome
+t__391037	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__391037	aquatic biome--TRUE	Salinispora arenicola CNS-205	strain	BacMap	low	nas	always	1	habitat	multistate-union	391037	aquatic biome
+t__391595	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__391595	aquatic biome--TRUE	Roseobacter litoralis Och 149	strain	BacMap	low	nas	always	1	habitat	multistate-union	391595	aquatic biome
+t__391612	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__391612	aquatic biome--TRUE	Crocosphaera chwakensis CCY0110	strain	ProTraits	medium	igc	always	1	habitat	multistate-union	391612	aquatic biome
+t__391623	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__391623	aquatic biome--TRUE	Thermococcus barophilus MP	strain	BacMap	low	nas	always	1	habitat	multistate-union	391623	aquatic biome
+t__392499	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__392499	aquatic biome--TRUE	Rhizorhabdus wittichii RW1	strain	BacMap	low	nas	always	1	habitat	multistate-union	392499	aquatic biome
+t__393115	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__393115	aquatic biome--TRUE	Francisella tularensis subsp. tularensis FSC198	strain	BacMap	low	nas	always	1	habitat	multistate-union	393115	aquatic biome
+t__393595	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__393595	aquatic biome--TRUE	Alcanivorax borkumensis SK2	strain	BacMap	low	nas	always	1	habitat	multistate-union	393595	aquatic biome
+t__394221	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__394221	aquatic biome--TRUE	Maricaulis maris MCS10	strain	BacMap	low	nas	always	1	habitat	multistate-union	394221	aquatic biome
+t__395494	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__395494	aquatic biome--TRUE	Gallionella capsiferriformans ES-2	strain	BacMap	low	nas	always	1	habitat	multistate-union	395494	aquatic biome
+t__395495	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__395495	aquatic biome--TRUE	Leptothrix cholodnii SP-6	strain	BacMap	low	nas	always	1	habitat	multistate-union	395495	aquatic biome
+t__395962	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__395962	aquatic biome--TRUE	Rippkaea orientalis PCC 8802	strain	ProTraits	medium	igc	always	1	habitat	multistate-union	395962	aquatic biome
+t__399599	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__399599	aquatic biome--TRUE	Shewanella baltica OS195	strain	BacMap	low	nas	always	1	habitat	multistate-union	399599	aquatic biome
+t__402612	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__402612	aquatic biome--TRUE	Flavobacterium psychrophilum JIP02/86	strain	BacMap	low	nas	always	1	habitat	multistate-union	402612	aquatic biome
+t__402880	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__402880	aquatic biome--TRUE	Methanococcus maripaludis C5	strain	BacMap	low	nas	always	1	habitat	multistate-union	402880	aquatic biome
+t__402882	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__402882	aquatic biome--TRUE	Shewanella baltica OS185	strain	BacMap	low	nas	always	1	habitat	multistate-union	402882	aquatic biome
+t__405416	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__405416	aquatic biome--TRUE	Acinetobacter baumannii ACICU	strain	BacMap	low	nas	always	1	habitat	multistate-union	405416	aquatic biome
+t__406327	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__406327	aquatic biome--TRUE	Methanococcus vannielii SB	strain	BacMap	low	nas	always	1	habitat	multistate-union	406327	aquatic biome
+t__407976	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__407976	aquatic biome--TRUE	Shewanella baltica OS223	strain	BacMap	low	nas	always	1	habitat	multistate-union	407976	aquatic biome
+t__410358	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__410358	aquatic biome--TRUE	Methanocorpusculum labreanum Z	strain	BacMap	low	nas	always	1	habitat	multistate-union	410358	aquatic biome
+t__41431	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__41431	aquatic biome--TRUE	Rippkaea orientalis PCC 8801	strain	ProTraits	medium	igc	always	1	habitat	multistate-union	41431	aquatic biome
+t__414684	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__414684	aquatic biome--TRUE	Rhodospirillum centenum SW	strain	BacMap	low	nas	always	1	habitat	multistate-union	414684	aquatic biome
+t__415426	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__415426	aquatic biome--TRUE	Hyperthermus butylicus DSM 5456	strain	BacMap	low	nas	always	1	habitat	multistate-union	415426	aquatic biome
+t__416348	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__416348	aquatic biome--TRUE	Halorubrum lacusprofundi ATCC 49239	strain	BacMap	low	nas	always	1	habitat	multistate-union	416348	aquatic biome
+t__419665	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__419665	aquatic biome--TRUE	Methanococcus aeolicus Nankai-3	strain	BacMap	low	nas	always	1	habitat	multistate-union	419665	aquatic biome
+t__420662	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__420662	aquatic biome--TRUE	Methylibium petroleiphilum PM1	strain	BacMap	low	nas	always	1	habitat	multistate-union	420662	aquatic biome
+t__425104	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__425104	aquatic biome--TRUE	Shewanella sediminis HAW-EB3	strain	BacMap	low	nas	always	1	habitat	multistate-union	425104	aquatic biome
+t__426368	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__426368	aquatic biome--TRUE	Methanococcus maripaludis C7	strain	BacMap	low	nas	always	1	habitat	multistate-union	426368	aquatic biome
+t__431943	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__431943	aquatic biome--TRUE	Clostridium kluyveri DSM 555	strain	BacMap	low	nas	always	1	habitat	multistate-union	431943	aquatic biome
+t__436308	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__436308	aquatic biome--TRUE	Nitrosopumilus maritimus SCM1	strain	BacMap	low	nas	always	1	habitat	multistate-union	436308	aquatic biome
+t__439235	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__439235	aquatic biome--TRUE	Desulfatibacillum alkenivorans AK-01	strain	BacMap	low	nas	always	1	habitat	multistate-union	439235	aquatic biome
+t__439481	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__439481	aquatic biome--TRUE	Aciduliprofundum boonei T469	strain	BacMap	low	nas	always	1	habitat	multistate-union	439481	aquatic biome
+t__43989	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__43989	aquatic biome--TRUE	Crocosphaera subtropica ATCC 51142	strain	BacMap	low	nas	always	1	habitat	multistate-union	43989	aquatic biome
+t__444158	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__444158	aquatic biome--TRUE	Methanococcus maripaludis C6	strain	BacMap	low	nas	always	1	habitat	multistate-union	444158	aquatic biome
+t__449447	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__449447	aquatic biome--TRUE	Microcystis aeruginosa NIES-843	strain	BacMap	low	nas	always	1	habitat	multistate-union	449447	aquatic biome
+t__452637	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__452637	aquatic biome--TRUE	Opitutus terrae PB90-1	strain	BacMap	low	nas	always	1	habitat	multistate-union	452637	aquatic biome
+t__453591	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__453591	aquatic biome--TRUE	Ignicoccus hospitalis KIN4/I	strain	BacMap	low	nas	always	1	habitat	multistate-union	453591	aquatic biome
+t__456320	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__456320	aquatic biome--TRUE	Methanococcus voltae A3	strain	BacMap	low	nas	always	1	habitat	multistate-union	456320	aquatic biome
+t__483219	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__483219	aquatic biome--TRUE	Myxococcus fulvus HW-1	strain	BacMap	low	nas	always	1	habitat	multistate-union	483219	aquatic biome
+t__488538	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__488538	aquatic biome--TRUE	Candidatus Puniceispirillum marinum IMCC1322	strain	BacMap	low	nas	always	1	habitat	multistate-union	488538	aquatic biome
+t__490899	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__490899	aquatic biome--TRUE	Desulfurococcus amylolyticus 1221n	strain	BacMap	low	nas	always	1	habitat	multistate-union	490899	aquatic biome
+t__497965	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__497965	aquatic biome--TRUE	Gloeothece verrucosa PCC 7822	strain	ProTraits	medium	igc	always	1	habitat	multistate-union	497965	aquatic biome
+t__502025	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__502025	aquatic biome--TRUE	Haliangium ochraceum DSM 14365	strain	BacMap	low	nas	always	1	habitat	multistate-union	502025	aquatic biome
+t__509170	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__509170	aquatic biome--TRUE	Acinetobacter baumannii SDF	strain	BacMap	low	nas	always	1	habitat	multistate-union	509170	aquatic biome
+t__509173	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__509173	aquatic biome--TRUE	Acinetobacter baumannii AYE	strain	BacMap	low	nas	always	1	habitat	multistate-union	509173	aquatic biome
+t__509193	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__509193	aquatic biome--TRUE	Thermoanaerobacter brockii subsp. finnii Ako-1	strain	BacMap	low	nas	always	1	habitat	multistate-union	509193	aquatic biome
+t__517417	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__517417	aquatic biome--TRUE	Chlorobaculum parvum NCIB 8327	strain	BacMap	low	nas	always	1	habitat	multistate-union	517417	aquatic biome
+t__517418	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__517418	aquatic biome--TRUE	Chloroherpeton thalassium ATCC 35110	strain	BacMap	low	nas	always	1	habitat	multistate-union	517418	aquatic biome
+t__521045	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__521045	aquatic biome--TRUE	Kosmotoga olearia TBF 19.5.1	strain	BacMap	low	nas	always	1	habitat	multistate-union	521045	aquatic biome
+t__521674	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__521674	aquatic biome--TRUE	Planctopirus limnophila DSM 3776	strain	BacMap	low	nas	always	1	habitat	multistate-union	521674	aquatic biome
+t__522772	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__522772	aquatic biome--TRUE	Denitrovibrio acetiphilus DSM 12809	strain	BacMap	low	nas	always	1	habitat	multistate-union	522772	aquatic biome
+t__523791	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__523791	aquatic biome--TRUE	Kangiella koreensis DSM 16069	strain	BacMap	low	nas	always	1	habitat	multistate-union	523791	aquatic biome
+t__525898	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__525898	aquatic biome--TRUE	Sulfurospirillum deleyianum DSM 6946	strain	BacMap	low	nas	always	1	habitat	multistate-union	525898	aquatic biome
+t__530564	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__530564	aquatic biome--TRUE	Pirellula staleyi DSM 6068	strain	BacMap	low	nas	always	1	habitat	multistate-union	530564	aquatic biome
+t__535289	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__535289	aquatic biome--TRUE	[Acidovorax] ebreus TPSY	strain	BacMap	low	nas	always	1	habitat	multistate-union	535289	aquatic biome
+t__550540	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__550540	aquatic biome--TRUE	Ferrimonas balearica DSM 9799	strain	BacMap	low	nas	always	1	habitat	multistate-union	550540	aquatic biome
+t__565050	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__565050	aquatic biome--TRUE	Caulobacter vibrioides NA1000	strain	BacMap	low	nas	always	1	habitat	multistate-union	565050	aquatic biome
+t__572477	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__572477	aquatic biome--TRUE	Allochromatium vinosum DSM 180	strain	BacMap	low	nas	always	1	habitat	multistate-union	572477	aquatic biome
+t__572544	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__572544	aquatic biome--TRUE	Ilyobacter polytropus DSM 2926	strain	BacMap	low	nas	always	1	habitat	multistate-union	572544	aquatic biome
+t__572547	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__572547	aquatic biome--TRUE	Aminobacterium colombiense DSM 12261	strain	BacMap	low	nas	always	1	habitat	multistate-union	572547	aquatic biome
+t__573065	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__573065	aquatic biome--TRUE	Asticcacaulis excentricus CB 48	strain	BacMap	low	nas	always	1	habitat	multistate-union	573065	aquatic biome
+t__575788	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__575788	aquatic biome--TRUE	Vibrio atlanticus LGP32	strain	BacMap	low	nas	always	1	habitat	multistate-union	575788	aquatic biome
+t__577650	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__577650	aquatic biome--TRUE	Desulfobulbus propionicus DSM 2032	strain	BacMap	low	nas	always	1	habitat	multistate-union	577650	aquatic biome
+t__580332	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__580332	aquatic biome--TRUE	Sideroxydans lithotrophicus ES-1	strain	BacMap	low	nas	always	1	habitat	multistate-union	580332	aquatic biome
+t__582402	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__582402	aquatic biome--TRUE	Hirschia baltica ATCC 49814	strain	BacMap	low	nas	always	1	habitat	multistate-union	582402	aquatic biome
+t__582744	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__582744	aquatic biome--TRUE	Methylovorus glucosotrophus SIP3-4	strain	BacMap	low	nas	always	1	habitat	multistate-union	582744	aquatic biome
+t__582899	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__582899	aquatic biome--TRUE	Hyphomicrobium denitrificans ATCC 51888	strain	BacMap	low	nas	always	1	habitat	multistate-union	582899	aquatic biome
+t__583345	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__583345	aquatic biome--TRUE	Methylotenera mobilis JLW8	strain	BacMap	low	nas	always	1	habitat	multistate-union	583345	aquatic biome
+t__583346	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__583346	aquatic biome--TRUE	Clostridium kluyveri NBRC 12016	strain	BacMap	low	nas	always	1	habitat	multistate-union	583346	aquatic biome
+t__583355	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__583355	aquatic biome--TRUE	Coraliomargarita akajimensis DSM 45221	strain	BacMap	low	nas	always	1	habitat	multistate-union	583355	aquatic biome
+t__583356	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__583356	aquatic biome--TRUE	Ignisphaera aggregans DSM 17230	strain	BacMap	low	nas	always	1	habitat	multistate-union	583356	aquatic biome
+t__593588	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__593588	aquatic biome--TRUE	Vibrio cholerae MJ-1236	strain	BacMap	low	nas	always	1	habitat	multistate-union	593588	aquatic biome
+t__595494	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__595494	aquatic biome--TRUE	Tolumonas auensis DSM 9187	strain	BacMap	low	nas	always	1	habitat	multistate-union	595494	aquatic biome
+t__596153	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__596153	aquatic biome--TRUE	Alicycliphilus denitrificans BC	strain	BacMap	low	nas	always	1	habitat	multistate-union	596153	aquatic biome
+t__59919	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__59919	aquatic biome--TRUE	Prochlorococcus marinus subsp. pastoris str. CCMP1986	strain	BacMap	low	nas	always	1	habitat	multistate-union	59919	aquatic biome
+t__59920	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__59920	aquatic biome--TRUE	Prochlorococcus marinus str. NATL2A	strain	BacMap	low	nas	always	1	habitat	multistate-union	59920	aquatic biome
+t__59922	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__59922	aquatic biome--TRUE	Prochlorococcus marinus str. MIT 9303	strain	BacMap	low	nas	always	1	habitat	multistate-union	59922	aquatic biome
+t__633145	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__633145	aquatic biome--TRUE	Dehalococcoides mccartyi GT	strain	BacMap	low	nas	always	1	habitat	multistate-union	633145	aquatic biome
+t__634503	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__634503	aquatic biome--TRUE	Edwardsiella ictaluri 93-146	strain	BacMap	low	nas	always	1	habitat	multistate-union	634503	aquatic biome
+t__645991	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__645991	aquatic biome--TRUE	Syntrophobotulus glycolicus DSM 8271	strain	BacMap	low	nas	always	1	habitat	multistate-union	645991	aquatic biome
+t__65393	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__65393	aquatic biome--TRUE	Gloeothece citriformis PCC 7424	strain	ProTraits	medium	igc	always	1	habitat	multistate-union	65393	aquatic biome
+t__667014	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__667014	aquatic biome--TRUE	Thermodesulfatator indicus DSM 15286	strain	BacMap	low	nas	always	1	habitat	multistate-union	667014	aquatic biome
+t__679926	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__679926	aquatic biome--TRUE	Methanolacinia petrolearia DSM 11571	strain	BacMap	low	nas	always	1	habitat	multistate-union	679926	aquatic biome
+t__688270	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__688270	aquatic biome--TRUE	Cellulophaga algicola DSM 14237	strain	BacMap	low	nas	always	1	habitat	multistate-union	688270	aquatic biome
+t__693661	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__693661	aquatic biome--TRUE	Archaeoglobus veneficus SNP6	strain	BacMap	low	nas	always	1	habitat	multistate-union	693661	aquatic biome
+t__70601	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__70601	aquatic biome--TRUE	Pyrococcus horikoshii OT3	strain	BacMap	low	nas	always	1	habitat	multistate-union	70601	aquatic biome
+t__74546	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__74546	aquatic biome--TRUE	Prochlorococcus marinus str. MIT 9312	strain	BacMap	low	nas	always	1	habitat	multistate-union	74546	aquatic biome
+t__74547	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__74547	aquatic biome--TRUE	Prochlorococcus marinus str. MIT 9313	strain	BacMap	low	nas	always	1	habitat	multistate-union	74547	aquatic biome
+t__75379	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__75379	aquatic biome--TRUE	Thiomonas intermedia K12	strain	BacMap	low	nas	always	1	habitat	multistate-union	75379	aquatic biome
+t__755732	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__755732	aquatic biome--TRUE	Fluviicola taffensis DSM 16823	strain	BacMap	low	nas	always	1	habitat	multistate-union	755732	aquatic biome
+t__760192	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__760192	aquatic biome--TRUE	Haliscomenobacter hydrossis DSM 1100	strain	BacMap	low	nas	always	1	habitat	multistate-union	760192	aquatic biome
+t__761193	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__761193	aquatic biome--TRUE	Runella slithyformis DSM 19594	strain	BacMap	low	nas	always	1	habitat	multistate-union	761193	aquatic biome
+t__84588	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__84588	aquatic biome--TRUE	Parasynechococcus marenigrum WH 8102	strain	ProTraits	medium	igc	always	1	habitat	multistate-union	84588	aquatic biome
+t__860575	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__860575	aquatic biome--TRUE	Crocosphaera subtropica ATCC 51472	strain	ProTraits	medium	igc	always	1	habitat	multistate-union	860575	aquatic biome
+t__868864	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__868864	aquatic biome--TRUE	Desulfurobacterium thermolithotrophum DSM 11699	strain	BacMap	low	nas	always	1	habitat	multistate-union	868864	aquatic biome
+t__869210	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__869210	aquatic biome--TRUE	Marinithermus hydrothermalis DSM 14884	strain	BacMap	low	nas	always	1	habitat	multistate-union	869210	aquatic biome
+t__93059	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__93059	aquatic biome--TRUE	Prochlorococcus marinus str. MIT 9211	strain	BacMap	low	nas	always	1	habitat	multistate-union	93059	aquatic biome
+t__93060	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__93060	aquatic biome--TRUE	Prochlorococcus marinus str. MIT 9215	strain	BacMap	low	nas	always	1	habitat	multistate-union	93060	aquatic biome
+t__96561	aquatic biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__96561	aquatic biome--TRUE	Desulfosudis oleivorans Hxd3	strain	BacMap	low	nas	always	1	habitat	multistate-union	96561	aquatic biome

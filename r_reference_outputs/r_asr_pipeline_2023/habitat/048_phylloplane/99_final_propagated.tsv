@@ -1,0 +1,27 @@
+NCBI_ID	Attribute	Taxon_name	Rank	Attribute_source	Confidence_in_curation	Evidence	Frequency	Score	Attribute_group	Attribute_type	taxid	Attribute_group_2
+s__251701	phylloplane--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__251701	phylloplane--TRUE	Pseudomonas syringae group genomosp. 3	species	ProTraits	medium	igc	always	1	habitat	multistate-union	251701	phylloplane
+s__29438	phylloplane--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__29438	phylloplane--TRUE	Pseudomonas savastanoi	species	ProTraits	medium	igc	always	1	habitat	multistate-union	29438	phylloplane
+s__29447	phylloplane--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__29447	phylloplane--TRUE	Xanthomonas albilineans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	29447	phylloplane
+s__317	phylloplane--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__317	phylloplane--TRUE	Pseudomonas syringae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	317	phylloplane
+s__33069	phylloplane--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__33069	phylloplane--TRUE	Pseudomonas viridiflava	species	ProTraits	medium	igc	always	1	habitat	multistate-union	33069	phylloplane
+s__339	phylloplane--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__339	phylloplane--TRUE	Xanthomonas campestris	species	ProTraits	medium	igc	always	1	habitat	multistate-union	339	phylloplane
+s__346	phylloplane--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__346	phylloplane--TRUE	Xanthomonas citri	species	ProTraits	medium	igc	always	1	habitat	multistate-union	346	phylloplane
+s__347	phylloplane--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__347	phylloplane--TRUE	Xanthomonas oryzae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	347	phylloplane
+s__366650	phylloplane--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__366650	phylloplane--TRUE	Xanthomonas alfalfae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	366650	phylloplane
+s__456327	phylloplane--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__456327	phylloplane--TRUE	Xanthomonas euvesicatoria	species	ProTraits	medium	igc	always	1	habitat	multistate-union	456327	phylloplane
+s__48664	phylloplane--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__48664	phylloplane--TRUE	Xanthomonas fragariae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	48664	phylloplane
+s__53413	phylloplane--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__53413	phylloplane--TRUE	Xanthomonas axonopodis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	53413	phylloplane
+s__80869	phylloplane--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__80869	phylloplane--TRUE	Paracidovorax citrulli	species	ProTraits	medium	igc	always	1	habitat	multistate-union	80869	phylloplane

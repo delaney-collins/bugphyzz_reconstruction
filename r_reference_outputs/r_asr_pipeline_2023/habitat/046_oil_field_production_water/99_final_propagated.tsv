@@ -1,0 +1,5 @@
+NCBI_ID	Attribute	Taxon_name	Rank	Attribute_source	Confidence_in_curation	Evidence	Frequency	Score	Attribute_group	Attribute_type	taxid	Attribute_group_2
+s__742013	oil field production water--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__742013	oil field production water--TRUE	Delftia sp. Cs1-4	species	BacMap	low	nas	always	1	habitat	multistate-union	742013	oil field production water
+t__697281	oil field production water--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__697281	oil field production water--TRUE	Mahella australiensis 50-1 BON	strain	BacMap	low	nas	always	1	habitat	multistate-union	697281	oil field production water

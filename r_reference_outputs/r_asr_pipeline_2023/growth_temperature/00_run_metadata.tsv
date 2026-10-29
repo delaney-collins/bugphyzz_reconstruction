@@ -1,0 +1,6 @@
+field	value
+trait	growth_temperature
+input_file	C:/Users/delan/OneDrive/Desktop/bugphyzz_package/src/bugphyzz/prepared/growth_temperature_05_prepared.tsv
+attribute_group	growth temperature
+configured_type	range
+input_rows	21304

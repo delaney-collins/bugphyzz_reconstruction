@@ -1,0 +1,161 @@
+NCBI_ID	Attribute	Taxon_name	Rank	Attribute_source	Confidence_in_curation	Evidence	Frequency	Score	Attribute_group	Attribute_type	taxid	Attribute_group_2
+s__105841	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__105841	large intestine--TRUE	Anaerostipes caccae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	105841	large intestine
+s__106588	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__106588	large intestine--TRUE	Pseudoflavonifractor capillosus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	106588	large intestine
+s__1078091	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1078091	large intestine--TRUE	Coprococcus sp. HPP0048	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1078091	large intestine
+s__1232452	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1232452	large intestine--TRUE	Clostridiales bacterium VE202-14	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1232452	large intestine
+s__1235790	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1235790	large intestine--TRUE	Eubacterium sp. 14-2	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1235790	large intestine
+s__1235792	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1235792	large intestine--TRUE	Lachnospiraceae bacterium M18-1	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1235792	large intestine
+s__1512	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1512	large intestine--TRUE	[Clostridium] symbiosum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1512	large intestine
+s__1522	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1522	large intestine--TRUE	[Clostridium] innocuum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1522	large intestine
+s__154046	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__154046	large intestine--TRUE	Hungatella hathewayi	species	ProTraits	medium	igc	always	1	habitat	multistate-union	154046	large intestine
+s__1547	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1547	large intestine--TRUE	Thomasclavelia ramosa	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1547	large intestine
+s__1680	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1680	large intestine--TRUE	Bifidobacterium adolescentis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1680	large intestine
+s__1683	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1683	large intestine--TRUE	Bifidobacterium angulatum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1683	large intestine
+s__1685	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1685	large intestine--TRUE	Bifidobacterium breve	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1685	large intestine
+s__1689	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1689	large intestine--TRUE	Bifidobacterium dentium	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1689	large intestine
+s__195	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__195	large intestine--TRUE	Campylobacter coli	species	ProTraits	medium	igc	always	1	habitat	multistate-union	195	large intestine
+s__208479	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__208479	large intestine--TRUE	Enterocloster bolteae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	208479	large intestine
+s__246787	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__246787	large intestine--TRUE	Bacteroides cellulosilyticus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	246787	large intestine
+s__28111	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__28111	large intestine--TRUE	Bacteroides eggerthii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	28111	large intestine
+s__28116	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__28116	large intestine--TRUE	Bacteroides ovatus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	28116	large intestine
+s__290053	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__290053	large intestine--TRUE	Bacteroides helcogenes	species	ProTraits	medium	igc	always	1	habitat	multistate-union	290053	large intestine
+s__291644	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__291644	large intestine--TRUE	Bacteroides salyersiae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	291644	large intestine
+s__301301	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__301301	large intestine--TRUE	Roseburia hominis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	301301	large intestine
+s__310297	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__310297	large intestine--TRUE	Phocaeicola plebeius	species	ProTraits	medium	igc	always	1	habitat	multistate-union	310297	large intestine
+s__310298	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__310298	large intestine--TRUE	Phocaeicola coprocola	species	ProTraits	medium	igc	always	1	habitat	multistate-union	310298	large intestine
+s__329854	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__329854	large intestine--TRUE	Bacteroides intestinalis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	329854	large intestine
+s__33043	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__33043	large intestine--TRUE	Coprococcus eutactus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	33043	large intestine
+s__33905	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__33905	large intestine--TRUE	Bifidobacterium thermophilum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	33905	large intestine
+s__357276	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__357276	large intestine--TRUE	Phocaeicola dorei	species	ProTraits	medium	igc	always	1	habitat	multistate-union	357276	large intestine
+s__371601	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__371601	large intestine--TRUE	Bacteroides xylanisolvens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	371601	large intestine
+s__376805	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__376805	large intestine--TRUE	Phocaeicola salanitronis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	376805	large intestine
+s__384638	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__384638	large intestine--TRUE	[Bacteroides] pectinophilus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	384638	large intestine
+s__39485	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__39485	large intestine--TRUE	Lachnospira eligens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	39485	large intestine
+s__39486	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__39486	large intestine--TRUE	Dorea formicigenerans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	39486	large intestine
+s__39491	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__39491	large intestine--TRUE	Agathobacter rectalis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	39491	large intestine
+s__397287	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__397287	large intestine--TRUE	Lachnospiraceae bacterium 28-4	species	ProTraits	medium	igc	always	1	habitat	multistate-union	397287	large intestine
+s__397290	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__397290	large intestine--TRUE	Lachnospiraceae bacterium A2	species	ProTraits	medium	igc	always	1	habitat	multistate-union	397290	large intestine
+s__399742	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__399742	large intestine--TRUE	Enterobacter sp. 638	species	ProTraits	medium	igc	always	1	habitat	multistate-union	399742	large intestine
+s__410072	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__410072	large intestine--TRUE	Allocoprococcus comes	species	ProTraits	medium	igc	always	1	habitat	multistate-union	410072	large intestine
+s__411486	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__411486	large intestine--TRUE	Clostridium sp. M62/1	species	ProTraits	medium	igc	always	1	habitat	multistate-union	411486	large intestine
+s__457387	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__457387	large intestine--TRUE	Bacteroides sp. 1_1_30	species	ProTraits	medium	igc	always	1	habitat	multistate-union	457387	large intestine
+s__457390	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__457390	large intestine--TRUE	Bacteroides sp. 3_1_23	species	ProTraits	medium	igc	always	1	habitat	multistate-union	457390	large intestine
+s__457391	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__457391	large intestine--TRUE	Bacteroides sp. 3_1_33FAA	species	ProTraits	medium	igc	always	1	habitat	multistate-union	457391	large intestine
+s__457392	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__457392	large intestine--TRUE	Bacteroides sp. 3_2_5	species	ProTraits	medium	igc	always	1	habitat	multistate-union	457392	large intestine
+s__457394	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__457394	large intestine--TRUE	Bacteroides sp. 4_3_47FAA	species	ProTraits	medium	igc	always	1	habitat	multistate-union	457394	large intestine
+s__457395	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__457395	large intestine--TRUE	Bacteroides sp. 9_1_42FAA	species	ProTraits	medium	igc	always	1	habitat	multistate-union	457395	large intestine
+s__457422	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__457422	large intestine--TRUE	Erysipelotrichaceae bacterium 2_2_44A	species	ProTraits	medium	igc	always	1	habitat	multistate-union	457422	large intestine
+s__46228	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__46228	large intestine--TRUE	[Ruminococcus] lactaris	species	ProTraits	medium	igc	always	1	habitat	multistate-union	46228	large intestine
+s__46503	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__46503	large intestine--TRUE	Parabacteroides merdae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	46503	large intestine
+s__46506	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__46506	large intestine--TRUE	Bacteroides stercoris	species	ProTraits	medium	igc	always	1	habitat	multistate-union	46506	large intestine
+s__469585	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__469585	large intestine--TRUE	Bacteroides sp. 1_1_14	species	ProTraits	medium	igc	always	1	habitat	multistate-union	469585	large intestine
+s__469590	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__469590	large intestine--TRUE	Bacteroides sp. 2_2_4	species	ProTraits	medium	igc	always	1	habitat	multistate-union	469590	large intestine
+s__469591	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__469591	large intestine--TRUE	Parabacteroides sp. 20_3	species	ProTraits	medium	igc	always	1	habitat	multistate-union	469591	large intestine
+s__469593	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__469593	large intestine--TRUE	Bacteroides sp. 3_1_40A	species	ProTraits	medium	igc	always	1	habitat	multistate-union	469593	large intestine
+s__469614	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__469614	large intestine--TRUE	Erysipelotrichaceae bacterium 6_1_45	species	ProTraits	medium	igc	always	1	habitat	multistate-union	469614	large intestine
+s__545	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__545	large intestine--TRUE	Citrobacter koseri	species	ProTraits	medium	igc	always	1	habitat	multistate-union	545	large intestine
+s__552396	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__552396	large intestine--TRUE	Erysipelotrichaceae bacterium 5_2_54FAA	species	ProTraits	medium	igc	always	1	habitat	multistate-union	552396	large intestine
+s__552398	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__552398	large intestine--TRUE	Ruminococcaceae bacterium D16	species	ProTraits	medium	igc	always	1	habitat	multistate-union	552398	large intestine
+s__556258	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__556258	large intestine--TRUE	Bacteroides sp. D1	species	ProTraits	medium	igc	always	1	habitat	multistate-union	556258	large intestine
+s__61645	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__61645	large intestine--TRUE	Enterobacter asburiae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	61645	large intestine
+s__626929	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__626929	large intestine--TRUE	Bacteroides clarus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	626929	large intestine
+s__626930	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__626930	large intestine--TRUE	Bacteroides fluxus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	626930	large intestine
+s__626931	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__626931	large intestine--TRUE	Bacteroides oleiciplenus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	626931	large intestine
+s__658082	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__658082	large intestine--TRUE	Lachnospiraceae bacterium 2_1_58FAA	species	ProTraits	medium	igc	always	1	habitat	multistate-union	658082	large intestine
+s__658083	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__658083	large intestine--TRUE	Lachnospiraceae bacterium 6_1_63FAA	species	ProTraits	medium	igc	always	1	habitat	multistate-union	658083	large intestine
+s__658086	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__658086	large intestine--TRUE	Lachnospiraceae bacterium 3_1_57FAA_CT1	species	ProTraits	medium	igc	always	1	habitat	multistate-union	658086	large intestine
+s__658088	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__658088	large intestine--TRUE	Lachnospiraceae bacterium 9_1_43BFAA	species	ProTraits	medium	igc	always	1	habitat	multistate-union	658088	large intestine
+s__658657	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__658657	large intestine--TRUE	Erysipelotrichaceae bacterium 21_3	species	ProTraits	medium	igc	always	1	habitat	multistate-union	658657	large intestine
+s__658659	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__658659	large intestine--TRUE	Erysipelotrichaceae bacterium 3_1_53	species	ProTraits	medium	igc	always	1	habitat	multistate-union	658659	large intestine
+s__665939	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__665939	large intestine--TRUE	Campylobacter sp. 10_1_50	species	ProTraits	medium	igc	always	1	habitat	multistate-union	665939	large intestine
+s__665951	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__665951	large intestine--TRUE	Lachnospiraceae bacterium 8_1_57FAA	species	ProTraits	medium	igc	always	1	habitat	multistate-union	665951	large intestine
+s__665956	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__665956	large intestine--TRUE	Subdoligranulum sp. 4_3_54A2FAA	species	ProTraits	medium	igc	always	1	habitat	multistate-union	665956	large intestine
+s__817	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__817	large intestine--TRUE	Bacteroides fragilis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	817	large intestine
+s__820	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__820	large intestine--TRUE	Bacteroides uniformis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	820	large intestine
+s__821	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__821	large intestine--TRUE	Phocaeicola vulgatus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	821	large intestine
+s__823	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__823	large intestine--TRUE	Parabacteroides distasonis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	823	large intestine
+s__84030	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__84030	large intestine--TRUE	Lacrimispora saccharolytica	species	ProTraits	medium	igc	always	1	habitat	multistate-union	84030	large intestine
+s__853	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__853	large intestine--TRUE	Faecalibacterium prausnitzii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	853	large intestine
+s__88431	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__88431	large intestine--TRUE	Dorea longicatena	species	ProTraits	medium	igc	always	1	habitat	multistate-union	88431	large intestine
+s__908340	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__908340	large intestine--TRUE	Clostridium sp. HGF2	species	ProTraits	medium	igc	always	1	habitat	multistate-union	908340	large intestine
+s__97253	large intestine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__97253	large intestine--TRUE	Eubacterium plexicaudatum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	97253	large intestine

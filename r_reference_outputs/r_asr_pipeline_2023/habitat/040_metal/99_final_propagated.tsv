@@ -1,0 +1,7 @@
+NCBI_ID	Attribute	Taxon_name	Rank	Attribute_source	Confidence_in_curation	Evidence	Frequency	Score	Attribute_group	Attribute_type	taxid	Attribute_group_2
+s__1076523	metal--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1076523	metal--TRUE	Rhodanobacter sp. OR87	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1076523	metal
+s__1076524	metal--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1076524	metal--TRUE	Rhodanobacter sp. OR92	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1076524	metal
+s__666685	metal--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__666685	metal--TRUE	Rhodanobacter denitrificans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	666685	metal

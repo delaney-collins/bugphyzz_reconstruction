@@ -1,0 +1,179 @@
+NCBI_ID	Attribute	Taxon_name	Rank	Attribute_source	Confidence_in_curation	Evidence	Frequency	Score	Attribute_group	Attribute_type	taxid	Attribute_group_2
+s__1006005	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1006005	environmental system--TRUE	Metallosphaera cuprina	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1006005	environmental system
+s__1008460	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1008460	environmental system--TRUE	Pyrococcus yayanosii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1008460	environmental system
+s__1042877	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1042877	environmental system--TRUE	Thermococcus sp. 4557	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1042877	environmental system
+s__107709	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__107709	environmental system--TRUE	Opitutus terrae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	107709	environmental system
+s__108150	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__108150	environmental system--TRUE	Thermoanaerobacter italicus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	108150	environmental system
+s__110662	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__110662	environmental system--TRUE	Synechococcus sp. CC9605	species	ProTraits	medium	igc	always	1	habitat	multistate-union	110662	environmental system
+s__1115834	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1115834	environmental system--TRUE	Methylophilus sp. 42	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1115834	environmental system
+s__1183377	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1183377	environmental system--TRUE	Pyrococcus sp. ST04	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1183377	environmental system
+s__1200300	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1200300	environmental system--TRUE	Thermogladius calderae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1200300	environmental system
+s__121277	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__121277	environmental system--TRUE	Pyrobaculum arsenaticum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	121277	environmental system
+s__1233873	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1233873	environmental system--TRUE	Geobacillus sp. GHH01	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1233873	environmental system
+s__1295609	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1295609	environmental system--TRUE	Thermodesulfobacterium geofontis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1295609	environmental system
+s__13769	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__13769	environmental system--TRUE	Natrialba magadii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	13769	environmental system
+s__13773	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__13773	environmental system--TRUE	Pyrobaculum aerophilum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	13773	environmental system
+s__1426	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1426	environmental system--TRUE	Parageobacillus thermoglucosidasius	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1426	environmental system
+s__1462	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1462	environmental system--TRUE	Geobacillus kaustophilus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1462	environmental system
+s__155863	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__155863	environmental system--TRUE	Methanothermococcus okinawensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	155863	environmental system
+s__184117	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__184117	environmental system--TRUE	Thermoproteus uzoniensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	184117	environmental system
+s__187878	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__187878	environmental system--TRUE	Thermococcus gammatolerans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	187878	environmental system
+s__192073	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__192073	environmental system--TRUE	Shewanella denitrificans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	192073	environmental system
+s__202747	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__202747	environmental system--TRUE	Sulfurimonas autotrophica	species	ProTraits	medium	igc	always	1	habitat	multistate-union	202747	environmental system
+s__2187	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__2187	environmental system--TRUE	Methanococcus vannielii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2187	environmental system
+s__2190	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__2190	environmental system--TRUE	Methanocaldococcus jannaschii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2190	environmental system
+s__2238	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__2238	environmental system--TRUE	Haloarcula marismortui	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2238	environmental system
+s__2242	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__2242	environmental system--TRUE	Halobacterium salinarum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2242	environmental system
+s__2247	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__2247	environmental system--TRUE	Halorubrum lacusprofundi	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2247	environmental system
+s__2252	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__2252	environmental system--TRUE	Haloferax mediterranei	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2252	environmental system
+s__2280	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__2280	environmental system--TRUE	Staphylothermus marinus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2280	environmental system
+s__2285	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__2285	environmental system--TRUE	Sulfolobus acidocaldarius	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2285	environmental system
+s__2303	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__2303	environmental system--TRUE	Thermoplasma acidophilum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2303	environmental system
+s__24	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__24	environmental system--TRUE	Shewanella putrefaciens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	24	environmental system
+s__242703	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__242703	environmental system--TRUE	Acidilobus saccharovorans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	242703	environmental system
+s__29292	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__29292	environmental system--TRUE	Pyrococcus abyssi	species	ProTraits	medium	igc	always	1	habitat	multistate-union	29292	environmental system
+s__29323	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__29323	environmental system--TRUE	Thermoanaerobacter brockii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	29323	environmental system
+s__29549	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__29549	environmental system--TRUE	Rhodothermus marinus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	29549	environmental system
+s__309806	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__309806	environmental system--TRUE	Sulfurihydrogenibium azorense	species	ProTraits	medium	igc	always	1	habitat	multistate-union	309806	environmental system
+s__311400	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__311400	environmental system--TRUE	Thermococcus kodakarensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	311400	environmental system
+s__316279	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__316279	environmental system--TRUE	Synechococcus sp. CC9902	species	ProTraits	medium	igc	always	1	habitat	multistate-union	316279	environmental system
+s__32049	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__32049	environmental system--TRUE	Picosynechococcus sp. PCC 7002	species	ProTraits	medium	igc	always	1	habitat	multistate-union	32049	environmental system
+s__32051	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__32051	environmental system--TRUE	Synechococcus sp. WH 7803	species	ProTraits	medium	igc	always	1	habitat	multistate-union	32051	environmental system
+s__321327	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__321327	environmental system--TRUE	Synechococcus sp. JA-3-3Ab	species	ProTraits	medium	igc	always	1	habitat	multistate-union	321327	environmental system
+s__321332	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__321332	environmental system--TRUE	Synechococcus sp. JA-2-3B'a(2-13)	species	ProTraits	medium	igc	always	1	habitat	multistate-union	321332	environmental system
+s__33941	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__33941	environmental system--TRUE	Geobacillus thermoleovorans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	33941	environmental system
+s__342948	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__342948	environmental system--TRUE	Thermococcus onnurineus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	342948	environmental system
+s__351745	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__351745	environmental system--TRUE	Shewanella sp. W3-18-1	species	ProTraits	medium	igc	always	1	habitat	multistate-union	351745	environmental system
+s__35554	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__35554	environmental system--TRUE	Geobacter sulfurreducens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	35554	environmental system
+s__359303	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__359303	environmental system--TRUE	Shewanella loihica	species	ProTraits	medium	igc	always	1	habitat	multistate-union	359303	environmental system
+s__360911	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__360911	environmental system--TRUE	Exiguobacterium sp. AT1b	species	ProTraits	medium	igc	always	1	habitat	multistate-union	360911	environmental system
+s__379064	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__379064	environmental system--TRUE	Cyanobacterium aponinum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	379064	environmental system
+s__380749	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__380749	environmental system--TRUE	Hydrogenobaculum sp. Y04AAS1	species	ProTraits	medium	igc	always	1	habitat	multistate-union	380749	environmental system
+s__385025	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__385025	environmental system--TRUE	Cycloclasticus sp. P1	species	ProTraits	medium	igc	always	1	habitat	multistate-union	385025	environmental system
+s__387343	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__387343	environmental system--TRUE	Halopiger xanaduensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	387343	environmental system
+s__39152	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__39152	environmental system--TRUE	Methanococcus maripaludis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	39152	environmental system
+s__413888	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__413888	environmental system--TRUE	Caldicellulosiruptor hydrothermalis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	413888	environmental system
+s__413889	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__413889	environmental system--TRUE	Caldicellulosiruptor kronotskyensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	413889	environmental system
+s__416273	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__416273	environmental system--TRUE	Natronomonas moolapensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	416273	environmental system
+s__436114	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__436114	environmental system--TRUE	Sulfurihydrogenibium sp. YO3AOP1	species	ProTraits	medium	igc	always	1	habitat	multistate-union	436114	environmental system
+s__44001	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__44001	environmental system--TRUE	Caldicellulosiruptor saccharolyticus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	44001	environmental system
+s__471223	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__471223	environmental system--TRUE	Geobacillus sp. WCH70	species	ProTraits	medium	igc	always	1	habitat	multistate-union	471223	environmental system
+s__496866	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__496866	environmental system--TRUE	Thermoanaerobacter pseudethanolicus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	496866	environmental system
+s__50339	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__50339	environmental system--TRUE	Thermoplasma volcanium	species	ProTraits	medium	igc	always	1	habitat	multistate-union	50339	environmental system
+s__53953	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__53953	environmental system--TRUE	Pyrococcus horikoshii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	53953	environmental system
+s__54254	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__54254	environmental system--TRUE	Thermosphaera aggregans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	54254	environmental system
+s__54261	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__54261	environmental system--TRUE	Ferroglobus placidus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	54261	environmental system
+s__544556	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__544556	environmental system--TRUE	Geobacillus sp. Y412MC61	species	ProTraits	medium	igc	always	1	habitat	multistate-union	544556	environmental system
+s__547146	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__547146	environmental system--TRUE	Hydrogenobaculum sp. SN	species	ProTraits	medium	igc	always	1	habitat	multistate-union	547146	environmental system
+s__550542	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__550542	environmental system--TRUE	Geobacillus sp. Y412MC52	species	ProTraits	medium	igc	always	1	habitat	multistate-union	550542	environmental system
+s__55205	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__55205	environmental system--TRUE	Caldicellulosiruptor owensensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	55205	environmental system
+s__55802	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__55802	environmental system--TRUE	Thermococcus barophilus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	55802	environmental system
+s__56636	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__56636	environmental system--TRUE	Aeropyrum pernix	species	ProTraits	medium	igc	always	1	habitat	multistate-union	56636	environmental system
+s__573062	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__573062	environmental system--TRUE	Thermoanaerobacter sp. X513	species	ProTraits	medium	igc	always	1	habitat	multistate-union	573062	environmental system
+s__588857	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__588857	environmental system--TRUE	Thermoanaerobacter sp. X561	species	ProTraits	medium	igc	always	1	habitat	multistate-union	588857	environmental system
+s__59930	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__59930	environmental system--TRUE	Cyanobium gracile	species	ProTraits	medium	igc	always	1	habitat	multistate-union	59930	environmental system
+s__60847	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__60847	environmental system--TRUE	Halogeometricum borinquense	species	ProTraits	medium	igc	always	1	habitat	multistate-union	60847	environmental system
+s__62322	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__62322	environmental system--TRUE	Shewanella baltica	species	ProTraits	medium	igc	always	1	habitat	multistate-union	62322	environmental system
+s__63363	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__63363	environmental system--TRUE	Aquifex aeolicus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	63363	environmental system
+s__693075	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__693075	environmental system--TRUE	Caldisericum exile	species	ProTraits	medium	igc	always	1	habitat	multistate-union	693075	environmental system
+s__70771	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__70771	environmental system--TRUE	Pyrobaculum neutrophilum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	70771	environmental system
+s__70863	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__70863	environmental system--TRUE	Shewanella oneidensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	70863	environmental system
+s__79209	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__79209	environmental system--TRUE	Desulfosporosinus meridiei	species	ProTraits	medium	igc	always	1	habitat	multistate-union	79209	environmental system
+s__83984	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__83984	environmental system--TRUE	Methanocorpusculum labreanum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	83984	environmental system
+s__84159	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__84159	environmental system--TRUE	Paramagnetospirillum magneticum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	84159	environmental system
+s__885581	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__885581	environmental system--TRUE	Desulfosporosinus acidiphilus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	885581	environmental system
+s__894	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__894	environmental system--TRUE	Desulfobulbus propionicus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	894	environmental system
+s__94122	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__94122	environmental system--TRUE	Shewanella sp. ANA-3	species	ProTraits	medium	igc	always	1	habitat	multistate-union	94122	environmental system
+s__985052	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__985052	environmental system--TRUE	Vulcanisaeta moutnovskia	species	ProTraits	medium	igc	always	1	habitat	multistate-union	985052	environmental system
+t__395962	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__395962	environmental system--TRUE	Rippkaea orientalis PCC 8802	strain	ProTraits	medium	igc	always	1	habitat	multistate-union	395962	environmental system
+t__480224	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__480224	environmental system--TRUE	Chloroflexus aurantiacus Y-400-fl	strain	ProTraits	medium	igc	always	1	habitat	multistate-union	480224	environmental system
+t__84588	environmental system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__84588	environmental system--TRUE	Parasynechococcus marenigrum WH 8102	strain	ProTraits	medium	igc	always	1	habitat	multistate-union	84588	environmental system

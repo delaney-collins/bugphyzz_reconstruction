@@ -1,0 +1,2 @@
+trait	annotated_tips	total_tips	coverage_percent	rounding	asr_run
+008_colonization_of_host	284	23501	1	floor	TRUE

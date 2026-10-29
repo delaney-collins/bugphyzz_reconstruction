@@ -1,0 +1,113 @@
+NCBI_ID	Attribute	Taxon_name	Rank	Attribute_source	Confidence_in_curation	Evidence	Frequency	Score	Attribute_group	Attribute_type	taxid	Attribute_group_2
+s__1038867	root nodule--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1038867	root nodule--TRUE	Bradyrhizobium sp. WSM3983	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1038867	root nodule
+s__1040986	root nodule--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1040986	root nodule--TRUE	Mesorhizobium sp. WSM3224	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1040986	root nodule
+s__1040989	root nodule--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1040989	root nodule--TRUE	Bradyrhizobium sp. ARR65	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1040989	root nodule
+s__1057002	root nodule--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1057002	root nodule--TRUE	Ensifer sp. BR816	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1057002	root nodule
+s__1079800	root nodule--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1079800	root nodule--TRUE	Rhizobium mesoamericanum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1079800	root nodule
+s__110321	root nodule--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__110321	root nodule--TRUE	Sinorhizobium medicae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	110321	root nodule
+s__1120045	root nodule--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1120045	root nodule--TRUE	Rhizobium grahamii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1120045	root nodule
+s__1132836	root nodule--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1132836	root nodule--TRUE	Rhizobium sp. CCGE 510	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1132836	root nodule
+s__113395	root nodule--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__113395	root nodule--TRUE	Bradyrhizobium sp. Tv2a-2	species	ProTraits	medium	igc	always	1	habitat	multistate-union	113395	root nodule
+s__1144306	root nodule--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1144306	root nodule--TRUE	Rhizobium sp. AP16	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1144306	root nodule
+s__1144312	root nodule--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1144312	root nodule--TRUE	Rhizobium sp. CF122	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1144312	root nodule
+s__1144314	root nodule--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1144314	root nodule--TRUE	Rhizobium sp. CF142	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1144314	root nodule
+s__1144708	root nodule--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1144708	root nodule--TRUE	Pseudomonas sp. GM41(2012)	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1144708	root nodule
+s__114615	root nodule--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__114615	root nodule--TRUE	Bradyrhizobium sp. ORS 278	species	ProTraits	medium	igc	always	1	habitat	multistate-union	114615	root nodule
+s__115808	root nodule--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__115808	root nodule--TRUE	Bradyrhizobium sp. ORS 285	species	ProTraits	medium	igc	always	1	habitat	multistate-union	115808	root nodule
+s__1167635	root nodule--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1167635	root nodule--TRUE	Agrobacterium sp. 224MFTsu3.1	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1167635	root nodule
+s__1176649	root nodule--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1176649	root nodule--TRUE	Agrobacterium fabrum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1176649	root nodule
+s__1188263	root nodule--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1188263	root nodule--TRUE	Bradyrhizobium sp. WSM2254	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1188263	root nodule
+s__1230476	root nodule--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1230476	root nodule--TRUE	Bradyrhizobium sp. DFCI-1	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1230476	root nodule
+s__1297570	root nodule--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1297570	root nodule--TRUE	Mesorhizobium sp. STM 4661	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1297570	root nodule
+s__1298858	root nodule--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1298858	root nodule--TRUE	Mesorhizobium sp. URHA0056	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1298858	root nodule
+s__1298867	root nodule--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1298867	root nodule--TRUE	Bradyrhizobium sp. URHA0002	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1298867	root nodule
+s__1353277	root nodule--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1353277	root nodule--TRUE	Martinezella freirei	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1353277	root nodule
+s__1355477	root nodule--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1355477	root nodule--TRUE	Bradyrhizobium diazoefficiens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1355477	root nodule
+s__136996	root nodule--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__136996	root nodule--TRUE	Bradyrhizobium lupini	species	ProTraits	medium	igc	always	1	habitat	multistate-union	136996	root nodule
+s__147266	root nodule--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__147266	root nodule--TRUE	Agrobacterium albertimagni	species	ProTraits	medium	igc	always	1	habitat	multistate-union	147266	root nodule
+s__172088	root nodule--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__172088	root nodule--TRUE	Bradyrhizobium sp. th-b2	species	ProTraits	medium	igc	always	1	habitat	multistate-union	172088	root nodule
+s__189753	root nodule--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__189753	root nodule--TRUE	Bradyrhizobium sp. Ec3.3	species	ProTraits	medium	igc	always	1	habitat	multistate-union	189753	root nodule
+s__196490	root nodule--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__196490	root nodule--TRUE	Bradyrhizobium sp. Ai1a-2	species	ProTraits	medium	igc	always	1	habitat	multistate-union	196490	root nodule
+s__288000	root nodule--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__288000	root nodule--TRUE	Bradyrhizobium sp. BTAi1	species	ProTraits	medium	igc	always	1	habitat	multistate-union	288000	root nodule
+s__29448	root nodule--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__29448	root nodule--TRUE	Bradyrhizobium elkanii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	29448	root nodule
+s__29449	root nodule--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__29449	root nodule--TRUE	Rhizobium etli	species	ProTraits	medium	igc	always	1	habitat	multistate-union	29449	root nodule
+s__318996	root nodule--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__318996	root nodule--TRUE	Bradyrhizobium sp. WSM1743	species	ProTraits	medium	igc	always	1	habitat	multistate-union	318996	root nodule
+s__319003	root nodule--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__319003	root nodule--TRUE	Bradyrhizobium sp. WSM1253	species	ProTraits	medium	igc	always	1	habitat	multistate-union	319003	root nodule
+s__319017	root nodule--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__319017	root nodule--TRUE	Bradyrhizobium sp. WSM471	species	ProTraits	medium	igc	always	1	habitat	multistate-union	319017	root nodule
+s__358	root nodule--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__358	root nodule--TRUE	Agrobacterium tumefaciens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	358	root nodule
+s__373	root nodule--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__373	root nodule--TRUE	Gillisella vitis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	373	root nodule
+s__375	root nodule--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__375	root nodule--TRUE	Bradyrhizobium japonicum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	375	root nodule
+s__380	root nodule--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__380	root nodule--TRUE	Sinorhizobium fredii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	380	root nodule
+s__381	root nodule--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__381	root nodule--TRUE	Mesorhizobium loti	species	ProTraits	medium	igc	always	1	habitat	multistate-union	381	root nodule
+s__382	root nodule--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__382	root nodule--TRUE	Sinorhizobium meliloti	species	ProTraits	medium	igc	always	1	habitat	multistate-union	382	root nodule
+s__384	root nodule--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__384	root nodule--TRUE	Rhizobium leguminosarum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	384	root nodule
+s__39645	root nodule--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__39645	root nodule--TRUE	Mesorhizobium ciceri	species	ProTraits	medium	igc	always	1	habitat	multistate-union	39645	root nodule
+s__398	root nodule--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__398	root nodule--TRUE	Martinezella tropici	species	ProTraits	medium	igc	always	1	habitat	multistate-union	398	root nodule
+s__44255	root nodule--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__44255	root nodule--TRUE	Bradyrhizobium oligotrophicum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	44255	root nodule
+s__443598	root nodule--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__443598	root nodule--TRUE	Bradyrhizobium sp. Cp5.3	species	ProTraits	medium	igc	always	1	habitat	multistate-union	443598	root nodule
+s__489722	root nodule--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__489722	root nodule--TRUE	Mesorhizobium metallidurans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	489722	root nodule
+s__508869	root nodule--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__508869	root nodule--TRUE	Bradyrhizobium genosp. SA-4	species	ProTraits	medium	igc	always	1	habitat	multistate-union	508869	root nodule
+s__536018	root nodule--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__536018	root nodule--TRUE	Mesorhizobium australicum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	536018	root nodule
+s__551947	root nodule--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__551947	root nodule--TRUE	Bradyrhizobium sp. STM 3843	species	ProTraits	medium	igc	always	1	habitat	multistate-union	551947	root nodule
+s__57676	root nodule--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__57676	root nodule--TRUE	Rhizobium mongolense	species	ProTraits	medium	igc	always	1	habitat	multistate-union	57676	root nodule
+s__587753	root nodule--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__587753	root nodule--TRUE	Pseudomonas chlororaphis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	587753	root nodule
+s__593909	root nodule--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__593909	root nodule--TRUE	Mesorhizobium opportunistum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	593909	root nodule
+s__71433	root nodule--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__71433	root nodule--TRUE	Mesorhizobium amorphae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	71433	root nodule
+s__76745	root nodule--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__76745	root nodule--TRUE	Sinorhizobium arboris	species	ProTraits	medium	igc	always	1	habitat	multistate-union	76745	root nodule
+s__82789	root nodule--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__82789	root nodule--TRUE	Agrobacterium sp. ATCC 31749	species	ProTraits	medium	igc	always	1	habitat	multistate-union	82789	root nodule

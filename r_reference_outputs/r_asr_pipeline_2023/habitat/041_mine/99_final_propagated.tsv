@@ -1,0 +1,15 @@
+NCBI_ID	Attribute	Taxon_name	Rank	Attribute_source	Confidence_in_curation	Evidence	Frequency	Score	Attribute_group	Attribute_type	taxid	Attribute_group_2
+s__160808	mine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__160808	mine--TRUE	Acidithiobacillus ferrivorans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	160808	mine
+s__225194	mine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__225194	mine--TRUE	Citrifermentans bemidjiense	species	ProTraits	medium	igc	always	1	habitat	multistate-union	225194	mine
+s__524	mine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__524	mine--TRUE	Acidiphilium cryptum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	524	mine
+s__60035	mine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__60035	mine--TRUE	Citrifermentans bremense	species	ProTraits	medium	igc	always	1	habitat	multistate-union	60035	mine
+s__62140	mine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__62140	mine--TRUE	Acidiphilium multivorum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	62140	mine
+s__920	mine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__920	mine--TRUE	Acidithiobacillus ferrooxidans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	920	mine
+s__926	mine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__926	mine--TRUE	Thiomonas intermedia	species	ProTraits	medium	igc	always	1	habitat	multistate-union	926	mine

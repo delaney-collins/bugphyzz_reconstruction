@@ -1,0 +1,47 @@
+NCBI_ID	Attribute	Taxon_name	Rank	Attribute_source	Confidence_in_curation	Evidence	Frequency	Score	Attribute_group	Attribute_type	taxid	Attribute_group_2
+s__2190	hot spring--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__2190	hot spring--TRUE	Methanocaldococcus jannaschii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2190	hot spring
+s__274	hot spring--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__274	hot spring--TRUE	Thermus thermophilus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	274	hot spring
+s__31899	hot spring--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__31899	hot spring--TRUE	Caldicellulosiruptor bescii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	31899	hot spring
+s__399726	hot spring--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__399726	hot spring--TRUE	Thermoanaerobacter sp. X514	species	BacMap	low	nas	always	1	habitat	multistate-union	399726	hot spring
+s__413888	hot spring--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__413888	hot spring--TRUE	Caldicellulosiruptor hydrothermalis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	413888	hot spring
+s__413889	hot spring--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__413889	hot spring--TRUE	Caldicellulosiruptor kronotskyensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	413889	hot spring
+s__44001	hot spring--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__44001	hot spring--TRUE	Caldicellulosiruptor saccharolyticus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	44001	hot spring
+s__55205	hot spring--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__55205	hot spring--TRUE	Caldicellulosiruptor owensensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	55205	hot spring
+s__56957	hot spring--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__56957	hot spring--TRUE	Thermus oshimai	species	ProTraits	medium	igc	always	1	habitat	multistate-union	56957	hot spring
+t__1006006	hot spring--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__1006006	hot spring--TRUE	Metallosphaera cuprina Ar-4	strain	BacMap	low	nas	always	1	habitat	multistate-union	1006006	hot spring
+t__439386	hot spring--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__439386	hot spring--TRUE	Saccharolobus islandicus Y.G.57.14	strain	BacMap	low	nas	always	1	habitat	multistate-union	439386	hot spring
+t__604354	hot spring--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__604354	hot spring--TRUE	Thermococcus sibiricus MM 739	strain	BacMap	low	nas	always	1	habitat	multistate-union	604354	hot spring
+t__632348	hot spring--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__632348	hot spring--TRUE	Caldicellulosiruptor kronotskyensis 2002	strain	BacMap	low	nas	always	1	habitat	multistate-union	632348	hot spring
+t__632516	hot spring--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__632516	hot spring--TRUE	Caldicellulosiruptor acetigenus 6A	strain	BacMap	low	nas	always	1	habitat	multistate-union	632516	hot spring
+t__633148	hot spring--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__633148	hot spring--TRUE	Thermosphaera aggregans DSM 11486	strain	BacMap	low	nas	always	1	habitat	multistate-union	633148	hot spring
+t__638303	hot spring--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__638303	hot spring--TRUE	Thermocrinis albus DSM 14484	strain	BacMap	low	nas	always	1	habitat	multistate-union	638303	hot spring
+t__649638	hot spring--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__649638	hot spring--TRUE	Truepera radiovictrix DSM 17093	strain	BacMap	low	nas	always	1	habitat	multistate-union	649638	hot spring
+t__665571	hot spring--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__665571	hot spring--TRUE	Winmispira thermophila DSM 6192	strain	BacMap	low	nas	always	1	habitat	multistate-union	665571	hot spring
+t__666510	hot spring--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__666510	hot spring--TRUE	Acidilobus saccharovorans 345-15	strain	BacMap	low	nas	always	1	habitat	multistate-union	666510	hot spring
+t__697303	hot spring--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__697303	hot spring--TRUE	Thermoanaerobacter wiegelii Rt8.B1	strain	BacMap	low	nas	always	1	habitat	multistate-union	697303	hot spring
+t__744872	hot spring--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__744872	hot spring--TRUE	Gracilinema caldarium DSM 7334	strain	BacMap	low	nas	always	1	habitat	multistate-union	744872	hot spring
+t__747365	hot spring--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__747365	hot spring--TRUE	Thermodesulfobium narugense DSM 14796	strain	BacMap	low	nas	always	1	habitat	multistate-union	747365	hot spring
+t__762570	hot spring--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__762570	hot spring--TRUE	Rhodothermus marinus SG0.5JP17-172	strain	BacMap	low	nas	always	1	habitat	multistate-union	762570	hot spring

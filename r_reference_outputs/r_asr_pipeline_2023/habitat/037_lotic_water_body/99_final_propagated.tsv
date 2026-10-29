@@ -1,0 +1,5 @@
+NCBI_ID	Attribute	Taxon_name	Rank	Attribute_source	Confidence_in_curation	Evidence	Frequency	Score	Attribute_group	Attribute_type	taxid	Attribute_group_2
+s__1131703	lotic water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1131703	lotic water body--TRUE	Sphaerochaeta globosa	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1131703	lotic water body
+s__1131707	lotic water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1131707	lotic water body--TRUE	Sphaerochaeta pleomorpha	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1131707	lotic water body

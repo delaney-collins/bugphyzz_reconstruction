@@ -1,0 +1,7 @@
+tip_label	Attribute	Score
+Shigella_flexneri-_-X96963--_ATCC_29903_LTP__T	animal--FALSE	0
+Shigella_flexneri-_-X96963--_ATCC_29903_LTP__T	animal--TRUE	1
+Shigella_sonnei-_-FR870445--_CECT_4887_T	animal--FALSE	0
+Shigella_sonnei-_-FR870445--_CECT_4887_T	animal--TRUE	1
+Shigella_boydii-_-HF558388--_P288_T	animal--FALSE	0
+Shigella_boydii-_-HF558388--_P288_T	animal--TRUE	1

@@ -1,0 +1,5 @@
+NCBI_ID	Attribute	Taxon_name	Rank	Attribute_source	Confidence_in_curation	Evidence	Frequency	Score	Attribute_group	Attribute_type	taxid	Attribute_group_2
+s__475088	wetland--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__475088	wetland--TRUE	Methanosphaerula palustris	species	ProTraits	medium	igc	always	1	habitat	multistate-union	475088	wetland
+s__868131	wetland--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__868131	wetland--TRUE	Methanobacterium paludis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	868131	wetland

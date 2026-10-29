@@ -1,0 +1,948 @@
+NCBI_ID	Attribute	Taxon_name	Rank	Attribute_source	Confidence_in_curation	Evidence	Frequency	Score	Attribute_group	Attribute_type	taxid	Attribute_group_2
+s__100053	colonization of host--TRUE	Leptospira alexanderi	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	100053	colonization of host
+s__100886	colonization of host--TRUE	Catenibacterium mitsuokai	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	100886	colonization of host
+s__101689	colonization of host--TRUE	Phycicoccus elongatus	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	101689	colonization of host
+s__1017	colonization of host--TRUE	Capnocytophaga gingivalis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	1017	colonization of host
+s__1019	colonization of host--TRUE	Capnocytophaga sputigena	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	1019	colonization of host
+s__102684	colonization of host--TRUE	Streptococcus infantarius	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	102684	colonization of host
+s__102886	colonization of host--TRUE	Streptococcus didelphis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	102886	colonization of host
+s__1034	colonization of host--TRUE	Afipia clevelandensis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	1034	colonization of host
+s__1035	colonization of host--TRUE	Afipia felis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	1035	colonization of host
+s__103618	colonization of host--TRUE	Gleimia coleocanis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	103618	colonization of host
+s__103731	colonization of host--TRUE	Saccharothrix espanaensis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	103731	colonization of host
+s__104628	colonization of host--TRUE	Helicobacter suis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	104628	colonization of host
+s__105841	colonization of host--TRUE	Anaerostipes caccae	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	105841	colonization of host
+s__106648	colonization of host--TRUE	Acinetobacter bereziniae	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	106648	colonization of host
+s__1078471	colonization of host--TRUE	Serinicoccus profundi	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	1078471	colonization of host
+s__1079994	colonization of host--TRUE	Leucobacter chromiiresistens	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	1079994	colonization of host
+s__1080712	colonization of host--TRUE	Methanomassiliicoccus luminyensis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	1080712	colonization of host
+s__108981	colonization of host--TRUE	Acinetobacter schindleri	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	108981	colonization of host
+s__11	colonization of host--TRUE	Cellulomonas gilvus	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	11	colonization of host
+s__111105	colonization of host--TRUE	Porphyromonas gulae	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	111105	colonization of host
+s__1111135	colonization of host--TRUE	Coriobacteriaceae bacterium BV3Ac1	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	1111135	colonization of host
+s__111504	colonization of host--TRUE	Bartonella birtlesii	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	111504	colonization of host
+s__111564	colonization of host--TRUE	Kineosphaera limosa	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	111564	colonization of host
+s__1121358	colonization of host--TRUE	Corynebacterium doosanense	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	1121358	colonization of host
+s__1121721	colonization of host--TRUE	Jongsikchunia kroppenstedtii	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	1121721	colonization of host
+s__1121832	colonization of host--TRUE	Fodinicurvata sediminis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	1121832	colonization of host
+s__1121960	colonization of host--TRUE	Vreelandella zhanjiangensis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	1121960	colonization of host
+s__114615	colonization of host--TRUE	Bradyrhizobium sp. ORS 278	species	BacMap	low	nas	always	1	habitat	multistate-union	114615	colonization of host
+s__114652	colonization of host--TRUE	Streptococcus orisratti	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	114652	colonization of host
+s__1148157	colonization of host--TRUE	Acinetobacter oleivorans	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	1148157	colonization of host
+s__1175452	colonization of host--TRUE	Peptoniphilus rhinitidis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	1175452	colonization of host
+s__1231337	colonization of host--TRUE	Schleiferilactobacillus shenzhenensis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	1231337	colonization of host
+s__124252	colonization of host--TRUE	Nocardiopsis halotolerans	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	124252	colonization of host
+s__124285	colonization of host--TRUE	Nocardiopsis xinjiangensis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	124285	colonization of host
+s__1246458	colonization of host--TRUE	Nocardiopsis potens	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	1246458	colonization of host
+s__1254	colonization of host--TRUE	Pediococcus acidilactici	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	1254	colonization of host
+s__1260	colonization of host--TRUE	Finegoldia magna	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	1260	colonization of host
+s__1261	colonization of host--TRUE	Peptostreptococcus anaerobius	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	1261	colonization of host
+s__1268254	colonization of host--TRUE	Peptoniphilus timonensis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	1268254	colonization of host
+s__1276	colonization of host--TRUE	Kytococcus sedentarius	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	1276	colonization of host
+s__1288	colonization of host--TRUE	Staphylococcus xylosus	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	1288	colonization of host
+s__1302	colonization of host--TRUE	Streptococcus gordonii	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	1302	colonization of host
+s__1308	colonization of host--TRUE	Streptococcus thermophilus	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	1308	colonization of host
+s__131081	colonization of host--TRUE	Corynebacterium capitovis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	131081	colonization of host
+s__1322	colonization of host--TRUE	Blautia hansenii	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	1322	colonization of host
+s__1328	colonization of host--TRUE	Streptococcus anginosus	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	1328	colonization of host
+s__1334	colonization of host--TRUE	Streptococcus dysgalactiae	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	1334	colonization of host
+s__1335	colonization of host--TRUE	Streptococcus equinus	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	1335	colonization of host
+s__133926	colonization of host--TRUE	Olsenella uli	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	133926	colonization of host
+s__135080	colonization of host--TRUE	Centipeda flueggei	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	135080	colonization of host
+s__135082	colonization of host--TRUE	Centipeda infelix	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	135082	colonization of host
+s__135083	colonization of host--TRUE	Centipeda noxia	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	135083	colonization of host
+s__1352	colonization of host--TRUE	Enterococcus faecium	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	1352	colonization of host
+s__1358	colonization of host--TRUE	Lactococcus lactis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	1358	colonization of host
+s__1366	colonization of host--TRUE	Pseudolactococcus raffinolactis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	1366	colonization of host
+s__1382	colonization of host--TRUE	Lancefieldella parvula	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	1382	colonization of host
+s__1383	colonization of host--TRUE	Lancefieldella rimae	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	1383	colonization of host
+s__138595	colonization of host--TRUE	Olsenella profusa	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	138595	colonization of host
+s__1408204	colonization of host--TRUE	Candidatus Endomicrobiellum trichonymphae	species	BacMap	low	nas	always	1	habitat	multistate-union	1408204	colonization of host
+s__141693	colonization of host--TRUE	Nocardiopsis kunsanensis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	141693	colonization of host
+s__142461	colonization of host--TRUE	Vibrio ichthyoenteri	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	142461	colonization of host
+s__147802	colonization of host--TRUE	Lactobacillus iners	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	147802	colonization of host
+s__150829	colonization of host--TRUE	Leadbettera azotonutricia	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	150829	colonization of host
+s__1509	colonization of host--TRUE	Clostridium sporogenes	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	1509	colonization of host
+s__1512	colonization of host--TRUE	[Clostridium] symbiosum	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	1512	colonization of host
+s__152335	colonization of host--TRUE	Paucilactobacillus suebicus	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	152335	colonization of host
+s__152480	colonization of host--TRUE	Burkholderia ambifaria	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	152480	colonization of host
+s__1542	colonization of host--TRUE	Clostridium novyi	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	1542	colonization of host
+s__155194	colonization of host--TRUE	Bartonella bovis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	155194	colonization of host
+s__156456	colonization of host--TRUE	Megasphaera geminata	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	156456	colonization of host
+s__156974	colonization of host--TRUE	Dysgonomonas gade	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	156974	colonization of host
+s__157692	colonization of host--TRUE	Pseudoleptotrichia goodfellowii	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	157692	colonization of host
+s__1579	colonization of host--TRUE	Lactobacillus acidophilus	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	1579	colonization of host
+s__1580	colonization of host--TRUE	Levilactobacillus brevis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	1580	colonization of host
+s__1582	colonization of host--TRUE	Lacticaseibacillus casei	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	1582	colonization of host
+s__1584	colonization of host--TRUE	Lactobacillus delbrueckii	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	1584	colonization of host
+s__158484	colonization of host--TRUE	Cedecea davisae	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	158484	colonization of host
+s__1596	colonization of host--TRUE	Lactobacillus gasseri	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	1596	colonization of host
+s__160	colonization of host--TRUE	Treponema pallidum	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	160	colonization of host
+s__160386	colonization of host--TRUE	Corynebacterium casei	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	160386	colonization of host
+s__1604	colonization of host--TRUE	Lactobacillus amylovorus	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	1604	colonization of host
+s__1605	colonization of host--TRUE	Ligilactobacillus animalis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	1605	colonization of host
+s__160846	colonization of host--TRUE	Natrialba taiwanensis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	160846	colonization of host
+s__161360	colonization of host--TRUE	Planococcus antarcticus	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	161360	colonization of host
+s__161890	colonization of host--TRUE	Corynebacterium mastitidis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	161890	colonization of host
+s__1623	colonization of host--TRUE	Ligilactobacillus ruminis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	1623	colonization of host
+s__1624	colonization of host--TRUE	Ligilactobacillus salivarius	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	1624	colonization of host
+s__1625	colonization of host--TRUE	Fructilactobacillus sanfranciscensis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	1625	colonization of host
+s__163	colonization of host--TRUE	Treponema bryantii	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	163	colonization of host
+s__163164	colonization of host--TRUE	Wolbachia endosymbiont of Drosophila melanogaster	species	BacMap	low	nas	always	1	habitat	multistate-union	163164	colonization of host
+s__1632	colonization of host--TRUE	Limosilactobacillus oris	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	1632	colonization of host
+s__1633	colonization of host--TRUE	Limosilactobacillus vaginalis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	1633	colonization of host
+s__163665	colonization of host--TRUE	Dysgonomonas mossii	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	163665	colonization of host
+s__1643	colonization of host--TRUE	Listeria welshimeri	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	1643	colonization of host
+s__165179	colonization of host--TRUE	Segatella copri	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	165179	colonization of host
+s__1652	colonization of host--TRUE	Alloiococcus otitis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	1652	colonization of host
+s__1655	colonization of host--TRUE	Actinomyces naeslundii	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	1655	colonization of host
+s__166486	colonization of host--TRUE	Roseburia intestinalis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	166486	colonization of host
+s__1665	colonization of host--TRUE	Arthrobacter globiformis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	1665	colonization of host
+s__1681	colonization of host--TRUE	Bifidobacterium bifidum	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	1681	colonization of host
+s__1683	colonization of host--TRUE	Bifidobacterium angulatum	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	1683	colonization of host
+s__1685	colonization of host--TRUE	Bifidobacterium breve	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	1685	colonization of host
+s__1686	colonization of host--TRUE	Bifidobacterium catenulatum	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	1686	colonization of host
+s__1689	colonization of host--TRUE	Bifidobacterium dentium	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	1689	colonization of host
+s__1692	colonization of host--TRUE	Bifidobacterium magnum	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	1692	colonization of host
+s__169435	colonization of host--TRUE	Anaerotruncus colihominis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	169435	colonization of host
+s__1697	colonization of host--TRUE	Corynebacterium ammoniagenes	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	1697	colonization of host
+s__1708	colonization of host--TRUE	Cellulomonas fimi	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	1708	colonization of host
+s__1711	colonization of host--TRUE	Cellulomonas flavigena	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	1711	colonization of host
+s__1718	colonization of host--TRUE	Corynebacterium glutamicum	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	1718	colonization of host
+s__1721	colonization of host--TRUE	Corynebacterium callunae	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	1721	colonization of host
+s__173366	colonization of host--TRUE	Methylocystis rosea	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	173366	colonization of host
+s__1735	colonization of host--TRUE	Holdemanella biformis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	1735	colonization of host
+s__173559	colonization of host--TRUE	Gordonia sihwensis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	173559	colonization of host
+s__175628	colonization of host--TRUE	Gordonia paraffinivorans	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	175628	colonization of host
+s__177972	colonization of host--TRUE	Shuttleworthella satelles	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	177972	colonization of host
+s__1814	colonization of host--TRUE	Amycolatopsis methanolica	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	1814	colonization of host
+s__186189	colonization of host--TRUE	Xylanimonas cellulosilytica	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	186189	colonization of host
+s__187326	colonization of host--TRUE	Megasphaera micronuciformis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	187326	colonization of host
+s__187327	colonization of host--TRUE	Acidaminococcus intestini	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	187327	colonization of host
+s__189	colonization of host--TRUE	Novispirillum itersonii	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	189	colonization of host
+s__189722	colonization of host--TRUE	Hoylesella marshii	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	189722	colonization of host
+s__189723	colonization of host--TRUE	Prevotella micans	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	189723	colonization of host
+s__19	colonization of host--TRUE	Syntrophotalea carbinolica	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	19	colonization of host
+s__193	colonization of host--TRUE	Azospirillum lipoferum	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	193	colonization of host
+s__1993	colonization of host--TRUE	Actinomadura madurae	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	1993	colonization of host
+s__2015	colonization of host--TRUE	Nocardiopsis prasina	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	2015	colonization of host
+s__203192	colonization of host--TRUE	Stutzerimonas chloritidismutans	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	203192	colonization of host
+s__204	colonization of host--TRUE	Campylobacter showae	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	204	colonization of host
+s__204516	colonization of host--TRUE	Phocaeicola massiliensis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	204516	colonization of host
+s__204525	colonization of host--TRUE	Teichococcus cervicalis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	204525	colonization of host
+s__208441	colonization of host--TRUE	Amycolatopsis decaplanina	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	208441	colonization of host
+s__208444	colonization of host--TRUE	Amycolatopsis vancoresmycina	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	208444	colonization of host
+s__2098	colonization of host--TRUE	Metamycoplasma hominis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	2098	colonization of host
+s__210	colonization of host--TRUE	Helicobacter pylori	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	210	colonization of host
+s__2115	colonization of host--TRUE	Mycoplasmopsis fermentans	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	2115	colonization of host
+s__214851	colonization of host--TRUE	Subdoligranulum variabile	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	214851	colonization of host
+s__215591	colonization of host--TRUE	Gracilinema caldarium	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	215591	colonization of host
+s__216465	colonization of host--TRUE	Polaromonas naphthalenivorans	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	216465	colonization of host
+s__2173	colonization of host--TRUE	Methanobrevibacter smithii	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	2173	colonization of host
+s__2187	colonization of host--TRUE	Methanococcus vannielii	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	2187	colonization of host
+s__2188	colonization of host--TRUE	Methanococcus voltae	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	2188	colonization of host
+s__219301	colonization of host--TRUE	Brachybacterium muris	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	219301	colonization of host
+s__219314	colonization of host--TRUE	Aeromicrobium marinum	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	219314	colonization of host
+s__2198	colonization of host--TRUE	Methanoculleus marisnigri	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	2198	colonization of host
+s__225326	colonization of host--TRUE	Corynebacterium halotolerans	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	225326	colonization of host
+s__225453	colonization of host--TRUE	Yaniella halotolerans	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	225453	colonization of host
+s__225762	colonization of host--TRUE	Nocardiopsis alkaliphila	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	225762	colonization of host
+s__227319	colonization of host--TRUE	Corynebacterium ciconiae	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	227319	colonization of host
+s__227943	colonization of host--TRUE	Limosilactobacillus antri	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	227943	colonization of host
+s__227945	colonization of host--TRUE	Lactobacillus ultunensis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	227945	colonization of host
+s__228229	colonization of host--TRUE	Ligilactobacillus saerimneri	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	228229	colonization of host
+s__228604	colonization of host--TRUE	Segatella salivae	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	228604	colonization of host
+s__2296	colonization of host--TRUE	Desulforapulum autotrophicum	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	2296	colonization of host
+s__230143	colonization of host--TRUE	Scardovia wiggsiae	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	230143	colonization of host
+s__231053	colonization of host--TRUE	Saccharibacter floricola	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	231053	colonization of host
+s__2358	colonization of host--TRUE	Desulfomonile tiedjei	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	2358	colonization of host
+s__239984	colonization of host--TRUE	Nocardiopsis ganjiahuensis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	239984	colonization of host
+s__242750	colonization of host--TRUE	Hallella bergensis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	242750	colonization of host
+s__244596	colonization of host--TRUE	Parahoeflea phototrophica	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	244596	colonization of host
+s__245836	colonization of host--TRUE	Nocardiopsis salina	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	245836	colonization of host
+s__247333	colonization of host--TRUE	Serinicoccus marinus	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	247333	colonization of host
+s__252394	colonization of host--TRUE	Actinoalloteichus spitiensis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	252394	colonization of host
+s__254787	colonization of host--TRUE	Paeniglutamicibacter gangotriensis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	254787	colonization of host
+s__258	colonization of host--TRUE	Sphingobacterium spiritivorum	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	258	colonization of host
+s__2585118	colonization of host--TRUE	Alistipes communis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	2585118	colonization of host
+s__261302	colonization of host--TRUE	Paraburkholderia phytofirmans	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	261302	colonization of host
+s__261964	colonization of host--TRUE	Kangiella koreensis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	261964	colonization of host
+s__261965	colonization of host--TRUE	Kangiella aquimarina	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	261965	colonization of host
+s__263908	colonization of host--TRUE	Gordonia effusa	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	263908	colonization of host
+s__2654982	colonization of host--TRUE	Paraburkholderia atlantica	species	BacMap	low	nas	always	1	habitat	multistate-union	2654982	colonization of host
+s__2702	colonization of host--TRUE	Gardnerella vaginalis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	2702	colonization of host
+s__2716812	colonization of host--TRUE	Candidatus Protofrankia datiscae	species	BacMap	low	nas	always	1	habitat	multistate-union	2716812	colonization of host
+s__2734	colonization of host--TRUE	Symbiobacterium thermophilum	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	2734	colonization of host
+s__280240	colonization of host--TRUE	Nocardiopsis baichengensis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	280240	colonization of host
+s__28025	colonization of host--TRUE	Bifidobacterium animalis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	28025	colonization of host
+s__28026	colonization of host--TRUE	Bifidobacterium pseudocatenulatum	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	28026	colonization of host
+s__28095	colonization of host--TRUE	Burkholderia gladioli	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	28095	colonization of host
+s__28110	colonization of host--TRUE	Francisella philomiragia	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	28110	colonization of host
+s__28111	colonization of host--TRUE	Bacteroides eggerthii	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	28111	colonization of host
+s__28116	colonization of host--TRUE	Bacteroides ovatus	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	28116	colonization of host
+s__28117	colonization of host--TRUE	Alistipes putredinis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	28117	colonization of host
+s__28118	colonization of host--TRUE	Odoribacter splanchnicus	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	28118	colonization of host
+s__28123	colonization of host--TRUE	Porphyromonas asaccharolytica	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	28123	colonization of host
+s__28124	colonization of host--TRUE	Porphyromonas endodontalis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	28124	colonization of host
+s__28127	colonization of host--TRUE	Hoylesella buccalis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	28127	colonization of host
+s__28129	colonization of host--TRUE	Prevotella denticola	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	28129	colonization of host
+s__28130	colonization of host--TRUE	Prevotella disiens	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	28130	colonization of host
+s__28132	colonization of host--TRUE	Prevotella melaninogenica	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	28132	colonization of host
+s__28134	colonization of host--TRUE	Hoylesella oralis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	28134	colonization of host
+s__28135	colonization of host--TRUE	Segatella oris	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	28135	colonization of host
+s__28136	colonization of host--TRUE	Segatella oulorum	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	28136	colonization of host
+s__28137	colonization of host--TRUE	Prevotella veroralis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	28137	colonization of host
+s__28173	colonization of host--TRUE	Vibrio nigripulchritudo	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	28173	colonization of host
+s__281920	colonization of host--TRUE	Porphyromonas uenonis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	281920	colonization of host
+s__28227	colonization of host--TRUE	Malacoplasma penetrans	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	28227	colonization of host
+s__282402	colonization of host--TRUE	Prevotella multiformis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	282402	colonization of host
+s__283811	colonization of host--TRUE	Stackebrandtia nassauensis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	283811	colonization of host
+s__28448	colonization of host--TRUE	Komagataeibacter xylinus	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	28448	colonization of host
+s__28450	colonization of host--TRUE	Burkholderia pseudomallei	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	28450	colonization of host
+s__28452	colonization of host--TRUE	Leptospira alstonii	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	28452	colonization of host
+s__285091	colonization of host--TRUE	Alloalcanivorax dieselolei	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	285091	colonization of host
+s__288000	colonization of host--TRUE	Bradyrhizobium sp. BTAi1	species	BacMap	low	nas	always	1	habitat	multistate-union	288000	colonization of host
+s__28901	colonization of host--TRUE	Salmonella enterica	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	28901	colonization of host
+s__290053	colonization of host--TRUE	Bacteroides helcogenes	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	290053	colonization of host
+s__291644	colonization of host--TRUE	Bacteroides salyersiae	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	291644	colonization of host
+s__292	colonization of host--TRUE	Burkholderia cepacia	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	292	colonization of host
+s__29347	colonization of host--TRUE	[Clostridium] scindens	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	29347	colonization of host
+s__29348	colonization of host--TRUE	Thomasclavelia spiroformis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	29348	colonization of host
+s__29483	colonization of host--TRUE	Yersinia aldovae	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	29483	colonization of host
+s__29484	colonization of host--TRUE	Yersinia frederiksenii	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	29484	colonization of host
+s__29488	colonization of host--TRUE	Photorhabdus luminescens	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	29488	colonization of host
+s__29506	colonization of host--TRUE	Leptospira inadai	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	29506	colonization of host
+s__29519	colonization of host--TRUE	Borreliella garinii	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	29519	colonization of host
+s__29543	colonization of host--TRUE	Pelobacter propionicus	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	29543	colonization of host
+s__301301	colonization of host--TRUE	Roseburia hominis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	301301	colonization of host
+s__301541	colonization of host--TRUE	Leptospira broomii	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	301541	colonization of host
+s__305719	colonization of host--TRUE	Segatella baroniae	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	305719	colonization of host
+s__309120	colonization of host--TRUE	Dialister micraerophilus	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	309120	colonization of host
+s__310297	colonization of host--TRUE	Phocaeicola plebeius	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	310297	colonization of host
+s__310514	colonization of host--TRUE	Hallella multisaccharivorax	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	310514	colonization of host
+s__311230	colonization of host--TRUE	Paraburkholderia terrae	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	311230	colonization of host
+s__312306	colonization of host--TRUE	Pseudomonas entomophila	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	312306	colonization of host
+s__313439	colonization of host--TRUE	Streptococcus massiliensis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	313439	colonization of host
+s__316	colonization of host--TRUE	Stutzerimonas stutzeri	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	316	colonization of host
+s__31958	colonization of host--TRUE	Amycolatopsis orientalis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	31958	colonization of host
+s__31971	colonization of host--TRUE	Amedibacillus dolichus	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	31971	colonization of host
+s__321318	colonization of host--TRUE	Dietzia cinnamea	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	321318	colonization of host
+s__322095	colonization of host--TRUE	Porphyromonas somerae	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	322095	colonization of host
+s__328812	colonization of host--TRUE	Parabacteroides goldsteinii	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	328812	colonization of host
+s__328814	colonization of host--TRUE	Alistipes shahii	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	328814	colonization of host
+s__329854	colonization of host--TRUE	Bacteroides intestinalis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	329854	colonization of host
+s__33035	colonization of host--TRUE	Blautia producta	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	33035	colonization of host
+s__33038	colonization of host--TRUE	Mediterraneibacter gnavus	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	33038	colonization of host
+s__33039	colonization of host--TRUE	Mediterraneibacter torques	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	33039	colonization of host
+s__33044	colonization of host--TRUE	Bartonella doshiae	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	33044	colonization of host
+s__33046	colonization of host--TRUE	Bartonella taylorii	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	33046	colonization of host
+s__33047	colonization of host--TRUE	Bartonella vinsonii	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	33047	colonization of host
+s__33060	colonization of host--TRUE	Yersinia mollaretii	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	33060	colonization of host
+s__330922	colonization of host--TRUE	Psychrobacter cryohalolentis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	330922	colonization of host
+s__332055	colonization of host--TRUE	Sphingobium indicum	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	332055	colonization of host
+s__333367	colonization of host--TRUE	Enterocloster asparagiformis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	333367	colonization of host
+s__338188	colonization of host--TRUE	Bacteroides finegoldii	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	338188	colonization of host
+s__33905	colonization of host--TRUE	Bifidobacterium thermophilum	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	33905	colonization of host
+s__33910	colonization of host--TRUE	Amycolatopsis mediterranei	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	33910	colonization of host
+s__33964	colonization of host--TRUE	Leuconostoc citreum	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	33964	colonization of host
+s__33996	colonization of host--TRUE	Gluconacetobacter diazotrophicus	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	33996	colonization of host
+s__34029	colonization of host--TRUE	Leptothrix cholodnii	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	34029	colonization of host
+s__34038	colonization of host--TRUE	Rahnella aquatilis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	34038	colonization of host
+s__341694	colonization of host--TRUE	Peptostreptococcus stomatis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	341694	colonization of host
+s__346045	colonization of host--TRUE	Amycolatopsis benzoatilytica	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	346045	colonization of host
+s__351091	colonization of host--TRUE	Oscillibacter valericigenes	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	351091	colonization of host
+s__356828	colonization of host--TRUE	Alloscardovia criceti	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	356828	colonization of host
+s__357276	colonization of host--TRUE	Phocaeicola dorei	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	357276	colonization of host
+s__35756	colonization of host--TRUE	Corynebacterium pilosum	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	35756	colonization of host
+s__35833	colonization of host--TRUE	Bilophila wadsworthia	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	35833	colonization of host
+s__358743	colonization of host--TRUE	Enterocloster citroniae	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	358743	colonization of host
+s__359359	colonization of host--TRUE	Smaragdicoccus niigatensis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	359359	colonization of host
+s__360807	colonization of host--TRUE	Roseburia inulinivorans	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	360807	colonization of host
+s__363265	colonization of host--TRUE	Leyella stercorea	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	363265	colonization of host
+s__364298	colonization of host--TRUE	Janibacter hoylei	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	364298	colonization of host
+s__36820	colonization of host--TRUE	Gordonia aichiensis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	36820	colonization of host
+s__36841	colonization of host--TRUE	Terrisporobacter glycolicus	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	36841	colonization of host
+s__36855	colonization of host--TRUE	Brucella canis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	36855	colonization of host
+s__373638	colonization of host--TRUE	Attibartonella tamiae	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	373638	colonization of host
+s__37692	colonization of host--TRUE	Candidatus Phytoplasma mali	species	BacMap	low	nas	always	1	habitat	multistate-union	37692	colonization of host
+s__37928	colonization of host--TRUE	Crystallibacter crystallopoietes	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	37928	colonization of host
+s__38288	colonization of host--TRUE	Corynebacterium genitalium	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	38288	colonization of host
+s__38293	colonization of host--TRUE	Photobacterium damselae	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	38293	colonization of host
+s__386414	colonization of host--TRUE	Hoylesella timonensis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	386414	colonization of host
+s__387090	colonization of host--TRUE	Phocaeicola coprophilus	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	387090	colonization of host
+s__39483	colonization of host--TRUE	Faecalitalea cylindroides	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	39483	colonization of host
+s__39496	colonization of host--TRUE	Eubacterium ventriosum	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	39496	colonization of host
+s__39498	colonization of host--TRUE	[Eubacterium] yurii	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	39498	colonization of host
+s__39777	colonization of host--TRUE	Veillonella atypica	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	39777	colonization of host
+s__39791	colonization of host--TRUE	Corynebacterium glucuronolyticum	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	39791	colonization of host
+s__399742	colonization of host--TRUE	Enterobacter sp. 638	species	BacMap	low	nas	always	1	habitat	multistate-union	399742	colonization of host
+s__40091	colonization of host--TRUE	Helcococcus kunzii	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	40091	colonization of host
+s__40216	colonization of host--TRUE	Acinetobacter radioresistens	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	40216	colonization of host
+s__40269	colonization of host--TRUE	Aliivibrio salmonicida	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	40269	colonization of host
+s__40518	colonization of host--TRUE	Ruminococcus bromii	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	40518	colonization of host
+s__40519	colonization of host--TRUE	Ruminococcus callidus	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	40519	colonization of host
+s__40520	colonization of host--TRUE	Blautia obeum	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	40520	colonization of host
+s__40545	colonization of host--TRUE	Sutterella wadsworthensis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	40545	colonization of host
+s__40576	colonization of host--TRUE	Xenorhabdus bovienii	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	40576	colonization of host
+s__407975	colonization of host--TRUE	Hoylesella pleuritidis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	407975	colonization of host
+s__40834	colonization of host--TRUE	Borrelia duttonii	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	40834	colonization of host
+s__410072	colonization of host--TRUE	Allocoprococcus comes	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	410072	colonization of host
+s__412965	colonization of host--TRUE	Candidatus Vesicomyidisocius calyptogenae	species	BacMap	low	nas	always	1	habitat	multistate-union	412965	colonization of host
+s__414778	colonization of host--TRUE	Planococcus donghaensis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	414778	colonization of host
+s__418699	colonization of host--TRUE	Azoarcus olearius	species	BacMap	low	nas	always	1	habitat	multistate-union	418699	colonization of host
+s__419005	colonization of host--TRUE	Prevotella amnii	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	419005	colonization of host
+s__419015	colonization of host--TRUE	Alloscardovia omnicolens	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	419015	colonization of host
+s__419257	colonization of host--TRUE	Yersinia massiliensis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	419257	colonization of host
+s__41997	colonization of host--TRUE	Enterococcus saccharolyticus	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	41997	colonization of host
+s__427754	colonization of host--TRUE	Humibacter albus	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	427754	colonization of host
+s__42862	colonization of host--TRUE	Rickettsia felis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	42862	colonization of host
+s__430914	colonization of host--TRUE	Halorhabdus tiamatea	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	430914	colonization of host
+s__43263	colonization of host--TRUE	Aquipseudomonas alcaligenes	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	43263	colonization of host
+s__43669	colonization of host--TRUE	Brachybacterium faecium	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	43669	colonization of host
+s__43674	colonization of host--TRUE	Jonesia denitrificans	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	43674	colonization of host
+s__43768	colonization of host--TRUE	Corynebacterium matruchotii	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	43768	colonization of host
+s__43769	colonization of host--TRUE	Corynebacterium propinquum	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	43769	colonization of host
+s__437897	colonization of host--TRUE	Megamonas funiformis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	437897	colonization of host
+s__437898	colonization of host--TRUE	Sutterella parvirubra	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	437898	colonization of host
+s__439219	colonization of host--TRUE	Streptococcus henryi	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	439219	colonization of host
+s__439220	colonization of host--TRUE	Streptococcus caballi	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	439220	colonization of host
+s__439703	colonization of host--TRUE	Segatella maculosa	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	439703	colonization of host
+s__44009	colonization of host--TRUE	Enterococcus dispar	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	44009	colonization of host
+s__446660	colonization of host--TRUE	Adlercreutzia equolifaciens	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	446660	colonization of host
+s__450	colonization of host--TRUE	Legionella longbeachae	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	450	colonization of host
+s__45242	colonization of host--TRUE	Capnocytophaga granulosa	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	45242	colonization of host
+s__453816	colonization of host--TRUE	Pseudobdellovibrio exovorus	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	453816	colonization of host
+s__454154	colonization of host--TRUE	Paraprevotella clara	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	454154	colonization of host
+s__454155	colonization of host--TRUE	Paraprevotella xylaniphila	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	454155	colonization of host
+s__45663	colonization of host--TRUE	Desulfohalobium retbaense	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	45663	colonization of host
+s__45851	colonization of host--TRUE	Eshraghiella crossota	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	45851	colonization of host
+s__46228	colonization of host--TRUE	[Ruminococcus] lactaris	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	46228	colonization of host
+s__46503	colonization of host--TRUE	Parabacteroides merdae	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	46503	colonization of host
+s__46506	colonization of host--TRUE	Bacteroides stercoris	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	46506	colonization of host
+s__46677	colonization of host--TRUE	Pseudomonas agarici	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	46677	colonization of host
+s__470	colonization of host--TRUE	Acinetobacter baumannii	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	470	colonization of host
+s__470565	colonization of host--TRUE	Prevotella histicola	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	470565	colonization of host
+s__471189	colonization of host--TRUE	Gordonibacter pamelaeae	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	471189	colonization of host
+s__47671	colonization of host--TRUE	Lautropia mirabilis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	47671	colonization of host
+s__47678	colonization of host--TRUE	Bacteroides caccae	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	47678	colonization of host
+s__47770	colonization of host--TRUE	Lactobacillus crispatus	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	47770	colonization of host
+s__481743	colonization of host--TRUE	Paenibacillus sp. Y412MC10	species	BacMap	low	nas	always	1	habitat	multistate-union	481743	colonization of host
+s__483	colonization of host--TRUE	Neisseria cinerea	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	483	colonization of host
+s__487173	colonization of host--TRUE	Dialister succinatiphilus	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	487173	colonization of host
+s__487174	colonization of host--TRUE	Barnesiella intestinihominis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	487174	colonization of host
+s__487175	colonization of host--TRUE	Parasutterella excrementihominis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	487175	colonization of host
+s__487316	colonization of host--TRUE	Acinetobacter soli	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	487316	colonization of host
+s__487732	colonization of host--TRUE	Corynebacterium ulceribovis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	487732	colonization of host
+s__48782	colonization of host--TRUE	Leptospira fainei	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	48782	colonization of host
+s__488939	colonization of host--TRUE	Desulfonatronospira thiodismutans	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	488939	colonization of host
+s__489	colonization of host--TRUE	Neisseria polysaccharea	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	489	colonization of host
+s__496	colonization of host--TRUE	Neisseria macacae	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	496	colonization of host
+s__501023	colonization of host--TRUE	Glaciibacter superstes	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	501023	colonization of host
+s__502821	colonization of host--TRUE	Vreelandella stevensii	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	502821	colonization of host
+s__507750	colonization of host--TRUE	Peptoniphilus duerdenii	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	507750	colonization of host
+s__511	colonization of host--TRUE	Alcaligenes faecalis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	511	colonization of host
+s__520	colonization of host--TRUE	Bordetella pertussis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	520	colonization of host
+s__521	colonization of host--TRUE	Bordetella avium	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	521	colonization of host
+s__52226	colonization of host--TRUE	Mitsuokella multacida	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	52226	colonization of host
+s__522773	colonization of host--TRUE	Sphingobium lactosutens	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	522773	colonization of host
+s__526216	colonization of host--TRUE	Oceanibaculum indicum	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	526216	colonization of host
+s__52768	colonization of host--TRUE	Schaalia georgiae	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	52768	colonization of host
+s__533267	colonization of host--TRUE	Actinopolymorpha alba	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	533267	colonization of host
+s__53345	colonization of host--TRUE	Enterococcus durans	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	53345	colonization of host
+s__53358	colonization of host--TRUE	Intrasporangium calvum	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	53358	colonization of host
+s__53363	colonization of host--TRUE	Brevibacterium mcbrellneri	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	53363	colonization of host
+s__53419	colonization of host--TRUE	Treponema socranskii	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	53419	colonization of host
+s__53435	colonization of host--TRUE	Treponema paraluiscuniculi	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	53435	colonization of host
+s__53437	colonization of host--TRUE	Nocardiopsis alba	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	53437	colonization of host
+s__53443	colonization of host--TRUE	Blautia hydrogenotrophica	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	53443	colonization of host
+s__53461	colonization of host--TRUE	Nakamurella multipartita	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	53461	colonization of host
+s__540500	colonization of host--TRUE	Psychrobacter lutiphocae	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	540500	colonization of host
+s__541095	colonization of host--TRUE	Corynebacterium lubricantis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	541095	colonization of host
+s__54291	colonization of host--TRUE	Klebsiella ornithinolytica	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	54291	colonization of host
+s__544580	colonization of host--TRUE	Actinomyces oris	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	544580	colonization of host
+s__544581	colonization of host--TRUE	Actinomyces johnsonii	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	544581	colonization of host
+s__548	colonization of host--TRUE	Klebsiella aerogenes	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	548	colonization of host
+s__549685	colonization of host--TRUE	Bavariicoccus seileri	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	549685	colonization of host
+s__552398	colonization of host--TRUE	Ruminococcaceae bacterium D16	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	552398	colonization of host
+s__558170	colonization of host--TRUE	Salinicoccus carnicancri	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	558170	colonization of host
+s__56426	colonization of host--TRUE	Bartonella clarridgeiae	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	56426	colonization of host
+s__573569	colonization of host--TRUE	Francisella salina	species	BacMap	low	nas	always	1	habitat	multistate-union	573569	colonization of host
+s__575200	colonization of host--TRUE	Corynebacterium maris	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	575200	colonization of host
+s__57975	colonization of host--TRUE	Burkholderia thailandensis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	57975	colonization of host
+s__587	colonization of host--TRUE	Providencia rettgeri	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	587	colonization of host
+s__588672	colonization of host--TRUE	Patulibacter americanus	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	588672	colonization of host
+s__59748	colonization of host--TRUE	Candidatus Phytoplasma australiense	species	BacMap	low	nas	always	1	habitat	multistate-union	59748	colonization of host
+s__59754	colonization of host--TRUE	Alcanivorax borkumensis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	59754	colonization of host
+s__60133	colonization of host--TRUE	Prevotella pallens	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	60133	colonization of host
+s__607711	colonization of host--TRUE	Neisseria wadsworthii	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	607711	colonization of host
+s__607712	colonization of host--TRUE	Neisseria shayeganii	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	607712	colonization of host
+s__60847	colonization of host--TRUE	Halogeometricum borinquense	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	60847	colonization of host
+s__61171	colonization of host--TRUE	Holdemania filiformis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	61171	colonization of host
+s__61305	colonization of host--TRUE	Nocardiopsis synnemataformans	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	61305	colonization of host
+s__61592	colonization of host--TRUE	Corynebacterium durum	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	61592	colonization of host
+s__62320	colonization of host--TRUE	Haloterrigena turkmenica	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	62320	colonization of host
+s__626931	colonization of host--TRUE	Bacteroides oleiciplenus	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	626931	colonization of host
+s__626932	colonization of host--TRUE	Alistipes indistinctus	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	626932	colonization of host
+s__626933	colonization of host--TRUE	Odoribacter laneus	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	626933	colonization of host
+s__626934	colonization of host--TRUE	Slackia piriformis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	626934	colonization of host
+s__626935	colonization of host--TRUE	Collinsella tanakaei	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	626935	colonization of host
+s__626940	colonization of host--TRUE	Phascolarctobacterium succinatutens	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	626940	colonization of host
+s__628	colonization of host--TRUE	Xenorhabdus nematophila	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	628	colonization of host
+s__631	colonization of host--TRUE	Yersinia intermedia	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	631	colonization of host
+s__632955	colonization of host--TRUE	Acinetobacter rudis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	632955	colonization of host
+s__634	colonization of host--TRUE	Yersinia bercovieri	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	634	colonization of host
+s__63560	colonization of host--TRUE	Desulfovibrio oxyclinae	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	63560	colonization of host
+s__638849	colonization of host--TRUE	Pyramidobacter piscolens	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	638849	colonization of host
+s__63959	colonization of host--TRUE	Demetria terragena	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	63959	colonization of host
+s__640331	colonization of host--TRUE	Fructilactobacillus florum	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	640331	colonization of host
+s__640510	colonization of host--TRUE	Burkholderia sp. CCGE1001	species	BacMap	low	nas	always	1	habitat	multistate-union	640510	colonization of host
+s__640512	colonization of host--TRUE	Burkholderia sp. CCGE1003	species	BacMap	low	nas	always	1	habitat	multistate-union	640512	colonization of host
+s__64602	colonization of host--TRUE	Natrialba asiatica	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	64602	colonization of host
+s__64897	colonization of host--TRUE	Borreliella bissettiae	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	64897	colonization of host
+s__649746	colonization of host--TRUE	Acetomicrobium hydrogeniformans	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	649746	colonization of host
+s__649756	colonization of host--TRUE	Anaerostipes hadrus	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	649756	colonization of host
+s__65553	colonization of host--TRUE	Sulfurospirillum deleyianum	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	65553	colonization of host
+s__66084	colonization of host--TRUE	Wolbachia sp. wRi	species	BacMap	low	nas	always	1	habitat	multistate-union	66084	colonization of host
+s__661979	colonization of host--TRUE	Brachybacterium squillarum	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	661979	colonization of host
+s__666	colonization of host--TRUE	Vibrio cholerae	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	666	colonization of host
+s__68891	colonization of host--TRUE	Streptococcus peroris	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	68891	colonization of host
+s__68892	colonization of host--TRUE	Streptococcus infantis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	68892	colonization of host
+s__691	colonization of host--TRUE	Vibrio natriegens	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	691	colonization of host
+s__702113	colonization of host--TRUE	Novosphingobium sp. PP1Y	species	BacMap	low	nas	always	1	habitat	multistate-union	702113	colonization of host
+s__70771	colonization of host--TRUE	Pyrobaculum neutrophilum	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	70771	colonization of host
+s__71237	colonization of host--TRUE	Mammaliicoccus vitulinus	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	71237	colonization of host
+s__714	colonization of host--TRUE	Aggregatibacter actinomycetemcomitans	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	714	colonization of host
+s__71667	colonization of host--TRUE	Waddlia chondrophila	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	71667	colonization of host
+s__717	colonization of host--TRUE	Actinobacillus capsulatus	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	717	colonization of host
+s__72	colonization of host--TRUE	Simonsiella muelleri	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	72	colonization of host
+s__726	colonization of host--TRUE	Haemophilus haemolyticus	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	726	colonization of host
+s__728	colonization of host--TRUE	Avibacterium paragallinarum	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	728	colonization of host
+s__732	colonization of host--TRUE	Aggregatibacter aphrophilus	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	732	colonization of host
+s__739	colonization of host--TRUE	Aggregatibacter segnis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	739	colonization of host
+s__73919	colonization of host--TRUE	Thermaerobacter marianensis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	73919	colonization of host
+s__74426	colonization of host--TRUE	Collinsella aerofaciens	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	74426	colonization of host
+s__746032	colonization of host--TRUE	Mobilicoccus pelagius	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	746032	colonization of host
+s__754	colonization of host--TRUE	Pasteurella dagmatis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	754	colonization of host
+s__759851	colonization of host--TRUE	Sporosarcina newyorkensis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	759851	colonization of host
+s__76517	colonization of host--TRUE	Campylobacter hominis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	76517	colonization of host
+s__76761	colonization of host--TRUE	Pseudomonas veronii	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	76761	colonization of host
+s__768490	colonization of host--TRUE	Serratia sp. AS12	species	BacMap	low	nas	always	1	habitat	multistate-union	768490	colonization of host
+s__76860	colonization of host--TRUE	Streptococcus constellatus	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	76860	colonization of host
+s__777	colonization of host--TRUE	Coxiella burnetii	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	777	colonization of host
+s__78258	colonization of host--TRUE	Parascardovia denticolens	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	78258	colonization of host
+s__78259	colonization of host--TRUE	Scardovia inopinata	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	78259	colonization of host
+s__78342	colonization of host--TRUE	Bifidobacterium gallicum	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	78342	colonization of host
+s__807	colonization of host--TRUE	Bartonella elizabethae	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	807	colonization of host
+s__818	colonization of host--TRUE	Bacteroides thetaiotaomicron	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	818	colonization of host
+s__820	colonization of host--TRUE	Bacteroides uniformis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	820	colonization of host
+s__82135	colonization of host--TRUE	Fannyhessea vaginae	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	82135	colonization of host
+s__82203	colonization of host--TRUE	Centipeda periodontii	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	82203	colonization of host
+s__823	colonization of host--TRUE	Parabacteroides distasonis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	823	colonization of host
+s__82806	colonization of host--TRUE	Streptococcus ovis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	82806	colonization of host
+s__831	colonization of host--TRUE	Butyrivibrio fibrisolvens	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	831	colonization of host
+s__83557	colonization of host--TRUE	Chlamydia caviae	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	83557	colonization of host
+s__83683	colonization of host--TRUE	Lactobacillus amylolyticus	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	83683	colonization of host
+s__837	colonization of host--TRUE	Porphyromonas gingivalis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	837	colonization of host
+s__839	colonization of host--TRUE	Xylanibacter ruminicola	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	839	colonization of host
+s__840	colonization of host--TRUE	Hoylesella loescheii	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	840	colonization of host
+s__84030	colonization of host--TRUE	Lacrimispora saccharolytica	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	84030	colonization of host
+s__84109	colonization of host--TRUE	Slackia exigua	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	84109	colonization of host
+s__84110	colonization of host--TRUE	Slackia heliotrinireducens	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	84110	colonization of host
+s__84112	colonization of host--TRUE	Eggerthella lenta	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	84112	colonization of host
+s__84163	colonization of host--TRUE	Cryptobacterium curtum	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	84163	colonization of host
+s__84378	colonization of host--TRUE	Brachyspira murdochii	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	84378	colonization of host
+s__84757	colonization of host--TRUE	Beutenbergia cavernae	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	84757	colonization of host
+s__854	colonization of host--TRUE	Fusobacterium russii	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	854	colonization of host
+s__85991	colonization of host--TRUE	Chlamydia pecorum	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	85991	colonization of host
+s__870903	colonization of host--TRUE	Terriglobus saanensis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	870903	colonization of host
+s__875328	colonization of host--TRUE	Mycolicibacter sinensis	species	BacMap	low	nas	always	1	habitat	multistate-union	875328	colonization of host
+s__877455	colonization of host--TRUE	Methanobacterium lacus	species	BacMap	low	nas	always	1	habitat	multistate-union	877455	colonization of host
+s__87883	colonization of host--TRUE	Burkholderia multivorans	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	87883	colonization of host
+s__879567	colonization of host--TRUE	Pseudodesulfovibrio piezophilus	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	879567	colonization of host
+s__880	colonization of host--TRUE	Maridesulfovibrio salexigens	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	880	colonization of host
+s__88139	colonization of host--TRUE	Modestobacter multiseptatus	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	88139	colonization of host
+s__88382	colonization of host--TRUE	Promicromonospora sukumoe	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	88382	colonization of host
+s__88916	colonization of host--TRUE	Borreliella spielmanii	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	88916	colonization of host
+s__89152	colonization of host--TRUE	Peptacetobacter hiranonis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	89152	colonization of host
+s__89153	colonization of host--TRUE	[Clostridium] hylemonae	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	89153	colonization of host
+s__89154	colonization of host--TRUE	Corynebacterium terpenotabidum	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	89154	colonization of host
+s__899	colonization of host--TRUE	Desulfomicrobium baculatum	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	899	colonization of host
+s__93369	colonization of host--TRUE	Pseudaminobacter salicylatoxidans	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	93369	colonization of host
+s__936476	colonization of host--TRUE	Marinomonas posidonica	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	936476	colonization of host
+s__940614	colonization of host--TRUE	Granulicella mallensis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	940614	colonization of host
+s__940615	colonization of host--TRUE	Granulicella tundricola	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	940615	colonization of host
+s__945	colonization of host--TRUE	Ehrlichia chaffeensis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	945	colonization of host
+s__945692	colonization of host--TRUE	Gordonia neofelifaecis	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	945692	colonization of host
+s__94624	colonization of host--TRUE	Bordetella petrii	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	94624	colonization of host
+s__94625	colonization of host--TRUE	Brucella intermedia	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	94625	colonization of host
+s__950	colonization of host--TRUE	Neorickettsia risticii	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	950	colonization of host
+s__959	colonization of host--TRUE	Bdellovibrio bacteriovorus	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	959	colonization of host
+s__979	colonization of host--TRUE	Cellulophaga lytica	species	The Microbe Directory	low	nas	always	1	habitat	multistate-union	979	colonization of host
+t__1001585	colonization of host--TRUE	Ectopseudomonas mendocina NK-01	strain	BacMap	low	nas	always	1	habitat	multistate-union	1001585	colonization of host
+t__1007064	colonization of host--TRUE	Streptococcus suis ST3	strain	BacMap	low	nas	always	1	habitat	multistate-union	1007064	colonization of host
+t__1028307	colonization of host--TRUE	Klebsiella aerogenes KCTC 2190	strain	BacMap	low	nas	always	1	habitat	multistate-union	1028307	colonization of host
+t__1030843	colonization of host--TRUE	Porphyromonas gingivalis TDC60	strain	BacMap	low	nas	always	1	habitat	multistate-union	1030843	colonization of host
+t__1033837	colonization of host--TRUE	Lactobacillus kefiranofaciens ZW3	strain	BacMap	low	nas	always	1	habitat	multistate-union	1033837	colonization of host
+t__1048245	colonization of host--TRUE	Mycobacterium canetti CIPT 140010059	strain	BacMap	low	nas	always	1	habitat	multistate-union	1048245	colonization of host
+t__1048332	colonization of host--TRUE	Streptococcus salivarius CCHSS3	strain	BacMap	low	nas	always	1	habitat	multistate-union	1048332	colonization of host
+t__1054460	colonization of host--TRUE	Streptococcus pseudopneumoniae IS7493	strain	BacMap	low	nas	always	1	habitat	multistate-union	1054460	colonization of host
+t__107806	colonization of host--TRUE	Buchnera aphidicola str. APS (Acyrthosiphon pisum)	strain	BacMap	low	nas	always	1	habitat	multistate-union	107806	colonization of host
+t__115713	colonization of host--TRUE	Chlamydia pneumoniae CWL029	strain	BacMap	low	nas	always	1	habitat	multistate-union	115713	colonization of host
+t__122586	colonization of host--TRUE	Neisseria meningitidis MC58	strain	BacMap	low	nas	always	1	habitat	multistate-union	122586	colonization of host
+t__122587	colonization of host--TRUE	Neisseria meningitidis Z2491	strain	BacMap	low	nas	always	1	habitat	multistate-union	122587	colonization of host
+t__138677	colonization of host--TRUE	Chlamydia pneumoniae J138	strain	BacMap	low	nas	always	1	habitat	multistate-union	138677	colonization of host
+t__155864	colonization of host--TRUE	Escherichia coli O157:H7 str. EDL933	strain	BacMap	low	nas	always	1	habitat	multistate-union	155864	colonization of host
+t__158878	colonization of host--TRUE	Staphylococcus aureus subsp. aureus Mu50	strain	BacMap	low	nas	always	1	habitat	multistate-union	158878	colonization of host
+t__158879	colonization of host--TRUE	Staphylococcus aureus subsp. aureus N315	strain	BacMap	low	nas	always	1	habitat	multistate-union	158879	colonization of host
+t__160490	colonization of host--TRUE	Streptococcus pyogenes M1 GAS	strain	BacMap	low	nas	always	1	habitat	multistate-union	160490	colonization of host
+t__160491	colonization of host--TRUE	Streptococcus pyogenes str. Manfredo	strain	BacMap	low	nas	always	1	habitat	multistate-union	160491	colonization of host
+t__160492	colonization of host--TRUE	Xylella fastidiosa 9a5c	strain	BacMap	low	nas	always	1	habitat	multistate-union	160492	colonization of host
+t__176279	colonization of host--TRUE	Staphylococcus epidermidis RP62A	strain	BacMap	low	nas	always	1	habitat	multistate-union	176279	colonization of host
+t__176280	colonization of host--TRUE	Staphylococcus epidermidis ATCC 12228	strain	BacMap	low	nas	always	1	habitat	multistate-union	176280	colonization of host
+t__182082	colonization of host--TRUE	Chlamydia pneumoniae TW-183	strain	BacMap	low	nas	always	1	habitat	multistate-union	182082	colonization of host
+t__183190	colonization of host--TRUE	Xylella fastidiosa Temecula1	strain	BacMap	low	nas	always	1	habitat	multistate-union	183190	colonization of host
+t__186103	colonization of host--TRUE	Streptococcus pyogenes MGAS8232	strain	BacMap	low	nas	always	1	habitat	multistate-union	186103	colonization of host
+t__189518	colonization of host--TRUE	Leptospira interrogans serovar Lai str. 56601	strain	BacMap	low	nas	always	1	habitat	multistate-union	189518	colonization of host
+t__190304	colonization of host--TRUE	Fusobacterium nucleatum subsp. nucleatum ATCC 25586	strain	BacMap	low	nas	always	1	habitat	multistate-union	190304	colonization of host
+t__190485	colonization of host--TRUE	Xanthomonas campestris pv. campestris str. ATCC 33913	strain	BacMap	low	nas	always	1	habitat	multistate-union	190485	colonization of host
+t__193567	colonization of host--TRUE	Streptococcus pyogenes SSI-1	strain	BacMap	low	nas	always	1	habitat	multistate-union	193567	colonization of host
+t__196620	colonization of host--TRUE	Staphylococcus aureus subsp. aureus MW2	strain	BacMap	low	nas	always	1	habitat	multistate-union	196620	colonization of host
+t__198214	colonization of host--TRUE	Shigella flexneri 2a str. 301	strain	BacMap	low	nas	always	1	habitat	multistate-union	198214	colonization of host
+t__198215	colonization of host--TRUE	Shigella flexneri 2a str. 2457T	strain	BacMap	low	nas	always	1	habitat	multistate-union	198215	colonization of host
+t__198466	colonization of host--TRUE	Streptococcus pyogenes MGAS315	strain	BacMap	low	nas	always	1	habitat	multistate-union	198466	colonization of host
+t__198628	colonization of host--TRUE	Dickeya dadantii 3937	strain	BacMap	low	nas	always	1	habitat	multistate-union	198628	colonization of host
+t__198804	colonization of host--TRUE	Buchnera aphidicola str. Sg (Schizaphis graminum)	strain	BacMap	low	nas	always	1	habitat	multistate-union	198804	colonization of host
+t__199310	colonization of host--TRUE	Escherichia coli CFT073	strain	BacMap	low	nas	always	1	habitat	multistate-union	199310	colonization of host
+t__203267	colonization of host--TRUE	Tropheryma whipplei str. Twist	strain	BacMap	low	nas	always	1	habitat	multistate-union	203267	colonization of host
+t__204722	colonization of host--TRUE	Brucella suis 1330	strain	BacMap	low	nas	always	1	habitat	multistate-union	204722	colonization of host
+t__205913	colonization of host--TRUE	Bifidobacterium longum DJO10A	strain	BacMap	low	nas	always	1	habitat	multistate-union	205913	colonization of host
+t__205914	colonization of host--TRUE	Histophilus somni 129PT	strain	BacMap	low	nas	always	1	habitat	multistate-union	205914	colonization of host
+t__205920	colonization of host--TRUE	Ehrlichia chaffeensis str. Arkansas	strain	BacMap	low	nas	always	1	habitat	multistate-union	205920	colonization of host
+t__205921	colonization of host--TRUE	Streptococcus agalactiae A909	strain	BacMap	low	nas	always	1	habitat	multistate-union	205921	colonization of host
+t__206672	colonization of host--TRUE	Bifidobacterium longum NCC2705	strain	BacMap	low	nas	always	1	habitat	multistate-union	206672	colonization of host
+t__208435	colonization of host--TRUE	Streptococcus agalactiae 2603V/R	strain	BacMap	low	nas	always	1	habitat	multistate-union	208435	colonization of host
+t__209261	colonization of host--TRUE	Salmonella enterica subsp. enterica serovar Typhi str. Ty2	strain	BacMap	low	nas	always	1	habitat	multistate-union	209261	colonization of host
+t__210007	colonization of host--TRUE	Streptococcus mutans UA159	strain	BacMap	low	nas	always	1	habitat	multistate-union	210007	colonization of host
+t__211110	colonization of host--TRUE	Streptococcus agalactiae NEM316	strain	BacMap	low	nas	always	1	habitat	multistate-union	211110	colonization of host
+t__212042	colonization of host--TRUE	Anaplasma phagocytophilum str. HZ	strain	BacMap	low	nas	always	1	habitat	multistate-union	212042	colonization of host
+t__216596	colonization of host--TRUE	Rhizobium johnstonii 3841	strain	BacMap	low	nas	always	1	habitat	multistate-union	216596	colonization of host
+t__218493	colonization of host--TRUE	Salmonella bongori NCTC 12419	strain	BacMap	low	nas	always	1	habitat	multistate-union	218493	colonization of host
+t__218494	colonization of host--TRUE	Streptococcus suis P1/7	strain	BacMap	low	nas	always	1	habitat	multistate-union	218494	colonization of host
+t__218496	colonization of host--TRUE	Tropheryma whipplei TW08/27	strain	BacMap	low	nas	always	1	habitat	multistate-union	218496	colonization of host
+t__218497	colonization of host--TRUE	Chlamydia abortus S26/3	strain	BacMap	low	nas	always	1	habitat	multistate-union	218497	colonization of host
+t__220341	colonization of host--TRUE	Salmonella enterica subsp. enterica serovar Typhi str. CT18	strain	BacMap	low	nas	always	1	habitat	multistate-union	220341	colonization of host
+t__220668	colonization of host--TRUE	Lactiplantibacillus plantarum WCFS1	strain	BacMap	low	nas	always	1	habitat	multistate-union	220668	colonization of host
+t__221988	colonization of host--TRUE	[Mannheimia] succiniciproducens MBEL55E	strain	BacMap	low	nas	always	1	habitat	multistate-union	221988	colonization of host
+t__224326	colonization of host--TRUE	Borreliella burgdorferi B31	strain	BacMap	low	nas	always	1	habitat	multistate-union	224326	colonization of host
+t__224911	colonization of host--TRUE	Bradyrhizobium diazoefficiens USDA 110	strain	BacMap	low	nas	always	1	habitat	multistate-union	224911	colonization of host
+t__224914	colonization of host--TRUE	Brucella melitensis bv. 1 str. 16M	strain	BacMap	low	nas	always	1	habitat	multistate-union	224914	colonization of host
+t__224915	colonization of host--TRUE	Buchnera aphidicola str. Bp (Baizongia pistaciae)	strain	BacMap	low	nas	always	1	habitat	multistate-union	224915	colonization of host
+t__226186	colonization of host--TRUE	Bacteroides thetaiotaomicron VPI-5482	strain	BacMap	low	nas	always	1	habitat	multistate-union	226186	colonization of host
+t__228400	colonization of host--TRUE	Histophilus somni 2336	strain	BacMap	low	nas	always	1	habitat	multistate-union	228400	colonization of host
+t__228908	colonization of host--TRUE	Nanoarchaeum equitans Kin4-M	strain	BacMap	low	nas	always	1	habitat	multistate-union	228908	colonization of host
+t__233412	colonization of host--TRUE	[Haemophilus] ducreyi 35000HP	strain	BacMap	low	nas	always	1	habitat	multistate-union	233412	colonization of host
+t__233413	colonization of host--TRUE	Mycobacterium tuberculosis variant bovis AF2122/97	strain	BacMap	low	nas	always	1	habitat	multistate-union	233413	colonization of host
+t__234826	colonization of host--TRUE	Anaplasma marginale str. St. Maries	strain	BacMap	low	nas	always	1	habitat	multistate-union	234826	colonization of host
+t__235279	colonization of host--TRUE	Helicobacter hepaticus ATCC 51449	strain	BacMap	low	nas	always	1	habitat	multistate-union	235279	colonization of host
+t__242231	colonization of host--TRUE	Neisseria gonorrhoeae FA 1090	strain	BacMap	low	nas	always	1	habitat	multistate-union	242231	colonization of host
+t__242619	colonization of host--TRUE	Porphyromonas gingivalis W83	strain	BacMap	low	nas	always	1	habitat	multistate-union	242619	colonization of host
+t__243160	colonization of host--TRUE	Burkholderia mallei ATCC 23344	strain	BacMap	low	nas	always	1	habitat	multistate-union	243160	colonization of host
+t__243161	colonization of host--TRUE	Chlamydia muridarum str. Nigg	strain	BacMap	low	nas	always	1	habitat	multistate-union	243161	colonization of host
+t__243243	colonization of host--TRUE	Mycobacterium avium 104	strain	BacMap	low	nas	always	1	habitat	multistate-union	243243	colonization of host
+t__243265	colonization of host--TRUE	Photorhabdus laumondii subsp. laumondii TTO1	strain	BacMap	low	nas	always	1	habitat	multistate-union	243265	colonization of host
+t__243272	colonization of host--TRUE	Metamycoplasma arthritidis 158L3-1	strain	BacMap	low	nas	always	1	habitat	multistate-union	243272	colonization of host
+t__243273	colonization of host--TRUE	Mycoplasmoides genitalium G37	strain	BacMap	low	nas	always	1	habitat	multistate-union	243273	colonization of host
+t__243275	colonization of host--TRUE	Treponema denticola ATCC 35405	strain	BacMap	low	nas	always	1	habitat	multistate-union	243275	colonization of host
+t__243276	colonization of host--TRUE	Treponema pallidum subsp. pallidum str. Nichols	strain	BacMap	low	nas	always	1	habitat	multistate-union	243276	colonization of host
+t__246195	colonization of host--TRUE	Dichelobacter nodosus VCS1703A	strain	BacMap	low	nas	always	1	habitat	multistate-union	246195	colonization of host
+t__246196	colonization of host--TRUE	Mycolicibacterium smegmatis MC2 155	strain	BacMap	low	nas	always	1	habitat	multistate-union	246196	colonization of host
+t__254945	colonization of host--TRUE	Ehrlichia ruminantium str. Welgevonden	strain	BacMap	low	nas	always	1	habitat	multistate-union	254945	colonization of host
+t__257310	colonization of host--TRUE	Bordetella bronchiseptica RB50	strain	BacMap	low	nas	always	1	habitat	multistate-union	257310	colonization of host
+t__257311	colonization of host--TRUE	Bordetella parapertussis 12822	strain	BacMap	low	nas	always	1	habitat	multistate-union	257311	colonization of host
+t__257314	colonization of host--TRUE	Lactobacillus johnsonii NCC 533	strain	BacMap	low	nas	always	1	habitat	multistate-union	257314	colonization of host
+t__257363	colonization of host--TRUE	Rickettsia typhi str. Wilmington	strain	BacMap	low	nas	always	1	habitat	multistate-union	257363	colonization of host
+t__262698	colonization of host--TRUE	Brucella abortus bv. 1 str. 9-941	strain	BacMap	low	nas	always	1	habitat	multistate-union	262698	colonization of host
+t__262719	colonization of host--TRUE	Mesomycoplasma hyopneumoniae J	strain	BacMap	low	nas	always	1	habitat	multistate-union	262719	colonization of host
+t__262722	colonization of host--TRUE	Mesomycoplasma hyopneumoniae 7448	strain	BacMap	low	nas	always	1	habitat	multistate-union	262722	colonization of host
+t__262723	colonization of host--TRUE	Mycoplasmopsis synoviae 53	strain	BacMap	low	nas	always	1	habitat	multistate-union	262723	colonization of host
+t__262768	colonization of host--TRUE	Onion yellows phytoplasma OY-M	strain	BacMap	low	nas	always	1	habitat	multistate-union	262768	colonization of host
+t__264201	colonization of host--TRUE	Candidatus Protochlamydia amoebophila UWE25	strain	BacMap	low	nas	always	1	habitat	multistate-union	264201	colonization of host
+t__264202	colonization of host--TRUE	Chlamydia felis Fe/C-56	strain	BacMap	low	nas	always	1	habitat	multistate-union	264202	colonization of host
+t__264731	colonization of host--TRUE	Xylanibacter ruminicola 23	strain	BacMap	low	nas	always	1	habitat	multistate-union	264731	colonization of host
+t__265311	colonization of host--TRUE	Mesoplasma florum L1	strain	BacMap	low	nas	always	1	habitat	multistate-union	265311	colonization of host
+t__267671	colonization of host--TRUE	Leptospira interrogans serovar Copenhageni str. Fiocruz L1-130	strain	BacMap	low	nas	always	1	habitat	multistate-union	267671	colonization of host
+t__267747	colonization of host--TRUE	Cutibacterium acnes KPA171202	strain	BacMap	low	nas	always	1	habitat	multistate-union	267747	colonization of host
+t__267748	colonization of host--TRUE	Mycoplasma mobile 163K	strain	BacMap	low	nas	always	1	habitat	multistate-union	267748	colonization of host
+t__269484	colonization of host--TRUE	Ehrlichia canis str. Jake	strain	BacMap	low	nas	always	1	habitat	multistate-union	269484	colonization of host
+t__272559	colonization of host--TRUE	Bacteroides fragilis NCTC 9343	strain	BacMap	low	nas	always	1	habitat	multistate-union	272559	colonization of host
+t__272561	colonization of host--TRUE	Chlamydia trachomatis D/UW-3/CX	strain	BacMap	low	nas	always	1	habitat	multistate-union	272561	colonization of host
+t__272568	colonization of host--TRUE	Gluconacetobacter diazotrophicus PA1 5	strain	BacMap	low	nas	always	1	habitat	multistate-union	272568	colonization of host
+t__272624	colonization of host--TRUE	Legionella pneumophila subsp. pneumophila str. Philadelphia 1	strain	BacMap	low	nas	always	1	habitat	multistate-union	272624	colonization of host
+t__272631	colonization of host--TRUE	Mycobacterium leprae TN	strain	BacMap	low	nas	always	1	habitat	multistate-union	272631	colonization of host
+t__272633	colonization of host--TRUE	Malacoplasma penetrans HF-2	strain	BacMap	low	nas	always	1	habitat	multistate-union	272633	colonization of host
+t__272634	colonization of host--TRUE	Mycoplasmoides pneumoniae M129	strain	BacMap	low	nas	always	1	habitat	multistate-union	272634	colonization of host
+t__272635	colonization of host--TRUE	Mycoplasmopsis pulmonis UAB CTIP	strain	BacMap	low	nas	always	1	habitat	multistate-union	272635	colonization of host
+t__272831	colonization of host--TRUE	Neisseria meningitidis FAM18	strain	BacMap	low	nas	always	1	habitat	multistate-union	272831	colonization of host
+t__272843	colonization of host--TRUE	Pasteurella multocida subsp. multocida str. Pm70	strain	BacMap	low	nas	always	1	habitat	multistate-union	272843	colonization of host
+t__272944	colonization of host--TRUE	Rickettsia conorii str. Malish 7	strain	BacMap	low	nas	always	1	habitat	multistate-union	272944	colonization of host
+t__272947	colonization of host--TRUE	Rickettsia prowazekii str. Madrid E	strain	BacMap	low	nas	always	1	habitat	multistate-union	272947	colonization of host
+t__273036	colonization of host--TRUE	Staphylococcus aureus RF122	strain	BacMap	low	nas	always	1	habitat	multistate-union	273036	colonization of host
+t__273119	colonization of host--TRUE	Ureaplasma parvum serovar 3 str. ATCC 700970	strain	BacMap	low	nas	always	1	habitat	multistate-union	273119	colonization of host
+t__273121	colonization of host--TRUE	Wolinella succinogenes DSM 1740	strain	BacMap	low	nas	always	1	habitat	multistate-union	273121	colonization of host
+t__279010	colonization of host--TRUE	Bacillus licheniformis DSM 13 = ATCC 14580	strain	BacMap	low	nas	always	1	habitat	multistate-union	279010	colonization of host
+t__279808	colonization of host--TRUE	Staphylococcus haemolyticus JCSC1435	strain	BacMap	low	nas	always	1	habitat	multistate-union	279808	colonization of host
+t__281090	colonization of host--TRUE	Leifsonia xyli subsp. xyli str. CTCB07	strain	BacMap	low	nas	always	1	habitat	multistate-union	281090	colonization of host
+t__281310	colonization of host--TRUE	Haemophilus influenzae 86-028NP	strain	BacMap	low	nas	always	1	habitat	multistate-union	281310	colonization of host
+t__282458	colonization of host--TRUE	Staphylococcus aureus subsp. aureus MRSA252	strain	BacMap	low	nas	always	1	habitat	multistate-union	282458	colonization of host
+t__282459	colonization of host--TRUE	Staphylococcus aureus subsp. aureus MSSA476	strain	BacMap	low	nas	always	1	habitat	multistate-union	282459	colonization of host
+t__283165	colonization of host--TRUE	Bartonella quintana str. Toulouse	strain	BacMap	low	nas	always	1	habitat	multistate-union	283165	colonization of host
+t__283166	colonization of host--TRUE	Bartonella henselae str. Houston-1	strain	BacMap	low	nas	always	1	habitat	multistate-union	283166	colonization of host
+t__286636	colonization of host--TRUE	Streptococcus pyogenes MGAS10394	strain	BacMap	low	nas	always	1	habitat	multistate-union	286636	colonization of host
+t__288705	colonization of host--TRUE	Renibacterium salmoninarum ATCC 33209	strain	BacMap	low	nas	always	1	habitat	multistate-union	288705	colonization of host
+t__289380	colonization of host--TRUE	Clostridium perfringens SM101	strain	BacMap	low	nas	always	1	habitat	multistate-union	289380	colonization of host
+t__289397	colonization of host--TRUE	Mycoplasmopsis bovis PG45	strain	BacMap	low	nas	always	1	habitat	multistate-union	289397	colonization of host
+t__290339	colonization of host--TRUE	Cronobacter sakazakii ATCC BAA-894	strain	BacMap	low	nas	always	1	habitat	multistate-union	290339	colonization of host
+t__290434	colonization of host--TRUE	Borreliella bavariensis PBi	strain	BacMap	low	nas	always	1	habitat	multistate-union	290434	colonization of host
+t__291272	colonization of host--TRUE	Candidatus Blochmanniella pennsylvanica str. BPEN	strain	BacMap	low	nas	always	1	habitat	multistate-union	291272	colonization of host
+t__291331	colonization of host--TRUE	Xanthomonas oryzae pv. oryzae KACC 10331	strain	BacMap	low	nas	always	1	habitat	multistate-union	291331	colonization of host
+t__292805	colonization of host--TRUE	Wolbachia endosymbiont strain TRS of Brugia malayi	strain	BacMap	low	nas	always	1	habitat	multistate-union	292805	colonization of host
+t__293613	colonization of host--TRUE	Rickettsia canadensis str. McKiel	strain	BacMap	low	nas	always	1	habitat	multistate-union	293613	colonization of host
+t__293614	colonization of host--TRUE	Rickettsia akari str. Hartford	strain	BacMap	low	nas	always	1	habitat	multistate-union	293614	colonization of host
+t__293653	colonization of host--TRUE	Streptococcus pyogenes MGAS5005	strain	BacMap	low	nas	always	1	habitat	multistate-union	293653	colonization of host
+t__295319	colonization of host--TRUE	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150	strain	BacMap	low	nas	always	1	habitat	multistate-union	295319	colonization of host
+t__295358	colonization of host--TRUE	Mesomycoplasma hyopneumoniae 232	strain	BacMap	low	nas	always	1	habitat	multistate-union	295358	colonization of host
+t__295405	colonization of host--TRUE	Bacteroides fragilis YCH46	strain	BacMap	low	nas	always	1	habitat	multistate-union	295405	colonization of host
+t__297245	colonization of host--TRUE	Legionella pneumophila str. Lens	strain	BacMap	low	nas	always	1	habitat	multistate-union	297245	colonization of host
+t__297246	colonization of host--TRUE	Legionella pneumophila str. Paris	strain	BacMap	low	nas	always	1	habitat	multistate-union	297246	colonization of host
+t__300267	colonization of host--TRUE	Shigella dysenteriae Sd197	strain	BacMap	low	nas	always	1	habitat	multistate-union	300267	colonization of host
+t__300268	colonization of host--TRUE	Shigella boydii Sb227	strain	BacMap	low	nas	always	1	habitat	multistate-union	300268	colonization of host
+t__300269	colonization of host--TRUE	Shigella sonnei Ss046	strain	BacMap	low	nas	always	1	habitat	multistate-union	300269	colonization of host
+t__302409	colonization of host--TRUE	Ehrlichia ruminantium str. Gardel	strain	BacMap	low	nas	always	1	habitat	multistate-union	302409	colonization of host
+t__314565	colonization of host--TRUE	Xanthomonas campestris pv. campestris str. 8004	strain	BacMap	low	nas	always	1	habitat	multistate-union	314565	colonization of host
+t__314723	colonization of host--TRUE	Borrelia hermsii DAH	strain	BacMap	low	nas	always	1	habitat	multistate-union	314723	colonization of host
+t__314724	colonization of host--TRUE	Borrelia turicatae 91E135	strain	BacMap	low	nas	always	1	habitat	multistate-union	314724	colonization of host
+t__315277	colonization of host--TRUE	Chlamydia trachomatis A/HAR-13	strain	BacMap	low	nas	always	1	habitat	multistate-union	315277	colonization of host
+t__315456	colonization of host--TRUE	Rickettsia felis Marseille-URRWFXCal2	strain	BacMap	low	nas	always	1	habitat	multistate-union	315456	colonization of host
+t__316273	colonization of host--TRUE	Xanthomonas euvesicatoria pv. vesicatoria str. 85-10	strain	BacMap	low	nas	always	1	habitat	multistate-union	316273	colonization of host
+t__319701	colonization of host--TRUE	Streptococcus pyogenes MGAS6180	strain	BacMap	low	nas	always	1	habitat	multistate-union	319701	colonization of host
+t__320388	colonization of host--TRUE	Burkholderia mallei SAVP1	strain	BacMap	low	nas	always	1	habitat	multistate-union	320388	colonization of host
+t__320389	colonization of host--TRUE	Burkholderia mallei NCTC 10247	strain	BacMap	low	nas	always	1	habitat	multistate-union	320389	colonization of host
+t__320483	colonization of host--TRUE	Anaplasma marginale str. Florida	strain	BacMap	low	nas	always	1	habitat	multistate-union	320483	colonization of host
+t__321314	colonization of host--TRUE	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67	strain	BacMap	low	nas	always	1	habitat	multistate-union	321314	colonization of host
+t__322098	colonization of host--TRUE	Aster yellows witches'-broom phytoplasma AYWB	strain	BacMap	low	nas	always	1	habitat	multistate-union	322098	colonization of host
+t__324831	colonization of host--TRUE	Lactobacillus gasseri ATCC 33323 = JCM 1131	strain	BacMap	low	nas	always	1	habitat	multistate-union	324831	colonization of host
+t__326424	colonization of host--TRUE	Frankia alni ACN14a	strain	BacMap	low	nas	always	1	habitat	multistate-union	326424	colonization of host
+t__331104	colonization of host--TRUE	Blattabacterium sp. (Blattella germanica) str. Bge	strain	BacMap	low	nas	always	1	habitat	multistate-union	331104	colonization of host
+t__331111	colonization of host--TRUE	Escherichia coli O139:H28 str. E24377A	strain	BacMap	low	nas	always	1	habitat	multistate-union	331111	colonization of host
+t__331112	colonization of host--TRUE	Escherichia coli HS	strain	BacMap	low	nas	always	1	habitat	multistate-union	331112	colonization of host
+t__331113	colonization of host--TRUE	Simkania negevensis Z	strain	BacMap	low	nas	always	1	habitat	multistate-union	331113	colonization of host
+t__331271	colonization of host--TRUE	Burkholderia orbicola AU 1054	strain	BacMap	low	nas	always	1	habitat	multistate-union	331271	colonization of host
+t__331272	colonization of host--TRUE	Burkholderia cenocepacia HI2424	strain	BacMap	low	nas	always	1	habitat	multistate-union	331272	colonization of host
+t__331635	colonization of host--TRUE	Chlamydia pecorum E58	strain	BacMap	low	nas	always	1	habitat	multistate-union	331635	colonization of host
+t__331636	colonization of host--TRUE	Chlamydia psittaci 6BC	strain	BacMap	low	nas	always	1	habitat	multistate-union	331636	colonization of host
+t__334380	colonization of host--TRUE	Orientia tsutsugamushi str. Ikeda	strain	BacMap	low	nas	always	1	habitat	multistate-union	334380	colonization of host
+t__336407	colonization of host--TRUE	Rickettsia bellii RML369-C	strain	BacMap	low	nas	always	1	habitat	multistate-union	336407	colonization of host
+t__336982	colonization of host--TRUE	Mycobacterium tuberculosis F11	strain	BacMap	low	nas	always	1	habitat	multistate-union	336982	colonization of host
+t__339671	colonization of host--TRUE	Actinobacillus succinogenes 130Z	strain	BacMap	low	nas	always	1	habitat	multistate-union	339671	colonization of host
+t__339860	colonization of host--TRUE	Methanosphaera stadtmanae DSM 3091	strain	BacMap	low	nas	always	1	habitat	multistate-union	339860	colonization of host
+t__340047	colonization of host--TRUE	Mycoplasma capricolum subsp. capricolum ATCC 27343	strain	BacMap	low	nas	always	1	habitat	multistate-union	340047	colonization of host
+t__342109	colonization of host--TRUE	Xanthomonas oryzae pv. oryzae MAFF 311018	strain	BacMap	low	nas	always	1	habitat	multistate-union	342109	colonization of host
+t__342451	colonization of host--TRUE	Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305 = NCTC 7292	strain	BacMap	low	nas	always	1	habitat	multistate-union	342451	colonization of host
+t__343509	colonization of host--TRUE	Sodalis glossinidius str. 'morsitans'	strain	BacMap	low	nas	always	1	habitat	multistate-union	343509	colonization of host
+t__344609	colonization of host--TRUE	Shigella boydii CDC 3083-94	strain	BacMap	low	nas	always	1	habitat	multistate-union	344609	colonization of host
+t__347255	colonization of host--TRUE	Rickettsia africae ESF-5	strain	BacMap	low	nas	always	1	habitat	multistate-union	347255	colonization of host
+t__347257	colonization of host--TRUE	Mycoplasmopsis agalactiae PG2	strain	BacMap	low	nas	always	1	habitat	multistate-union	347257	colonization of host
+t__347834	colonization of host--TRUE	Rhizobium etli CFN 42	strain	BacMap	low	nas	always	1	habitat	multistate-union	347834	colonization of host
+t__349741	colonization of host--TRUE	Akkermansia muciniphila ATCC BAA-835	strain	BacMap	low	nas	always	1	habitat	multistate-union	349741	colonization of host
+t__351160	colonization of host--TRUE	Methanocella arvoryzae MRE50	strain	BacMap	low	nas	always	1	habitat	multistate-union	351160	colonization of host
+t__355276	colonization of host--TRUE	Leptospira borgpetersenii serovar Hardjo-bovis str. L550	strain	BacMap	low	nas	always	1	habitat	multistate-union	355276	colonization of host
+t__355277	colonization of host--TRUE	Leptospira borgpetersenii serovar Hardjo-bovis str. JB197	strain	BacMap	low	nas	always	1	habitat	multistate-union	355277	colonization of host
+t__357244	colonization of host--TRUE	Orientia tsutsugamushi str. Boryong	strain	BacMap	low	nas	always	1	habitat	multistate-union	357244	colonization of host
+t__357544	colonization of host--TRUE	Helicobacter pylori HPAG1	strain	BacMap	low	nas	always	1	habitat	multistate-union	357544	colonization of host
+t__359391	colonization of host--TRUE	Brucella abortus 2308	strain	BacMap	low	nas	always	1	habitat	multistate-union	359391	colonization of host
+t__359786	colonization of host--TRUE	Staphylococcus aureus subsp. aureus JH9	strain	BacMap	low	nas	always	1	habitat	multistate-union	359786	colonization of host
+t__359787	colonization of host--TRUE	Staphylococcus aureus subsp. aureus JH1	strain	BacMap	low	nas	always	1	habitat	multistate-union	359787	colonization of host
+t__360094	colonization of host--TRUE	Xanthomonas oryzae pv. oryzae PXO99A	strain	BacMap	low	nas	always	1	habitat	multistate-union	360094	colonization of host
+t__360095	colonization of host--TRUE	Bartonella bacilliformis KC583	strain	BacMap	low	nas	always	1	habitat	multistate-union	360095	colonization of host
+t__360104	colonization of host--TRUE	Campylobacter concisus 13826	strain	BacMap	low	nas	always	1	habitat	multistate-union	360104	colonization of host
+t__360105	colonization of host--TRUE	Campylobacter curvus 525.92	strain	BacMap	low	nas	always	1	habitat	multistate-union	360105	colonization of host
+t__360106	colonization of host--TRUE	Campylobacter fetus subsp. fetus 82-40	strain	BacMap	low	nas	always	1	habitat	multistate-union	360106	colonization of host
+t__360107	colonization of host--TRUE	Campylobacter hominis ATCC BAA-381	strain	BacMap	low	nas	always	1	habitat	multistate-union	360107	colonization of host
+t__360910	colonization of host--TRUE	Bordetella avium 197N	strain	BacMap	low	nas	always	1	habitat	multistate-union	360910	colonization of host
+t__362242	colonization of host--TRUE	Mycobacterium ulcerans Agy99	strain	BacMap	low	nas	always	1	habitat	multistate-union	362242	colonization of host
+t__362663	colonization of host--TRUE	Escherichia coli 536	strain	BacMap	low	nas	always	1	habitat	multistate-union	362663	colonization of host
+t__362948	colonization of host--TRUE	Ligilactobacillus salivarius UCC118	strain	BacMap	low	nas	always	1	habitat	multistate-union	362948	colonization of host
+t__363253	colonization of host--TRUE	Lawsonia intracellularis PHE/MN1-00	strain	BacMap	low	nas	always	1	habitat	multistate-union	363253	colonization of host
+t__364106	colonization of host--TRUE	Escherichia coli UTI89	strain	BacMap	low	nas	always	1	habitat	multistate-union	364106	colonization of host
+t__365659	colonization of host--TRUE	Streptococcus mitis B6	strain	BacMap	low	nas	always	1	habitat	multistate-union	365659	colonization of host
+t__367928	colonization of host--TRUE	Bifidobacterium adolescentis ATCC 15703	strain	BacMap	low	nas	always	1	habitat	multistate-union	367928	colonization of host
+t__370551	colonization of host--TRUE	Streptococcus pyogenes MGAS9429	strain	BacMap	low	nas	always	1	habitat	multistate-union	370551	colonization of host
+t__370552	colonization of host--TRUE	Streptococcus pyogenes MGAS10270	strain	BacMap	low	nas	always	1	habitat	multistate-union	370552	colonization of host
+t__370553	colonization of host--TRUE	Streptococcus pyogenes MGAS2096	strain	BacMap	low	nas	always	1	habitat	multistate-union	370553	colonization of host
+t__370554	colonization of host--TRUE	Streptococcus pyogenes MGAS10750	strain	BacMap	low	nas	always	1	habitat	multistate-union	370554	colonization of host
+t__372461	colonization of host--TRUE	Buchnera aphidicola BCc	strain	BacMap	low	nas	always	1	habitat	multistate-union	372461	colonization of host
+t__373384	colonization of host--TRUE	Shigella flexneri 5 str. 8401	strain	BacMap	low	nas	always	1	habitat	multistate-union	373384	colonization of host
+t__374463	colonization of host--TRUE	Baumannia cicadellinicola str. Hc (Homalodisca coagulata)	strain	BacMap	low	nas	always	1	habitat	multistate-union	374463	colonization of host
+t__374833	colonization of host--TRUE	Neisseria meningitidis 053442	strain	BacMap	low	nas	always	1	habitat	multistate-union	374833	colonization of host
+t__374930	colonization of host--TRUE	Haemophilus influenzae PittEE	strain	BacMap	low	nas	always	1	habitat	multistate-union	374930	colonization of host
+t__374931	colonization of host--TRUE	Haemophilus influenzae PittGG	strain	BacMap	low	nas	always	1	habitat	multistate-union	374931	colonization of host
+t__376619	colonization of host--TRUE	Francisella tularensis subsp. holarctica LVS	strain	BacMap	low	nas	always	1	habitat	multistate-union	376619	colonization of host
+t__377629	colonization of host--TRUE	Teredinibacter turnerae T7901	strain	BacMap	low	nas	always	1	habitat	multistate-union	377629	colonization of host
+t__379731	colonization of host--TRUE	Stutzerimonas stutzeri A1501	strain	BacMap	low	nas	always	1	habitat	multistate-union	379731	colonization of host
+t__382638	colonization of host--TRUE	Helicobacter acinonychis str. Sheeba	strain	BacMap	low	nas	always	1	habitat	multistate-union	382638	colonization of host
+t__382640	colonization of host--TRUE	Bartonella tribocorum CIP 105476	strain	BacMap	low	nas	always	1	habitat	multistate-union	382640	colonization of host
+t__386585	colonization of host--TRUE	Escherichia coli O157:H7 str. Sakai	strain	BacMap	low	nas	always	1	habitat	multistate-union	386585	colonization of host
+t__388919	colonization of host--TRUE	Streptococcus sanguinis SK36	strain	BacMap	low	nas	always	1	habitat	multistate-union	388919	colonization of host
+t__390236	colonization of host--TRUE	Borreliella afzelii PKo	strain	BacMap	low	nas	always	1	habitat	multistate-union	390236	colonization of host
+t__391009	colonization of host--TRUE	Thermosipho melanesiensis BI429	strain	BacMap	low	nas	always	1	habitat	multistate-union	391009	colonization of host
+t__391038	colonization of host--TRUE	Paraburkholderia phymatum STM815	strain	BacMap	low	nas	always	1	habitat	multistate-union	391038	colonization of host
+t__391735	colonization of host--TRUE	Verminephrobacter eiseniae EF01-2	strain	BacMap	low	nas	always	1	habitat	multistate-union	391735	colonization of host
+t__391896	colonization of host--TRUE	Rickettsia bellii OSU 85-389	strain	BacMap	low	nas	always	1	habitat	multistate-union	391896	colonization of host
+t__391904	colonization of host--TRUE	Bifidobacterium longum subsp. infantis ATCC 15697 = JCM 1222 = DSM 20088	strain	BacMap	low	nas	always	1	habitat	multistate-union	391904	colonization of host
+t__392021	colonization of host--TRUE	Rickettsia rickettsii str. 'Sheila Smith'	strain	BacMap	low	nas	always	1	habitat	multistate-union	392021	colonization of host
+t__394	colonization of host--TRUE	Sinorhizobium fredii NGR234	strain	BacMap	low	nas	always	1	habitat	multistate-union	394	colonization of host
+t__395019	colonization of host--TRUE	Burkholderia multivorans ATCC 17616	strain	BacMap	low	nas	always	1	habitat	multistate-union	395019	colonization of host
+t__395491	colonization of host--TRUE	Rhizobium leguminosarum bv. trifolii WSM1325	strain	BacMap	low	nas	always	1	habitat	multistate-union	395491	colonization of host
+t__395492	colonization of host--TRUE	Rhizobium leguminosarum bv. trifolii WSM2304	strain	BacMap	low	nas	always	1	habitat	multistate-union	395492	colonization of host
+t__398579	colonization of host--TRUE	Shewanella pealeana ATCC 700345	strain	BacMap	low	nas	always	1	habitat	multistate-union	398579	colonization of host
+t__400673	colonization of host--TRUE	Legionella pneumophila str. Corby	strain	BacMap	low	nas	always	1	habitat	multistate-union	400673	colonization of host
+t__401473	colonization of host--TRUE	Bifidobacterium dentium Bd1	strain	BacMap	low	nas	always	1	habitat	multistate-union	401473	colonization of host
+t__405440	colonization of host--TRUE	Xylella fastidiosa M12	strain	BacMap	low	nas	always	1	habitat	multistate-union	405440	colonization of host
+t__405441	colonization of host--TRUE	Xylella fastidiosa M23	strain	BacMap	low	nas	always	1	habitat	multistate-union	405441	colonization of host
+t__405955	colonization of host--TRUE	Escherichia coli APEC O1	strain	BacMap	low	nas	always	1	habitat	multistate-union	405955	colonization of host
+t__406817	colonization of host--TRUE	Xenorhabdus nematophila ATCC 19061	strain	BacMap	low	nas	always	1	habitat	multistate-union	406817	colonization of host
+t__406818	colonization of host--TRUE	Xenorhabdus bovienii SS-2004	strain	BacMap	low	nas	always	1	habitat	multistate-union	406818	colonization of host
+t__409438	colonization of host--TRUE	Escherichia coli SE11	strain	BacMap	low	nas	always	1	habitat	multistate-union	409438	colonization of host
+t__410289	colonization of host--TRUE	Mycobacterium tuberculosis variant bovis BCG str. Pasteur 1173P2	strain	BacMap	low	nas	always	1	habitat	multistate-union	410289	colonization of host
+t__412022	colonization of host--TRUE	Burkholderia mallei NCTC 10229	strain	BacMap	low	nas	always	1	habitat	multistate-union	412022	colonization of host
+t__412418	colonization of host--TRUE	Borrelia recurrentis A1	strain	BacMap	low	nas	always	1	habitat	multistate-union	412418	colonization of host
+t__412419	colonization of host--TRUE	Borrelia duttonii Ly	strain	BacMap	low	nas	always	1	habitat	multistate-union	412419	colonization of host
+t__413404	colonization of host--TRUE	Candidatus Ruthia magnifica str. Cm (Calyptogena magnifica)	strain	BacMap	low	nas	always	1	habitat	multistate-union	413404	colonization of host
+t__416269	colonization of host--TRUE	Actinobacillus pleuropneumoniae serovar 5b str. L20	strain	BacMap	low	nas	always	1	habitat	multistate-union	416269	colonization of host
+t__416276	colonization of host--TRUE	Rickettsia massiliae MTU5	strain	BacMap	low	nas	always	1	habitat	multistate-union	416276	colonization of host
+t__418127	colonization of host--TRUE	Staphylococcus aureus subsp. aureus Mu3	strain	BacMap	low	nas	always	1	habitat	multistate-union	418127	colonization of host
+t__418136	colonization of host--TRUE	Francisella tularensis subsp. tularensis WY96-3418	strain	BacMap	low	nas	always	1	habitat	multistate-union	418136	colonization of host
+t__419947	colonization of host--TRUE	Mycobacterium tuberculosis H37Ra	strain	BacMap	low	nas	always	1	habitat	multistate-union	419947	colonization of host
+t__423212	colonization of host--TRUE	Legionella pneumophila 2300/99 Alcoy	strain	BacMap	low	nas	always	1	habitat	multistate-union	423212	colonization of host
+t__426355	colonization of host--TRUE	Methylobacterium radiotolerans JCM 2831	strain	BacMap	low	nas	always	1	habitat	multistate-union	426355	colonization of host
+t__426430	colonization of host--TRUE	Staphylococcus aureus subsp. aureus str. Newman	strain	BacMap	low	nas	always	1	habitat	multistate-union	426430	colonization of host
+t__431947	colonization of host--TRUE	Porphyromonas gingivalis ATCC 33277	strain	BacMap	low	nas	always	1	habitat	multistate-union	431947	colonization of host
+t__434131	colonization of host--TRUE	Neorickettsia risticii str. Illinois	strain	BacMap	low	nas	always	1	habitat	multistate-union	434131	colonization of host
+t__434271	colonization of host--TRUE	Actinobacillus pleuropneumoniae serovar 3 str. JL03	strain	BacMap	low	nas	always	1	habitat	multistate-union	434271	colonization of host
+t__434922	colonization of host--TRUE	Coxiella burnetii Dugway 5J108-111	strain	BacMap	low	nas	always	1	habitat	multistate-union	434922	colonization of host
+t__435590	colonization of host--TRUE	Phocaeicola vulgatus ATCC 8482	strain	BacMap	low	nas	always	1	habitat	multistate-union	435590	colonization of host
+t__435591	colonization of host--TRUE	Parabacteroides distasonis ATCC 8503	strain	BacMap	low	nas	always	1	habitat	multistate-union	435591	colonization of host
+t__438753	colonization of host--TRUE	Azorhizobium caulinodans ORS 571	strain	BacMap	low	nas	always	1	habitat	multistate-union	438753	colonization of host
+t__441620	colonization of host--TRUE	Methylorubrum populi BJ001	strain	BacMap	low	nas	always	1	habitat	multistate-union	441620	colonization of host
+t__441952	colonization of host--TRUE	Francisella tularensis subsp. mediasiatica FSC147	strain	BacMap	low	nas	always	1	habitat	multistate-union	441952	colonization of host
+t__444178	colonization of host--TRUE	Brucella ovis ATCC 25840	strain	BacMap	low	nas	always	1	habitat	multistate-union	444178	colonization of host
+t__444179	colonization of host--TRUE	Candidatus Karelsulcia muelleri GWSS	strain	BacMap	low	nas	always	1	habitat	multistate-union	444179	colonization of host
+t__445932	colonization of host--TRUE	Elusimicrobium minutum Pei191	strain	BacMap	low	nas	always	1	habitat	multistate-union	445932	colonization of host
+t__445985	colonization of host--TRUE	Borreliella burgdorferi ZS7	strain	BacMap	low	nas	always	1	habitat	multistate-union	445985	colonization of host
+t__446469	colonization of host--TRUE	Sanguibacter keddieii DSM 10542	strain	BacMap	low	nas	always	1	habitat	multistate-union	446469	colonization of host
+t__450851	colonization of host--TRUE	Phenylobacterium zucineum HLK1	strain	BacMap	low	nas	always	1	habitat	multistate-union	450851	colonization of host
+t__452471	colonization of host--TRUE	Candidatus Amoebophilus asiaticus 5a2	strain	BacMap	low	nas	always	1	habitat	multistate-union	452471	colonization of host
+t__452638	colonization of host--TRUE	Polynucleobacter necessarius STIR1	strain	BacMap	low	nas	always	1	habitat	multistate-union	452638	colonization of host
+t__452659	colonization of host--TRUE	Rickettsia rickettsii str. Iowa	strain	BacMap	low	nas	always	1	habitat	multistate-union	452659	colonization of host
+t__455434	colonization of host--TRUE	Treponema pallidum subsp. pallidum SS14	strain	BacMap	low	nas	always	1	habitat	multistate-union	455434	colonization of host
+t__460265	colonization of host--TRUE	Methylobacterium nodulans ORS 2060	strain	BacMap	low	nas	always	1	habitat	multistate-union	460265	colonization of host
+t__465817	colonization of host--TRUE	Erwinia tasmaniensis Et1/99	strain	BacMap	low	nas	always	1	habitat	multistate-union	465817	colonization of host
+t__469378	colonization of host--TRUE	Cryptobacterium curtum DSM 15641	strain	BacMap	low	nas	always	1	habitat	multistate-union	469378	colonization of host
+t__470137	colonization of host--TRUE	Brucella suis ATCC 23445	strain	BacMap	low	nas	always	1	habitat	multistate-union	470137	colonization of host
+t__471472	colonization of host--TRUE	Chlamydia trachomatis L2/434/Bu	strain	BacMap	low	nas	always	1	habitat	multistate-union	471472	colonization of host
+t__471473	colonization of host--TRUE	Chlamydia trachomatis L2b/UCH-1/proctitis	strain	BacMap	low	nas	always	1	habitat	multistate-union	471473	colonization of host
+t__471854	colonization of host--TRUE	Dyadobacter fermentans DSM 18053	strain	BacMap	low	nas	always	1	habitat	multistate-union	471854	colonization of host
+t__471856	colonization of host--TRUE	Jonesia denitrificans DSM 20603	strain	BacMap	low	nas	always	1	habitat	multistate-union	471856	colonization of host
+t__471876	colonization of host--TRUE	Streptococcus pyogenes NZ131	strain	BacMap	low	nas	always	1	habitat	multistate-union	471876	colonization of host
+t__476213	colonization of host--TRUE	Salmonella enterica subsp. enterica serovar Paratyphi C str. RKS4594	strain	BacMap	low	nas	always	1	habitat	multistate-union	476213	colonization of host
+t__478434	colonization of host--TRUE	Mycobacterium tuberculosis KZN 1435	strain	BacMap	low	nas	always	1	habitat	multistate-union	478434	colonization of host
+t__479436	colonization of host--TRUE	Veillonella parvula DSM 2008	strain	BacMap	low	nas	always	1	habitat	multistate-union	479436	colonization of host
+t__479437	colonization of host--TRUE	Eggerthella lenta DSM 2243	strain	BacMap	low	nas	always	1	habitat	multistate-union	479437	colonization of host
+t__481805	colonization of host--TRUE	Escherichia coli ATCC 8739	strain	BacMap	low	nas	always	1	habitat	multistate-union	481805	colonization of host
+t__483179	colonization of host--TRUE	Brucella canis ATCC 23365	strain	BacMap	low	nas	always	1	habitat	multistate-union	483179	colonization of host
+t__486410	colonization of host--TRUE	Streptococcus dysgalactiae subsp. equisimilis GGS_124	strain	BacMap	low	nas	always	1	habitat	multistate-union	486410	colonization of host
+t__489653	colonization of host--TRUE	Neisseria lactamica 020-06	strain	BacMap	low	nas	always	1	habitat	multistate-union	489653	colonization of host
+t__491916	colonization of host--TRUE	Rhizobium etli CIAT 652	strain	BacMap	low	nas	always	1	habitat	multistate-union	491916	colonization of host
+t__504474	colonization of host--TRUE	Corynebacterium urealyticum DSM 7109	strain	BacMap	low	nas	always	1	habitat	multistate-union	504474	colonization of host
+t__505682	colonization of host--TRUE	Ureaplasma parvum serovar 3 str. ATCC 27815	strain	BacMap	low	nas	always	1	habitat	multistate-union	505682	colonization of host
+t__507522	colonization of host--TRUE	Klebsiella variicola 342	strain	BacMap	low	nas	always	1	habitat	multistate-union	507522	colonization of host
+t__509169	colonization of host--TRUE	Xanthomonas campestris pv. campestris str. B100	strain	BacMap	low	nas	always	1	habitat	multistate-union	509169	colonization of host
+t__511691	colonization of host--TRUE	Streptococcus mutans NN2025	strain	BacMap	low	nas	always	1	habitat	multistate-union	511691	colonization of host
+t__512562	colonization of host--TRUE	Helicobacter pylori Shi470	strain	BacMap	low	nas	always	1	habitat	multistate-union	512562	colonization of host
+t__512564	colonization of host--TRUE	Mycoplasma crocodyli MP145	strain	BacMap	low	nas	always	1	habitat	multistate-union	512564	colonization of host
+t__512566	colonization of host--TRUE	Streptococcus pneumoniae G54	strain	BacMap	low	nas	always	1	habitat	multistate-union	512566	colonization of host
+t__515618	colonization of host--TRUE	Candidatus Riesia pediculicola USDA	strain	BacMap	low	nas	always	1	habitat	multistate-union	515618	colonization of host
+t__515619	colonization of host--TRUE	Agathobacter rectalis ATCC 33656	strain	BacMap	low	nas	always	1	habitat	multistate-union	515619	colonization of host
+t__515620	colonization of host--TRUE	Lachnospira eligens ATCC 27750	strain	BacMap	low	nas	always	1	habitat	multistate-union	515620	colonization of host
+t__515622	colonization of host--TRUE	Butyrivibrio proteoclasticus B316	strain	BacMap	low	nas	always	1	habitat	multistate-union	515622	colonization of host
+t__519441	colonization of host--TRUE	Streptobacillus moniliformis DSM 12112	strain	BacMap	low	nas	always	1	habitat	multistate-union	519441	colonization of host
+t__521006	colonization of host--TRUE	Neisseria gonorrhoeae NCCP11945	strain	BacMap	low	nas	always	1	habitat	multistate-union	521006	colonization of host
+t__521010	colonization of host--TRUE	Borreliella bissettiae DN127	strain	BacMap	low	nas	always	1	habitat	multistate-union	521010	colonization of host
+t__521095	colonization of host--TRUE	Lancefieldella parvula DSM 20469	strain	BacMap	low	nas	always	1	habitat	multistate-union	521095	colonization of host
+t__521097	colonization of host--TRUE	Capnocytophaga ochracea DSM 7271	strain	BacMap	low	nas	always	1	habitat	multistate-union	521097	colonization of host
+t__523794	colonization of host--TRUE	Leptotrichia buccalis C-1013-b	strain	BacMap	low	nas	always	1	habitat	multistate-union	523794	colonization of host
+t__525284	colonization of host--TRUE	Gardnerella vaginalis ATCC 14019	strain	BacMap	low	nas	always	1	habitat	multistate-union	525284	colonization of host
+t__525381	colonization of host--TRUE	Streptococcus pneumoniae TCH8431/19A	strain	BacMap	low	nas	always	1	habitat	multistate-union	525381	colonization of host
+t__525919	colonization of host--TRUE	Anaerococcus prevotii DSM 20548	strain	BacMap	low	nas	always	1	habitat	multistate-union	525919	colonization of host
+t__526218	colonization of host--TRUE	Sebaldella termitidis ATCC 33386	strain	BacMap	low	nas	always	1	habitat	multistate-union	526218	colonization of host
+t__526224	colonization of host--TRUE	Brachyspira murdochii DSM 12563	strain	BacMap	low	nas	always	1	habitat	multistate-union	526224	colonization of host
+t__526226	colonization of host--TRUE	Gordonia bronchialis DSM 43247	strain	BacMap	low	nas	always	1	habitat	multistate-union	526226	colonization of host
+t__529507	colonization of host--TRUE	Proteus mirabilis HI4320	strain	BacMap	low	nas	always	1	habitat	multistate-union	529507	colonization of host
+t__536019	colonization of host--TRUE	Mesorhizobium opportunistum WSM2075	strain	BacMap	low	nas	always	1	habitat	multistate-union	536019	colonization of host
+t__537021	colonization of host--TRUE	Candidatus Liberibacter asiaticus str. psy62	strain	BacMap	low	nas	always	1	habitat	multistate-union	537021	colonization of host
+t__537457	colonization of host--TRUE	Actinobacillus pleuropneumoniae serovar 7 str. AP76	strain	BacMap	low	nas	always	1	habitat	multistate-union	537457	colonization of host
+t__545694	colonization of host--TRUE	Treponema primitia ZAS-2	strain	BacMap	low	nas	always	1	habitat	multistate-union	545694	colonization of host
+t__545695	colonization of host--TRUE	Leadbettera azotonutricia ZAS-9	strain	BacMap	low	nas	always	1	habitat	multistate-union	545695	colonization of host
+t__545776	colonization of host--TRUE	Treponema paraluiscuniculi Cuniculi A	strain	BacMap	low	nas	always	1	habitat	multistate-union	545776	colonization of host
+t__546271	colonization of host--TRUE	Selenomonas sputigena ATCC 35185	strain	BacMap	low	nas	always	1	habitat	multistate-union	546271	colonization of host
+t__546272	colonization of host--TRUE	Brucella melitensis ATCC 23457	strain	BacMap	low	nas	always	1	habitat	multistate-union	546272	colonization of host
+t__548476	colonization of host--TRUE	Corynebacterium aurimucosum ATCC 700975	strain	BacMap	low	nas	always	1	habitat	multistate-union	548476	colonization of host
+t__548479	colonization of host--TRUE	Mobiluncus curtisii ATCC 43063	strain	BacMap	low	nas	always	1	habitat	multistate-union	548479	colonization of host
+t__552536	colonization of host--TRUE	Listeria monocytogenes HCC23	strain	BacMap	low	nas	always	1	habitat	multistate-union	552536	colonization of host
+t__553174	colonization of host--TRUE	Prevotella melaninogenica ATCC 25845	strain	BacMap	low	nas	always	1	habitat	multistate-union	553174	colonization of host
+t__553190	colonization of host--TRUE	Gardnerella vaginalis 409-05	strain	BacMap	low	nas	always	1	habitat	multistate-union	553190	colonization of host
+t__553199	colonization of host--TRUE	Cutibacterium acnes SK137	strain	BacMap	low	nas	always	1	habitat	multistate-union	553199	colonization of host
+t__553480	colonization of host--TRUE	Photorhabdus asymbiotica subsp. asymbiotica ATCC 43949	strain	BacMap	low	nas	always	1	habitat	multistate-union	553480	colonization of host
+t__553482	colonization of host--TRUE	Streptococcus equi subsp. equi 4047	strain	BacMap	low	nas	always	1	habitat	multistate-union	553482	colonization of host
+t__557433	colonization of host--TRUE	Limosilactobacillus reuteri subsp. reuteri JCM 1112	strain	BacMap	low	nas	always	1	habitat	multistate-union	557433	colonization of host
+t__557598	colonization of host--TRUE	Laribacter hongkongensis HLHK9	strain	BacMap	low	nas	always	1	habitat	multistate-union	557598	colonization of host
+t__557723	colonization of host--TRUE	Glaesserella parasuis SH0165	strain	BacMap	low	nas	always	1	habitat	multistate-union	557723	colonization of host
+t__561230	colonization of host--TRUE	Pectobacterium carotovorum subsp. carotovorum PC1	strain	BacMap	low	nas	always	1	habitat	multistate-union	561230	colonization of host
+t__561275	colonization of host--TRUE	Mycobacterium tuberculosis variant bovis BCG str. Tokyo 172	strain	BacMap	low	nas	always	1	habitat	multistate-union	561275	colonization of host
+t__561304	colonization of host--TRUE	Mycobacterium leprae Br4923	strain	BacMap	low	nas	always	1	habitat	multistate-union	561304	colonization of host
+t__561501	colonization of host--TRUE	Buchnera aphidicola str. Tuc7 (Acyrthosiphon pisum)	strain	BacMap	low	nas	always	1	habitat	multistate-union	561501	colonization of host
+t__562019	colonization of host--TRUE	Rickettsia peacockii str. Rustic	strain	BacMap	low	nas	always	1	habitat	multistate-union	562019	colonization of host
+t__563041	colonization of host--TRUE	Helicobacter pylori G27	strain	BacMap	low	nas	always	1	habitat	multistate-union	563041	colonization of host
+t__563178	colonization of host--TRUE	Buchnera aphidicola str. 5A (Acyrthosiphon pisum)	strain	BacMap	low	nas	always	1	habitat	multistate-union	563178	colonization of host
+t__565034	colonization of host--TRUE	Brachyspira hyodysenteriae WA1	strain	BacMap	low	nas	always	1	habitat	multistate-union	565034	colonization of host
+t__565040	colonization of host--TRUE	Bifidobacterium longum subsp. infantis 157F	strain	BacMap	low	nas	always	1	habitat	multistate-union	565040	colonization of host
+t__565042	colonization of host--TRUE	Bifidobacterium longum subsp. longum JCM 1217	strain	BacMap	low	nas	always	1	habitat	multistate-union	565042	colonization of host
+t__565575	colonization of host--TRUE	Ureaplasma urealyticum serovar 10 str. ATCC 33699	strain	BacMap	low	nas	always	1	habitat	multistate-union	565575	colonization of host
+t__568206	colonization of host--TRUE	Bacillus anthracis str. CDC 684	strain	BacMap	low	nas	always	1	habitat	multistate-union	568206	colonization of host
+t__570417	colonization of host--TRUE	Wolbachia endosymbiont of Culex quinquefasciatus Pel	strain	BacMap	low	nas	always	1	habitat	multistate-union	570417	colonization of host
+t__570508	colonization of host--TRUE	Helicobacter pylori P12	strain	BacMap	low	nas	always	1	habitat	multistate-union	570508	colonization of host
+t__572263	colonization of host--TRUE	Mesomycoplasma conjunctivae HRC/581	strain	BacMap	low	nas	always	1	habitat	multistate-union	572263	colonization of host
+t__572418	colonization of host--TRUE	Mycobacterium tuberculosis variant africanum GM041182	strain	BacMap	low	nas	always	1	habitat	multistate-union	572418	colonization of host
+t__574093	colonization of host--TRUE	Streptococcus pneumoniae AP200	strain	BacMap	low	nas	always	1	habitat	multistate-union	574093	colonization of host
+t__574521	colonization of host--TRUE	Escherichia coli O127:H6 str. E2348/69	strain	BacMap	low	nas	always	1	habitat	multistate-union	574521	colonization of host
+t__574556	colonization of host--TRUE	Anaplasma centrale str. Israel	strain	BacMap	low	nas	always	1	habitat	multistate-union	574556	colonization of host
+t__580049	colonization of host--TRUE	Chlamydia trachomatis B/Jali20/OT	strain	BacMap	low	nas	always	1	habitat	multistate-union	580049	colonization of host
+t__585396	colonization of host--TRUE	Escherichia coli O111:H- str. 11128	strain	BacMap	low	nas	always	1	habitat	multistate-union	585396	colonization of host
+t__592205	colonization of host--TRUE	Helicobacter pylori B38	strain	BacMap	low	nas	always	1	habitat	multistate-union	592205	colonization of host
+t__59374	colonization of host--TRUE	Fibrobacter succinogenes subsp. succinogenes S85	strain	BacMap	low	nas	always	1	habitat	multistate-union	59374	colonization of host
+t__600809	colonization of host--TRUE	Blattabacterium sp. (Periplaneta americana) str. BPLAN	strain	BacMap	low	nas	always	1	habitat	multistate-union	600809	colonization of host
+t__633147	colonization of host--TRUE	Olsenella uli DSM 7084	strain	BacMap	low	nas	always	1	habitat	multistate-union	633147	colonization of host
+t__633699	colonization of host--TRUE	Lactobacillus johnsonii FI9785	strain	BacMap	low	nas	always	1	habitat	multistate-union	633699	colonization of host
+t__634176	colonization of host--TRUE	Aggregatibacter aphrophilus NJ8700	strain	BacMap	low	nas	always	1	habitat	multistate-union	634176	colonization of host
+t__634498	colonization of host--TRUE	Methanobrevibacter ruminantium M1	strain	BacMap	low	nas	always	1	habitat	multistate-union	634498	colonization of host
+t__634504	colonization of host--TRUE	Bartonella grahamii as4aup	strain	BacMap	low	nas	always	1	habitat	multistate-union	634504	colonization of host
+t__637380	colonization of host--TRUE	Bacillus cereus biovar anthracis str. CI	strain	BacMap	low	nas	always	1	habitat	multistate-union	637380	colonization of host
+t__637381	colonization of host--TRUE	Listeria monocytogenes 08-5923	strain	BacMap	low	nas	always	1	habitat	multistate-union	637381	colonization of host
+t__637386	colonization of host--TRUE	Yersinia pestis Z176003	strain	BacMap	low	nas	always	1	habitat	multistate-union	637386	colonization of host
+t__637387	colonization of host--TRUE	Mycoplasmopsis fermentans JER	strain	BacMap	low	nas	always	1	habitat	multistate-union	637387	colonization of host
+t__637909	colonization of host--TRUE	Streptococcus gallolyticus UCN34	strain	BacMap	low	nas	always	1	habitat	multistate-union	637909	colonization of host
+t__640131	colonization of host--TRUE	Klebsiella variicola At-22	strain	BacMap	low	nas	always	1	habitat	multistate-union	640131	colonization of host
+t__640132	colonization of host--TRUE	Segniliparus rotundus DSM 44985	strain	BacMap	low	nas	always	1	habitat	multistate-union	640132	colonization of host
+t__643561	colonization of host--TRUE	Paracidovorax avenae ATCC 19860	strain	BacMap	low	nas	always	1	habitat	multistate-union	643561	colonization of host
+t__644042	colonization of host--TRUE	Lactiplantibacillus plantarum JDM1	strain	BacMap	low	nas	always	1	habitat	multistate-union	644042	colonization of host
+t__644284	colonization of host--TRUE	Arcanobacterium haemolyticum DSM 20595	strain	BacMap	low	nas	always	1	habitat	multistate-union	644284	colonization of host
+t__645127	colonization of host--TRUE	Corynebacterium kroppenstedtii DSM 44385	strain	BacMap	low	nas	always	1	habitat	multistate-union	645127	colonization of host
+t__645462	colonization of host--TRUE	Clostridioides difficile CD196	strain	BacMap	low	nas	always	1	habitat	multistate-union	645462	colonization of host
+t__650150	colonization of host--TRUE	Erysipelothrix rhusiopathiae str. Fujisawa	strain	BacMap	low	nas	always	1	habitat	multistate-union	650150	colonization of host
+t__653938	colonization of host--TRUE	Listeria monocytogenes 08-5578	strain	BacMap	low	nas	always	1	habitat	multistate-union	653938	colonization of host
+t__658172	colonization of host--TRUE	Candidatus Liberibacter solanacearum CLso-ZC1	strain	BacMap	low	nas	always	1	habitat	multistate-union	658172	colonization of host
+t__661367	colonization of host--TRUE	Legionella longbeachae NSW150	strain	BacMap	low	nas	always	1	habitat	multistate-union	661367	colonization of host
+t__662598	colonization of host--TRUE	Neisseria meningitidis alpha14	strain	BacMap	low	nas	always	1	habitat	multistate-union	662598	colonization of host
+t__662755	colonization of host--TRUE	Corynebacterium resistens DSM 45100	strain	BacMap	low	nas	always	1	habitat	multistate-union	662755	colonization of host
+t__665029	colonization of host--TRUE	Erwinia amylovora CFBP1430	strain	BacMap	low	nas	always	1	habitat	multistate-union	665029	colonization of host
+t__667015	colonization of host--TRUE	Phocaeicola salanitronis DSM 18170	strain	BacMap	low	nas	always	1	habitat	multistate-union	667015	colonization of host
+t__672161	colonization of host--TRUE	Chlamydia trachomatis B/TZ1A828/OT	strain	BacMap	low	nas	always	1	habitat	multistate-union	672161	colonization of host
+t__679897	colonization of host--TRUE	Helicobacter mustelae 12198	strain	BacMap	low	nas	always	1	habitat	multistate-union	679897	colonization of host
+t__680646	colonization of host--TRUE	Rothia mucilaginosa DY-18	strain	BacMap	low	nas	always	1	habitat	multistate-union	680646	colonization of host
+t__681288	colonization of host--TRUE	Staphylococcus aureus subsp. aureus ED98	strain	BacMap	low	nas	always	1	habitat	multistate-union	681288	colonization of host
+t__684738	colonization of host--TRUE	Lactococcus lactis subsp. lactis KF147	strain	BacMap	low	nas	always	1	habitat	multistate-union	684738	colonization of host
+t__693216	colonization of host--TRUE	Cronobacter turicensis z3032	strain	BacMap	low	nas	always	1	habitat	multistate-union	693216	colonization of host
+t__693745	colonization of host--TRUE	Helicobacter pylori B8	strain	BacMap	low	nas	always	1	habitat	multistate-union	693745	colonization of host
+t__693977	colonization of host--TRUE	Deinococcus proteolyticus MRP	strain	BacMap	low	nas	always	1	habitat	multistate-union	693977	colonization of host
+t__693978	colonization of host--TRUE	Riemerella anatipestifer ATCC 11845 = DSM 15868	strain	BacMap	low	nas	always	1	habitat	multistate-union	693978	colonization of host
+t__693979	colonization of host--TRUE	Bacteroides helcogenes P 36-108	strain	BacMap	low	nas	always	1	habitat	multistate-union	693979	colonization of host
+t__696125	colonization of host--TRUE	Bartonella clarridgeiae 73	strain	BacMap	low	nas	always	1	habitat	multistate-union	696125	colonization of host
+t__696127	colonization of host--TRUE	Candidatus Midichloria mitochondrii IricVA	strain	BacMap	low	nas	always	1	habitat	multistate-union	696127	colonization of host
+t__697329	colonization of host--TRUE	Hominimerdicola alba 7 = DSM 20455	strain	BacMap	low	nas	always	1	habitat	multistate-union	697329	colonization of host
+t__698737	colonization of host--TRUE	Staphylococcus lugdunensis HKU09-01	strain	BacMap	low	nas	always	1	habitat	multistate-union	698737	colonization of host
+t__699246	colonization of host--TRUE	Mageeibacillus indolicus UPII9-5	strain	BacMap	low	nas	always	1	habitat	multistate-union	699246	colonization of host
+t__700015	colonization of host--TRUE	Coriobacterium glomerans PW2	strain	BacMap	low	nas	always	1	habitat	multistate-union	700015	colonization of host
+t__701177	colonization of host--TRUE	Escherichia coli O55:H7 str. CB9615	strain	BacMap	low	nas	always	1	habitat	multistate-union	701177	colonization of host
+t__702459	colonization of host--TRUE	Bifidobacterium bifidum PRL2010	strain	BacMap	low	nas	always	1	habitat	multistate-union	702459	colonization of host
+t__709991	colonization of host--TRUE	Odoribacter splanchnicus DSM 20712	strain	BacMap	low	nas	always	1	habitat	multistate-union	709991	colonization of host
+t__712898	colonization of host--TRUE	Pantoea vagans C9-1	strain	BacMap	low	nas	always	1	habitat	multistate-union	712898	colonization of host
+t__71421	colonization of host--TRUE	Haemophilus influenzae Rd KW20	strain	BacMap	low	nas	always	1	habitat	multistate-union	71421	colonization of host
+t__714359	colonization of host--TRUE	Bacillus thuringiensis BMB171	strain	BacMap	low	nas	always	1	habitat	multistate-union	714359	colonization of host
+t__716540	colonization of host--TRUE	Erwinia amylovora ATCC 49946	strain	BacMap	low	nas	always	1	habitat	multistate-union	716540	colonization of host
+t__716544	colonization of host--TRUE	Waddlia chondrophila WSU 86-1044	strain	BacMap	low	nas	always	1	habitat	multistate-union	716544	colonization of host
+t__743718	colonization of host--TRUE	Isoptericola variabilis 225	strain	BacMap	low	nas	always	1	habitat	multistate-union	743718	colonization of host
+t__743720	colonization of host--TRUE	Pseudomonas fulva 12-X	strain	BacMap	low	nas	always	1	habitat	multistate-union	743720	colonization of host
+t__743965	colonization of host--TRUE	Mycoplasma putrefaciens KS1	strain	BacMap	low	nas	always	1	habitat	multistate-union	743965	colonization of host
+t__748671	colonization of host--TRUE	Lactobacillus crispatus ST1	strain	BacMap	low	nas	always	1	habitat	multistate-union	748671	colonization of host
+t__749219	colonization of host--TRUE	Moraxella catarrhalis RH4	strain	BacMap	low	nas	always	1	habitat	multistate-union	749219	colonization of host
+t__757424	colonization of host--TRUE	Herbaspirillum seropedicae SmR1	strain	BacMap	low	nas	always	1	habitat	multistate-union	757424	colonization of host
+t__757425	colonization of host--TRUE	Campylobacter jejuni subsp. jejuni ICDCCJ07001	strain	BacMap	low	nas	always	1	habitat	multistate-union	757425	colonization of host
+t__759350	colonization of host--TRUE	Bifidobacterium longum subsp. longum JDM301	strain	BacMap	low	nas	always	1	habitat	multistate-union	759350	colonization of host
+t__759914	colonization of host--TRUE	Brachyspira pilosicoli 95/1000	strain	BacMap	low	nas	always	1	habitat	multistate-union	759914	colonization of host
+t__760570	colonization of host--TRUE	Streptococcus parasanguinis ATCC 15912	strain	BacMap	low	nas	always	1	habitat	multistate-union	760570	colonization of host
+t__762376	colonization of host--TRUE	Achromobacter xylosoxidans A8	strain	BacMap	low	nas	always	1	habitat	multistate-union	762376	colonization of host
+t__762948	colonization of host--TRUE	Rothia dentocariosa ATCC 17931	strain	BacMap	low	nas	always	1	habitat	multistate-union	762948	colonization of host
+t__765698	colonization of host--TRUE	Mesorhizobium ciceri biovar biserrulae WSM1271	strain	BacMap	low	nas	always	1	habitat	multistate-union	765698	colonization of host
+t__765874	colonization of host--TRUE	Corynebacterium pseudotuberculosis FRC41	strain	BacMap	low	nas	always	1	habitat	multistate-union	765874	colonization of host
+t__765962	colonization of host--TRUE	Helicobacter pylori SJM180	strain	BacMap	low	nas	always	1	habitat	multistate-union	765962	colonization of host
+t__765963	colonization of host--TRUE	Helicobacter pylori PeCan4	strain	BacMap	low	nas	always	1	habitat	multistate-union	765963	colonization of host
+t__767031	colonization of host--TRUE	Prevotella denticola F0289	strain	BacMap	low	nas	always	1	habitat	multistate-union	767031	colonization of host
+t__767455	colonization of host--TRUE	Lactobacillus delbrueckii subsp. bulgaricus ND02	strain	BacMap	low	nas	always	1	habitat	multistate-union	767455	colonization of host
+t__768492	colonization of host--TRUE	Serratia plymuthica AS9	strain	BacMap	low	nas	always	1	habitat	multistate-union	768492	colonization of host
+t__768670	colonization of host--TRUE	Calditerrivibrio nitroreducens DSM 19672	strain	BacMap	low	nas	always	1	habitat	multistate-union	768670	colonization of host
+t__768700	colonization of host--TRUE	Mycoplasma suis str. Illinois	strain	BacMap	low	nas	always	1	habitat	multistate-union	768700	colonization of host
+t__795797	colonization of host--TRUE	Halalkalicoccus jeotgali B3	strain	BacMap	low	nas	always	1	habitat	multistate-union	795797	colonization of host
+t__83331	colonization of host--TRUE	Mycobacterium tuberculosis CDC1551	strain	BacMap	low	nas	always	1	habitat	multistate-union	83331	colonization of host
+t__83332	colonization of host--TRUE	Mycobacterium tuberculosis H37Rv	strain	BacMap	low	nas	always	1	habitat	multistate-union	83332	colonization of host
+t__85962	colonization of host--TRUE	Helicobacter pylori 26695	strain	BacMap	low	nas	always	1	habitat	multistate-union	85962	colonization of host
+t__85963	colonization of host--TRUE	Helicobacter pylori J99	strain	BacMap	low	nas	always	1	habitat	multistate-union	85963	colonization of host
+t__859654	colonization of host--TRUE	Candidatus Blochmanniella vafra str. BVAF	strain	BacMap	low	nas	always	1	habitat	multistate-union	859654	colonization of host
+t__860228	colonization of host--TRUE	Capnocytophaga canimorsus Cc5	strain	BacMap	low	nas	always	1	habitat	multistate-union	860228	colonization of host
+t__862259	colonization of host--TRUE	Mycoplasma mycoides subsp. capri LC str. 95010	strain	BacMap	low	nas	always	1	habitat	multistate-union	862259	colonization of host
+t__862965	colonization of host--TRUE	Haemophilus parainfluenzae T3T1	strain	BacMap	low	nas	always	1	habitat	multistate-union	862965	colonization of host
+t__865938	colonization of host--TRUE	Weeksella virosa DSM 16922	strain	BacMap	low	nas	always	1	habitat	multistate-union	865938	colonization of host
+t__866630	colonization of host--TRUE	Haemophilus influenzae F3031	strain	BacMap	low	nas	always	1	habitat	multistate-union	866630	colonization of host
+t__868597	colonization of host--TRUE	Stenotrophomonas maltophilia JV3	strain	BacMap	low	nas	always	1	habitat	multistate-union	868597	colonization of host
+t__869209	colonization of host--TRUE	Treponema succinifaciens DSM 2489	strain	BacMap	low	nas	always	1	habitat	multistate-union	869209	colonization of host
+t__871271	colonization of host--TRUE	Candidatus Zinderia insecticola CARI	strain	BacMap	low	nas	always	1	habitat	multistate-union	871271	colonization of host
+t__872331	colonization of host--TRUE	Mesomycoplasma hyorhinis HUB-1	strain	BacMap	low	nas	always	1	habitat	multistate-union	872331	colonization of host
+t__879243	colonization of host--TRUE	Porphyromonas asaccharolytica DSM 20707	strain	BacMap	low	nas	always	1	habitat	multistate-union	879243	colonization of host
+t__880070	colonization of host--TRUE	Cyclobacterium marinum DSM 745	strain	BacMap	low	nas	always	1	habitat	multistate-union	880070	colonization of host
+t__880447	colonization of host--TRUE	Mycoplasma leachii PG50	strain	BacMap	low	nas	always	1	habitat	multistate-union	880447	colonization of host
+t__882102	colonization of host--TRUE	Vibrio anguillarum 775	strain	BacMap	low	nas	always	1	habitat	multistate-union	882102	colonization of host
+t__882378	colonization of host--TRUE	Mycetohabitans rhizoxinica HKI 454	strain	BacMap	low	nas	always	1	habitat	multistate-union	882378	colonization of host
+t__883062	colonization of host--TRUE	Bifidobacterium bifidum S17	strain	BacMap	low	nas	always	1	habitat	multistate-union	883062	colonization of host
+t__887712	colonization of host--TRUE	Chlamydia trachomatis L2c	strain	BacMap	low	nas	always	1	habitat	multistate-union	887712	colonization of host
+t__889932	colonization of host--TRUE	Lactiplantibacillus plantarum ST-III	strain	BacMap	low	nas	always	1	habitat	multistate-union	889932	colonization of host
+t__890402	colonization of host--TRUE	Bifidobacterium longum subsp. longum BBMN68	strain	BacMap	low	nas	always	1	habitat	multistate-union	890402	colonization of host
+t__891391	colonization of host--TRUE	Lactobacillus acidophilus 30SC	strain	BacMap	low	nas	always	1	habitat	multistate-union	891391	colonization of host
+t__891398	colonization of host--TRUE	Candidatus Tremblaya princeps PCIT	strain	BacMap	low	nas	always	1	habitat	multistate-union	891398	colonization of host
+t__906968	colonization of host--TRUE	Treponema brennaborense DSM 12168	strain	BacMap	low	nas	always	1	habitat	multistate-union	906968	colonization of host
+t__914127	colonization of host--TRUE	Vibrio vulnificus MO6-24/O	strain	BacMap	low	nas	always	1	habitat	multistate-union	914127	colonization of host
+t__927666	colonization of host--TRUE	Streptococcus oralis Uo5	strain	BacMap	low	nas	always	1	habitat	multistate-union	927666	colonization of host
+t__93061	colonization of host--TRUE	Staphylococcus aureus subsp. aureus NCTC 8325	strain	BacMap	low	nas	always	1	habitat	multistate-union	93061	colonization of host
+t__93062	colonization of host--TRUE	Staphylococcus aureus subsp. aureus COL	strain	BacMap	low	nas	always	1	habitat	multistate-union	93062	colonization of host
+t__935897	colonization of host--TRUE	Haemophilus influenzae F3047	strain	BacMap	low	nas	always	1	habitat	multistate-union	935897	colonization of host
+t__936155	colonization of host--TRUE	Helicobacter felis ATCC 49179	strain	BacMap	low	nas	always	1	habitat	multistate-union	936155	colonization of host
+t__936156	colonization of host--TRUE	Bacillus subtilis BSn5	strain	BacMap	low	nas	always	1	habitat	multistate-union	936156	colonization of host
+t__937773	colonization of host--TRUE	Staphylococcus pseudintermedius HKU10-03	strain	BacMap	low	nas	always	1	habitat	multistate-union	937773	colonization of host
+t__937774	colonization of host--TRUE	Taylorella equigenitalis MCE9	strain	BacMap	low	nas	always	1	habitat	multistate-union	937774	colonization of host
+t__941640	colonization of host--TRUE	Mycoplasma haemofelis str. Langford 1	strain	BacMap	low	nas	always	1	habitat	multistate-union	941640	colonization of host
+t__943945	colonization of host--TRUE	Mycoplasmopsis fermentans M64	strain	BacMap	low	nas	always	1	habitat	multistate-union	943945	colonization of host
+t__956483	colonization of host--TRUE	Mycoplasmopsis bovis Hubei-1	strain	BacMap	low	nas	always	1	habitat	multistate-union	956483	colonization of host
+t__96563	colonization of host--TRUE	Stutzerimonas stutzeri ATCC 17588 = LMG 11199	strain	BacMap	low	nas	always	1	habitat	multistate-union	96563	colonization of host
+t__977880	colonization of host--TRUE	Cupriavidus taiwanensis LMG 19424	strain	BacMap	low	nas	always	1	habitat	multistate-union	977880	colonization of host
+t__979556	colonization of host--TRUE	Microbacterium testaceum StLB037	strain	BacMap	low	nas	always	1	habitat	multistate-union	979556	colonization of host
+t__990317	colonization of host--TRUE	Streptococcus gallolyticus subsp. gallolyticus ATCC BAA-2069	strain	BacMap	low	nas	always	1	habitat	multistate-union	990317	colonization of host
+t__99287	colonization of host--TRUE	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2	strain	BacMap	low	nas	always	1	habitat	multistate-union	99287	colonization of host
+t__994476	colonization of host--TRUE	Yersinia enterocolitica subsp. palearctica 105.5R(r)	strain	BacMap	low	nas	always	1	habitat	multistate-union	994476	colonization of host

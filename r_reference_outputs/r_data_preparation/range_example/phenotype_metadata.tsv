@@ -1,0 +1,2 @@
+reference_name	physiology_name	attribute_group	raw_attribute_type	filtered_attribute_type	raw_rows	filtered_rows	generated_at
+numeric_range	growth temperature	growth temperature	range	range	50669	49623	2026-07-15 17:26:07 UTC

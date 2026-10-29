@@ -1,0 +1,111 @@
+NCBI_ID	Attribute	Taxon_name	Rank	Attribute_source	Confidence_in_curation	Evidence	Frequency	Score	Attribute_group	Attribute_type	taxid	Attribute_group_2
+s__1193012	fresh water--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1193012	fresh water--TRUE	Leptospira sp. Fiocruz LV3954	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1193012	fresh water
+s__1193013	fresh water--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1193013	fresh water--TRUE	Leptospira sp. Fiocruz LV4135	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1193013	fresh water
+s__121277	fresh water--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__121277	fresh water--TRUE	Pyrobaculum arsenaticum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	121277	fresh water
+s__1218600	fresh water--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1218600	fresh water--TRUE	Leptospira sp. P2653	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1218600	fresh water
+s__1242990	fresh water--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1242990	fresh water--TRUE	Leptospira sp. serovar Kenya	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1242990	fresh water
+s__174	fresh water--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__174	fresh water--TRUE	Leptospira borgpetersenii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	174	fresh water
+s__261292	fresh water--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__261292	fresh water--TRUE	Nitrosomonas sp. Is79A3	species	BacMap	low	nas	always	1	habitat	multistate-union	261292	fresh water
+s__29323	fresh water--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__29323	fresh water--TRUE	Thermoanaerobacter brockii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	29323	fresh water
+s__29507	fresh water--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__29507	fresh water--TRUE	Leptospira kirschneri	species	ProTraits	medium	igc	always	1	habitat	multistate-union	29507	fresh water
+s__330214	fresh water--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__330214	fresh water--TRUE	Nitrospira defluvii	species	BacMap	low	nas	always	1	habitat	multistate-union	330214	fresh water
+s__366602	fresh water--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__366602	fresh water--TRUE	Caulobacter sp. K31	species	BacMap	low	nas	always	1	habitat	multistate-union	366602	fresh water
+s__399726	fresh water--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__399726	fresh water--TRUE	Thermoanaerobacter sp. X514	species	ProTraits	medium	igc	always	1	habitat	multistate-union	399726	fresh water
+s__496866	fresh water--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__496866	fresh water--TRUE	Thermoanaerobacter pseudethanolicus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	496866	fresh water
+s__547144	fresh water--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__547144	fresh water--TRUE	Hydrogenobaculum sp. HO	species	ProTraits	medium	igc	always	1	habitat	multistate-union	547144	fresh water
+s__547146	fresh water--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__547146	fresh water--TRUE	Hydrogenobaculum sp. SN	species	ProTraits	medium	igc	always	1	habitat	multistate-union	547146	fresh water
+s__573062	fresh water--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__573062	fresh water--TRUE	Thermoanaerobacter sp. X513	species	ProTraits	medium	igc	always	1	habitat	multistate-union	573062	fresh water
+s__588857	fresh water--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__588857	fresh water--TRUE	Thermoanaerobacter sp. X561	species	ProTraits	medium	igc	always	1	habitat	multistate-union	588857	fresh water
+s__742013	fresh water--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__742013	fresh water--TRUE	Delftia sp. Cs1-4	species	BacMap	low	nas	always	1	habitat	multistate-union	742013	fresh water
+t__1006006	fresh water--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__1006006	fresh water--TRUE	Metallosphaera cuprina Ar-4	strain	BacMap	low	nas	always	1	habitat	multistate-union	1006006	fresh water
+t__1042878	fresh water--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__1042878	fresh water--TRUE	Cupriavidus necator N-1	strain	BacMap	low	nas	always	1	habitat	multistate-union	1042878	fresh water
+t__216389	fresh water--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__216389	fresh water--TRUE	Dehalococcoides mccartyi BAV1	strain	BacMap	low	nas	always	1	habitat	multistate-union	216389	fresh water
+t__290398	fresh water--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__290398	fresh water--TRUE	Chromohalobacter israelensis DSM 3043	strain	BacMap	low	nas	always	1	habitat	multistate-union	290398	fresh water
+t__290402	fresh water--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__290402	fresh water--TRUE	Clostridium beijerinckii NCIMB 8052	strain	BacMap	low	nas	always	1	habitat	multistate-union	290402	fresh water
+t__349124	fresh water--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__349124	fresh water--TRUE	Halorhodospira halophila SL1	strain	BacMap	low	nas	always	1	habitat	multistate-union	349124	fresh water
+t__349307	fresh water--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__349307	fresh water--TRUE	Methanothrix thermoacetophila PT	strain	BacMap	low	nas	always	1	habitat	multistate-union	349307	fresh water
+t__398580	fresh water--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__398580	fresh water--TRUE	Dinoroseobacter shibae DFL 12 = DSM 16493	strain	BacMap	low	nas	always	1	habitat	multistate-union	398580	fresh water
+t__480224	fresh water--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__480224	fresh water--TRUE	Chloroflexus aurantiacus Y-400-fl	strain	ProTraits	medium	igc	always	1	habitat	multistate-union	480224	fresh water
+t__509190	fresh water--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__509190	fresh water--TRUE	Caulobacter segnis ATCC 21756	strain	BacMap	low	nas	always	1	habitat	multistate-union	509190	fresh water
+t__573370	fresh water--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__573370	fresh water--TRUE	Solidesulfovibrio magneticus RS-1	strain	BacMap	low	nas	always	1	habitat	multistate-union	573370	fresh water
+t__633149	fresh water--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__633149	fresh water--TRUE	Brevundimonas subvibrioides ATCC 15264	strain	BacMap	low	nas	always	1	habitat	multistate-union	633149	fresh water
+t__638303	fresh water--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__638303	fresh water--TRUE	Thermocrinis albus DSM 14484	strain	BacMap	low	nas	always	1	habitat	multistate-union	638303	fresh water
+t__643562	fresh water--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__643562	fresh water--TRUE	Pseudodesulfovibrio aespoeensis Aspo-2	strain	BacMap	low	nas	always	1	habitat	multistate-union	643562	fresh water
+t__647113	fresh water--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__647113	fresh water--TRUE	Methanothermococcus okinawensis IH1	strain	BacMap	low	nas	always	1	habitat	multistate-union	647113	fresh water
+t__648996	fresh water--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__648996	fresh water--TRUE	Thermovibrio ammonificans HB-1	strain	BacMap	low	nas	always	1	habitat	multistate-union	648996	fresh water
+t__649638	fresh water--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__649638	fresh water--TRUE	Truepera radiovictrix DSM 17093	strain	BacMap	low	nas	always	1	habitat	multistate-union	649638	fresh water
+t__652103	fresh water--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__652103	fresh water--TRUE	Rhodopseudomonas palustris DX-1	strain	BacMap	low	nas	always	1	habitat	multistate-union	652103	fresh water
+t__653733	fresh water--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__653733	fresh water--TRUE	Desulfurispirillum indicum S5	strain	BacMap	low	nas	always	1	habitat	multistate-union	653733	fresh water
+t__666510	fresh water--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__666510	fresh water--TRUE	Acidilobus saccharovorans 345-15	strain	BacMap	low	nas	always	1	habitat	multistate-union	666510	fresh water
+t__675635	fresh water--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__675635	fresh water--TRUE	Pseudonocardia benzenivorans CB1190	strain	BacMap	low	nas	always	1	habitat	multistate-union	675635	fresh water
+t__697303	fresh water--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__697303	fresh water--TRUE	Thermoanaerobacter wiegelii Rt8.B1	strain	BacMap	low	nas	always	1	habitat	multistate-union	697303	fresh water
+t__744872	fresh water--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__744872	fresh water--TRUE	Gracilinema caldarium DSM 7334	strain	BacMap	low	nas	always	1	habitat	multistate-union	744872	fresh water
+t__756272	fresh water--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__756272	fresh water--TRUE	Rubinisphaera brasiliensis DSM 5305	strain	BacMap	low	nas	always	1	habitat	multistate-union	756272	fresh water
+t__760568	fresh water--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__760568	fresh water--TRUE	Desulfofundulus kuznetsovii DSM 6115	strain	BacMap	low	nas	always	1	habitat	multistate-union	760568	fresh water
+t__765177	fresh water--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__765177	fresh water--TRUE	Desulfurococcus mucosus DSM 2162	strain	BacMap	low	nas	always	1	habitat	multistate-union	765177	fresh water
+t__768066	fresh water--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__768066	fresh water--TRUE	Halomonas elongata DSM 2581	strain	BacMap	low	nas	always	1	habitat	multistate-union	768066	fresh water
+t__795359	fresh water--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__795359	fresh water--TRUE	Thermodesulfobacterium geofontis OPF15	strain	BacMap	low	nas	always	1	habitat	multistate-union	795359	fresh water
+t__858215	fresh water--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__858215	fresh water--TRUE	Thermoanaerobacterium xylanolyticum LX-11	strain	BacMap	low	nas	always	1	habitat	multistate-union	858215	fresh water
+t__868595	fresh water--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__868595	fresh water--TRUE	Desulfotomaculum nigrificans CO-1-SRB	strain	BacMap	low	nas	always	1	habitat	multistate-union	868595	fresh water
+t__880072	fresh water--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__880072	fresh water--TRUE	Desulfobacca acetoxidans DSM 11109	strain	BacMap	low	nas	always	1	habitat	multistate-union	880072	fresh water
+t__926569	fresh water--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__926569	fresh water--TRUE	Anaerolinea thermophila UNI-1	strain	BacMap	low	nas	always	1	habitat	multistate-union	926569	fresh water
+t__926570	fresh water--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__926570	fresh water--TRUE	Acidiphilium multivorum AIU301	strain	BacMap	low	nas	always	1	habitat	multistate-union	926570	fresh water
+t__929506	fresh water--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__929506	fresh water--TRUE	Clostridium botulinum BKT015925	strain	BacMap	low	nas	always	1	habitat	multistate-union	929506	fresh water
+t__933801	fresh water--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__933801	fresh water--TRUE	Acidianus hospitalis W1	strain	BacMap	low	nas	always	1	habitat	multistate-union	933801	fresh water
+t__990316	fresh water--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__990316	fresh water--TRUE	Methanothrix soehngenii GP6	strain	BacMap	low	nas	always	1	habitat	multistate-union	990316	fresh water
+t__999630	fresh water--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__999630	fresh water--TRUE	Thermoproteus uzoniensis 768-20	strain	BacMap	low	nas	always	1	habitat	multistate-union	999630	fresh water

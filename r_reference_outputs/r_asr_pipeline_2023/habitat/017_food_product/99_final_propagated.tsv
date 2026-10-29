@@ -1,0 +1,43 @@
+NCBI_ID	Attribute	Taxon_name	Rank	Attribute_source	Confidence_in_curation	Evidence	Frequency	Score	Attribute_group	Attribute_type	taxid	Attribute_group_2
+s__1244	food product--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1244	food product--TRUE	Leuconostoc gelidum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1244	food product
+s__1245	food product--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1245	food product--TRUE	Leuconostoc mesenteroides	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1245	food product
+s__1246	food product--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1246	food product--TRUE	Leuconostoc lactis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1246	food product
+s__1251	food product--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1251	food product--TRUE	Leuconostoc fallax	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1251	food product
+s__1252	food product--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1252	food product--TRUE	Leuconostoc carnosum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1252	food product
+s__136609	food product--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__136609	food product--TRUE	Leuconostoc kimchii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	136609	food product
+s__137591	food product--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__137591	food product--TRUE	Weissella cibaria	species	ProTraits	medium	igc	always	1	habitat	multistate-union	137591	food product
+s__1580	food product--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1580	food product--TRUE	Levilactobacillus brevis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1580	food product
+s__1582	food product--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1582	food product--TRUE	Lacticaseibacillus casei	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1582	food product
+s__1589	food product--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1589	food product--TRUE	Lactiplantibacillus pentosus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1589	food product
+s__1590	food product--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1590	food product--TRUE	Lactiplantibacillus plantarum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1590	food product
+s__1597	food product--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1597	food product--TRUE	Lacticaseibacillus paracasei	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1597	food product
+s__1639	food product--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1639	food product--TRUE	Listeria monocytogenes	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1639	food product
+s__1640	food product--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1640	food product--TRUE	Listeria seeligeri	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1640	food product
+s__1642	food product--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1642	food product--TRUE	Listeria innocua	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1642	food product
+s__33964	food product--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__33964	food product--TRUE	Leuconostoc citreum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	33964	food product
+s__33968	food product--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__33968	food product--TRUE	Leuconostoc pseudomesenteroides	species	ProTraits	medium	igc	always	1	habitat	multistate-union	33968	food product
+s__47715	food product--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__47715	food product--TRUE	Lacticaseibacillus rhamnosus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	47715	food product
+s__481720	food product--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__481720	food product--TRUE	Lentilactobacillus otakiensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	481720	food product
+s__57037	food product--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__57037	food product--TRUE	Lacticaseibacillus zeae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	57037	food product
+s__979982	food product--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__979982	food product--TRUE	Leuconostoc sp. C2	species	ProTraits	medium	igc	always	1	habitat	multistate-union	979982	food product

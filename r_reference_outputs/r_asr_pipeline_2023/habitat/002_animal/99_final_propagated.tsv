@@ -1,0 +1,7 @@
+NCBI_ID	Attribute	Taxon_name	Rank	Attribute_source	Confidence_in_curation	Evidence	Frequency	Score	Attribute_group	Attribute_type	taxid	Attribute_group_2
+s__621	animal--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__621	animal--TRUE	Shigella boydii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	621	animal
+s__623	animal--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__623	animal--TRUE	Shigella flexneri	species	ProTraits	medium	igc	always	1	habitat	multistate-union	623	animal
+s__624	animal--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__624	animal--TRUE	Shigella sonnei	species	ProTraits	medium	igc	always	1	habitat	multistate-union	624	animal

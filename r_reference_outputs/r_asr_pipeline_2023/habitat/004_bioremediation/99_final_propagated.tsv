@@ -1,0 +1,7 @@
+NCBI_ID	Attribute	Taxon_name	Rank	Attribute_source	Confidence_in_curation	Evidence	Frequency	Score	Attribute_group	Attribute_type	taxid	Attribute_group_2
+s__1076523	bioremediation--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1076523	bioremediation--TRUE	Rhodanobacter sp. OR87	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1076523	bioremediation
+s__1076524	bioremediation--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1076524	bioremediation--TRUE	Rhodanobacter sp. OR92	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1076524	bioremediation
+s__666685	bioremediation--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__666685	bioremediation--TRUE	Rhodanobacter denitrificans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	666685	bioremediation

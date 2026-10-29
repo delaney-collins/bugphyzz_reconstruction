@@ -1,0 +1,5 @@
+tip_label	Attribute	Score
+Streptococcus_pneumoniae-_-AF003930--_ATCC_33400_T	respiratory system--FALSE	0
+Streptococcus_pneumoniae-_-AF003930--_ATCC_33400_T	respiratory system--TRUE	1
+Streptococcus_mitis-_-AF003929--_ATCC_49456_T	respiratory system--FALSE	0
+Streptococcus_mitis-_-AF003929--_ATCC_49456_T	respiratory system--TRUE	1

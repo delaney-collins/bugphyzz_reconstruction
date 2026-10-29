@@ -1,0 +1,7 @@
+NCBI_ID	Attribute	Taxon_name	Rank	Attribute_source	Confidence_in_curation	Evidence	Frequency	Score	Attribute_group	Attribute_type	taxid	Attribute_group_2
+s__203907	endosymbiont--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__203907	endosymbiont--TRUE	Candidatus Blochmanniella floridana	species	ProTraits	medium	igc	always	1	habitat	multistate-union	203907	endosymbiont
+s__251542	endosymbiont--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__251542	endosymbiont--TRUE	Candidatus Blochmanniella chromaiodes	species	ProTraits	medium	igc	always	1	habitat	multistate-union	251542	endosymbiont
+s__66084	endosymbiont--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__66084	endosymbiont--TRUE	Wolbachia sp. wRi	species	ProTraits	medium	igc	always	1	habitat	multistate-union	66084	endosymbiont

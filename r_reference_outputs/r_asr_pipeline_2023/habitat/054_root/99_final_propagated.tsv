@@ -1,0 +1,9 @@
+NCBI_ID	Attribute	Taxon_name	Rank	Attribute_source	Confidence_in_curation	Evidence	Frequency	Score	Attribute_group	Attribute_type	taxid	Attribute_group_2
+s__1355477	root--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1355477	root--TRUE	Bradyrhizobium diazoefficiens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1355477	root
+s__29449	root--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__29449	root--TRUE	Rhizobium etli	species	ProTraits	medium	igc	always	1	habitat	multistate-union	29449	root
+s__384	root--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__384	root--TRUE	Rhizobium leguminosarum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	384	root
+s__508869	root--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__508869	root--TRUE	Bradyrhizobium genosp. SA-4	species	ProTraits	medium	igc	always	1	habitat	multistate-union	508869	root

@@ -1,0 +1,171 @@
+NCBI_ID	Attribute	Taxon_name	Rank	Attribute_source	Confidence_in_curation	Evidence	Frequency	Score	Attribute_group	Attribute_type	taxid	Attribute_group_2
+s__1033854	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1033854	sediment--TRUE	Thioalkalivibrio sulfidiphilus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1033854	sediment
+s__104269	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__104269	sediment--TRUE	Tenacibaculum amylolyticum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	104269	sediment
+s__1131703	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1131703	sediment--TRUE	Sphaerochaeta globosa	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1131703	sediment
+s__1131707	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1131707	sediment--TRUE	Sphaerochaeta pleomorpha	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1131707	sediment
+s__115781	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__115781	sediment--TRUE	Desulfotignum balticum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	115781	sediment
+s__1158150	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1158150	sediment--TRUE	Thioalkalivibrio sp. ALD1	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1158150	sediment
+s__1158162	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1158162	sediment--TRUE	Thioalkalivibrio sp. ALgr5	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1158162	sediment
+s__1158170	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1158170	sediment--TRUE	Thioalkalivibrio sp. ALE12	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1158170	sediment
+s__1158172	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1158172	sediment--TRUE	Thioalkalivibrio sp. ALE16	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1158172	sediment
+s__1158183	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1158183	sediment--TRUE	Thioalkalivibrio sp. ARh5	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1158183	sediment
+s__119484	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__119484	sediment--TRUE	Syntrophobacter fumaroxidans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	119484	sediment
+s__1203471	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1203471	sediment--TRUE	Geotalea daltonii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1203471	sediment
+s__1266911	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1266911	sediment--TRUE	Thioalkalivibrio sp. ALRh	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1266911	sediment
+s__1288079	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1288079	sediment--TRUE	Streptomyces sp. CNT318	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1288079	sediment
+s__1329899	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1329899	sediment--TRUE	Cycloclasticus zancles	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1329899	sediment
+s__146907	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__146907	sediment--TRUE	Desulfitobacterium sp. PCE1	species	ProTraits	medium	igc	always	1	habitat	multistate-union	146907	sediment
+s__181663	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__181663	sediment--TRUE	Desulfosudis oleivorans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	181663	sediment
+s__182210	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__182210	sediment--TRUE	Pseudodesulfovibrio aespoeensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	182210	sediment
+s__186931	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__186931	sediment--TRUE	Thioalkalivibrio nitratireducens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	186931	sediment
+s__19	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__19	sediment--TRUE	Syntrophotalea carbinolica	species	ProTraits	medium	igc	always	1	habitat	multistate-union	19	sediment
+s__192073	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__192073	sediment--TRUE	Shewanella denitrificans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	192073	sediment
+s__218208	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__218208	sediment--TRUE	Desulfatibacillum aliphaticivorans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	218208	sediment
+s__225194	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__225194	sediment--TRUE	Citrifermentans bemidjiense	species	ProTraits	medium	igc	always	1	habitat	multistate-union	225194	sediment
+s__2296	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__2296	sediment--TRUE	Desulforapulum autotrophicum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2296	sediment
+s__234831	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__234831	sediment--TRUE	Pseudoalteromonas sp. SM9913	species	ProTraits	medium	igc	always	1	habitat	multistate-union	234831	sediment
+s__24	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__24	sediment--TRUE	Shewanella putrefaciens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	24	sediment
+s__259354	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__259354	sediment--TRUE	Desulfatibacillum alkenivorans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	259354	sediment
+s__266009	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__266009	sediment--TRUE	Methylovorus glucosotrophus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	266009	sediment
+s__271097	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__271097	sediment--TRUE	Shewanella sediminis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	271097	sediment
+s__271098	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__271098	sediment--TRUE	Shewanella halifaxensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	271098	sediment
+s__28229	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__28229	sediment--TRUE	Colwellia psychrerythraea	species	ProTraits	medium	igc	always	1	habitat	multistate-union	28229	sediment
+s__28232	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__28232	sediment--TRUE	Geobacter metallireducens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	28232	sediment
+s__29292	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__29292	sediment--TRUE	Pyrococcus abyssi	species	ProTraits	medium	igc	always	1	habitat	multistate-union	29292	sediment
+s__29322	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__29322	sediment--TRUE	[Eubacterium] cellulosolvens	species	BacMap	low	nas	always	1	habitat	multistate-union	29322	sediment
+s__29543	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__29543	sediment--TRUE	Pelobacter propionicus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	29543	sediment
+s__313985	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__313985	sediment--TRUE	Trichlorobacter lovleyi	species	ProTraits	medium	igc	always	1	habitat	multistate-union	313985	sediment
+s__351604	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__351604	sediment--TRUE	Geotalea uraniireducens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	351604	sediment
+s__351745	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__351745	sediment--TRUE	Shewanella sp. W3-18-1	species	ProTraits	medium	igc	always	1	habitat	multistate-union	351745	sediment
+s__35554	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__35554	sediment--TRUE	Geobacter sulfurreducens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	35554	sediment
+s__359303	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__359303	sediment--TRUE	Shewanella loihica	species	ProTraits	medium	igc	always	1	habitat	multistate-union	359303	sediment
+s__359408	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__359408	sediment--TRUE	Methylotenera mobilis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	359408	sediment
+s__36854	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__36854	sediment--TRUE	Desulfitobacterium dehalogenans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	36854	sediment
+s__385025	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__385025	sediment--TRUE	Cycloclasticus sp. P1	species	ProTraits	medium	igc	always	1	habitat	multistate-union	385025	sediment
+s__39765	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__39765	sediment--TRUE	Hydrogenovibrio crunogenus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	39765	sediment
+s__404011	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__404011	sediment--TRUE	Shewanella piezotolerans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	404011	sediment
+s__426481	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__426481	sediment--TRUE	Tenacibaculum aiptasiae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	426481	sediment
+s__443143	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__443143	sediment--TRUE	Geobacter sp. M18	species	ProTraits	medium	igc	always	1	habitat	multistate-union	443143	sediment
+s__443144	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__443144	sediment--TRUE	Geobacter sp. M21	species	ProTraits	medium	igc	always	1	habitat	multistate-union	443144	sediment
+s__447217	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__447217	sediment--TRUE	Anaeromyxobacter sp. K	species	ProTraits	medium	igc	always	1	habitat	multistate-union	447217	sediment
+s__45663	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__45663	sediment--TRUE	Desulfohalobium retbaense	species	ProTraits	medium	igc	always	1	habitat	multistate-union	45663	sediment
+s__496866	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__496866	sediment--TRUE	Thermoanaerobacter pseudethanolicus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	496866	sediment
+s__54261	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__54261	sediment--TRUE	Ferroglobus placidus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	54261	sediment
+s__56812	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__56812	sediment--TRUE	Shewanella frigidimarina	species	ProTraits	medium	igc	always	1	habitat	multistate-union	56812	sediment
+s__573062	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__573062	sediment--TRUE	Thermoanaerobacter sp. X513	species	ProTraits	medium	igc	always	1	habitat	multistate-union	573062	sediment
+s__58180	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__58180	sediment--TRUE	Oleidesulfovibrio alaskensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	58180	sediment
+s__596152	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__596152	sediment--TRUE	Desulfovibrio sp. U5L	species	ProTraits	medium	igc	always	1	habitat	multistate-union	596152	sediment
+s__60035	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__60035	sediment--TRUE	Citrifermentans bremense	species	ProTraits	medium	igc	always	1	habitat	multistate-union	60035	sediment
+s__60217	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__60217	sediment--TRUE	Shewanella violacea	species	ProTraits	medium	igc	always	1	habitat	multistate-union	60217	sediment
+s__60478	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__60478	sediment--TRUE	Shewanella amazonensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	60478	sediment
+s__60481	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__60481	sediment--TRUE	Shewanella sp. MR-7	species	ProTraits	medium	igc	always	1	habitat	multistate-union	60481	sediment
+s__60961	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__60961	sediment--TRUE	Shewanella woodyi	species	ProTraits	medium	igc	always	1	habitat	multistate-union	60961	sediment
+s__62322	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__62322	sediment--TRUE	Shewanella baltica	species	ProTraits	medium	igc	always	1	habitat	multistate-union	62322	sediment
+s__70863	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__70863	sediment--TRUE	Shewanella oneidensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	70863	sediment
+s__70864	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__70864	sediment--TRUE	Shewanella pealeana	species	ProTraits	medium	igc	always	1	habitat	multistate-union	70864	sediment
+s__748652	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__748652	sediment--TRUE	Thioalkalivibrio sp. ALJ15	species	ProTraits	medium	igc	always	1	habitat	multistate-union	748652	sediment
+s__83984	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__83984	sediment--TRUE	Methanocorpusculum labreanum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	83984	sediment
+s__873	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__873	sediment--TRUE	Desulfocurvibacter africanus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	873	sediment
+s__879567	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__879567	sediment--TRUE	Pseudodesulfovibrio piezophilus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	879567	sediment
+s__880	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__880	sediment--TRUE	Maridesulfovibrio salexigens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	880	sediment
+s__881	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__881	sediment--TRUE	Nitratidesulfovibrio vulgaris	species	ProTraits	medium	igc	always	1	habitat	multistate-union	881	sediment
+s__889	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__889	sediment--TRUE	Paucidesulfovibrio longus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	889	sediment
+s__894	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__894	sediment--TRUE	Desulfobulbus propionicus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	894	sediment
+s__899	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__899	sediment--TRUE	Desulfomicrobium baculatum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	899	sediment
+s__920	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__920	sediment--TRUE	Acidithiobacillus ferrooxidans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	920	sediment
+s__94122	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__94122	sediment--TRUE	Shewanella sp. ANA-3	species	ProTraits	medium	igc	always	1	habitat	multistate-union	94122	sediment
+s__983545	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__983545	sediment--TRUE	Glaciecola sp. 4H-3-7+YE-5	species	ProTraits	medium	igc	always	1	habitat	multistate-union	983545	sediment
+t__263358	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__263358	sediment--TRUE	Micromonospora maris AB-18-032	strain	BacMap	low	nas	always	1	habitat	multistate-union	263358	sediment
+t__349307	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__349307	sediment--TRUE	Methanothrix thermoacetophila PT	strain	BacMap	low	nas	always	1	habitat	multistate-union	349307	sediment
+t__350058	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__350058	sediment--TRUE	Mycolicibacterium vanbaalenii PYR-1	strain	BacMap	low	nas	always	1	habitat	multistate-union	350058	sediment
+t__458817	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__458817	sediment--TRUE	Shewanella halifaxensis HAW-EB4	strain	BacMap	low	nas	always	1	habitat	multistate-union	458817	sediment
+t__563040	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__563040	sediment--TRUE	Sulfurimonas autotrophica DSM 16294	strain	BacMap	low	nas	always	1	habitat	multistate-union	563040	sediment
+t__653733	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__653733	sediment--TRUE	Desulfurispirillum indicum S5	strain	BacMap	low	nas	always	1	habitat	multistate-union	653733	sediment
+t__858215	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__858215	sediment--TRUE	Thermoanaerobacterium xylanolyticum LX-11	strain	BacMap	low	nas	always	1	habitat	multistate-union	858215	sediment
+t__860575	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__860575	sediment--TRUE	Crocosphaera subtropica ATCC 51472	strain	ProTraits	medium	igc	always	1	habitat	multistate-union	860575	sediment
+t__998088	sediment--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__998088	sediment--TRUE	Aeromonas veronii B565	strain	BacMap	low	nas	always	1	habitat	multistate-union	998088	sediment

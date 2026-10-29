@@ -1,0 +1,219 @@
+NCBI_ID	Attribute	Taxon_name	Rank	Attribute_source	Confidence_in_curation	Evidence	Frequency	Score	Attribute_group	Attribute_type	taxid	Attribute_group_2
+s__1005703	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1005703	human microbiome--TRUE	Propionibacterium sp. CC003-HC2	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1005703	human microbiome
+s__1018	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1018	human microbiome--TRUE	Capnocytophaga ochracea	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1018	human microbiome
+s__102684	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__102684	human microbiome--TRUE	Streptococcus infantarius	species	ProTraits	medium	igc	always	1	habitat	multistate-union	102684	human microbiome
+s__1078089	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1078089	human microbiome--TRUE	Bacteroides sp. HPS0048	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1078089	human microbiome
+s__1078091	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1078091	human microbiome--TRUE	Coprococcus sp. HPP0048	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1078091	human microbiome
+s__1111121	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1111121	human microbiome--TRUE	Atopobium sp. BV3Ac4	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1111121	human microbiome
+s__113107	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__113107	human microbiome--TRUE	Streptococcus australis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	113107	human microbiome
+s__1203590	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1203590	human microbiome--TRUE	Streptococcus sp. HPH0090	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1203590	human microbiome
+s__1203593	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1203593	human microbiome--TRUE	Veillonella sp. HPA0037	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1203593	human microbiome
+s__1218600	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1218600	human microbiome--TRUE	Leptospira sp. P2653	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1218600	human microbiome
+s__1235803	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1235803	human microbiome--TRUE	Parabacteroides sp. ASF519	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1235803	human microbiome
+s__1242990	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1242990	human microbiome--TRUE	Leptospira sp. serovar Kenya	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1242990	human microbiome
+s__1279005	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1279005	human microbiome--TRUE	Escherichia sp. KTE172	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1279005	human microbiome
+s__1292	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1292	human microbiome--TRUE	Staphylococcus warneri	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1292	human microbiome
+s__1302	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1302	human microbiome--TRUE	Streptococcus gordonii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1302	human microbiome
+s__1303	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1303	human microbiome--TRUE	Streptococcus oralis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1303	human microbiome
+s__1305	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1305	human microbiome--TRUE	Streptococcus sanguinis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1305	human microbiome
+s__1307	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1307	human microbiome--TRUE	Streptococcus suis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1307	human microbiome
+s__1308	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1308	human microbiome--TRUE	Streptococcus thermophilus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1308	human microbiome
+s__1313	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1313	human microbiome--TRUE	Streptococcus pneumoniae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1313	human microbiome
+s__1318	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1318	human microbiome--TRUE	Streptococcus parasanguinis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1318	human microbiome
+s__1328	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1328	human microbiome--TRUE	Streptococcus anginosus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1328	human microbiome
+s__1334	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1334	human microbiome--TRUE	Streptococcus dysgalactiae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1334	human microbiome
+s__1522	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1522	human microbiome--TRUE	[Clostridium] innocuum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1522	human microbiome
+s__165179	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__165179	human microbiome--TRUE	Segatella copri	species	ProTraits	medium	igc	always	1	habitat	multistate-union	165179	human microbiome
+s__1680	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1680	human microbiome--TRUE	Bifidobacterium adolescentis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1680	human microbiome
+s__174	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__174	human microbiome--TRUE	Leptospira borgpetersenii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	174	human microbiome
+s__195	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__195	human microbiome--TRUE	Campylobacter coli	species	ProTraits	medium	igc	always	1	habitat	multistate-union	195	human microbiome
+s__196	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__196	human microbiome--TRUE	Campylobacter fetus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	196	human microbiome
+s__197	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__197	human microbiome--TRUE	Campylobacter jejuni	species	ProTraits	medium	igc	always	1	habitat	multistate-union	197	human microbiome
+s__197614	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__197614	human microbiome--TRUE	Streptococcus pasteurianus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	197614	human microbiome
+s__199	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__199	human microbiome--TRUE	Campylobacter concisus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	199	human microbiome
+s__204516	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__204516	human microbiome--TRUE	Phocaeicola massiliensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	204516	human microbiome
+s__246787	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__246787	human microbiome--TRUE	Bacteroides cellulosilyticus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	246787	human microbiome
+s__257758	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__257758	human microbiome--TRUE	Streptococcus pseudopneumoniae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	257758	human microbiome
+s__28037	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__28037	human microbiome--TRUE	Streptococcus mitis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	28037	human microbiome
+s__28111	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__28111	human microbiome--TRUE	Bacteroides eggerthii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	28111	human microbiome
+s__28116	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__28116	human microbiome--TRUE	Bacteroides ovatus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	28116	human microbiome
+s__28132	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__28132	human microbiome--TRUE	Prevotella melaninogenica	species	ProTraits	medium	igc	always	1	habitat	multistate-union	28132	human microbiome
+s__28183	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__28183	human microbiome--TRUE	Leptospira santarosai	species	ProTraits	medium	igc	always	1	habitat	multistate-union	28183	human microbiome
+s__282402	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__282402	human microbiome--TRUE	Prevotella multiformis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	282402	human microbiome
+s__28452	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__28452	human microbiome--TRUE	Leptospira alstonii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	28452	human microbiome
+s__291645	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__291645	human microbiome--TRUE	Bacteroides nordii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	291645	human microbiome
+s__29466	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__29466	human microbiome--TRUE	Veillonella parvula	species	ProTraits	medium	igc	always	1	habitat	multistate-union	29466	human microbiome
+s__29507	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__29507	human microbiome--TRUE	Leptospira kirschneri	species	ProTraits	medium	igc	always	1	habitat	multistate-union	29507	human microbiome
+s__310514	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__310514	human microbiome--TRUE	Hallella multisaccharivorax	species	ProTraits	medium	igc	always	1	habitat	multistate-union	310514	human microbiome
+s__315405	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__315405	human microbiome--TRUE	Streptococcus gallolyticus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	315405	human microbiome
+s__329854	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__329854	human microbiome--TRUE	Bacteroides intestinalis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	329854	human microbiome
+s__33039	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__33039	human microbiome--TRUE	Mediterraneibacter torques	species	ProTraits	medium	igc	always	1	habitat	multistate-union	33039	human microbiome
+s__363265	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__363265	human microbiome--TRUE	Leyella stercorea	species	ProTraits	medium	igc	always	1	habitat	multistate-union	363265	human microbiome
+s__371601	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__371601	human microbiome--TRUE	Bacteroides xylanisolvens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	371601	human microbiome
+s__387661	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__387661	human microbiome--TRUE	Parabacteroides johnsonii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	387661	human microbiome
+s__39777	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__39777	human microbiome--TRUE	Veillonella atypica	species	ProTraits	medium	igc	always	1	habitat	multistate-union	39777	human microbiome
+s__450749	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__450749	human microbiome--TRUE	Veillonella sp. 6_1_27	species	ProTraits	medium	igc	always	1	habitat	multistate-union	450749	human microbiome
+s__45634	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__45634	human microbiome--TRUE	Streptococcus cristatus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	45634	human microbiome
+s__457387	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__457387	human microbiome--TRUE	Bacteroides sp. 1_1_30	species	ProTraits	medium	igc	always	1	habitat	multistate-union	457387	human microbiome
+s__457390	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__457390	human microbiome--TRUE	Bacteroides sp. 3_1_23	species	ProTraits	medium	igc	always	1	habitat	multistate-union	457390	human microbiome
+s__457391	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__457391	human microbiome--TRUE	Bacteroides sp. 3_1_33FAA	species	ProTraits	medium	igc	always	1	habitat	multistate-union	457391	human microbiome
+s__457392	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__457392	human microbiome--TRUE	Bacteroides sp. 3_2_5	species	ProTraits	medium	igc	always	1	habitat	multistate-union	457392	human microbiome
+s__457393	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__457393	human microbiome--TRUE	Bacteroides sp. 4_1_36	species	ProTraits	medium	igc	always	1	habitat	multistate-union	457393	human microbiome
+s__457394	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__457394	human microbiome--TRUE	Bacteroides sp. 4_3_47FAA	species	ProTraits	medium	igc	always	1	habitat	multistate-union	457394	human microbiome
+s__457395	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__457395	human microbiome--TRUE	Bacteroides sp. 9_1_42FAA	species	ProTraits	medium	igc	always	1	habitat	multistate-union	457395	human microbiome
+s__457401	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__457401	human microbiome--TRUE	Escherichia sp. 4_1_40B	species	ProTraits	medium	igc	always	1	habitat	multistate-union	457401	human microbiome
+s__45972	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__45972	human microbiome--TRUE	Staphylococcus pasteuri	species	ProTraits	medium	igc	always	1	habitat	multistate-union	45972	human microbiome
+s__46503	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__46503	human microbiome--TRUE	Parabacteroides merdae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	46503	human microbiome
+s__46506	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__46506	human microbiome--TRUE	Bacteroides stercoris	species	ProTraits	medium	igc	always	1	habitat	multistate-union	46506	human microbiome
+s__469590	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__469590	human microbiome--TRUE	Bacteroides sp. 2_2_4	species	ProTraits	medium	igc	always	1	habitat	multistate-union	469590	human microbiome
+s__469591	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__469591	human microbiome--TRUE	Parabacteroides sp. 20_3	species	ProTraits	medium	igc	always	1	habitat	multistate-union	469591	human microbiome
+s__469592	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__469592	human microbiome--TRUE	Bacteroides sp. 3_1_19	species	ProTraits	medium	igc	always	1	habitat	multistate-union	469592	human microbiome
+s__469593	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__469593	human microbiome--TRUE	Bacteroides sp. 3_1_40A	species	ProTraits	medium	igc	always	1	habitat	multistate-union	469593	human microbiome
+s__469597	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__469597	human microbiome--TRUE	Coprobacillus sp. 8_2_54BFAA	species	ProTraits	medium	igc	always	1	habitat	multistate-union	469597	human microbiome
+s__469609	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__469609	human microbiome--TRUE	Streptococcus sp. 2_1_36FAA	species	ProTraits	medium	igc	always	1	habitat	multistate-union	469609	human microbiome
+s__469614	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__469614	human microbiome--TRUE	Erysipelotrichaceae bacterium 6_1_45	species	ProTraits	medium	igc	always	1	habitat	multistate-union	469614	human microbiome
+s__470565	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__470565	human microbiome--TRUE	Prevotella histicola	species	ProTraits	medium	igc	always	1	habitat	multistate-union	470565	human microbiome
+s__47678	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__47678	human microbiome--TRUE	Bacteroides caccae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	47678	human microbiome
+s__47770	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__47770	human microbiome--TRUE	Lactobacillus crispatus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	47770	human microbiome
+s__556258	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__556258	human microbiome--TRUE	Bacteroides sp. D1	species	ProTraits	medium	igc	always	1	habitat	multistate-union	556258	human microbiome
+s__556270	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__556270	human microbiome--TRUE	Coprobacillus sp. D7	species	ProTraits	medium	igc	always	1	habitat	multistate-union	556270	human microbiome
+s__562	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__562	human microbiome--TRUE	Escherichia coli	species	ProTraits	medium	igc	always	1	habitat	multistate-union	562	human microbiome
+s__563037	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__563037	human microbiome--TRUE	Streptococcus sp. M143	species	ProTraits	medium	igc	always	1	habitat	multistate-union	563037	human microbiome
+s__563038	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__563038	human microbiome--TRUE	Streptococcus sp. M334	species	ProTraits	medium	igc	always	1	habitat	multistate-union	563038	human microbiome
+s__585543	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__585543	human microbiome--TRUE	Bacteroides sp. D20	species	ProTraits	medium	igc	always	1	habitat	multistate-union	585543	human microbiome
+s__59310	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__59310	human microbiome--TRUE	Streptococcus macedonicus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	59310	human microbiome
+s__622	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__622	human microbiome--TRUE	Shigella dysenteriae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	622	human microbiome
+s__623	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__623	human microbiome--TRUE	Shigella flexneri	species	ProTraits	medium	igc	always	1	habitat	multistate-union	623	human microbiome
+s__624	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__624	human microbiome--TRUE	Shigella sonnei	species	ProTraits	medium	igc	always	1	habitat	multistate-union	624	human microbiome
+s__626929	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__626929	human microbiome--TRUE	Bacteroides clarus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	626929	human microbiome
+s__626930	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__626930	human microbiome--TRUE	Bacteroides fluxus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	626930	human microbiome
+s__626931	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__626931	human microbiome--TRUE	Bacteroides oleiciplenus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	626931	human microbiome
+s__65058	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__65058	human microbiome--TRUE	Corynebacterium ulcerans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	65058	human microbiome
+s__658088	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__658088	human microbiome--TRUE	Lachnospiraceae bacterium 9_1_43BFAA	species	ProTraits	medium	igc	always	1	habitat	multistate-union	658088	human microbiome
+s__658657	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__658657	human microbiome--TRUE	Erysipelotrichaceae bacterium 21_3	species	ProTraits	medium	igc	always	1	habitat	multistate-union	658657	human microbiome
+s__658661	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__658661	human microbiome--TRUE	Parabacteroides sp. D25	species	ProTraits	medium	igc	always	1	habitat	multistate-union	658661	human microbiome
+s__665943	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__665943	human microbiome--TRUE	Eggerthella sp. 1_3_56FAA	species	ProTraits	medium	igc	always	1	habitat	multistate-union	665943	human microbiome
+s__665951	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__665951	human microbiome--TRUE	Lachnospiraceae bacterium 8_1_57FAA	species	ProTraits	medium	igc	always	1	habitat	multistate-union	665951	human microbiome
+s__671228	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__671228	human microbiome--TRUE	Veillonella sp. oral taxon 158	species	ProTraits	medium	igc	always	1	habitat	multistate-union	671228	human microbiome
+s__674529	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__674529	human microbiome--TRUE	Bacteroides faecis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	674529	human microbiome
+s__68892	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__68892	human microbiome--TRUE	Streptococcus infantis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	68892	human microbiome
+s__712630	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__712630	human microbiome--TRUE	Streptococcus sp. oral taxon 071	species	ProTraits	medium	igc	always	1	habitat	multistate-union	712630	human microbiome
+s__754331	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__754331	human microbiome--TRUE	Escherichia sp. TW09308	species	ProTraits	medium	igc	always	1	habitat	multistate-union	754331	human microbiome
+s__817	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__817	human microbiome--TRUE	Bacteroides fragilis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	817	human microbiome
+s__820	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__820	human microbiome--TRUE	Bacteroides uniformis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	820	human microbiome
+s__821	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__821	human microbiome--TRUE	Phocaeicola vulgatus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	821	human microbiome
+s__823	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__823	human microbiome--TRUE	Parabacteroides distasonis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	823	human microbiome
+s__840	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__840	human microbiome--TRUE	Hoylesella loescheii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	840	human microbiome
+s__908340	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__908340	human microbiome--TRUE	Clostridium sp. HGF2	species	ProTraits	medium	igc	always	1	habitat	multistate-union	908340	human microbiome
+s__910311	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__910311	human microbiome--TRUE	Eggerthella sp. HGA1	species	ProTraits	medium	igc	always	1	habitat	multistate-union	910311	human microbiome
+s__999424	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__999424	human microbiome--TRUE	Streptococcus sp. F0441	species	ProTraits	medium	igc	always	1	habitat	multistate-union	999424	human microbiome
+s__999425	human microbiome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__999425	human microbiome--TRUE	Streptococcus sp. F0442	species	ProTraits	medium	igc	always	1	habitat	multistate-union	999425	human microbiome

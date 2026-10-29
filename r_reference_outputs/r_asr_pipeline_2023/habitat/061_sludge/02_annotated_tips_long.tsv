@@ -1,0 +1,13 @@
+tip_label	Attribute	Score
+Delftia_acidovorans-_-AB021417--_IAM_12409_T	sludge--FALSE	0
+Delftia_acidovorans-_-AB021417--_IAM_12409_T	sludge--TRUE	1
+Desulfobacca_acetoxidans-_-CP002629--_DSM_11109_T	sludge--FALSE	0
+Desulfobacca_acetoxidans-_-CP002629--_DSM_11109_T	sludge--TRUE	1
+Ethanoligenens_harbinense-_-AY295777--_YUAN-3_T	sludge--FALSE	0
+Ethanoligenens_harbinense-_-AY295777--_YUAN-3_T	sludge--TRUE	1
+Pseudonocardia_dioxanivorans-_-CP002593--_CB1190_T	sludge--FALSE	0
+Pseudonocardia_dioxanivorans-_-CP002593--_CB1190_T	sludge--TRUE	1
+Microlunatus_phosphovorus-_-AP012204--_NM-1_T	sludge--FALSE	0
+Microlunatus_phosphovorus-_-AP012204--_NM-1_T	sludge--TRUE	1
+Sphaerobacter_thermophilus-_-CP001824--_DSM_20745_T	sludge--FALSE	0
+Sphaerobacter_thermophilus-_-CP001824--_DSM_20745_T	sludge--TRUE	1

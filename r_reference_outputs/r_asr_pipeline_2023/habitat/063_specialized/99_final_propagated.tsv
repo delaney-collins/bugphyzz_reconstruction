@@ -1,0 +1,281 @@
+NCBI_ID	Attribute	Taxon_name	Rank	Attribute_source	Confidence_in_curation	Evidence	Frequency	Score	Attribute_group	Attribute_type	taxid	Attribute_group_2
+s__126740	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__126740	specialized--TRUE	Thermotoga sp. RQ2	species	BacMap	low	nas	always	1	habitat	multistate-union	126740	specialized
+s__203907	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__203907	specialized--TRUE	Candidatus Blochmanniella floridana	species	BacMap	low	nas	always	1	habitat	multistate-union	203907	specialized
+s__321327	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__321327	specialized--TRUE	Synechococcus sp. JA-3-3Ab	species	BacMap	low	nas	always	1	habitat	multistate-union	321327	specialized
+s__321332	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__321332	specialized--TRUE	Synechococcus sp. JA-2-3B'a(2-13)	species	BacMap	low	nas	always	1	habitat	multistate-union	321332	specialized
+s__357808	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__357808	specialized--TRUE	Roseiflexus sp. RS-1	species	BacMap	low	nas	always	1	habitat	multistate-union	357808	specialized
+s__360911	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__360911	specialized--TRUE	Exiguobacterium sp. AT1b	species	BacMap	low	nas	always	1	habitat	multistate-union	360911	specialized
+s__387092	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__387092	specialized--TRUE	Nitratiruptor sp. SB155-2	species	BacMap	low	nas	always	1	habitat	multistate-union	387092	specialized
+s__387093	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__387093	specialized--TRUE	Sulfurovum sp. NBC37-1	species	BacMap	low	nas	always	1	habitat	multistate-union	387093	specialized
+s__396595	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__396595	specialized--TRUE	Thioalkalivibrio sp. K90mix	species	BacMap	low	nas	always	1	habitat	multistate-union	396595	specialized
+s__436114	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__436114	specialized--TRUE	Sulfurihydrogenibium sp. YO3AOP1	species	BacMap	low	nas	always	1	habitat	multistate-union	436114	specialized
+s__522306	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__522306	specialized--TRUE	Candidatus Accumulibacter regalis	species	BacMap	low	nas	always	1	habitat	multistate-union	522306	specialized
+s__544556	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__544556	specialized--TRUE	Geobacillus sp. Y412MC61	species	BacMap	low	nas	always	1	habitat	multistate-union	544556	specialized
+s__550542	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__550542	specialized--TRUE	Geobacillus sp. Y412MC52	species	BacMap	low	nas	always	1	habitat	multistate-union	550542	specialized
+s__573062	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__573062	specialized--TRUE	Thermoanaerobacter sp. X513	species	BacMap	low	nas	always	1	habitat	multistate-union	573062	specialized
+s__644281	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__644281	specialized--TRUE	Methanocaldococcus sp. FS406-22	species	BacMap	low	nas	always	1	habitat	multistate-union	644281	specialized
+s__656519	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__656519	specialized--TRUE	Halanaerobium hydrogeniformans	species	BacMap	low	nas	always	1	habitat	multistate-union	656519	specialized
+t__138119	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__138119	specialized--TRUE	Desulfitobacterium hafniense Y51	strain	BacMap	low	nas	always	1	habitat	multistate-union	138119	specialized
+t__167879	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__167879	specialized--TRUE	Colwellia psychrerythraea 34H	strain	BacMap	low	nas	always	1	habitat	multistate-union	167879	specialized
+t__177439	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__177439	specialized--TRUE	Desulfotalea psychrophila LSv54	strain	BacMap	low	nas	always	1	habitat	multistate-union	177439	specialized
+t__187420	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__187420	specialized--TRUE	Methanothermobacter thermautotrophicus str. Delta H	strain	BacMap	low	nas	always	1	habitat	multistate-union	187420	specialized
+t__190192	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__190192	specialized--TRUE	Methanopyrus kandleri AV19	strain	BacMap	low	nas	always	1	habitat	multistate-union	190192	specialized
+t__194439	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__194439	specialized--TRUE	Chlorobaculum tepidum TLS	strain	BacMap	low	nas	always	1	habitat	multistate-union	194439	specialized
+t__197221	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__197221	specialized--TRUE	Thermosynechococcus vestitus BP-1	strain	BacMap	low	nas	always	1	habitat	multistate-union	197221	specialized
+t__224324	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__224324	specialized--TRUE	Aquifex aeolicus VF5	strain	BacMap	low	nas	always	1	habitat	multistate-union	224324	specialized
+t__225849	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__225849	specialized--TRUE	Shewanella piezotolerans WP3	strain	BacMap	low	nas	always	1	habitat	multistate-union	225849	specialized
+t__243274	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__243274	specialized--TRUE	Thermotoga maritima MSB8	strain	BacMap	low	nas	always	1	habitat	multistate-union	243274	specialized
+t__259536	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__259536	specialized--TRUE	Psychrobacter arcticus 273-4	strain	BacMap	low	nas	always	1	habitat	multistate-union	259536	specialized
+t__262543	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__262543	specialized--TRUE	Exiguobacterium artemiae 255-15	strain	BacMap	low	nas	always	1	habitat	multistate-union	262543	specialized
+t__262724	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__262724	specialized--TRUE	Thermus thermophilus HB27	strain	BacMap	low	nas	always	1	habitat	multistate-union	262724	specialized
+t__265072	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__265072	specialized--TRUE	Methylobacillus flagellatus KT	strain	BacMap	low	nas	always	1	habitat	multistate-union	265072	specialized
+t__266117	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__266117	specialized--TRUE	Rubrobacter xylanophilus DSM 9941	strain	BacMap	low	nas	always	1	habitat	multistate-union	266117	specialized
+t__266264	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__266264	specialized--TRUE	Cupriavidus metallidurans CH34	strain	BacMap	low	nas	always	1	habitat	multistate-union	266264	specialized
+t__272557	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__272557	specialized--TRUE	Aeropyrum pernix K1	strain	BacMap	low	nas	always	1	habitat	multistate-union	272557	specialized
+t__272564	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__272564	specialized--TRUE	Desulfitobacterium hafniense DCB-2	strain	BacMap	low	nas	always	1	habitat	multistate-union	272564	specialized
+t__273057	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__273057	specialized--TRUE	Saccharolobus solfataricus P2	strain	BacMap	low	nas	always	1	habitat	multistate-union	273057	specialized
+t__273063	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__273063	specialized--TRUE	Sulfurisphaera tokodaii str. 7	strain	BacMap	low	nas	always	1	habitat	multistate-union	273063	specialized
+t__273068	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__273068	specialized--TRUE	Caldanaerobacter subterraneus subsp. tengcongensis MB4	strain	BacMap	low	nas	always	1	habitat	multistate-union	273068	specialized
+t__273075	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__273075	specialized--TRUE	Thermoplasma acidophilum DSM 1728	strain	BacMap	low	nas	always	1	habitat	multistate-union	273075	specialized
+t__273116	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__273116	specialized--TRUE	Thermoplasma volcanium GSS1	strain	BacMap	low	nas	always	1	habitat	multistate-union	273116	specialized
+t__283942	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__283942	specialized--TRUE	Idiomarina loihiensis L2TR	strain	BacMap	low	nas	always	1	habitat	multistate-union	283942	specialized
+t__289376	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__289376	specialized--TRUE	Thermodesulfovibrio yellowstonii DSM 11347	strain	BacMap	low	nas	always	1	habitat	multistate-union	289376	specialized
+t__300852	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__300852	specialized--TRUE	Thermus thermophilus HB8	strain	BacMap	low	nas	always	1	habitat	multistate-union	300852	specialized
+t__309798	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__309798	specialized--TRUE	Coprothermobacter proteolyticus DSM 5265	strain	BacMap	low	nas	always	1	habitat	multistate-union	309798	specialized
+t__309801	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__309801	specialized--TRUE	Thermomicrobium roseum DSM 5159	strain	BacMap	low	nas	always	1	habitat	multistate-union	309801	specialized
+t__309803	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__309803	specialized--TRUE	Thermotoga neapolitana DSM 4359	strain	BacMap	low	nas	always	1	habitat	multistate-union	309803	specialized
+t__309807	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__309807	specialized--TRUE	Salinibacter ruber DSM 13855	strain	BacMap	low	nas	always	1	habitat	multistate-union	309807	specialized
+t__324602	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__324602	specialized--TRUE	Chloroflexus aurantiacus J-10-fl	strain	BacMap	low	nas	always	1	habitat	multistate-union	324602	specialized
+t__326427	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__326427	specialized--TRUE	Chloroflexus aggregans DSM 9485	strain	BacMap	low	nas	always	1	habitat	multistate-union	326427	specialized
+t__330779	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__330779	specialized--TRUE	Sulfolobus acidocaldarius DSM 639	strain	BacMap	low	nas	always	1	habitat	multistate-union	330779	specialized
+t__351627	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__351627	specialized--TRUE	Caldicellulosiruptor saccharolyticus DSM 8903	strain	BacMap	low	nas	always	1	habitat	multistate-union	351627	specialized
+t__368408	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__368408	specialized--TRUE	Thermofilum pendens Hrk 5	strain	BacMap	low	nas	always	1	habitat	multistate-union	368408	specialized
+t__370438	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__370438	specialized--TRUE	Pelotomaculum thermopropionicum SI	strain	BacMap	low	nas	always	1	habitat	multistate-union	370438	specialized
+t__374847	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__374847	specialized--TRUE	Candidatus Korarchaeum cryptofilum OPF8	strain	BacMap	low	nas	always	1	habitat	multistate-union	374847	specialized
+t__380394	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__380394	specialized--TRUE	Acidithiobacillus ferrooxidans ATCC 53993	strain	BacMap	low	nas	always	1	habitat	multistate-union	380394	specialized
+t__381666	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__381666	specialized--TRUE	Cupriavidus necator H16	strain	BacMap	low	nas	always	1	habitat	multistate-union	381666	specialized
+t__381764	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__381764	specialized--TRUE	Fervidobacterium nodosum Rt17-B1	strain	BacMap	low	nas	always	1	habitat	multistate-union	381764	specialized
+t__384616	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__384616	specialized--TRUE	Pyrobaculum islandicum DSM 4184	strain	BacMap	low	nas	always	1	habitat	multistate-union	384616	specialized
+t__387662	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__387662	specialized--TRUE	Candidatus Carsonella ruddii PV	strain	BacMap	low	nas	always	1	habitat	multistate-union	387662	specialized
+t__391296	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__391296	specialized--TRUE	Streptococcus suis 98HAH33	strain	BacMap	low	nas	always	1	habitat	multistate-union	391296	specialized
+t__396588	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__396588	specialized--TRUE	Thioalkalivibrio sulfidiphilus HL-EbGr7	strain	BacMap	low	nas	always	1	habitat	multistate-union	396588	specialized
+t__397948	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__397948	specialized--TRUE	Caldivirga maquilingensis IC-167	strain	BacMap	low	nas	always	1	habitat	multistate-union	397948	specialized
+t__399549	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__399549	specialized--TRUE	Metallosphaera sedula DSM 5348	strain	BacMap	low	nas	always	1	habitat	multistate-union	399549	specialized
+t__399550	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__399550	specialized--TRUE	Staphylothermus marinus F1	strain	BacMap	low	nas	always	1	habitat	multistate-union	399550	specialized
+t__403833	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__403833	specialized--TRUE	Petrotoga mobilis SJ95	strain	BacMap	low	nas	always	1	habitat	multistate-union	403833	specialized
+t__410359	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__410359	specialized--TRUE	Pyrobaculum calidifontis JCM 11548	strain	BacMap	low	nas	always	1	habitat	multistate-union	410359	specialized
+t__416591	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__416591	specialized--TRUE	Pseudothermotoga lettingae TMO	strain	BacMap	low	nas	always	1	habitat	multistate-union	416591	specialized
+t__419942	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__419942	specialized--TRUE	Saccharolobus islandicus Y.N.15.51	strain	BacMap	low	nas	always	1	habitat	multistate-union	419942	specialized
+t__420246	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__420246	specialized--TRUE	Geobacillus thermodenitrificans NG80-2	strain	BacMap	low	nas	always	1	habitat	multistate-union	420246	specialized
+t__425944	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__425944	specialized--TRUE	Saccharolobus islandicus L.D.8.5	strain	BacMap	low	nas	always	1	habitat	multistate-union	425944	specialized
+t__426118	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__426118	specialized--TRUE	Saccharolobus islandicus M.16.4	strain	BacMap	low	nas	always	1	habitat	multistate-union	426118	specialized
+t__427317	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__427317	specialized--TRUE	Saccharolobus islandicus M.14.25	strain	BacMap	low	nas	always	1	habitat	multistate-union	427317	specialized
+t__427318	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__427318	specialized--TRUE	Saccharolobus islandicus M.16.27	strain	BacMap	low	nas	always	1	habitat	multistate-union	427318	specialized
+t__429009	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__429009	specialized--TRUE	Ammonifex degensii KC4	strain	BacMap	low	nas	always	1	habitat	multistate-union	429009	specialized
+t__429572	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__429572	specialized--TRUE	Saccharolobus islandicus L.S.2.15	strain	BacMap	low	nas	always	1	habitat	multistate-union	429572	specialized
+t__441768	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__441768	specialized--TRUE	Acholeplasma laidlawii PG-8A	strain	BacMap	low	nas	always	1	habitat	multistate-union	441768	specialized
+t__444157	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__444157	specialized--TRUE	Pyrobaculum neutrophilum V24Sta	strain	BacMap	low	nas	always	1	habitat	multistate-union	444157	specialized
+t__444177	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__444177	specialized--TRUE	Lysinibacillus sphaericus C3-41	strain	BacMap	low	nas	always	1	habitat	multistate-union	444177	specialized
+t__446471	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__446471	specialized--TRUE	Xylanimonas cellulosilytica DSM 15894	strain	BacMap	low	nas	always	1	habitat	multistate-union	446471	specialized
+t__457570	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__457570	specialized--TRUE	Natranaerobius thermophilus JW/NM-WN-LF	strain	BacMap	low	nas	always	1	habitat	multistate-union	457570	specialized
+t__469382	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__469382	specialized--TRUE	Halogeometricum borinquense DSM 11551	strain	BacMap	low	nas	always	1	habitat	multistate-union	469382	specialized
+t__471852	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__471852	specialized--TRUE	Thermomonospora curvata DSM 43183	strain	BacMap	low	nas	always	1	habitat	multistate-union	471852	specialized
+t__477974	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__477974	specialized--TRUE	Candidatus Desulforudis audaxviator MP104C	strain	BacMap	low	nas	always	1	habitat	multistate-union	477974	specialized
+t__481448	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__481448	specialized--TRUE	Methylacidiphilum infernorum V4	strain	BacMap	low	nas	always	1	habitat	multistate-union	481448	specialized
+t__484019	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__484019	specialized--TRUE	Thermosipho africanus TCF52B	strain	BacMap	low	nas	always	1	habitat	multistate-union	484019	specialized
+t__485914	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__485914	specialized--TRUE	Halomicrobium mukohataei DSM 12286	strain	BacMap	low	nas	always	1	habitat	multistate-union	485914	specialized
+t__485915	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__485915	specialized--TRUE	Desulfohalobium retbaense DSM 5692	strain	BacMap	low	nas	always	1	habitat	multistate-union	485915	specialized
+t__491915	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__491915	specialized--TRUE	Anoxybacillus flavithermus WK1	strain	BacMap	low	nas	always	1	habitat	multistate-union	491915	specialized
+t__504728	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__504728	specialized--TRUE	Meiothermus ruber DSM 1279	strain	BacMap	low	nas	always	1	habitat	multistate-union	504728	specialized
+t__515635	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__515635	specialized--TRUE	Dictyoglomus turgidum DSM 6724	strain	BacMap	low	nas	always	1	habitat	multistate-union	515635	specialized
+t__518766	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__518766	specialized--TRUE	Rhodothermus marinus DSM 4252	strain	BacMap	low	nas	always	1	habitat	multistate-union	518766	specialized
+t__521011	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__521011	specialized--TRUE	Methanosphaerula palustris E1-9c	strain	BacMap	low	nas	always	1	habitat	multistate-union	521011	specialized
+t__521098	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__521098	specialized--TRUE	Alicyclobacillus acidocaldarius subsp. acidocaldarius DSM 446	strain	BacMap	low	nas	always	1	habitat	multistate-union	521098	specialized
+t__521460	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__521460	specialized--TRUE	Caldicellulosiruptor bescii DSM 6725	strain	BacMap	low	nas	always	1	habitat	multistate-union	521460	specialized
+t__523846	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__523846	specialized--TRUE	Methanothermus fervidus DSM 2088	strain	BacMap	low	nas	always	1	habitat	multistate-union	523846	specialized
+t__525904	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__525904	specialized--TRUE	Thermobaculum terrenum ATCC BAA-798	strain	BacMap	low	nas	always	1	habitat	multistate-union	525904	specialized
+t__525909	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__525909	specialized--TRUE	Acidimicrobium ferrooxidans DSM 10331	strain	BacMap	low	nas	always	1	habitat	multistate-union	525909	specialized
+t__526227	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__526227	specialized--TRUE	Allomeiothermus silvanus DSM 9946	strain	BacMap	low	nas	always	1	habitat	multistate-union	526227	specialized
+t__543526	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__543526	specialized--TRUE	Haloterrigena turkmenica DSM 5511	strain	BacMap	low	nas	always	1	habitat	multistate-union	543526	specialized
+t__543734	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__543734	specialized--TRUE	Lacticaseibacillus casei BL23	strain	BacMap	low	nas	always	1	habitat	multistate-union	543734	specialized
+t__547558	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__547558	specialized--TRUE	Methanohalophilus mahii DSM 5219	strain	BacMap	low	nas	always	1	habitat	multistate-union	547558	specialized
+t__547559	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__547559	specialized--TRUE	Natrialba magadii ATCC 43099	strain	BacMap	low	nas	always	1	habitat	multistate-union	547559	specialized
+t__550537	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__550537	specialized--TRUE	Salmonella enterica subsp. enterica serovar Enteritidis str. P125109	strain	BacMap	low	nas	always	1	habitat	multistate-union	550537	specialized
+t__555079	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__555079	specialized--TRUE	Thermosediminibacter oceani DSM 16646	strain	BacMap	low	nas	always	1	habitat	multistate-union	555079	specialized
+t__555778	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__555778	specialized--TRUE	Halothiobacillus neapolitanus c2	strain	BacMap	low	nas	always	1	habitat	multistate-union	555778	specialized
+t__572478	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__572478	specialized--TRUE	Vulcanisaeta distributa DSM 14429	strain	BacMap	low	nas	always	1	habitat	multistate-union	572478	specialized
+t__572546	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__572546	specialized--TRUE	Archaeoglobus profundus DSM 5631	strain	BacMap	low	nas	always	1	habitat	multistate-union	572546	specialized
+t__573063	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__573063	specialized--TRUE	Methanocaldococcus infernus ME	strain	BacMap	low	nas	always	1	habitat	multistate-union	573063	specialized
+t__573064	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__573064	specialized--TRUE	Methanocaldococcus fervens AG86	strain	BacMap	low	nas	always	1	habitat	multistate-union	573064	specialized
+t__573234	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__573234	specialized--TRUE	Candidatus Hodgkinia cicadicola Dsem	strain	BacMap	low	nas	always	1	habitat	multistate-union	573234	specialized
+t__573413	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__573413	specialized--TRUE	Sediminispirochaeta smaragdinae DSM 11293	strain	BacMap	low	nas	always	1	habitat	multistate-union	573413	specialized
+t__574087	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__574087	specialized--TRUE	Acetohalobium arabaticum DSM 5501	strain	BacMap	low	nas	always	1	habitat	multistate-union	574087	specialized
+t__575540	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__575540	specialized--TRUE	Isosphaera pallida ATCC 43644	strain	BacMap	low	nas	always	1	habitat	multistate-union	575540	specialized
+t__579137	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__579137	specialized--TRUE	Methanocaldococcus vulcanius M7	strain	BacMap	low	nas	always	1	habitat	multistate-union	579137	specialized
+t__580327	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__580327	specialized--TRUE	Thermoanaerobacterium thermosaccharolyticum DSM 571	strain	BacMap	low	nas	always	1	habitat	multistate-union	580327	specialized
+t__580331	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__580331	specialized--TRUE	Thermoanaerobacter italicus Ab9	strain	BacMap	low	nas	always	1	habitat	multistate-union	580331	specialized
+t__583358	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__583358	specialized--TRUE	Thermoanaerobacter mathranii subsp. mathranii str. A3	strain	BacMap	low	nas	always	1	habitat	multistate-union	583358	specialized
+t__589865	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__589865	specialized--TRUE	Desulfurivibrio alkaliphilus AHT 2	strain	BacMap	low	nas	always	1	habitat	multistate-union	589865	specialized
+t__589924	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__589924	specialized--TRUE	Ferroglobus placidus DSM 10642	strain	BacMap	low	nas	always	1	habitat	multistate-union	589924	specialized
+t__590168	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__590168	specialized--TRUE	Thermotoga petrophila RKU-10	strain	BacMap	low	nas	always	1	habitat	multistate-union	590168	specialized
+t__591019	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__591019	specialized--TRUE	Staphylothermus hellenicus DSM 12710	strain	BacMap	low	nas	always	1	habitat	multistate-union	591019	specialized
+t__593117	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__593117	specialized--TRUE	Thermococcus gammatolerans EJ3	strain	BacMap	low	nas	always	1	habitat	multistate-union	593117	specialized
+t__595499	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__595499	specialized--TRUE	Candidatus Karelsulcia muelleri SMDSEM	strain	BacMap	low	nas	always	1	habitat	multistate-union	595499	specialized
+t__632292	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__632292	specialized--TRUE	Caldicellulosiruptor hydrothermalis 108	strain	BacMap	low	nas	always	1	habitat	multistate-union	632292	specialized
+t__632335	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__632335	specialized--TRUE	Caldicellulosiruptor acetigenus I77R1B	strain	BacMap	low	nas	always	1	habitat	multistate-union	632335	specialized
+t__632518	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__632518	specialized--TRUE	Caldicellulosiruptor owensensis OL	strain	BacMap	low	nas	always	1	habitat	multistate-union	632518	specialized
+t__635013	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__635013	specialized--TRUE	Thermincola carboxydiphila JR	strain	BacMap	low	nas	always	1	habitat	multistate-union	635013	specialized
+t__637905	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__637905	specialized--TRUE	Shewanella violacea DSS12	strain	BacMap	low	nas	always	1	habitat	multistate-union	637905	specialized
+t__639282	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__639282	specialized--TRUE	Deferribacter desulfuricans SSM1	strain	BacMap	low	nas	always	1	habitat	multistate-union	639282	specialized
+t__641892	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__641892	specialized--TRUE	Candidatus Karelsulcia muelleri DMIN	strain	BacMap	low	nas	always	1	habitat	multistate-union	641892	specialized
+t__643648	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__643648	specialized--TRUE	Syntrophothermus lipocalidus DSM 12680	strain	BacMap	low	nas	always	1	habitat	multistate-union	643648	specialized
+t__644295	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__644295	specialized--TRUE	Methanohalobium evestigatum Z-7303	strain	BacMap	low	nas	always	1	habitat	multistate-union	644295	specialized
+t__644966	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__644966	specialized--TRUE	Thermaerobacter marianensis DSM 12885	strain	BacMap	low	nas	always	1	habitat	multistate-union	644966	specialized
+t__679901	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__679901	specialized--TRUE	Methanosalsum zhilinae DSM 4017	strain	BacMap	low	nas	always	1	habitat	multistate-union	679901	specialized
+t__688269	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__688269	specialized--TRUE	Pseudothermotoga thermarum DSM 5069	strain	BacMap	low	nas	always	1	habitat	multistate-union	688269	specialized
+t__69014	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__69014	specialized--TRUE	Thermococcus kodakarensis KOD1	strain	BacMap	low	nas	always	1	habitat	multistate-union	69014	specialized
+t__706194	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__706194	specialized--TRUE	Candidatus Karelsulcia muelleri CARI	strain	BacMap	low	nas	always	1	habitat	multistate-union	706194	specialized
+t__743525	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__743525	specialized--TRUE	Thermus scotoductus SA-01	strain	BacMap	low	nas	always	1	habitat	multistate-union	743525	specialized
+t__749222	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__749222	specialized--TRUE	Nitratifractor salsuginis DSM 16511	strain	BacMap	low	nas	always	1	habitat	multistate-union	749222	specialized
+t__760011	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__760011	specialized--TRUE	Parasphaerochaeta coccoides DSM 17374	strain	BacMap	low	nas	always	1	habitat	multistate-union	760011	specialized
+t__760142	specialized--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__760142	specialized--TRUE	Hippea maritima DSM 10411	strain	BacMap	low	nas	always	1	habitat	multistate-union	760142	specialized

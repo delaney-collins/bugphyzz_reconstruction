@@ -1,0 +1,7 @@
+NCBI_ID	Attribute	Taxon_name	Rank	Attribute_source	Confidence_in_curation	Evidence	Frequency	Score	Attribute_group	Attribute_type	taxid	Attribute_group_2
+s__1781	fish--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1781	fish--TRUE	Mycobacterium marinum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1781	fish
+s__40269	fish--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__40269	fish--TRUE	Aliivibrio salmonicida	species	ProTraits	medium	igc	always	1	habitat	multistate-union	40269	fish
+s__96345	fish--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__96345	fish--TRUE	Flavobacterium psychrophilum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	96345	fish

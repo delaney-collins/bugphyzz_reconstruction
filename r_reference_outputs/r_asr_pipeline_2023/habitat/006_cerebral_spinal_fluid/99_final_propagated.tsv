@@ -1,0 +1,7 @@
+NCBI_ID	Attribute	Taxon_name	Rank	Attribute_source	Confidence_in_curation	Evidence	Frequency	Score	Attribute_group	Attribute_type	taxid	Attribute_group_2
+s__29518	cerebral spinal fluid--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__29518	cerebral spinal fluid--TRUE	Borreliella afzelii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	29518	cerebral spinal fluid
+s__29519	cerebral spinal fluid--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__29519	cerebral spinal fluid--TRUE	Borreliella garinii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	29519	cerebral spinal fluid
+s__64897	cerebral spinal fluid--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__64897	cerebral spinal fluid--TRUE	Borreliella bissettiae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	64897	cerebral spinal fluid

@@ -1,0 +1,89 @@
+NCBI_ID	Attribute	Taxon_name	Rank	Attribute_source	Confidence_in_curation	Evidence	Frequency	Score	Attribute_group	Attribute_type	taxid	Attribute_group_2
+s__1038867	rhizosphere--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1038867	rhizosphere--TRUE	Bradyrhizobium sp. WSM3983	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1038867	rhizosphere
+s__1040986	rhizosphere--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1040986	rhizosphere--TRUE	Mesorhizobium sp. WSM3224	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1040986	rhizosphere
+s__1040989	rhizosphere--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1040989	rhizosphere--TRUE	Bradyrhizobium sp. ARR65	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1040989	rhizosphere
+s__1057002	rhizosphere--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1057002	rhizosphere--TRUE	Ensifer sp. BR816	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1057002	rhizosphere
+s__1079800	rhizosphere--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1079800	rhizosphere--TRUE	Rhizobium mesoamericanum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1079800	rhizosphere
+s__110321	rhizosphere--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__110321	rhizosphere--TRUE	Sinorhizobium medicae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	110321	rhizosphere
+s__1120045	rhizosphere--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1120045	rhizosphere--TRUE	Rhizobium grahamii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1120045	rhizosphere
+s__1132836	rhizosphere--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1132836	rhizosphere--TRUE	Rhizobium sp. CCGE 510	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1132836	rhizosphere
+s__113395	rhizosphere--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__113395	rhizosphere--TRUE	Bradyrhizobium sp. Tv2a-2	species	ProTraits	medium	igc	always	1	habitat	multistate-union	113395	rhizosphere
+s__1144306	rhizosphere--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1144306	rhizosphere--TRUE	Rhizobium sp. AP16	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1144306	rhizosphere
+s__1144312	rhizosphere--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1144312	rhizosphere--TRUE	Rhizobium sp. CF122	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1144312	rhizosphere
+s__1144314	rhizosphere--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1144314	rhizosphere--TRUE	Rhizobium sp. CF142	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1144314	rhizosphere
+s__1176649	rhizosphere--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1176649	rhizosphere--TRUE	Agrobacterium fabrum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1176649	rhizosphere
+s__1188263	rhizosphere--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1188263	rhizosphere--TRUE	Bradyrhizobium sp. WSM2254	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1188263	rhizosphere
+s__1297570	rhizosphere--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1297570	rhizosphere--TRUE	Mesorhizobium sp. STM 4661	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1297570	rhizosphere
+s__1298858	rhizosphere--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1298858	rhizosphere--TRUE	Mesorhizobium sp. URHA0056	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1298858	rhizosphere
+s__1355477	rhizosphere--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1355477	rhizosphere--TRUE	Bradyrhizobium diazoefficiens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1355477	rhizosphere
+s__164546	rhizosphere--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__164546	rhizosphere--TRUE	Cupriavidus taiwanensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	164546	rhizosphere
+s__189753	rhizosphere--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__189753	rhizosphere--TRUE	Bradyrhizobium sp. Ec3.3	species	ProTraits	medium	igc	always	1	habitat	multistate-union	189753	rhizosphere
+s__29448	rhizosphere--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__29448	rhizosphere--TRUE	Bradyrhizobium elkanii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	29448	rhizosphere
+s__29449	rhizosphere--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__29449	rhizosphere--TRUE	Rhizobium etli	species	ProTraits	medium	igc	always	1	habitat	multistate-union	29449	rhizosphere
+s__318996	rhizosphere--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__318996	rhizosphere--TRUE	Bradyrhizobium sp. WSM1743	species	ProTraits	medium	igc	always	1	habitat	multistate-union	318996	rhizosphere
+s__319003	rhizosphere--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__319003	rhizosphere--TRUE	Bradyrhizobium sp. WSM1253	species	ProTraits	medium	igc	always	1	habitat	multistate-union	319003	rhizosphere
+s__319017	rhizosphere--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__319017	rhizosphere--TRUE	Bradyrhizobium sp. WSM471	species	ProTraits	medium	igc	always	1	habitat	multistate-union	319017	rhizosphere
+s__375	rhizosphere--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__375	rhizosphere--TRUE	Bradyrhizobium japonicum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	375	rhizosphere
+s__380	rhizosphere--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__380	rhizosphere--TRUE	Sinorhizobium fredii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	380	rhizosphere
+s__381	rhizosphere--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__381	rhizosphere--TRUE	Mesorhizobium loti	species	ProTraits	medium	igc	always	1	habitat	multistate-union	381	rhizosphere
+s__382	rhizosphere--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__382	rhizosphere--TRUE	Sinorhizobium meliloti	species	ProTraits	medium	igc	always	1	habitat	multistate-union	382	rhizosphere
+s__384	rhizosphere--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__384	rhizosphere--TRUE	Rhizobium leguminosarum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	384	rhizosphere
+s__39645	rhizosphere--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__39645	rhizosphere--TRUE	Mesorhizobium ciceri	species	ProTraits	medium	igc	always	1	habitat	multistate-union	39645	rhizosphere
+s__398	rhizosphere--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__398	rhizosphere--TRUE	Martinezella tropici	species	ProTraits	medium	igc	always	1	habitat	multistate-union	398	rhizosphere
+s__399742	rhizosphere--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__399742	rhizosphere--TRUE	Enterobacter sp. 638	species	ProTraits	medium	igc	always	1	habitat	multistate-union	399742	rhizosphere
+s__443598	rhizosphere--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__443598	rhizosphere--TRUE	Bradyrhizobium sp. Cp5.3	species	ProTraits	medium	igc	always	1	habitat	multistate-union	443598	rhizosphere
+s__508869	rhizosphere--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__508869	rhizosphere--TRUE	Bradyrhizobium genosp. SA-4	species	ProTraits	medium	igc	always	1	habitat	multistate-union	508869	rhizosphere
+s__536018	rhizosphere--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__536018	rhizosphere--TRUE	Mesorhizobium australicum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	536018	rhizosphere
+s__57676	rhizosphere--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__57676	rhizosphere--TRUE	Rhizobium mongolense	species	ProTraits	medium	igc	always	1	habitat	multistate-union	57676	rhizosphere
+s__593909	rhizosphere--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__593909	rhizosphere--TRUE	Mesorhizobium opportunistum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	593909	rhizosphere
+s__71433	rhizosphere--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__71433	rhizosphere--TRUE	Mesorhizobium amorphae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	71433	rhizosphere
+s__76745	rhizosphere--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__76745	rhizosphere--TRUE	Sinorhizobium arboris	species	ProTraits	medium	igc	always	1	habitat	multistate-union	76745	rhizosphere
+s__768490	rhizosphere--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__768490	rhizosphere--TRUE	Serratia sp. AS12	species	ProTraits	medium	igc	always	1	habitat	multistate-union	768490	rhizosphere
+s__768493	rhizosphere--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__768493	rhizosphere--TRUE	Serratia sp. AS13	species	ProTraits	medium	igc	always	1	habitat	multistate-union	768493	rhizosphere
+s__82996	rhizosphere--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__82996	rhizosphere--TRUE	Serratia plymuthica	species	ProTraits	medium	igc	always	1	habitat	multistate-union	82996	rhizosphere
+t__886882	rhizosphere--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__886882	rhizosphere--TRUE	Paenibacillus polymyxa SC2	strain	BacMap	low	nas	always	1	habitat	multistate-union	886882	rhizosphere
+t__994484	rhizosphere--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__994484	rhizosphere--TRUE	Pseudomonas brassicacearum subsp. brassicacearum NFM421	strain	BacMap	low	nas	always	1	habitat	multistate-union	994484	rhizosphere

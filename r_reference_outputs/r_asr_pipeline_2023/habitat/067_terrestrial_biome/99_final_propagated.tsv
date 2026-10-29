@@ -1,0 +1,191 @@
+NCBI_ID	Attribute	Taxon_name	Rank	Attribute_source	Confidence_in_curation	Evidence	Frequency	Score	Attribute_group	Attribute_type	taxid	Attribute_group_2
+s__1127744	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1127744	terrestrial biome--TRUE	Bacillus sp. JS	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1127744	terrestrial biome
+s__137722	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__137722	terrestrial biome--TRUE	Azospirillum sp. B510	species	BacMap	low	nas	always	1	habitat	multistate-union	137722	terrestrial biome
+s__1390	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1390	terrestrial biome--TRUE	Bacillus amyloliquefaciens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1390	terrestrial biome
+s__1423	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1423	terrestrial biome--TRUE	Bacillus subtilis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1423	terrestrial biome
+s__161493	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__161493	terrestrial biome--TRUE	Anaeromyxobacter dehalogenans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	161493	terrestrial biome
+s__164756	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__164756	terrestrial biome--TRUE	Mycobacterium sp. MCS	species	ProTraits	medium	igc	always	1	habitat	multistate-union	164756	terrestrial biome
+s__189918	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__189918	terrestrial biome--TRUE	Mycobacterium sp. KMS	species	ProTraits	medium	igc	always	1	habitat	multistate-union	189918	terrestrial biome
+s__196162	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__196162	terrestrial biome--TRUE	Nocardioides sp. JS614	species	BacMap	low	nas	always	1	habitat	multistate-union	196162	terrestrial biome
+s__232721	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__232721	terrestrial biome--TRUE	Acidovorax sp. JS42	species	BacMap	low	nas	always	1	habitat	multistate-union	232721	terrestrial biome
+s__324057	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__324057	terrestrial biome--TRUE	Paenibacillus sp. JDR-2	species	BacMap	low	nas	always	1	habitat	multistate-union	324057	terrestrial biome
+s__404589	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__404589	terrestrial biome--TRUE	Anaeromyxobacter sp. Fw109-5	species	BacMap	low	nas	always	1	habitat	multistate-union	404589	terrestrial biome
+s__443143	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__443143	terrestrial biome--TRUE	Geobacter sp. M18	species	BacMap	low	nas	always	1	habitat	multistate-union	443143	terrestrial biome
+s__447217	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__447217	terrestrial biome--TRUE	Anaeromyxobacter sp. K	species	ProTraits	medium	igc	always	1	habitat	multistate-union	447217	terrestrial biome
+s__580165	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__580165	terrestrial biome--TRUE	Bacillus cytotoxicus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	580165	terrestrial biome
+s__79885	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__79885	terrestrial biome--TRUE	Alkalihalophilus pseudofirmus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	79885	terrestrial biome
+s__862751	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__862751	terrestrial biome--TRUE	Streptomyces sp. SirexAA-E	species	BacMap	low	nas	always	1	habitat	multistate-union	862751	terrestrial biome
+t__101510	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__101510	terrestrial biome--TRUE	Rhodococcus jostii RHA1	strain	BacMap	low	nas	always	1	habitat	multistate-union	101510	terrestrial biome
+t__222523	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__222523	terrestrial biome--TRUE	Bacillus cereus ATCC 10987	strain	BacMap	low	nas	always	1	habitat	multistate-union	222523	terrestrial biome
+t__224308	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__224308	terrestrial biome--TRUE	Bacillus subtilis subsp. subtilis str. 168	strain	BacMap	low	nas	always	1	habitat	multistate-union	224308	terrestrial biome
+t__226900	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__226900	terrestrial biome--TRUE	Bacillus cereus ATCC 14579	strain	BacMap	low	nas	always	1	habitat	multistate-union	226900	terrestrial biome
+t__243230	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__243230	terrestrial biome--TRUE	Deinococcus radiodurans R1 = ATCC 13939 = DSM 20539	strain	BacMap	low	nas	always	1	habitat	multistate-union	243230	terrestrial biome
+t__246197	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__246197	terrestrial biome--TRUE	Myxococcus xanthus DK 1622	strain	BacMap	low	nas	always	1	habitat	multistate-union	246197	terrestrial biome
+t__251221	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__251221	terrestrial biome--TRUE	Gloeobacter violaceus PCC 7421	strain	BacMap	low	nas	always	1	habitat	multistate-union	251221	terrestrial biome
+t__261594	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__261594	terrestrial biome--TRUE	Bacillus anthracis str. 'Ames Ancestor'	strain	BacMap	low	nas	always	1	habitat	multistate-union	261594	terrestrial biome
+t__271848	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__271848	terrestrial biome--TRUE	Burkholderia thailandensis E264	strain	BacMap	low	nas	always	1	habitat	multistate-union	271848	terrestrial biome
+t__272560	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__272560	terrestrial biome--TRUE	Burkholderia pseudomallei K96243	strain	BacMap	low	nas	always	1	habitat	multistate-union	272560	terrestrial biome
+t__278137	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__278137	terrestrial biome--TRUE	Mycolicibacterium gilvum Spyr1	strain	BacMap	low	nas	always	1	habitat	multistate-union	278137	terrestrial biome
+t__288681	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__288681	terrestrial biome--TRUE	Bacillus cereus E33L	strain	BacMap	low	nas	always	1	habitat	multistate-union	288681	terrestrial biome
+t__290340	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__290340	terrestrial biome--TRUE	Paenarthrobacter aurescens TC1	strain	BacMap	low	nas	always	1	habitat	multistate-union	290340	terrestrial biome
+t__290397	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__290397	terrestrial biome--TRUE	Anaeromyxobacter dehalogenans 2CP-C	strain	BacMap	low	nas	always	1	habitat	multistate-union	290397	terrestrial biome
+t__292459	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__292459	terrestrial biome--TRUE	Symbiobacterium thermophilum IAM 14863	strain	BacMap	low	nas	always	1	habitat	multistate-union	292459	terrestrial biome
+t__311403	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__311403	terrestrial biome--TRUE	Rhizobium rhizogenes K84	strain	BacMap	low	nas	always	1	habitat	multistate-union	311403	terrestrial biome
+t__315730	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__315730	terrestrial biome--TRUE	Bacillus mycoides KBAB4	strain	BacMap	low	nas	always	1	habitat	multistate-union	315730	terrestrial biome
+t__315749	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__315749	terrestrial biome--TRUE	Bacillus cytotoxicus NVH 391-98	strain	BacMap	low	nas	always	1	habitat	multistate-union	315749	terrestrial biome
+t__315750	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__315750	terrestrial biome--TRUE	Bacillus pumilus SAFR-032	strain	BacMap	low	nas	always	1	habitat	multistate-union	315750	terrestrial biome
+t__320372	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__320372	terrestrial biome--TRUE	Burkholderia pseudomallei 1710b	strain	BacMap	low	nas	always	1	habitat	multistate-union	320372	terrestrial biome
+t__320373	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__320373	terrestrial biome--TRUE	Burkholderia pseudomallei 668	strain	BacMap	low	nas	always	1	habitat	multistate-union	320373	terrestrial biome
+t__323097	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__323097	terrestrial biome--TRUE	Nitrobacter hamburgensis X14	strain	BacMap	low	nas	always	1	habitat	multistate-union	323097	terrestrial biome
+t__323098	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__323098	terrestrial biome--TRUE	Nitrobacter winogradskyi Nb-255	strain	BacMap	low	nas	always	1	habitat	multistate-union	323098	terrestrial biome
+t__323848	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__323848	terrestrial biome--TRUE	Nitrosospira multiformis ATCC 25196	strain	BacMap	low	nas	always	1	habitat	multistate-union	323848	terrestrial biome
+t__326423	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__326423	terrestrial biome--TRUE	Bacillus velezensis FZB42	strain	BacMap	low	nas	always	1	habitat	multistate-union	326423	terrestrial biome
+t__349520	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__349520	terrestrial biome--TRUE	Paenibacillus polymyxa E681	strain	BacMap	low	nas	always	1	habitat	multistate-union	349520	terrestrial biome
+t__357348	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__357348	terrestrial biome--TRUE	Burkholderia pseudomallei 1106a	strain	BacMap	low	nas	always	1	habitat	multistate-union	357348	terrestrial biome
+t__357809	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__357809	terrestrial biome--TRUE	Lachnoclostridium phytofermentans ISDg	strain	BacMap	low	nas	always	1	habitat	multistate-union	357809	terrestrial biome
+t__358681	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__358681	terrestrial biome--TRUE	Brevibacillus brevis NBRC 100599	strain	BacMap	low	nas	always	1	habitat	multistate-union	358681	terrestrial biome
+t__361100	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__361100	terrestrial biome--TRUE	Bacillus cereus Q1	strain	BacMap	low	nas	always	1	habitat	multistate-union	361100	terrestrial biome
+t__365046	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__365046	terrestrial biome--TRUE	Ramlibacter tataouinensis TTB310	strain	BacMap	low	nas	always	1	habitat	multistate-union	365046	terrestrial biome
+t__386415	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__386415	terrestrial biome--TRUE	Clostridium novyi NT	strain	BacMap	low	nas	always	1	habitat	multistate-union	386415	terrestrial biome
+t__394503	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__394503	terrestrial biome--TRUE	Ruminiclostridium cellulolyticum H10	strain	BacMap	low	nas	always	1	habitat	multistate-union	394503	terrestrial biome
+t__395965	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__395965	terrestrial biome--TRUE	Methylocella silvestris BL2	strain	BacMap	low	nas	always	1	habitat	multistate-union	395965	terrestrial biome
+t__398511	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__398511	terrestrial biome--TRUE	Alkalihalophilus pseudofirmus OF4	strain	BacMap	low	nas	always	1	habitat	multistate-union	398511	terrestrial biome
+t__398527	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__398527	terrestrial biome--TRUE	Paraburkholderia phytofirmans PsJN	strain	BacMap	low	nas	always	1	habitat	multistate-union	398527	terrestrial biome
+t__401053	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__401053	terrestrial biome--TRUE	Terriglobus saanensis SP1PR4	strain	BacMap	low	nas	always	1	habitat	multistate-union	401053	terrestrial biome
+t__404380	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__404380	terrestrial biome--TRUE	Citrifermentans bemidjiense Bem	strain	BacMap	low	nas	always	1	habitat	multistate-union	404380	terrestrial biome
+t__405948	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__405948	terrestrial biome--TRUE	Saccharopolyspora erythraea NRRL 2338	strain	BacMap	low	nas	always	1	habitat	multistate-union	405948	terrestrial biome
+t__439375	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__439375	terrestrial biome--TRUE	Brucella anthropi ATCC 49188	strain	BacMap	low	nas	always	1	habitat	multistate-union	439375	terrestrial biome
+t__440085	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__440085	terrestrial biome--TRUE	Methylorubrum extorquens CM4	strain	BacMap	low	nas	always	1	habitat	multistate-union	440085	terrestrial biome
+t__446462	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__446462	terrestrial biome--TRUE	Actinosynnema mirum DSM 43827	strain	BacMap	low	nas	always	1	habitat	multistate-union	446462	terrestrial biome
+t__446465	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__446465	terrestrial biome--TRUE	Brachybacterium faecium DSM 4810	strain	BacMap	low	nas	always	1	habitat	multistate-union	446465	terrestrial biome
+t__446466	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__446466	terrestrial biome--TRUE	Cellulomonas flavigena DSM 20109	strain	BacMap	low	nas	always	1	habitat	multistate-union	446466	terrestrial biome
+t__448385	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__448385	terrestrial biome--TRUE	Sorangium cellulosum So ce56	strain	BacMap	low	nas	always	1	habitat	multistate-union	448385	terrestrial biome
+t__452662	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__452662	terrestrial biome--TRUE	Sphingobium indicum UT26S	strain	BacMap	low	nas	always	1	habitat	multistate-union	452662	terrestrial biome
+t__452863	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__452863	terrestrial biome--TRUE	Pseudarthrobacter chlorophenolicus A6	strain	BacMap	low	nas	always	1	habitat	multistate-union	452863	terrestrial biome
+t__455488	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__455488	terrestrial biome--TRUE	Anaeromyxobacter dehalogenans 2CP-1	strain	BacMap	low	nas	always	1	habitat	multistate-union	455488	terrestrial biome
+t__456442	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__456442	terrestrial biome--TRUE	Methanoregula boonei 6A8	strain	BacMap	low	nas	always	1	habitat	multistate-union	456442	terrestrial biome
+t__469371	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__469371	terrestrial biome--TRUE	Thermobispora bispora DSM 43833	strain	BacMap	low	nas	always	1	habitat	multistate-union	469371	terrestrial biome
+t__469383	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__469383	terrestrial biome--TRUE	Conexibacter woesei DSM 14684	strain	BacMap	low	nas	always	1	habitat	multistate-union	469383	terrestrial biome
+t__471853	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__471853	terrestrial biome--TRUE	Beutenbergia cavernae DSM 12333	strain	BacMap	low	nas	always	1	habitat	multistate-union	471853	terrestrial biome
+t__479431	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__479431	terrestrial biome--TRUE	Nakamurella multipartita DSM 44233	strain	BacMap	low	nas	always	1	habitat	multistate-union	479431	terrestrial biome
+t__479432	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__479432	terrestrial biome--TRUE	Streptosporangium roseum DSM 43021	strain	BacMap	low	nas	always	1	habitat	multistate-union	479432	terrestrial biome
+t__479433	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__479433	terrestrial biome--TRUE	Catenulispora acidiphila DSM 44928	strain	BacMap	low	nas	always	1	habitat	multistate-union	479433	terrestrial biome
+t__479435	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__479435	terrestrial biome--TRUE	Kribbella flavida DSM 17836	strain	BacMap	low	nas	always	1	habitat	multistate-union	479435	terrestrial biome
+t__485917	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__485917	terrestrial biome--TRUE	Pedobacter heparinus DSM 2366	strain	BacMap	low	nas	always	1	habitat	multistate-union	485917	terrestrial biome
+t__485918	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__485918	terrestrial biome--TRUE	Chitinophaga pinensis DSM 2588	strain	BacMap	low	nas	always	1	habitat	multistate-union	485918	terrestrial biome
+t__498211	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__498211	terrestrial biome--TRUE	Cellvibrio japonicus Ueda107	strain	BacMap	low	nas	always	1	habitat	multistate-union	498211	terrestrial biome
+t__499177	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__499177	terrestrial biome--TRUE	Acetoanaerobium sticklandii DSM 519	strain	BacMap	low	nas	always	1	habitat	multistate-union	499177	terrestrial biome
+t__519442	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__519442	terrestrial biome--TRUE	Halorhabdus utahensis DSM 12940	strain	BacMap	low	nas	always	1	habitat	multistate-union	519442	terrestrial biome
+t__521096	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__521096	terrestrial biome--TRUE	Tsukamurella paurometabola DSM 20162	strain	BacMap	low	nas	always	1	habitat	multistate-union	521096	terrestrial biome
+t__523850	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__523850	terrestrial biome--TRUE	Thermococcus onnurineus NA1	strain	BacMap	low	nas	always	1	habitat	multistate-union	523850	terrestrial biome
+t__525897	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__525897	terrestrial biome--TRUE	Desulfomicrobium baculatum DSM 4028	strain	BacMap	low	nas	always	1	habitat	multistate-union	525897	terrestrial biome
+t__525903	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__525903	terrestrial biome--TRUE	Thermanaerovibrio acidaminovorans DSM 6589	strain	BacMap	low	nas	always	1	habitat	multistate-union	525903	terrestrial biome
+t__526225	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__526225	terrestrial biome--TRUE	Geodermatophilus obscurus DSM 43160	strain	BacMap	low	nas	always	1	habitat	multistate-union	526225	terrestrial biome
+t__546414	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__546414	terrestrial biome--TRUE	Deinococcus deserti VCD115	strain	BacMap	low	nas	always	1	habitat	multistate-union	546414	terrestrial biome
+t__590998	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__590998	terrestrial biome--TRUE	Cellulomonas fimi ATCC 484	strain	BacMap	low	nas	always	1	habitat	multistate-union	590998	terrestrial biome
+t__593907	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__593907	terrestrial biome--TRUE	Cellulomonas gilvus ATCC 13127	strain	BacMap	low	nas	always	1	habitat	multistate-union	593907	terrestrial biome
+t__653045	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__653045	terrestrial biome--TRUE	Streptomyces violaceusniger Tu 4113	strain	BacMap	low	nas	always	1	habitat	multistate-union	653045	terrestrial biome
+t__655816	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__655816	terrestrial biome--TRUE	Bacillus spizizenii str. W23	strain	BacMap	low	nas	always	1	habitat	multistate-union	655816	terrestrial biome
+t__661410	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__661410	terrestrial biome--TRUE	Methylorubrum extorquens DM4	strain	BacMap	low	nas	always	1	habitat	multistate-union	661410	terrestrial biome
+t__680198	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__680198	terrestrial biome--TRUE	Streptomyces scabiei 87.22	strain	BacMap	low	nas	always	1	habitat	multistate-union	680198	terrestrial biome
+t__694427	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__694427	terrestrial biome--TRUE	Paludibacter propionicigenes WB4	strain	BacMap	low	nas	always	1	habitat	multistate-union	694427	terrestrial biome
+t__748727	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__748727	terrestrial biome--TRUE	Clostridium ljungdahlii DSM 13528	strain	BacMap	low	nas	always	1	habitat	multistate-union	748727	terrestrial biome
+t__76114	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__76114	terrestrial biome--TRUE	Aromatoleum aromaticum EbN1	strain	BacMap	low	nas	always	1	habitat	multistate-union	76114	terrestrial biome
+t__762903	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__762903	terrestrial biome--TRUE	Pseudopedobacter saltans DSM 12145	strain	BacMap	low	nas	always	1	habitat	multistate-union	762903	terrestrial biome
+t__880591	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__880591	terrestrial biome--TRUE	Ketogulonicigenium vulgare Y25	strain	BacMap	low	nas	always	1	habitat	multistate-union	880591	terrestrial biome
+t__930171	terrestrial biome--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__930171	terrestrial biome--TRUE	Pseudarthrobacter phenanthrenivorans Sphe3	strain	BacMap	low	nas	always	1	habitat	multistate-union	930171	terrestrial biome

@@ -1,0 +1,4 @@
+[38;5;232mThere was 1 warning in `dplyr::mutate()`.[39m
+[38;5;232m[36mℹ[38;5;232m In argument: `Rank = taxizedb::taxid2rank(.data$NCBI_ID, db = "ncbi")`.[39m
+Caused by warning in `taxizedb::taxid2rank()`:
+[33m![39m No rank found for 38 of 11234 taxon IDs. The followings are left unrankd: 95160, 182080, 2547398, 1830138, 368812, 1187066, 157733, 369930, 369930, 1912894, 1912896, 225845, 629680, 223900, 1055102, 1055101, 115555, 29570, 29570, 502832, 115561, 42565, 2044857, 253547, 84292, 182220, 280237, 1037355, 395568, 1774956, 81037, 237656, 1530170, 1914757, 1257027, 386490, 1638645, 322609

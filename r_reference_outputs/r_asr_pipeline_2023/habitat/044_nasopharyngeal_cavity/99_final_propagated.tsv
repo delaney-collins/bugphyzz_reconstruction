@@ -1,0 +1,5 @@
+NCBI_ID	Attribute	Taxon_name	Rank	Attribute_source	Confidence_in_curation	Evidence	Frequency	Score	Attribute_group	Attribute_type	taxid	Attribute_group_2
+s__487	nasopharyngeal cavity--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__487	nasopharyngeal cavity--TRUE	Neisseria meningitidis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	487	nasopharyngeal cavity
+s__65058	nasopharyngeal cavity--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__65058	nasopharyngeal cavity--TRUE	Corynebacterium ulcerans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	65058	nasopharyngeal cavity

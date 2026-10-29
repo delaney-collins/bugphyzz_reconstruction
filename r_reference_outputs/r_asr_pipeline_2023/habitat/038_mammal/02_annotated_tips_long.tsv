@@ -1,0 +1,11 @@
+tip_label	Attribute	Score
+Brucella_ceti-_-AM158982--_NCTC_12891_T	mammal--FALSE	0
+Brucella_ceti-_-AM158982--_NCTC_12891_T	mammal--TRUE	1
+Brucella_pinnipedialis-_-AM158981--_NCTC_12890_T	mammal--FALSE	0
+Brucella_pinnipedialis-_-AM158981--_NCTC_12890_T	mammal--TRUE	1
+Brucella_melitensis-_-AF220149--_16M_T	mammal--FALSE	0
+Brucella_melitensis-_-AF220149--_16M_T	mammal--TRUE	1
+Bacillus_thuringiensis-_-D16281--_IAM_12077_T	mammal--FALSE	0
+Bacillus_thuringiensis-_-D16281--_IAM_12077_T	mammal--TRUE	1
+Chlamydia_caviae-_-D85708--_Gp/Ic_-=_ATCC_VR813-_T	mammal--FALSE	0
+Chlamydia_caviae-_-D85708--_Gp/Ic_-=_ATCC_VR813-_T	mammal--TRUE	1

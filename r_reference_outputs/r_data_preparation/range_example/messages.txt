@@ -1,0 +1,4 @@
+Finished growth temperature.
+
+1,046 rows were dropped.
+

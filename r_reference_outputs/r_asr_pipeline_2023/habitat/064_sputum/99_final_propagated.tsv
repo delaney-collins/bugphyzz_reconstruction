@@ -1,0 +1,9 @@
+NCBI_ID	Attribute	Taxon_name	Rank	Attribute_source	Confidence_in_curation	Evidence	Frequency	Score	Attribute_group	Attribute_type	taxid	Attribute_group_2
+s__1313	sputum--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1313	sputum--TRUE	Streptococcus pneumoniae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1313	sputum
+s__2054	sputum--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__2054	sputum--TRUE	Gordonia bronchialis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2054	sputum
+s__257758	sputum--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__257758	sputum--TRUE	Streptococcus pseudopneumoniae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	257758	sputum
+s__57975	sputum--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__57975	sputum--TRUE	Burkholderia thailandensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	57975	sputum

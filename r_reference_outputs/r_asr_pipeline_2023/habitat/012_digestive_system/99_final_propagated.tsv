@@ -1,0 +1,415 @@
+NCBI_ID	Attribute	Taxon_name	Rank	Attribute_source	Confidence_in_curation	Evidence	Frequency	Score	Attribute_group	Attribute_type	taxid	Attribute_group_2
+s__1018	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1018	digestive system--TRUE	Capnocytophaga ochracea	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1018	digestive system
+s__1041504	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1041504	digestive system--TRUE	Candidatus Arthromitus sp. SFB-rat-Yit	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1041504	digestive system
+s__105841	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__105841	digestive system--TRUE	Anaerostipes caccae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	105841	digestive system
+s__106588	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__106588	digestive system--TRUE	Pseudoflavonifractor capillosus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	106588	digestive system
+s__1078089	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1078089	digestive system--TRUE	Bacteroides sp. HPS0048	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1078089	digestive system
+s__1078091	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1078091	digestive system--TRUE	Coprococcus sp. HPP0048	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1078091	digestive system
+s__1099853	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1099853	digestive system--TRUE	Coprobacter fastidiosus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1099853	digestive system
+s__1111137	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1111137	digestive system--TRUE	Slackia sp. CM382	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1111137	digestive system
+s__1169321	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1169321	digestive system--TRUE	Escherichia sp. KTE114	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1169321	digestive system
+s__1169331	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1169331	digestive system--TRUE	Escherichia sp. KTE11	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1169331	digestive system
+s__1169349	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1169349	digestive system--TRUE	Escherichia sp. KTE31	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1169349	digestive system
+s__1182697	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1182697	digestive system--TRUE	Escherichia sp. KTE96	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1182697	digestive system
+s__1182732	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1182732	digestive system--TRUE	Escherichia sp. KTE159	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1182732	digestive system
+s__1203590	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1203590	digestive system--TRUE	Streptococcus sp. HPH0090	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1203590	digestive system
+s__1203593	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1203593	digestive system--TRUE	Veillonella sp. HPA0037	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1203593	digestive system
+s__1232449	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1232449	digestive system--TRUE	Clostridiales bacterium VE202-08	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1232449	digestive system
+s__1232452	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1232452	digestive system--TRUE	Clostridiales bacterium VE202-14	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1232452	digestive system
+s__1235790	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1235790	digestive system--TRUE	Eubacterium sp. 14-2	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1235790	digestive system
+s__1235800	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1235800	digestive system--TRUE	Lachnospiraceae bacterium 10-1	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1235800	digestive system
+s__1235803	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1235803	digestive system--TRUE	Parabacteroides sp. ASF519	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1235803	digestive system
+s__1264	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1264	digestive system--TRUE	Hominimerdicola alba	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1264	digestive system
+s__1265	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1265	digestive system--TRUE	Ruminococcus flavefaciens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1265	digestive system
+s__1279005	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1279005	digestive system--TRUE	Escherichia sp. KTE172	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1279005	digestive system
+s__1302	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1302	digestive system--TRUE	Streptococcus gordonii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1302	digestive system
+s__1322	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1322	digestive system--TRUE	Blautia hansenii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1322	digestive system
+s__13264	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__13264	digestive system--TRUE	Brachyspira innocens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	13264	digestive system
+s__1328	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1328	digestive system--TRUE	Streptococcus anginosus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1328	digestive system
+s__1338	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1338	digestive system--TRUE	Streptococcus intermedius	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1338	digestive system
+s__1501329	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1501329	digestive system--TRUE	Oribacterium parvum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1501329	digestive system
+s__1501332	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1501332	digestive system--TRUE	Oribacterium asaccharolyticum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1501332	digestive system
+s__1512	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1512	digestive system--TRUE	[Clostridium] symbiosum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1512	digestive system
+s__151276	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__151276	digestive system--TRUE	Bacteroides coprosuis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	151276	digestive system
+s__1522	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1522	digestive system--TRUE	[Clostridium] innocuum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1522	digestive system
+s__1531	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1531	digestive system--TRUE	Enterocloster clostridioformis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1531	digestive system
+s__154046	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__154046	digestive system--TRUE	Hungatella hathewayi	species	ProTraits	medium	igc	always	1	habitat	multistate-union	154046	digestive system
+s__1547	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1547	digestive system--TRUE	Thomasclavelia ramosa	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1547	digestive system
+s__158	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__158	digestive system--TRUE	Treponema denticola	species	ProTraits	medium	igc	always	1	habitat	multistate-union	158	digestive system
+s__1582	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1582	digestive system--TRUE	Lacticaseibacillus casei	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1582	digestive system
+s__159	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__159	digestive system--TRUE	Brachyspira hyodysenteriae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	159	digestive system
+s__165179	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__165179	digestive system--TRUE	Segatella copri	species	ProTraits	medium	igc	always	1	habitat	multistate-union	165179	digestive system
+s__1680	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1680	digestive system--TRUE	Bifidobacterium adolescentis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1680	digestive system
+s__1681	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1681	digestive system--TRUE	Bifidobacterium bifidum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1681	digestive system
+s__1683	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1683	digestive system--TRUE	Bifidobacterium angulatum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1683	digestive system
+s__168384	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__168384	digestive system--TRUE	Marvinbryantia formatexigens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	168384	digestive system
+s__1685	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1685	digestive system--TRUE	Bifidobacterium breve	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1685	digestive system
+s__1686	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1686	digestive system--TRUE	Bifidobacterium catenulatum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1686	digestive system
+s__1689	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1689	digestive system--TRUE	Bifidobacterium dentium	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1689	digestive system
+s__187327	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__187327	digestive system--TRUE	Acidaminococcus intestini	species	ProTraits	medium	igc	always	1	habitat	multistate-union	187327	digestive system
+s__195	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__195	digestive system--TRUE	Campylobacter coli	species	ProTraits	medium	igc	always	1	habitat	multistate-union	195	digestive system
+s__199	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__199	digestive system--TRUE	Campylobacter concisus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	199	digestive system
+s__201	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__201	digestive system--TRUE	Campylobacter lari	species	ProTraits	medium	igc	always	1	habitat	multistate-union	201	digestive system
+s__204	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__204	digestive system--TRUE	Campylobacter showae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	204	digestive system
+s__204516	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__204516	digestive system--TRUE	Phocaeicola massiliensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	204516	digestive system
+s__208479	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__208479	digestive system--TRUE	Enterocloster bolteae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	208479	digestive system
+s__208962	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__208962	digestive system--TRUE	Escherichia albertii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	208962	digestive system
+s__212	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__212	digestive system--TRUE	Helicobacter acinonychis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	212	digestive system
+s__214856	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__214856	digestive system--TRUE	Alistipes finegoldii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	214856	digestive system
+s__216816	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__216816	digestive system--TRUE	Bifidobacterium longum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	216816	digestive system
+s__246787	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__246787	digestive system--TRUE	Bacteroides cellulosilyticus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	246787	digestive system
+s__28025	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__28025	digestive system--TRUE	Bifidobacterium animalis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	28025	digestive system
+s__28026	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__28026	digestive system--TRUE	Bifidobacterium pseudocatenulatum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	28026	digestive system
+s__28111	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__28111	digestive system--TRUE	Bacteroides eggerthii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	28111	digestive system
+s__28112	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__28112	digestive system--TRUE	Tannerella forsythia	species	ProTraits	medium	igc	always	1	habitat	multistate-union	28112	digestive system
+s__28116	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__28116	digestive system--TRUE	Bacteroides ovatus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	28116	digestive system
+s__28129	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__28129	digestive system--TRUE	Prevotella denticola	species	ProTraits	medium	igc	always	1	habitat	multistate-union	28129	digestive system
+s__28131	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__28131	digestive system--TRUE	Prevotella intermedia	species	ProTraits	medium	igc	always	1	habitat	multistate-union	28131	digestive system
+s__28132	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__28132	digestive system--TRUE	Prevotella melaninogenica	species	ProTraits	medium	igc	always	1	habitat	multistate-union	28132	digestive system
+s__28133	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__28133	digestive system--TRUE	Prevotella nigrescens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	28133	digestive system
+s__28134	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__28134	digestive system--TRUE	Hoylesella oralis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	28134	digestive system
+s__28135	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__28135	digestive system--TRUE	Segatella oris	species	ProTraits	medium	igc	always	1	habitat	multistate-union	28135	digestive system
+s__282402	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__282402	digestive system--TRUE	Prevotella multiformis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	282402	digestive system
+s__290053	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__290053	digestive system--TRUE	Bacteroides helcogenes	species	ProTraits	medium	igc	always	1	habitat	multistate-union	290053	digestive system
+s__291644	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__291644	digestive system--TRUE	Bacteroides salyersiae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	291644	digestive system
+s__291645	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__291645	digestive system--TRUE	Bacteroides nordii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	291645	digestive system
+s__29347	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__29347	digestive system--TRUE	[Clostridium] scindens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	29347	digestive system
+s__29348	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__29348	digestive system--TRUE	Thomasclavelia spiroformis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	29348	digestive system
+s__29466	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__29466	digestive system--TRUE	Veillonella parvula	species	ProTraits	medium	igc	always	1	habitat	multistate-union	29466	digestive system
+s__301301	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__301301	digestive system--TRUE	Roseburia hominis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	301301	digestive system
+s__305719	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__305719	digestive system--TRUE	Segatella baroniae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	305719	digestive system
+s__310297	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__310297	digestive system--TRUE	Phocaeicola plebeius	species	ProTraits	medium	igc	always	1	habitat	multistate-union	310297	digestive system
+s__310298	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__310298	digestive system--TRUE	Phocaeicola coprocola	species	ProTraits	medium	igc	always	1	habitat	multistate-union	310298	digestive system
+s__310300	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__310300	digestive system--TRUE	Bacteroides pyogenes	species	ProTraits	medium	igc	always	1	habitat	multistate-union	310300	digestive system
+s__310514	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__310514	digestive system--TRUE	Hallella multisaccharivorax	species	ProTraits	medium	igc	always	1	habitat	multistate-union	310514	digestive system
+s__32025	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__32025	digestive system--TRUE	Helicobacter hepaticus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	32025	digestive system
+s__328812	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__328812	digestive system--TRUE	Parabacteroides goldsteinii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	328812	digestive system
+s__329854	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__329854	digestive system--TRUE	Bacteroides intestinalis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	329854	digestive system
+s__33033	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__33033	digestive system--TRUE	Parvimonas micra	species	ProTraits	medium	igc	always	1	habitat	multistate-union	33033	digestive system
+s__33039	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__33039	digestive system--TRUE	Mediterraneibacter torques	species	ProTraits	medium	igc	always	1	habitat	multistate-union	33039	digestive system
+s__33043	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__33043	digestive system--TRUE	Coprococcus eutactus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	33043	digestive system
+s__338188	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__338188	digestive system--TRUE	Bacteroides finegoldii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	338188	digestive system
+s__33905	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__33905	digestive system--TRUE	Bifidobacterium thermophilum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	33905	digestive system
+s__357276	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__357276	digestive system--TRUE	Phocaeicola dorei	species	ProTraits	medium	igc	always	1	habitat	multistate-union	357276	digestive system
+s__358743	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__358743	digestive system--TRUE	Enterocloster citroniae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	358743	digestive system
+s__363265	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__363265	digestive system--TRUE	Leyella stercorea	species	ProTraits	medium	igc	always	1	habitat	multistate-union	363265	digestive system
+s__371601	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__371601	digestive system--TRUE	Bacteroides xylanisolvens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	371601	digestive system
+s__376804	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__376804	digestive system--TRUE	Phocaeicola barnesiae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	376804	digestive system
+s__376805	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__376805	digestive system--TRUE	Phocaeicola salanitronis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	376805	digestive system
+s__384638	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__384638	digestive system--TRUE	[Bacteroides] pectinophilus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	384638	digestive system
+s__387661	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__387661	digestive system--TRUE	Parabacteroides johnsonii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	387661	digestive system
+s__39485	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__39485	digestive system--TRUE	Lachnospira eligens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	39485	digestive system
+s__39486	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__39486	digestive system--TRUE	Dorea formicigenerans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	39486	digestive system
+s__39491	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__39491	digestive system--TRUE	Agathobacter rectalis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	39491	digestive system
+s__39496	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__39496	digestive system--TRUE	Eubacterium ventriosum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	39496	digestive system
+s__397287	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__397287	digestive system--TRUE	Lachnospiraceae bacterium 28-4	species	ProTraits	medium	igc	always	1	habitat	multistate-union	397287	digestive system
+s__397288	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__397288	digestive system--TRUE	Lachnospiraceae bacterium 3-1	species	ProTraits	medium	igc	always	1	habitat	multistate-union	397288	digestive system
+s__397290	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__397290	digestive system--TRUE	Lachnospiraceae bacterium A2	species	ProTraits	medium	igc	always	1	habitat	multistate-union	397290	digestive system
+s__39777	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__39777	digestive system--TRUE	Veillonella atypica	species	ProTraits	medium	igc	always	1	habitat	multistate-union	39777	digestive system
+s__40542	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__40542	digestive system--TRUE	Leptotrichia buccalis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	40542	digestive system
+s__411486	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__411486	digestive system--TRUE	Clostridium sp. M62/1	species	ProTraits	medium	igc	always	1	habitat	multistate-union	411486	digestive system
+s__411489	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__411489	digestive system--TRUE	Clostridium sp. L2-50	species	ProTraits	medium	igc	always	1	habitat	multistate-union	411489	digestive system
+s__450749	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__450749	digestive system--TRUE	Veillonella sp. 6_1_27	species	ProTraits	medium	igc	always	1	habitat	multistate-union	450749	digestive system
+s__45634	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__45634	digestive system--TRUE	Streptococcus cristatus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	45634	digestive system
+s__457387	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__457387	digestive system--TRUE	Bacteroides sp. 1_1_30	species	ProTraits	medium	igc	always	1	habitat	multistate-union	457387	digestive system
+s__457390	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__457390	digestive system--TRUE	Bacteroides sp. 3_1_23	species	ProTraits	medium	igc	always	1	habitat	multistate-union	457390	digestive system
+s__457391	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__457391	digestive system--TRUE	Bacteroides sp. 3_1_33FAA	species	ProTraits	medium	igc	always	1	habitat	multistate-union	457391	digestive system
+s__457392	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__457392	digestive system--TRUE	Bacteroides sp. 3_2_5	species	ProTraits	medium	igc	always	1	habitat	multistate-union	457392	digestive system
+s__457393	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__457393	digestive system--TRUE	Bacteroides sp. 4_1_36	species	ProTraits	medium	igc	always	1	habitat	multistate-union	457393	digestive system
+s__457394	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__457394	digestive system--TRUE	Bacteroides sp. 4_3_47FAA	species	ProTraits	medium	igc	always	1	habitat	multistate-union	457394	digestive system
+s__457395	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__457395	digestive system--TRUE	Bacteroides sp. 9_1_42FAA	species	ProTraits	medium	igc	always	1	habitat	multistate-union	457395	digestive system
+s__457401	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__457401	digestive system--TRUE	Escherichia sp. 4_1_40B	species	ProTraits	medium	igc	always	1	habitat	multistate-union	457401	digestive system
+s__457402	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__457402	digestive system--TRUE	Eubacterium sp. 3_1_31	species	ProTraits	medium	igc	always	1	habitat	multistate-union	457402	digestive system
+s__457412	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__457412	digestive system--TRUE	Ruminococcus sp. 5_1_39BFAA	species	ProTraits	medium	igc	always	1	habitat	multistate-union	457412	digestive system
+s__457416	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__457416	digestive system--TRUE	Veillonella sp. 3_1_44	species	ProTraits	medium	igc	always	1	habitat	multistate-union	457416	digestive system
+s__457422	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__457422	digestive system--TRUE	Erysipelotrichaceae bacterium 2_2_44A	species	ProTraits	medium	igc	always	1	habitat	multistate-union	457422	digestive system
+s__45851	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__45851	digestive system--TRUE	Eshraghiella crossota	species	ProTraits	medium	igc	always	1	habitat	multistate-union	45851	digestive system
+s__46228	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__46228	digestive system--TRUE	[Ruminococcus] lactaris	species	ProTraits	medium	igc	always	1	habitat	multistate-union	46228	digestive system
+s__46503	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__46503	digestive system--TRUE	Parabacteroides merdae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	46503	digestive system
+s__46506	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__46506	digestive system--TRUE	Bacteroides stercoris	species	ProTraits	medium	igc	always	1	habitat	multistate-union	46506	digestive system
+s__469585	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__469585	digestive system--TRUE	Bacteroides sp. 1_1_14	species	ProTraits	medium	igc	always	1	habitat	multistate-union	469585	digestive system
+s__469590	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__469590	digestive system--TRUE	Bacteroides sp. 2_2_4	species	ProTraits	medium	igc	always	1	habitat	multistate-union	469590	digestive system
+s__469591	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__469591	digestive system--TRUE	Parabacteroides sp. 20_3	species	ProTraits	medium	igc	always	1	habitat	multistate-union	469591	digestive system
+s__469592	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__469592	digestive system--TRUE	Bacteroides sp. 3_1_19	species	ProTraits	medium	igc	always	1	habitat	multistate-union	469592	digestive system
+s__469593	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__469593	digestive system--TRUE	Bacteroides sp. 3_1_40A	species	ProTraits	medium	igc	always	1	habitat	multistate-union	469593	digestive system
+s__469597	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__469597	digestive system--TRUE	Coprobacillus sp. 8_2_54BFAA	species	ProTraits	medium	igc	always	1	habitat	multistate-union	469597	digestive system
+s__469614	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__469614	digestive system--TRUE	Erysipelotrichaceae bacterium 6_1_45	species	ProTraits	medium	igc	always	1	habitat	multistate-union	469614	digestive system
+s__470565	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__470565	digestive system--TRUE	Prevotella histicola	species	ProTraits	medium	igc	always	1	habitat	multistate-union	470565	digestive system
+s__47678	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__47678	digestive system--TRUE	Bacteroides caccae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	47678	digestive system
+s__487174	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__487174	digestive system--TRUE	Barnesiella intestinihominis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	487174	digestive system
+s__501571	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__501571	digestive system--TRUE	Butyricicoccus pullicaecorum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	501571	digestive system
+s__502558	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__502558	digestive system--TRUE	Eggerthella sp. YY7918	species	ProTraits	medium	igc	always	1	habitat	multistate-union	502558	digestive system
+s__52227	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__52227	digestive system--TRUE	Prevotella dentalis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	52227	digestive system
+s__552395	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__552395	digestive system--TRUE	Lachnospiraceae bacterium 4_1_37FAA	species	ProTraits	medium	igc	always	1	habitat	multistate-union	552395	digestive system
+s__552396	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__552396	digestive system--TRUE	Erysipelotrichaceae bacterium 5_2_54FAA	species	ProTraits	medium	igc	always	1	habitat	multistate-union	552396	digestive system
+s__556258	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__556258	digestive system--TRUE	Bacteroides sp. D1	species	ProTraits	medium	igc	always	1	habitat	multistate-union	556258	digestive system
+s__556270	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__556270	digestive system--TRUE	Coprobacillus sp. D7	species	ProTraits	medium	igc	always	1	habitat	multistate-union	556270	digestive system
+s__562	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__562	digestive system--TRUE	Escherichia coli	species	ProTraits	medium	igc	always	1	habitat	multistate-union	562	digestive system
+s__563037	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__563037	digestive system--TRUE	Streptococcus sp. M143	species	ProTraits	medium	igc	always	1	habitat	multistate-union	563037	digestive system
+s__585543	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__585543	digestive system--TRUE	Bacteroides sp. D20	species	ProTraits	medium	igc	always	1	habitat	multistate-union	585543	digestive system
+s__621	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__621	digestive system--TRUE	Shigella boydii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	621	digestive system
+s__622	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__622	digestive system--TRUE	Shigella dysenteriae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	622	digestive system
+s__623	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__623	digestive system--TRUE	Shigella flexneri	species	ProTraits	medium	igc	always	1	habitat	multistate-union	623	digestive system
+s__624	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__624	digestive system--TRUE	Shigella sonnei	species	ProTraits	medium	igc	always	1	habitat	multistate-union	624	digestive system
+s__626929	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__626929	digestive system--TRUE	Bacteroides clarus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	626929	digestive system
+s__626930	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__626930	digestive system--TRUE	Bacteroides fluxus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	626930	digestive system
+s__626931	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__626931	digestive system--TRUE	Bacteroides oleiciplenus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	626931	digestive system
+s__658082	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__658082	digestive system--TRUE	Lachnospiraceae bacterium 2_1_58FAA	species	ProTraits	medium	igc	always	1	habitat	multistate-union	658082	digestive system
+s__658083	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__658083	digestive system--TRUE	Lachnospiraceae bacterium 6_1_63FAA	species	ProTraits	medium	igc	always	1	habitat	multistate-union	658083	digestive system
+s__658085	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__658085	digestive system--TRUE	Lachnospiraceae bacterium 5_1_57FAA	species	ProTraits	medium	igc	always	1	habitat	multistate-union	658085	digestive system
+s__658086	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__658086	digestive system--TRUE	Lachnospiraceae bacterium 3_1_57FAA_CT1	species	ProTraits	medium	igc	always	1	habitat	multistate-union	658086	digestive system
+s__658088	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__658088	digestive system--TRUE	Lachnospiraceae bacterium 9_1_43BFAA	species	ProTraits	medium	igc	always	1	habitat	multistate-union	658088	digestive system
+s__658655	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__658655	digestive system--TRUE	Lachnospiraceae bacterium 1_4_56FAA	species	ProTraits	medium	igc	always	1	habitat	multistate-union	658655	digestive system
+s__658657	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__658657	digestive system--TRUE	Erysipelotrichaceae bacterium 21_3	species	ProTraits	medium	igc	always	1	habitat	multistate-union	658657	digestive system
+s__658659	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__658659	digestive system--TRUE	Erysipelotrichaceae bacterium 3_1_53	species	ProTraits	medium	igc	always	1	habitat	multistate-union	658659	digestive system
+s__658661	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__658661	digestive system--TRUE	Parabacteroides sp. D25	species	ProTraits	medium	igc	always	1	habitat	multistate-union	658661	digestive system
+s__665939	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__665939	digestive system--TRUE	Campylobacter sp. 10_1_50	species	ProTraits	medium	igc	always	1	habitat	multistate-union	665939	digestive system
+s__665940	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__665940	digestive system--TRUE	Clostridium sp. 7_3_54FAA	species	ProTraits	medium	igc	always	1	habitat	multistate-union	665940	digestive system
+s__665941	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__665941	digestive system--TRUE	Coprobacillus sp. 3_3_56FAA	species	ProTraits	medium	igc	always	1	habitat	multistate-union	665941	digestive system
+s__665943	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__665943	digestive system--TRUE	Eggerthella sp. 1_3_56FAA	species	ProTraits	medium	igc	always	1	habitat	multistate-union	665943	digestive system
+s__665949	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__665949	digestive system--TRUE	Tannerella sp. 6_1_58FAA_CT1	species	ProTraits	medium	igc	always	1	habitat	multistate-union	665949	digestive system
+s__665951	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__665951	digestive system--TRUE	Lachnospiraceae bacterium 8_1_57FAA	species	ProTraits	medium	igc	always	1	habitat	multistate-union	665951	digestive system
+s__665956	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__665956	digestive system--TRUE	Subdoligranulum sp. 4_3_54A2FAA	species	ProTraits	medium	igc	always	1	habitat	multistate-union	665956	digestive system
+s__671218	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__671218	digestive system--TRUE	Alloprevotella rava	species	ProTraits	medium	igc	always	1	habitat	multistate-union	671218	digestive system
+s__671228	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__671228	digestive system--TRUE	Veillonella sp. oral taxon 158	species	ProTraits	medium	igc	always	1	habitat	multistate-union	671228	digestive system
+s__671266	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__671266	digestive system--TRUE	Adlercreutzia caecimuris	species	ProTraits	medium	igc	always	1	habitat	multistate-union	671266	digestive system
+s__674529	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__674529	digestive system--TRUE	Bacteroides faecis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	674529	digestive system
+s__712156	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__712156	digestive system--TRUE	Atopobium sp. oral taxon 199	species	ProTraits	medium	igc	always	1	habitat	multistate-union	712156	digestive system
+s__712215	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__712215	digestive system--TRUE	Capnocytophaga sp. oral taxon 335	species	ProTraits	medium	igc	always	1	habitat	multistate-union	712215	digestive system
+s__712218	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__712218	digestive system--TRUE	Capnocytophaga sp. oral taxon 412	species	ProTraits	medium	igc	always	1	habitat	multistate-union	712218	digestive system
+s__712531	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__712531	digestive system--TRUE	Selenomonas sp. oral taxon 137	species	ProTraits	medium	igc	always	1	habitat	multistate-union	712531	digestive system
+s__712630	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__712630	digestive system--TRUE	Streptococcus sp. oral taxon 071	species	ProTraits	medium	igc	always	1	habitat	multistate-union	712630	digestive system
+s__742723	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__742723	digestive system--TRUE	Lachnospiraceae bacterium 2_1_46FAA	species	ProTraits	medium	igc	always	1	habitat	multistate-union	742723	digestive system
+s__74426	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__74426	digestive system--TRUE	Collinsella aerofaciens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	74426	digestive system
+s__754331	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__754331	digestive system--TRUE	Escherichia sp. TW09308	species	ProTraits	medium	igc	always	1	habitat	multistate-union	754331	digestive system
+s__76860	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__76860	digestive system--TRUE	Streptococcus constellatus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	76860	digestive system
+s__78342	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__78342	digestive system--TRUE	Bifidobacterium gallicum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	78342	digestive system
+s__796942	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__796942	digestive system--TRUE	Stomatobaculum longum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	796942	digestive system
+s__817	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__817	digestive system--TRUE	Bacteroides fragilis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	817	digestive system
+s__818	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__818	digestive system--TRUE	Bacteroides thetaiotaomicron	species	ProTraits	medium	igc	always	1	habitat	multistate-union	818	digestive system
+s__820	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__820	digestive system--TRUE	Bacteroides uniformis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	820	digestive system
+s__821	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__821	digestive system--TRUE	Phocaeicola vulgatus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	821	digestive system
+s__823	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__823	digestive system--TRUE	Parabacteroides distasonis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	823	digestive system
+s__839	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__839	digestive system--TRUE	Xylanibacter ruminicola	species	ProTraits	medium	igc	always	1	habitat	multistate-union	839	digestive system
+s__840	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__840	digestive system--TRUE	Hoylesella loescheii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	840	digestive system
+s__84030	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__84030	digestive system--TRUE	Lacrimispora saccharolytica	species	ProTraits	medium	igc	always	1	habitat	multistate-union	84030	digestive system
+s__84109	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__84109	digestive system--TRUE	Slackia exigua	species	ProTraits	medium	igc	always	1	habitat	multistate-union	84109	digestive system
+s__84110	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__84110	digestive system--TRUE	Slackia heliotrinireducens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	84110	digestive system
+s__84112	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__84112	digestive system--TRUE	Eggerthella lenta	species	ProTraits	medium	igc	always	1	habitat	multistate-union	84112	digestive system
+s__84377	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__84377	digestive system--TRUE	Brachyspira intermedia	species	ProTraits	medium	igc	always	1	habitat	multistate-union	84377	digestive system
+s__84378	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__84378	digestive system--TRUE	Brachyspira murdochii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	84378	digestive system
+s__844	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__844	digestive system--TRUE	Wolinella succinogenes	species	ProTraits	medium	igc	always	1	habitat	multistate-union	844	digestive system
+s__851	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__851	digestive system--TRUE	Fusobacterium nucleatum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	851	digestive system
+s__853	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__853	digestive system--TRUE	Faecalibacterium prausnitzii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	853	digestive system
+s__88431	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__88431	digestive system--TRUE	Dorea longicatena	species	ProTraits	medium	igc	always	1	habitat	multistate-union	88431	digestive system
+s__907	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__907	digestive system--TRUE	Megasphaera elsdenii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	907	digestive system
+s__908340	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__908340	digestive system--TRUE	Clostridium sp. HGF2	species	ProTraits	medium	igc	always	1	habitat	multistate-union	908340	digestive system
+s__910311	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__910311	digestive system--TRUE	Eggerthella sp. HGA1	species	ProTraits	medium	igc	always	1	habitat	multistate-union	910311	digestive system
+s__999425	digestive system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__999425	digestive system--TRUE	Streptococcus sp. F0442	species	ProTraits	medium	igc	always	1	habitat	multistate-union	999425	digestive system

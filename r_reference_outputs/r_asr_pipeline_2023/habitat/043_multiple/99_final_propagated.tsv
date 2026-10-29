@@ -1,0 +1,629 @@
+NCBI_ID	Attribute	Taxon_name	Rank	Attribute_source	Confidence_in_curation	Evidence	Frequency	Score	Attribute_group	Attribute_type	taxid	Attribute_group_2
+s__103690	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__103690	multiple--TRUE	Nostoc sp. PCC 7120 = FACHB-418	species	BacMap	low	nas	always	1	habitat	multistate-union	103690	multiple
+s__106370	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__106370	multiple--TRUE	Frankia casuarinae	species	BacMap	low	nas	always	1	habitat	multistate-union	106370	multiple
+s__153948	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__153948	multiple--TRUE	Nitrosomonas sp. AL212	species	BacMap	low	nas	always	1	habitat	multistate-union	153948	multiple
+s__164757	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__164757	multiple--TRUE	Mycobacterium sp. JLS	species	BacMap	low	nas	always	1	habitat	multistate-union	164757	multiple
+s__189918	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__189918	multiple--TRUE	Mycobacterium sp. KMS	species	BacMap	low	nas	always	1	habitat	multistate-union	189918	multiple
+s__266779	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__266779	multiple--TRUE	Chelativorans sp. BNC1	species	BacMap	low	nas	always	1	habitat	multistate-union	266779	multiple
+s__292414	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__292414	multiple--TRUE	Ruegeria sp. TM1040	species	BacMap	low	nas	always	1	habitat	multistate-union	292414	multiple
+s__296591	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__296591	multiple--TRUE	Polaromonas sp. JS666	species	BacMap	low	nas	always	1	habitat	multistate-union	296591	multiple
+s__298653	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__298653	multiple--TRUE	Parafrankia sp. EAN1pec	species	BacMap	low	nas	always	1	habitat	multistate-union	298653	multiple
+s__298654	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__298654	multiple--TRUE	Pseudofrankia inefficax	species	BacMap	low	nas	always	1	habitat	multistate-union	298654	multiple
+s__31964	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__31964	multiple--TRUE	Clavibacter sepedonicus	species	BacMap	low	nas	always	1	habitat	multistate-union	31964	multiple
+s__351745	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__351745	multiple--TRUE	Shewanella sp. W3-18-1	species	BacMap	low	nas	always	1	habitat	multistate-union	351745	multiple
+s__426117	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__426117	multiple--TRUE	Methylobacterium sp. 4-46	species	BacMap	low	nas	always	1	habitat	multistate-union	426117	multiple
+s__482957	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__482957	multiple--TRUE	Burkholderia lata	species	BacMap	low	nas	always	1	habitat	multistate-union	482957	multiple
+s__581103	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__581103	multiple--TRUE	Geobacillus sp. Y4.1MC1	species	BacMap	low	nas	always	1	habitat	multistate-union	581103	multiple
+s__592316	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__592316	multiple--TRUE	Pantoea sp. At-9b	species	BacMap	low	nas	always	1	habitat	multistate-union	592316	multiple
+s__60480	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__60480	multiple--TRUE	Shewanella sp. MR-4	species	BacMap	low	nas	always	1	habitat	multistate-union	60480	multiple
+s__78245	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__78245	multiple--TRUE	Xanthobacter versatilis	species	BacMap	low	nas	always	1	habitat	multistate-union	78245	multiple
+s__94122	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__94122	multiple--TRUE	Shewanella sp. ANA-3	species	BacMap	low	nas	always	1	habitat	multistate-union	94122	multiple
+t__100226	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__100226	multiple--TRUE	Streptomyces coelicolor A3(2)	strain	BacMap	low	nas	always	1	habitat	multistate-union	100226	multiple
+t__159087	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__159087	multiple--TRUE	Dechloromonas aromatica RCB	strain	BacMap	low	nas	always	1	habitat	multistate-union	159087	multiple
+t__160488	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__160488	multiple--TRUE	Pseudomonas putida KT2440	strain	BacMap	low	nas	always	1	habitat	multistate-union	160488	multiple
+t__169963	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__169963	multiple--TRUE	Listeria monocytogenes EGD-e	strain	BacMap	low	nas	always	1	habitat	multistate-union	169963	multiple
+t__170187	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__170187	multiple--TRUE	Streptococcus pneumoniae TIGR4	strain	BacMap	low	nas	always	1	habitat	multistate-union	170187	multiple
+t__171101	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__171101	multiple--TRUE	Streptococcus pneumoniae R6	strain	BacMap	low	nas	always	1	habitat	multistate-union	171101	multiple
+t__176299	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__176299	multiple--TRUE	Agrobacterium fabrum str. C58	strain	BacMap	low	nas	always	1	habitat	multistate-union	176299	multiple
+t__177437	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__177437	multiple--TRUE	Desulforapulum autotrophicum HRM2	strain	BacMap	low	nas	always	1	habitat	multistate-union	177437	multiple
+t__187410	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__187410	multiple--TRUE	Yersinia pestis KIM10+	strain	BacMap	low	nas	always	1	habitat	multistate-union	187410	multiple
+t__189423	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__189423	multiple--TRUE	Streptococcus pneumoniae 670-6B	strain	BacMap	low	nas	always	1	habitat	multistate-union	189423	multiple
+t__192222	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__192222	multiple--TRUE	Campylobacter jejuni subsp. jejuni NCTC 11168 = ATCC 700819	strain	BacMap	low	nas	always	1	habitat	multistate-union	192222	multiple
+t__192952	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__192952	multiple--TRUE	Methanosarcina mazei Go1	strain	BacMap	low	nas	always	1	habitat	multistate-union	192952	multiple
+t__195099	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__195099	multiple--TRUE	Campylobacter jejuni RM1221	strain	BacMap	low	nas	always	1	habitat	multistate-union	195099	multiple
+t__195102	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__195102	multiple--TRUE	Clostridium perfringens str. 13	strain	BacMap	low	nas	always	1	habitat	multistate-union	195102	multiple
+t__195103	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__195103	multiple--TRUE	Clostridium perfringens ATCC 13124	strain	BacMap	low	nas	always	1	habitat	multistate-union	195103	multiple
+t__196164	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__196164	multiple--TRUE	Corynebacterium efficiens YS-314	strain	BacMap	low	nas	always	1	habitat	multistate-union	196164	multiple
+t__196627	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__196627	multiple--TRUE	Corynebacterium glutamicum ATCC 13032	strain	BacMap	low	nas	always	1	habitat	multistate-union	196627	multiple
+t__198094	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__198094	multiple--TRUE	Bacillus anthracis str. Ames	strain	BacMap	low	nas	always	1	habitat	multistate-union	198094	multiple
+t__203119	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__203119	multiple--TRUE	Acetivibrio thermocellus ATCC 27405	strain	BacMap	low	nas	always	1	habitat	multistate-union	203119	multiple
+t__203120	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__203120	multiple--TRUE	Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293	strain	BacMap	low	nas	always	1	habitat	multistate-union	203120	multiple
+t__203123	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__203123	multiple--TRUE	Oenococcus oeni PSU-1	strain	BacMap	low	nas	always	1	habitat	multistate-union	203123	multiple
+t__205918	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__205918	multiple--TRUE	Pseudomonas syringae pv. syringae B728a	strain	BacMap	low	nas	always	1	habitat	multistate-union	205918	multiple
+t__205922	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__205922	multiple--TRUE	Pseudomonas fluorescens Pf0-1	strain	BacMap	low	nas	always	1	habitat	multistate-union	205922	multiple
+t__207559	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__207559	multiple--TRUE	Oleidesulfovibrio alaskensis G20	strain	BacMap	low	nas	always	1	habitat	multistate-union	207559	multiple
+t__208963	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__208963	multiple--TRUE	Pseudomonas aeruginosa UCBPP-PA14	strain	BacMap	low	nas	always	1	habitat	multistate-union	208963	multiple
+t__208964	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__208964	multiple--TRUE	Pseudomonas aeruginosa PAO1	strain	BacMap	low	nas	always	1	habitat	multistate-union	208964	multiple
+t__211586	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__211586	multiple--TRUE	Shewanella oneidensis MR-1	strain	BacMap	low	nas	always	1	habitat	multistate-union	211586	multiple
+t__212717	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__212717	multiple--TRUE	Clostridium tetani E88	strain	BacMap	low	nas	always	1	habitat	multistate-union	212717	multiple
+t__214092	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__214092	multiple--TRUE	Yersinia pestis CO92	strain	BacMap	low	nas	always	1	habitat	multistate-union	214092	multiple
+t__216591	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__216591	multiple--TRUE	Burkholderia cenocepacia J2315	strain	BacMap	low	nas	always	1	habitat	multistate-union	216591	multiple
+t__216594	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__216594	multiple--TRUE	Mycobacterium marinum M	strain	BacMap	low	nas	always	1	habitat	multistate-union	216594	multiple
+t__216595	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__216595	multiple--TRUE	Pseudomonas [fluorescens] SBW25	strain	BacMap	low	nas	always	1	habitat	multistate-union	216595	multiple
+t__218491	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__218491	multiple--TRUE	Pectobacterium atrosepticum SCRI1043	strain	BacMap	low	nas	always	1	habitat	multistate-union	218491	multiple
+t__218495	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__218495	multiple--TRUE	Streptococcus uberis 0140J	strain	BacMap	low	nas	always	1	habitat	multistate-union	218495	multiple
+t__220664	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__220664	multiple--TRUE	Pseudomonas protegens Pf-5	strain	BacMap	low	nas	always	1	habitat	multistate-union	220664	multiple
+t__221109	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__221109	multiple--TRUE	Oceanobacillus iheyensis HTE831	strain	BacMap	low	nas	always	1	habitat	multistate-union	221109	multiple
+t__222891	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__222891	multiple--TRUE	Ehrlichia sennetsu str. Miyayama	strain	BacMap	low	nas	always	1	habitat	multistate-union	222891	multiple
+t__223283	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__223283	multiple--TRUE	Pseudomonas syringae pv. tomato str. DC3000	strain	BacMap	low	nas	always	1	habitat	multistate-union	223283	multiple
+t__226185	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__226185	multiple--TRUE	Enterococcus faecalis V583	strain	BacMap	low	nas	always	1	habitat	multistate-union	226185	multiple
+t__227377	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__227377	multiple--TRUE	Coxiella burnetii RSA 493	strain	BacMap	low	nas	always	1	habitat	multistate-union	227377	multiple
+t__227882	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__227882	multiple--TRUE	Streptomyces avermitilis MA-4680 = NBRC 14893	strain	BacMap	low	nas	always	1	habitat	multistate-union	227882	multiple
+t__228410	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__228410	multiple--TRUE	Nitrosomonas europaea ATCC 19718	strain	BacMap	low	nas	always	1	habitat	multistate-union	228410	multiple
+t__229193	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__229193	multiple--TRUE	Yersinia pestis biovar Microtus str. 91001	strain	BacMap	low	nas	always	1	habitat	multistate-union	229193	multiple
+t__234621	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__234621	multiple--TRUE	Rhodococcus erythropolis PR4	strain	BacMap	low	nas	always	1	habitat	multistate-union	234621	multiple
+t__240015	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__240015	multiple--TRUE	Acidobacterium capsulatum ATCC 51196	strain	BacMap	low	nas	always	1	habitat	multistate-union	240015	multiple
+t__240292	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__240292	multiple--TRUE	Trichormus variabilis ATCC 29413	strain	BacMap	low	nas	always	1	habitat	multistate-union	240292	multiple
+t__243159	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__243159	multiple--TRUE	Acidithiobacillus ferrooxidans ATCC 23270	strain	BacMap	low	nas	always	1	habitat	multistate-union	243159	multiple
+t__243164	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__243164	multiple--TRUE	Dehalococcoides mccartyi 195	strain	BacMap	low	nas	always	1	habitat	multistate-union	243164	multiple
+t__243231	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__243231	multiple--TRUE	Geobacter sulfurreducens PCA	strain	BacMap	low	nas	always	1	habitat	multistate-union	243231	multiple
+t__243233	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__243233	multiple--TRUE	Methylococcus capsulatus str. Bath	strain	BacMap	low	nas	always	1	habitat	multistate-union	243233	multiple
+t__243365	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__243365	multiple--TRUE	Chromobacterium violaceum ATCC 12472	strain	BacMap	low	nas	always	1	habitat	multistate-union	243365	multiple
+t__247156	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__247156	multiple--TRUE	Nocardia farcinica IFM 10152	strain	BacMap	low	nas	always	1	habitat	multistate-union	247156	multiple
+t__255470	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__255470	multiple--TRUE	Dehalococcoides mccartyi CBDB1	strain	BacMap	low	nas	always	1	habitat	multistate-union	255470	multiple
+t__257309	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__257309	multiple--TRUE	Corynebacterium diphtheriae NCTC 13129	strain	BacMap	low	nas	always	1	habitat	multistate-union	257309	multiple
+t__258594	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__258594	multiple--TRUE	Rhodopseudomonas palustris CGA009	strain	BacMap	low	nas	always	1	habitat	multistate-union	258594	multiple
+t__260799	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__260799	multiple--TRUE	Bacillus anthracis str. Sterne	strain	BacMap	low	nas	always	1	habitat	multistate-union	260799	multiple
+t__262316	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__262316	multiple--TRUE	Mycobacterium avium subsp. paratuberculosis K-10	strain	BacMap	low	nas	always	1	habitat	multistate-union	262316	multiple
+t__264198	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__264198	multiple--TRUE	Cupriavidus pinatubonensis JMP134	strain	BacMap	low	nas	always	1	habitat	multistate-union	264198	multiple
+t__264199	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__264199	multiple--TRUE	Streptococcus thermophilus LMG 18311	strain	BacMap	low	nas	always	1	habitat	multistate-union	264199	multiple
+t__264462	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__264462	multiple--TRUE	Bdellovibrio bacteriovorus HD100	strain	BacMap	low	nas	always	1	habitat	multistate-union	264462	multiple
+t__264730	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__264730	multiple--TRUE	Pseudomonas savastanoi pv. phaseolicola 1448A	strain	BacMap	low	nas	always	1	habitat	multistate-union	264730	multiple
+t__265669	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__265669	multiple--TRUE	Listeria monocytogenes serotype 4b str. F2365	strain	BacMap	low	nas	always	1	habitat	multistate-union	265669	multiple
+t__266265	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__266265	multiple--TRUE	Paraburkholderia xenovorans LB400	strain	BacMap	low	nas	always	1	habitat	multistate-union	266265	multiple
+t__266834	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__266834	multiple--TRUE	Sinorhizobium meliloti 1021	strain	BacMap	low	nas	always	1	habitat	multistate-union	266834	multiple
+t__266835	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__266835	multiple--TRUE	Mesorhizobium japonicum MAFF 303099	strain	BacMap	low	nas	always	1	habitat	multistate-union	266835	multiple
+t__266940	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__266940	multiple--TRUE	Kineococcus radiotolerans SRS30216 = ATCC BAA-149	strain	BacMap	low	nas	always	1	habitat	multistate-union	266940	multiple
+t__267608	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__267608	multiple--TRUE	Ralstonia pseudosolanacearum GMI1000	strain	BacMap	low	nas	always	1	habitat	multistate-union	267608	multiple
+t__269482	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__269482	multiple--TRUE	Burkholderia vietnamiensis G4	strain	BacMap	low	nas	always	1	habitat	multistate-union	269482	multiple
+t__269796	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__269796	multiple--TRUE	Rhodospirillum rubrum ATCC 11170	strain	BacMap	low	nas	always	1	habitat	multistate-union	269796	multiple
+t__269797	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__269797	multiple--TRUE	Methanosarcina barkeri str. Fusaro	strain	BacMap	low	nas	always	1	habitat	multistate-union	269797	multiple
+t__269798	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__269798	multiple--TRUE	Cytophaga hutchinsonii ATCC 33406	strain	BacMap	low	nas	always	1	habitat	multistate-union	269798	multiple
+t__269800	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__269800	multiple--TRUE	Thermobifida fusca YX	strain	BacMap	low	nas	always	1	habitat	multistate-union	269800	multiple
+t__272558	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__272558	multiple--TRUE	Halalkalibacterium halodurans C-125	strain	BacMap	low	nas	always	1	habitat	multistate-union	272558	multiple
+t__272562	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__272562	multiple--TRUE	Clostridium acetobutylicum ATCC 824	strain	BacMap	low	nas	always	1	habitat	multistate-union	272562	multiple
+t__272563	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__272563	multiple--TRUE	Clostridioides difficile 630	strain	BacMap	low	nas	always	1	habitat	multistate-union	272563	multiple
+t__272620	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__272620	multiple--TRUE	Klebsiella pneumoniae subsp. pneumoniae MGH 78578	strain	BacMap	low	nas	always	1	habitat	multistate-union	272620	multiple
+t__272621	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__272621	multiple--TRUE	Lactobacillus acidophilus NCFM	strain	BacMap	low	nas	always	1	habitat	multistate-union	272621	multiple
+t__272622	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__272622	multiple--TRUE	Lactococcus cremoris subsp. cremoris SK11	strain	BacMap	low	nas	always	1	habitat	multistate-union	272622	multiple
+t__272623	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__272623	multiple--TRUE	Lactococcus lactis subsp. lactis Il1403	strain	BacMap	low	nas	always	1	habitat	multistate-union	272623	multiple
+t__272626	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__272626	multiple--TRUE	Listeria innocua Clip11262	strain	BacMap	low	nas	always	1	habitat	multistate-union	272626	multiple
+t__272630	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__272630	multiple--TRUE	Methylorubrum extorquens AM1	strain	BacMap	low	nas	always	1	habitat	multistate-union	272630	multiple
+t__272942	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__272942	multiple--TRUE	Rhodobacter capsulatus SB 1003	strain	BacMap	low	nas	always	1	habitat	multistate-union	272942	multiple
+t__272943	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__272943	multiple--TRUE	Cereibacter sphaeroides 2.4.1	strain	BacMap	low	nas	always	1	habitat	multistate-union	272943	multiple
+t__273123	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__273123	multiple--TRUE	Yersinia pseudotuberculosis IP 32953	strain	BacMap	low	nas	always	1	habitat	multistate-union	273123	multiple
+t__278197	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__278197	multiple--TRUE	Pediococcus pentosaceus ATCC 25745	strain	BacMap	low	nas	always	1	habitat	multistate-union	278197	multiple
+t__279238	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__279238	multiple--TRUE	Novosphingobium aromaticivorans DSM 12444	strain	BacMap	low	nas	always	1	habitat	multistate-union	279238	multiple
+t__281309	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__281309	multiple--TRUE	[Bacillus thuringiensis] serovar konkukian str. 97-27	strain	BacMap	low	nas	always	1	habitat	multistate-union	281309	multiple
+t__290338	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__290338	multiple--TRUE	Citrobacter koseri ATCC BAA-895	strain	BacMap	low	nas	always	1	habitat	multistate-union	290338	multiple
+t__290633	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__290633	multiple--TRUE	Gluconobacter oxydans 621H	strain	BacMap	low	nas	always	1	habitat	multistate-union	290633	multiple
+t__292415	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__292415	multiple--TRUE	Thiobacillus denitrificans ATCC 25259	strain	BacMap	low	nas	always	1	habitat	multistate-union	292415	multiple
+t__298386	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__298386	multiple--TRUE	Photobacterium profundum SS9	strain	BacMap	low	nas	always	1	habitat	multistate-union	298386	multiple
+t__299768	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__299768	multiple--TRUE	Streptococcus thermophilus CNRZ1066	strain	BacMap	low	nas	always	1	habitat	multistate-union	299768	multiple
+t__306263	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__306263	multiple--TRUE	Campylobacter lari RM2100	strain	BacMap	low	nas	always	1	habitat	multistate-union	306263	multiple
+t__306537	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__306537	multiple--TRUE	Corynebacterium jeikeium K411	strain	BacMap	low	nas	always	1	habitat	multistate-union	306537	multiple
+t__311402	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__311402	multiple--TRUE	Allorhizobium ampelinum S4	strain	BacMap	low	nas	always	1	habitat	multistate-union	311402	multiple
+t__312309	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__312309	multiple--TRUE	Aliivibrio fischeri ES114	strain	BacMap	low	nas	always	1	habitat	multistate-union	312309	multiple
+t__314315	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__314315	multiple--TRUE	Latilactobacillus sakei subsp. sakei 23K	strain	BacMap	low	nas	always	1	habitat	multistate-union	314315	multiple
+t__316055	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__316055	multiple--TRUE	Rhodopseudomonas palustris BisA53	strain	BacMap	low	nas	always	1	habitat	multistate-union	316055	multiple
+t__316056	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__316056	multiple--TRUE	Rhodopseudomonas palustris BisB18	strain	BacMap	low	nas	always	1	habitat	multistate-union	316056	multiple
+t__316057	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__316057	multiple--TRUE	Rhodopseudomonas palustris BisB5	strain	BacMap	low	nas	always	1	habitat	multistate-union	316057	multiple
+t__316058	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__316058	multiple--TRUE	Rhodopseudomonas palustris HaA2	strain	BacMap	low	nas	always	1	habitat	multistate-union	316058	multiple
+t__316067	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__316067	multiple--TRUE	Geotalea daltonii FRC-32	strain	BacMap	low	nas	always	1	habitat	multistate-union	316067	multiple
+t__316274	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__316274	multiple--TRUE	Herpetosiphon aurantiacus DSM 785	strain	BacMap	low	nas	always	1	habitat	multistate-union	316274	multiple
+t__318167	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__318167	multiple--TRUE	Shewanella frigidimarina NCIMB 400	strain	BacMap	low	nas	always	1	habitat	multistate-union	318167	multiple
+t__318586	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__318586	multiple--TRUE	Paracoccus denitrificans PD1222	strain	BacMap	low	nas	always	1	habitat	multistate-union	318586	multiple
+t__319224	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__319224	multiple--TRUE	Shewanella putrefaciens CN-32	strain	BacMap	low	nas	always	1	habitat	multistate-union	319224	multiple
+t__319225	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__319225	multiple--TRUE	Pelodictyon luteolum DSM 273	strain	BacMap	low	nas	always	1	habitat	multistate-union	319225	multiple
+t__321956	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__321956	multiple--TRUE	Lactobacillus delbrueckii subsp. bulgaricus ATCC BAA-365	strain	BacMap	low	nas	always	1	habitat	multistate-union	321956	multiple
+t__321967	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__321967	multiple--TRUE	Lacticaseibacillus paracasei ATCC 334	strain	BacMap	low	nas	always	1	habitat	multistate-union	321967	multiple
+t__322159	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__322159	multiple--TRUE	Streptococcus thermophilus LMD-9	strain	BacMap	low	nas	always	1	habitat	multistate-union	322159	multiple
+t__322710	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__322710	multiple--TRUE	Azotobacter vinelandii DJ	strain	BacMap	low	nas	always	1	habitat	multistate-union	322710	multiple
+t__323259	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__323259	multiple--TRUE	Methanospirillum hungatei JF-1	strain	BacMap	low	nas	always	1	habitat	multistate-union	323259	multiple
+t__323850	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__323850	multiple--TRUE	Shewanella loihica PV-4	strain	BacMap	low	nas	always	1	habitat	multistate-union	323850	multiple
+t__324925	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__324925	multiple--TRUE	Pelodictyon phaeoclathratiforme BU-1	strain	BacMap	low	nas	always	1	habitat	multistate-union	324925	multiple
+t__326297	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__326297	multiple--TRUE	Shewanella amazonensis SB2B	strain	BacMap	low	nas	always	1	habitat	multistate-union	326297	multiple
+t__334390	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__334390	multiple--TRUE	Limosilactobacillus fermentum IFO 3956	strain	BacMap	low	nas	always	1	habitat	multistate-union	334390	multiple
+t__334413	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__334413	multiple--TRUE	Finegoldia magna ATCC 29328	strain	BacMap	low	nas	always	1	habitat	multistate-union	334413	multiple
+t__335283	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__335283	multiple--TRUE	Nitrosomonas eutropha C91	strain	BacMap	low	nas	always	1	habitat	multistate-union	335283	multiple
+t__335284	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__335284	multiple--TRUE	Psychrobacter cryohalolentis K5	strain	BacMap	low	nas	always	1	habitat	multistate-union	335284	multiple
+t__335541	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__335541	multiple--TRUE	Syntrophomonas wolfei subsp. wolfei str. Goettingen G311	strain	BacMap	low	nas	always	1	habitat	multistate-union	335541	multiple
+t__338966	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__338966	multiple--TRUE	Pelobacter propionicus DSM 2379	strain	BacMap	low	nas	always	1	habitat	multistate-union	338966	multiple
+t__338969	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__338969	multiple--TRUE	Rhodoferax ferrireducens T118	strain	BacMap	low	nas	always	1	habitat	multistate-union	338969	multiple
+t__339670	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__339670	multiple--TRUE	Burkholderia ambifaria AMMD	strain	BacMap	low	nas	always	1	habitat	multistate-union	339670	multiple
+t__340322	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__340322	multiple--TRUE	Corynebacterium glutamicum R	strain	BacMap	low	nas	always	1	habitat	multistate-union	340322	multiple
+t__349101	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__349101	multiple--TRUE	Cereibacter sphaeroides ATCC 17029	strain	BacMap	low	nas	always	1	habitat	multistate-union	349101	multiple
+t__349102	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__349102	multiple--TRUE	Cereibacter sphaeroides ATCC 17025	strain	BacMap	low	nas	always	1	habitat	multistate-union	349102	multiple
+t__349163	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__349163	multiple--TRUE	Acidiphilium cryptum JF-5	strain	BacMap	low	nas	always	1	habitat	multistate-union	349163	multiple
+t__349746	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__349746	multiple--TRUE	Yersinia pestis Angola	strain	BacMap	low	nas	always	1	habitat	multistate-union	349746	multiple
+t__349747	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__349747	multiple--TRUE	Yersinia pseudotuberculosis IP 31758	strain	BacMap	low	nas	always	1	habitat	multistate-union	349747	multiple
+t__351605	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__351605	multiple--TRUE	Geotalea uraniireducens Rf4	strain	BacMap	low	nas	always	1	habitat	multistate-union	351605	multiple
+t__351746	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__351746	multiple--TRUE	Pseudomonas putida F1	strain	BacMap	low	nas	always	1	habitat	multistate-union	351746	multiple
+t__354242	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__354242	multiple--TRUE	Campylobacter jejuni subsp. jejuni 81-176	strain	BacMap	low	nas	always	1	habitat	multistate-union	354242	multiple
+t__355278	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__355278	multiple--TRUE	Leptospira biflexa serovar Patoc strain 'Patoc 1 (Ames)'	strain	BacMap	low	nas	always	1	habitat	multistate-union	355278	multiple
+t__360102	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__360102	multiple--TRUE	Yersinia pestis Antiqua	strain	BacMap	low	nas	always	1	habitat	multistate-union	360102	multiple
+t__360109	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__360109	multiple--TRUE	Campylobacter jejuni subsp. doylei 269.97	strain	BacMap	low	nas	always	1	habitat	multistate-union	360109	multiple
+t__360115	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__360115	multiple--TRUE	Coxiella burnetii RSA 331	strain	BacMap	low	nas	always	1	habitat	multistate-union	360115	multiple
+t__366394	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__366394	multiple--TRUE	Sinorhizobium medicae WSM419	strain	BacMap	low	nas	always	1	habitat	multistate-union	366394	multiple
+t__367737	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__367737	multiple--TRUE	Aliarcobacter butzleri RM4018	strain	BacMap	low	nas	always	1	habitat	multistate-union	367737	multiple
+t__373153	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__373153	multiple--TRUE	Streptococcus pneumoniae D39	strain	BacMap	low	nas	always	1	habitat	multistate-union	373153	multiple
+t__375451	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__375451	multiple--TRUE	Roseobacter denitrificans OCh 114	strain	BacMap	low	nas	always	1	habitat	multistate-union	375451	multiple
+t__376686	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__376686	multiple--TRUE	Flavobacterium johnsoniae UW101	strain	BacMap	low	nas	always	1	habitat	multistate-union	376686	multiple
+t__377628	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__377628	multiple--TRUE	Yersinia pestis Nepal516	strain	BacMap	low	nas	always	1	habitat	multistate-union	377628	multiple
+t__378753	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__378753	multiple--TRUE	Kocuria rhizophila DC2201	strain	BacMap	low	nas	always	1	habitat	multistate-union	378753	multiple
+t__380703	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__380703	multiple--TRUE	Aeromonas hydrophila subsp. hydrophila ATCC 7966	strain	BacMap	low	nas	always	1	habitat	multistate-union	380703	multiple
+t__381754	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__381754	multiple--TRUE	Pseudomonas paraeruginosa PA7	strain	BacMap	low	nas	always	1	habitat	multistate-union	381754	multiple
+t__384676	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__384676	multiple--TRUE	Pseudomonas entomophila L48	strain	BacMap	low	nas	always	1	habitat	multistate-union	384676	multiple
+t__386043	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__386043	multiple--TRUE	Listeria welshimeri serovar 6b str. SLCC5334	strain	BacMap	low	nas	always	1	habitat	multistate-union	386043	multiple
+t__386656	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__386656	multiple--TRUE	Yersinia pestis Pestoides F	strain	BacMap	low	nas	always	1	habitat	multistate-union	386656	multiple
+t__387344	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__387344	multiple--TRUE	Levilactobacillus brevis ATCC 367	strain	BacMap	low	nas	always	1	habitat	multistate-union	387344	multiple
+t__388396	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__388396	multiple--TRUE	Aliivibrio fischeri MJ11	strain	BacMap	low	nas	always	1	habitat	multistate-union	388396	multiple
+t__390235	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__390235	multiple--TRUE	Pseudomonas putida W619	strain	BacMap	low	nas	always	1	habitat	multistate-union	390235	multiple
+t__390333	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__390333	multiple--TRUE	Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842 = JCM 1002	strain	BacMap	low	nas	always	1	habitat	multistate-union	390333	multiple
+t__391008	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__391008	multiple--TRUE	Stenotrophomonas maltophilia R551-3	strain	BacMap	low	nas	always	1	habitat	multistate-union	391008	multiple
+t__391165	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__391165	multiple--TRUE	Granulibacter bethesdensis CGDNIH1	strain	BacMap	low	nas	always	1	habitat	multistate-union	391165	multiple
+t__391295	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__391295	multiple--TRUE	Streptococcus suis 05ZYH33	strain	BacMap	low	nas	always	1	habitat	multistate-union	391295	multiple
+t__391774	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__391774	multiple--TRUE	Nitratidesulfovibrio vulgaris DP4	strain	BacMap	low	nas	always	1	habitat	multistate-union	391774	multiple
+t__392500	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__392500	multiple--TRUE	Shewanella woodyi ATCC 51908	strain	BacMap	low	nas	always	1	habitat	multistate-union	392500	multiple
+t__393011	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__393011	multiple--TRUE	Francisella tularensis subsp. holarctica OSU18	strain	BacMap	low	nas	always	1	habitat	multistate-union	393011	multiple
+t__393305	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__393305	multiple--TRUE	Yersinia enterocolitica subsp. enterocolitica 8081	strain	BacMap	low	nas	always	1	habitat	multistate-union	393305	multiple
+t__397945	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__397945	multiple--TRUE	Paracidovorax citrulli AAC00-1	strain	BacMap	low	nas	always	1	habitat	multistate-union	397945	multiple
+t__398577	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__398577	multiple--TRUE	Burkholderia ambifaria MC40-6	strain	BacMap	low	nas	always	1	habitat	multistate-union	398577	multiple
+t__398578	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__398578	multiple--TRUE	Delftia acidovorans SPH-1	strain	BacMap	low	nas	always	1	habitat	multistate-union	398578	multiple
+t__398767	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__398767	multiple--TRUE	Trichlorobacter lovleyi SZ	strain	BacMap	low	nas	always	1	habitat	multistate-union	398767	multiple
+t__399739	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__399739	multiple--TRUE	Ectopseudomonas mendocina ymp	strain	BacMap	low	nas	always	1	habitat	multistate-union	399739	multiple
+t__399741	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__399741	multiple--TRUE	Serratia proteamaculans 568	strain	BacMap	low	nas	always	1	habitat	multistate-union	399741	multiple
+t__400667	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__400667	multiple--TRUE	Acinetobacter baumannii ATCC 17978	strain	BacMap	low	nas	always	1	habitat	multistate-union	400667	multiple
+t__401614	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__401614	multiple--TRUE	Francisella tularensis subsp. novicida U112	strain	BacMap	low	nas	always	1	habitat	multistate-union	401614	multiple
+t__402626	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__402626	multiple--TRUE	Ralstonia pickettii 12J	strain	BacMap	low	nas	always	1	habitat	multistate-union	402626	multiple
+t__402881	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__402881	multiple--TRUE	Parvibaculum lavamentivorans DS-1	strain	BacMap	low	nas	always	1	habitat	multistate-union	402881	multiple
+t__405531	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__405531	multiple--TRUE	Bacillus cereus G9842	strain	BacMap	low	nas	always	1	habitat	multistate-union	405531	multiple
+t__405532	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__405532	multiple--TRUE	Bacillus cereus B4264	strain	BacMap	low	nas	always	1	habitat	multistate-union	405532	multiple
+t__405534	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__405534	multiple--TRUE	Bacillus cereus AH187	strain	BacMap	low	nas	always	1	habitat	multistate-union	405534	multiple
+t__405535	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__405535	multiple--TRUE	Bacillus cereus AH820	strain	BacMap	low	nas	always	1	habitat	multistate-union	405535	multiple
+t__405566	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__405566	multiple--TRUE	Lactobacillus helveticus DPC 4571	strain	BacMap	low	nas	always	1	habitat	multistate-union	405566	multiple
+t__406425	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__406425	multiple--TRUE	Burkholderia orbicola MC0-3	strain	BacMap	low	nas	always	1	habitat	multistate-union	406425	multiple
+t__407148	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__407148	multiple--TRUE	Campylobacter jejuni subsp. jejuni 81116	strain	BacMap	low	nas	always	1	habitat	multistate-union	407148	multiple
+t__411154	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__411154	multiple--TRUE	Christiangramia forsetii KT0803	strain	BacMap	low	nas	always	1	habitat	multistate-union	411154	multiple
+t__412694	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__412694	multiple--TRUE	Bacillus thuringiensis str. Al Hakam	strain	BacMap	low	nas	always	1	habitat	multistate-union	412694	multiple
+t__413997	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__413997	multiple--TRUE	Escherichia coli B str. REL606	strain	BacMap	low	nas	always	1	habitat	multistate-union	413997	multiple
+t__413999	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__413999	multiple--TRUE	Clostridium botulinum A str. ATCC 3502	strain	BacMap	low	nas	always	1	habitat	multistate-union	413999	multiple
+t__416870	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__416870	multiple--TRUE	Lactococcus cremoris subsp. cremoris MG1363	strain	BacMap	low	nas	always	1	habitat	multistate-union	416870	multiple
+t__419610	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__419610	multiple--TRUE	Methylorubrum extorquens PA1	strain	BacMap	low	nas	always	1	habitat	multistate-union	419610	multiple
+t__420247	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__420247	multiple--TRUE	Methanobrevibacter smithii ATCC 35061	strain	BacMap	low	nas	always	1	habitat	multistate-union	420247	multiple
+t__423368	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__423368	multiple--TRUE	Salmonella enterica subsp. enterica serovar Newport str. SL254	strain	BacMap	low	nas	always	1	habitat	multistate-union	423368	multiple
+t__428406	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__428406	multiple--TRUE	Ralstonia pickettii 12D	strain	BacMap	low	nas	always	1	habitat	multistate-union	428406	multiple
+t__430066	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__430066	multiple--TRUE	Brucella abortus S19	strain	BacMap	low	nas	always	1	habitat	multistate-union	430066	multiple
+t__434923	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__434923	multiple--TRUE	Coxiella burnetii CbuG_Q212	strain	BacMap	low	nas	always	1	habitat	multistate-union	434923	multiple
+t__434924	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__434924	multiple--TRUE	Coxiella burnetii CbuK_Q154	strain	BacMap	low	nas	always	1	habitat	multistate-union	434924	multiple
+t__439292	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__439292	multiple--TRUE	[Bacillus] selenitireducens MLS10	strain	BacMap	low	nas	always	1	habitat	multistate-union	439292	multiple
+t__439843	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__439843	multiple--TRUE	Salmonella enterica subsp. enterica serovar Schwarzengrund str. CVM19633	strain	BacMap	low	nas	always	1	habitat	multistate-union	439843	multiple
+t__439851	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__439851	multiple--TRUE	Salmonella enterica subsp. enterica serovar Dublin str. CT_02021853	strain	BacMap	low	nas	always	1	habitat	multistate-union	439851	multiple
+t__439855	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__439855	multiple--TRUE	Escherichia coli SMS-3-5	strain	BacMap	low	nas	always	1	habitat	multistate-union	439855	multiple
+t__441770	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__441770	multiple--TRUE	Clostridium botulinum A str. ATCC 19397	strain	BacMap	low	nas	always	1	habitat	multistate-union	441770	multiple
+t__441771	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__441771	multiple--TRUE	Clostridium botulinum A str. Hall	strain	BacMap	low	nas	always	1	habitat	multistate-union	441771	multiple
+t__441772	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__441772	multiple--TRUE	Clostridium botulinum F str. Langeland	strain	BacMap	low	nas	always	1	habitat	multistate-union	441772	multiple
+t__442563	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__442563	multiple--TRUE	Bifidobacterium animalis subsp. lactis AD011	strain	BacMap	low	nas	always	1	habitat	multistate-union	442563	multiple
+t__443906	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__443906	multiple--TRUE	Clavibacter michiganensis subsp. michiganensis NCPPB 382	strain	BacMap	low	nas	always	1	habitat	multistate-union	443906	multiple
+t__444450	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__444450	multiple--TRUE	Escherichia coli O157:H7 str. EC4115	strain	BacMap	low	nas	always	1	habitat	multistate-union	444450	multiple
+t__446468	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__446468	multiple--TRUE	Nocardiopsis dassonvillei subsp. dassonvillei DSM 43111	strain	BacMap	low	nas	always	1	habitat	multistate-union	446468	multiple
+t__454166	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__454166	multiple--TRUE	Salmonella enterica subsp. enterica serovar Agona str. SL483	strain	BacMap	low	nas	always	1	habitat	multistate-union	454166	multiple
+t__454169	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__454169	multiple--TRUE	Salmonella enterica subsp. enterica serovar Heidelberg str. SL476	strain	BacMap	low	nas	always	1	habitat	multistate-union	454169	multiple
+t__455632	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__455632	multiple--TRUE	Streptomyces griseus subsp. griseus NBRC 13350	strain	BacMap	low	nas	always	1	habitat	multistate-union	455632	multiple
+t__456481	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__456481	multiple--TRUE	Leptospira biflexa serovar Patoc strain 'Patoc 1 (Paris)'	strain	BacMap	low	nas	always	1	habitat	multistate-union	456481	multiple
+t__458233	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__458233	multiple--TRUE	Macrococcoides caseolyticum JCSC5402	strain	BacMap	low	nas	always	1	habitat	multistate-union	458233	multiple
+t__458234	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__458234	multiple--TRUE	Francisella tularensis subsp. holarctica FTNF002-00	strain	BacMap	low	nas	always	1	habitat	multistate-union	458234	multiple
+t__465515	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__465515	multiple--TRUE	Micrococcus luteus NCTC 2665	strain	BacMap	low	nas	always	1	habitat	multistate-union	465515	multiple
+t__471855	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__471855	multiple--TRUE	Slackia heliotrinireducens DSM 20476	strain	BacMap	low	nas	always	1	habitat	multistate-union	471855	multiple
+t__471857	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__471857	multiple--TRUE	Saccharomonospora viridis DSM 43017	strain	BacMap	low	nas	always	1	habitat	multistate-union	471857	multiple
+t__480119	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__480119	multiple--TRUE	Acinetobacter baumannii AB0057	strain	BacMap	low	nas	always	1	habitat	multistate-union	480119	multiple
+t__484021	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__484021	multiple--TRUE	Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044	strain	BacMap	low	nas	always	1	habitat	multistate-union	484021	multiple
+t__484022	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__484022	multiple--TRUE	Francisella philomiragia subsp. philomiragia ATCC 25017	strain	BacMap	low	nas	always	1	habitat	multistate-union	484022	multiple
+t__485916	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__485916	multiple--TRUE	Desulfofarcimen acetoxidans DSM 771	strain	BacMap	low	nas	always	1	habitat	multistate-union	485916	multiple
+t__487213	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__487213	multiple--TRUE	Streptococcus pneumoniae Taiwan19F-14	strain	BacMap	low	nas	always	1	habitat	multistate-union	487213	multiple
+t__487214	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__487214	multiple--TRUE	Streptococcus pneumoniae Hungary19A-6	strain	BacMap	low	nas	always	1	habitat	multistate-union	487214	multiple
+t__488221	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__488221	multiple--TRUE	Streptococcus pneumoniae 70585	strain	BacMap	low	nas	always	1	habitat	multistate-union	488221	multiple
+t__488222	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__488222	multiple--TRUE	Streptococcus pneumoniae JJA	strain	BacMap	low	nas	always	1	habitat	multistate-union	488222	multiple
+t__488223	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__488223	multiple--TRUE	Streptococcus pneumoniae P1031	strain	BacMap	low	nas	always	1	habitat	multistate-union	488223	multiple
+t__491077	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__491077	multiple--TRUE	Limosilactobacillus reuteri SD2112	strain	BacMap	low	nas	always	1	habitat	multistate-union	491077	multiple
+t__498214	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__498214	multiple--TRUE	Clostridium botulinum A3 str. Loch Maree	strain	BacMap	low	nas	always	1	habitat	multistate-union	498214	multiple
+t__498216	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__498216	multiple--TRUE	Lacticaseibacillus casei str. Zhang	strain	BacMap	low	nas	always	1	habitat	multistate-union	498216	multiple
+t__498217	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__498217	multiple--TRUE	Edwardsiella piscicida EIB202	strain	BacMap	low	nas	always	1	habitat	multistate-union	498217	multiple
+t__498761	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__498761	multiple--TRUE	Heliomicrobium modesticaldum Ice1	strain	BacMap	low	nas	always	1	habitat	multistate-union	498761	multiple
+t__502800	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__502800	multiple--TRUE	Yersinia pseudotuberculosis YPIII	strain	BacMap	low	nas	always	1	habitat	multistate-union	502800	multiple
+t__502801	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__502801	multiple--TRUE	Yersinia pseudotuberculosis PB1/+	strain	BacMap	low	nas	always	1	habitat	multistate-union	502801	multiple
+t__504472	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__504472	multiple--TRUE	Spirosoma linguale DSM 74	strain	BacMap	low	nas	always	1	habitat	multistate-union	504472	multiple
+t__504832	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__504832	multiple--TRUE	Afipia carboxidovorans OM5	strain	BacMap	low	nas	always	1	habitat	multistate-union	504832	multiple
+t__508767	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__508767	multiple--TRUE	Clostridium botulinum E3 str. Alaska E43	strain	BacMap	low	nas	always	1	habitat	multistate-union	508767	multiple
+t__511437	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__511437	multiple--TRUE	Lentilactobacillus buchneri NRRL B-30929	strain	BacMap	low	nas	always	1	habitat	multistate-union	511437	multiple
+t__515621	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__515621	multiple--TRUE	Clostridium botulinum Ba4 str. 657	strain	BacMap	low	nas	always	1	habitat	multistate-union	515621	multiple
+t__516950	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__516950	multiple--TRUE	Streptococcus pneumoniae CGSP14	strain	BacMap	low	nas	always	1	habitat	multistate-union	516950	multiple
+t__522373	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__522373	multiple--TRUE	Stenotrophomonas maltophilia K279a	strain	BacMap	low	nas	always	1	habitat	multistate-union	522373	multiple
+t__525146	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__525146	multiple--TRUE	Desulfovibrio desulfuricans ATCC 27774	strain	BacMap	low	nas	always	1	habitat	multistate-union	525146	multiple
+t__526222	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__526222	multiple--TRUE	Maridesulfovibrio salexigens DSM 2638	strain	BacMap	low	nas	always	1	habitat	multistate-union	526222	multiple
+t__536232	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__536232	multiple--TRUE	Clostridium botulinum A2 str. Kyoto	strain	BacMap	low	nas	always	1	habitat	multistate-union	536232	multiple
+t__543728	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__543728	multiple--TRUE	Variovorax paradoxus S110	strain	BacMap	low	nas	always	1	habitat	multistate-union	543728	multiple
+t__544404	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__544404	multiple--TRUE	Escherichia coli O157:H7 str. TW14359	strain	BacMap	low	nas	always	1	habitat	multistate-union	544404	multiple
+t__550538	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__550538	multiple--TRUE	Salmonella enterica subsp. enterica serovar Gallinarum str. 287/91	strain	BacMap	low	nas	always	1	habitat	multistate-union	550538	multiple
+t__551115	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__551115	multiple--TRUE	'Nostoc azollae' 0708	strain	BacMap	low	nas	always	1	habitat	multistate-union	551115	multiple
+t__554290	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__554290	multiple--TRUE	Salmonella enterica subsp. enterica serovar Paratyphi A str. AKU_12601	strain	BacMap	low	nas	always	1	habitat	multistate-union	554290	multiple
+t__555970	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__555970	multiple--TRUE	Bifidobacterium animalis subsp. lactis DSM 10140	strain	BacMap	low	nas	always	1	habitat	multistate-union	555970	multiple
+t__557600	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__557600	multiple--TRUE	Acinetobacter baumannii AB307-0294	strain	BacMap	low	nas	always	1	habitat	multistate-union	557600	multiple
+t__557722	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__557722	multiple--TRUE	Pseudomonas aeruginosa LESB58	strain	BacMap	low	nas	always	1	habitat	multistate-union	557722	multiple
+t__557760	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__557760	multiple--TRUE	Cereibacter sphaeroides KD131	strain	BacMap	low	nas	always	1	habitat	multistate-union	557760	multiple
+t__561007	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__561007	multiple--TRUE	Mycobacteroides abscessus ATCC 19977	strain	BacMap	low	nas	always	1	habitat	multistate-union	561007	multiple
+t__561231	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__561231	multiple--TRUE	Pectobacterium parmentieri WPP163	strain	BacMap	low	nas	always	1	habitat	multistate-union	561231	multiple
+t__561276	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__561276	multiple--TRUE	Streptococcus pneumoniae ATCC 700669	strain	BacMap	low	nas	always	1	habitat	multistate-union	561276	multiple
+t__56780	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__56780	multiple--TRUE	Syntrophus aciditrophicus SB	strain	BacMap	low	nas	always	1	habitat	multistate-union	56780	multiple
+t__568703	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__568703	multiple--TRUE	Lacticaseibacillus rhamnosus GG	strain	BacMap	low	nas	always	1	habitat	multistate-union	568703	multiple
+t__568704	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__568704	multiple--TRUE	Lacticaseibacillus rhamnosus Lc 705	strain	BacMap	low	nas	always	1	habitat	multistate-union	568704	multiple
+t__568813	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__568813	multiple--TRUE	Streptococcus suis SC84	strain	BacMap	low	nas	always	1	habitat	multistate-union	568813	multiple
+t__568814	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__568814	multiple--TRUE	Streptococcus suis BM407	strain	BacMap	low	nas	always	1	habitat	multistate-union	568814	multiple
+t__568815	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__568815	multiple--TRUE	Brucella microti CCM 4915	strain	BacMap	low	nas	always	1	habitat	multistate-union	568815	multiple
+t__568819	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__568819	multiple--TRUE	Listeria monocytogenes serotype 4b str. CLIP 80459	strain	BacMap	low	nas	always	1	habitat	multistate-union	568819	multiple
+t__572264	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__572264	multiple--TRUE	Bacillus cereus 03BB102	strain	BacMap	low	nas	always	1	habitat	multistate-union	572264	multiple
+t__572480	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__572480	multiple--TRUE	Arcobacter nitrofigilis DSM 7299	strain	BacMap	low	nas	always	1	habitat	multistate-union	572480	multiple
+t__573235	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__573235	multiple--TRUE	Escherichia coli O26:H11 str. 11368	strain	BacMap	low	nas	always	1	habitat	multistate-union	573235	multiple
+t__579112	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__579112	multiple--TRUE	Vibrio cholerae M66-2	strain	BacMap	low	nas	always	1	habitat	multistate-union	579112	multiple
+t__579405	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__579405	multiple--TRUE	Musicola paradisiaca Ech703	strain	BacMap	low	nas	always	1	habitat	multistate-union	579405	multiple
+t__580050	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__580050	multiple--TRUE	Bifidobacterium animalis subsp. lactis Bl-04	strain	BacMap	low	nas	always	1	habitat	multistate-union	580050	multiple
+t__585034	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__585034	multiple--TRUE	Escherichia coli IAI1	strain	BacMap	low	nas	always	1	habitat	multistate-union	585034	multiple
+t__585035	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__585035	multiple--TRUE	Escherichia coli S88	strain	BacMap	low	nas	always	1	habitat	multistate-union	585035	multiple
+t__585054	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__585054	multiple--TRUE	Escherichia fergusonii ATCC 35469	strain	BacMap	low	nas	always	1	habitat	multistate-union	585054	multiple
+t__585055	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__585055	multiple--TRUE	Escherichia coli 55989	strain	BacMap	low	nas	always	1	habitat	multistate-union	585055	multiple
+t__585056	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__585056	multiple--TRUE	Escherichia coli UMN026	strain	BacMap	low	nas	always	1	habitat	multistate-union	585056	multiple
+t__585057	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__585057	multiple--TRUE	Escherichia coli IAI39	strain	BacMap	low	nas	always	1	habitat	multistate-union	585057	multiple
+t__585397	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__585397	multiple--TRUE	Escherichia coli ED1a	strain	BacMap	low	nas	always	1	habitat	multistate-union	585397	multiple
+t__590409	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__590409	multiple--TRUE	Dickeya parazeae Ech586	strain	BacMap	low	nas	always	1	habitat	multistate-union	590409	multiple
+t__591001	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__591001	multiple--TRUE	Acidaminococcus fermentans DSM 20731	strain	BacMap	low	nas	always	1	habitat	multistate-union	591001	multiple
+t__592021	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__592021	multiple--TRUE	Bacillus anthracis str. A0248	strain	BacMap	low	nas	always	1	habitat	multistate-union	592021	multiple
+t__592022	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__592022	multiple--TRUE	Priestia megaterium DSM 319	strain	BacMap	low	nas	always	1	habitat	multistate-union	592022	multiple
+t__595537	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__595537	multiple--TRUE	Variovorax paradoxus EPS	strain	BacMap	low	nas	always	1	habitat	multistate-union	595537	multiple
+t__598659	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__598659	multiple--TRUE	Nautilia profundicola AmH	strain	BacMap	low	nas	always	1	habitat	multistate-union	598659	multiple
+t__608506	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__608506	multiple--TRUE	Caldicellulosiruptor obsidiansis OB47	strain	BacMap	low	nas	always	1	habitat	multistate-union	608506	multiple
+t__610130	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__610130	multiple--TRUE	[Clostridium] saccharolyticum WM1	strain	BacMap	low	nas	always	1	habitat	multistate-union	610130	multiple
+t__626418	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__626418	multiple--TRUE	Burkholderia glumae BGR1	strain	BacMap	low	nas	always	1	habitat	multistate-union	626418	multiple
+t__62977	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__62977	multiple--TRUE	Acinetobacter baylyi ADP1	strain	BacMap	low	nas	always	1	habitat	multistate-union	62977	multiple
+t__634956	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__634956	multiple--TRUE	Parageobacillus thermoglucosidasius C56-YS93	strain	BacMap	low	nas	always	1	habitat	multistate-union	634956	multiple
+t__63737	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__63737	multiple--TRUE	Nostoc punctiforme PCC 73102	strain	BacMap	low	nas	always	1	habitat	multistate-union	63737	multiple
+t__637910	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__637910	multiple--TRUE	Citrobacter rodentium ICC168	strain	BacMap	low	nas	always	1	habitat	multistate-union	637910	multiple
+t__644283	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__644283	multiple--TRUE	Micromonospora aurantiaca ATCC 27029	strain	BacMap	low	nas	always	1	habitat	multistate-union	644283	multiple
+t__645463	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__645463	multiple--TRUE	Clostridioides difficile R20291	strain	BacMap	low	nas	always	1	habitat	multistate-union	645463	multiple
+t__649639	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__649639	multiple--TRUE	Evansella cellulosilytica DSM 2522	strain	BacMap	low	nas	always	1	habitat	multistate-union	649639	multiple
+t__685727	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__685727	multiple--TRUE	Prescottella equi 103S	strain	BacMap	low	nas	always	1	habitat	multistate-union	685727	multiple
+t__688245	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__688245	multiple--TRUE	Comamonas testosteroni CNB-2	strain	BacMap	low	nas	always	1	habitat	multistate-union	688245	multiple
+t__693982	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__693982	multiple--TRUE	Sinorhizobium meliloti AK83	strain	BacMap	low	nas	always	1	habitat	multistate-union	693982	multiple
+t__695560	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__695560	multiple--TRUE	Lactobacillus amylovorus GRL 1112	strain	BacMap	low	nas	always	1	habitat	multistate-union	695560	multiple
+t__696281	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__696281	multiple--TRUE	Desulforamulus ruminis DSM 2154	strain	BacMap	low	nas	always	1	habitat	multistate-union	696281	multiple
+t__706191	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__706191	multiple--TRUE	Pantoea ananatis LMG 20103	strain	BacMap	low	nas	always	1	habitat	multistate-union	706191	multiple
+t__716541	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__716541	multiple--TRUE	Enterobacter cloacae subsp. cloacae ATCC 13047	strain	BacMap	low	nas	always	1	habitat	multistate-union	716541	multiple
+t__754252	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__754252	multiple--TRUE	Propionibacterium freudenreichii subsp. shermanii CIRM-BIA1	strain	BacMap	low	nas	always	1	habitat	multistate-union	754252	multiple
+t__76869	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__76869	multiple--TRUE	Pseudomonas putida GB-1	strain	BacMap	low	nas	always	1	habitat	multistate-union	76869	multiple
+t__866768	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__866768	multiple--TRUE	Escherichia coli 'BL21-Gold(DE3)pLysS AG'	strain	BacMap	low	nas	always	1	habitat	multistate-union	866768	multiple
+t__882	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__882	multiple--TRUE	Nitratidesulfovibrio vulgaris str. Hildenborough	strain	BacMap	low	nas	always	1	habitat	multistate-union	882	multiple
+t__883	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__883	multiple--TRUE	Nitratidesulfovibrio vulgaris str. 'Miyazaki F'	strain	BacMap	low	nas	always	1	habitat	multistate-union	883	multiple
+t__935198	multiple--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__935198	multiple--TRUE	Clostridium botulinum B str. Eklund 17B (NRP)	strain	BacMap	low	nas	always	1	habitat	multistate-union	935198	multiple

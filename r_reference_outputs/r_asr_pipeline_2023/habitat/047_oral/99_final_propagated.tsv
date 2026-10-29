@@ -1,0 +1,89 @@
+NCBI_ID	Attribute	Taxon_name	Rank	Attribute_source	Confidence_in_curation	Evidence	Frequency	Score	Attribute_group	Attribute_type	taxid	Attribute_group_2
+s__1018	oral--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1018	oral--TRUE	Capnocytophaga ochracea	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1018	oral
+s__1019	oral--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1019	oral--TRUE	Capnocytophaga sputigena	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1019	oral
+s__113107	oral--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__113107	oral--TRUE	Streptococcus australis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	113107	oral
+s__1203556	oral--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1203556	oral--TRUE	Actinomyces sp. HPA0247	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1203556	oral
+s__1203590	oral--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1203590	oral--TRUE	Streptococcus sp. HPH0090	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1203590	oral
+s__1203593	oral--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1203593	oral--TRUE	Veillonella sp. HPA0037	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1203593	oral
+s__1302	oral--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1302	oral--TRUE	Streptococcus gordonii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1302	oral
+s__1303	oral--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1303	oral--TRUE	Streptococcus oralis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1303	oral
+s__1304	oral--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1304	oral--TRUE	Streptococcus salivarius	species	Browne_2021	high	exp	always	1	habitat	multistate-union	1304	oral
+s__1305	oral--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1305	oral--TRUE	Streptococcus sanguinis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1305	oral
+s__1309	oral--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1309	oral--TRUE	Streptococcus mutans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1309	oral
+s__1310	oral--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1310	oral--TRUE	Streptococcus sobrinus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1310	oral
+s__1318	oral--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1318	oral--TRUE	Streptococcus parasanguinis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1318	oral
+s__1328	oral--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1328	oral--TRUE	Streptococcus anginosus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1328	oral
+s__1338	oral--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1338	oral--TRUE	Streptococcus intermedius	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1338	oral
+s__133926	oral--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__133926	oral--TRUE	Olsenella uli	species	ProTraits	medium	igc	always	1	habitat	multistate-union	133926	oral
+s__158	oral--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__158	oral--TRUE	Treponema denticola	species	ProTraits	medium	igc	always	1	habitat	multistate-union	158	oral
+s__159267	oral--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__159267	oral--TRUE	uncultured Fusobacterium sp.	species	Browne_2021	high	exp	always	1	habitat	multistate-union	159267	oral
+s__1624	oral--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1624	oral--TRUE	Ligilactobacillus salivarius	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1624	oral
+s__257758	oral--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__257758	oral--TRUE	Streptococcus pseudopneumoniae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	257758	oral
+s__28129	oral--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__28129	oral--TRUE	Prevotella denticola	species	ProTraits	medium	igc	always	1	habitat	multistate-union	28129	oral
+s__28131	oral--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__28131	oral--TRUE	Prevotella intermedia	species	ProTraits	medium	igc	always	1	habitat	multistate-union	28131	oral
+s__28132	oral--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__28132	oral--TRUE	Prevotella melaninogenica	species	ProTraits	medium	igc	always	1	habitat	multistate-union	28132	oral
+s__282402	oral--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__282402	oral--TRUE	Prevotella multiformis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	282402	oral
+s__29466	oral--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__29466	oral--TRUE	Veillonella parvula	species	ProTraits	medium	igc	always	1	habitat	multistate-union	29466	oral
+s__40542	oral--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__40542	oral--TRUE	Leptotrichia buccalis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	40542	oral
+s__435842	oral--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__435842	oral--TRUE	Streptococcus sp. C150	species	ProTraits	medium	igc	always	1	habitat	multistate-union	435842	oral
+s__45634	oral--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__45634	oral--TRUE	Streptococcus cristatus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	45634	oral
+s__457416	oral--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__457416	oral--TRUE	Veillonella sp. 3_1_44	species	ProTraits	medium	igc	always	1	habitat	multistate-union	457416	oral
+s__469609	oral--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__469609	oral--TRUE	Streptococcus sp. 2_1_36FAA	species	ProTraits	medium	igc	always	1	habitat	multistate-union	469609	oral
+s__470565	oral--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__470565	oral--TRUE	Prevotella histicola	species	ProTraits	medium	igc	always	1	habitat	multistate-union	470565	oral
+s__52227	oral--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__52227	oral--TRUE	Prevotella dentalis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	52227	oral
+s__563037	oral--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__563037	oral--TRUE	Streptococcus sp. M143	species	ProTraits	medium	igc	always	1	habitat	multistate-union	563037	oral
+s__68892	oral--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__68892	oral--TRUE	Streptococcus infantis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	68892	oral
+s__712215	oral--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__712215	oral--TRUE	Capnocytophaga sp. oral taxon 335	species	ProTraits	medium	igc	always	1	habitat	multistate-union	712215	oral
+s__712216	oral--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__712216	oral--TRUE	Capnocytophaga sp. oral taxon 336	species	ProTraits	medium	igc	always	1	habitat	multistate-union	712216	oral
+s__712218	oral--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__712218	oral--TRUE	Capnocytophaga sp. oral taxon 412	species	ProTraits	medium	igc	always	1	habitat	multistate-union	712218	oral
+s__712620	oral--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__712620	oral--TRUE	Streptococcus sp. oral taxon 056	species	ProTraits	medium	igc	always	1	habitat	multistate-union	712620	oral
+s__712630	oral--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__712630	oral--TRUE	Streptococcus sp. oral taxon 071	species	ProTraits	medium	igc	always	1	habitat	multistate-union	712630	oral
+s__714	oral--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__714	oral--TRUE	Aggregatibacter actinomycetemcomitans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	714	oral
+s__84163	oral--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__84163	oral--TRUE	Cryptobacterium curtum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	84163	oral
+s__851	oral--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__851	oral--TRUE	Fusobacterium nucleatum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	851	oral
+s__999424	oral--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__999424	oral--TRUE	Streptococcus sp. F0441	species	ProTraits	medium	igc	always	1	habitat	multistate-union	999424	oral
+s__999425	oral--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__999425	oral--TRUE	Streptococcus sp. F0442	species	ProTraits	medium	igc	always	1	habitat	multistate-union	999425	oral

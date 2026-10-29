@@ -1,0 +1,9 @@
+NCBI_ID	Attribute	Taxon_name	Rank	Attribute_source	Confidence_in_curation	Evidence	Frequency	Score	Attribute_group	Attribute_type	taxid	Attribute_group_2
+s__29292	ocean trench--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__29292	ocean trench--TRUE	Pyrococcus abyssi	species	ProTraits	medium	igc	always	1	habitat	multistate-union	29292	ocean trench
+t__647113	ocean trench--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__647113	ocean trench--TRUE	Methanothermococcus okinawensis IH1	strain	BacMap	low	nas	always	1	habitat	multistate-union	647113	ocean trench
+t__648996	ocean trench--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__648996	ocean trench--TRUE	Thermovibrio ammonificans HB-1	strain	BacMap	low	nas	always	1	habitat	multistate-union	648996	ocean trench
+t__670487	ocean trench--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__670487	ocean trench--TRUE	Oceanithermus profundus DSM 14977	strain	BacMap	low	nas	always	1	habitat	multistate-union	670487	ocean trench

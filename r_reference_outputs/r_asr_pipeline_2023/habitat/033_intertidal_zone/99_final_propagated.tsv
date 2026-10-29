@@ -1,0 +1,5 @@
+NCBI_ID	Attribute	Taxon_name	Rank	Attribute_source	Confidence_in_curation	Evidence	Frequency	Score	Attribute_group	Attribute_type	taxid	Attribute_group_2
+s__2187	intertidal zone--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__2187	intertidal zone--TRUE	Methanococcus vannielii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2187	intertidal zone
+s__39152	intertidal zone--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__39152	intertidal zone--TRUE	Methanococcus maripaludis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	39152	intertidal zone

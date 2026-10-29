@@ -1,0 +1,81 @@
+NCBI_ID	Attribute	Taxon_name	Rank	Attribute_source	Confidence_in_curation	Evidence	Frequency	Score	Attribute_group	Attribute_type	taxid	Attribute_group_2
+s__105841	human gut microbiome--FALSE	Anaerostipes caccae	species	Browne_2021	high	exp	always	1	habitat	multistate-union	105841	human gut microbiome
+s__1150298	human gut microbiome--FALSE	Fusicatenibacter saccharivorans	species	Browne_2021	high	exp	always	1	habitat	multistate-union	1150298	human gut microbiome
+s__1193532	human gut microbiome--FALSE	uncultured Butyricicoccus sp.	species	Browne_2021	high	exp	always	1	habitat	multistate-union	1193532	human gut microbiome
+s__1193534	human gut microbiome--FALSE	uncultured Flavonifractor sp.	species	Browne_2021	high	exp	always	1	habitat	multistate-union	1193534	human gut microbiome
+s__1282	human gut microbiome--FALSE	Staphylococcus epidermidis	species	Browne_2021	high	exp	always	1	habitat	multistate-union	1282	human gut microbiome
+s__1311	human gut microbiome--FALSE	Streptococcus agalactiae	species	Browne_2021	high	exp	always	1	habitat	multistate-union	1311	human gut microbiome
+s__1337051	human gut microbiome--FALSE	Murimonas intestini	species	Browne_2021	high	exp	always	1	habitat	multistate-union	1337051	human gut microbiome
+s__1490	human gut microbiome--FALSE	Paraclostridium bifermentans	species	Browne_2021	high	exp	always	1	habitat	multistate-union	1490	human gut microbiome
+s__1496	human gut microbiome--FALSE	Clostridioides difficile	species	Browne_2021	high	exp	always	1	habitat	multistate-union	1496	human gut microbiome
+s__1512	human gut microbiome--FALSE	[Clostridium] symbiosum	species	Browne_2021	high	exp	always	1	habitat	multistate-union	1512	human gut microbiome
+s__1531	human gut microbiome--FALSE	Enterocloster clostridioformis	species	Browne_2021	high	exp	always	1	habitat	multistate-union	1531	human gut microbiome
+s__154046	human gut microbiome--FALSE	Hungatella hathewayi	species	Browne_2021	high	exp	always	1	habitat	multistate-union	154046	human gut microbiome
+s__1582	human gut microbiome--FALSE	Lacticaseibacillus casei	species	Browne_2021	high	exp	always	1	habitat	multistate-union	1582	human gut microbiome
+s__1586779	human gut microbiome--FALSE	uncultured Lachnoclostridium sp.	species	Browne_2021	high	exp	always	1	habitat	multistate-union	1586779	human gut microbiome
+s__159267	human gut microbiome--FALSE	uncultured Fusobacterium sp.	species	Browne_2021	high	exp	always	1	habitat	multistate-union	159267	human gut microbiome
+s__1597	human gut microbiome--FALSE	Lacticaseibacillus paracasei	species	Browne_2021	high	exp	always	1	habitat	multistate-union	1597	human gut microbiome
+s__160404	human gut microbiome--FALSE	Anaerotignum lactatifermentans	species	Browne_2021	high	exp	always	1	habitat	multistate-union	160404	human gut microbiome
+s__162156	human gut microbiome--FALSE	uncultured Bacteroides sp.	species	Browne_2021	high	exp	always	1	habitat	multistate-union	162156	human gut microbiome
+s__1622	human gut microbiome--FALSE	Ligilactobacillus murinus	species	Browne_2021	high	exp	always	1	habitat	multistate-union	1622	human gut microbiome
+s__165179	human gut microbiome--FALSE	Segatella copri	species	Browne_2021	high	exp	always	1	habitat	multistate-union	165179	human gut microbiome
+s__165185	human gut microbiome--FALSE	uncultured Eubacterium sp.	species	Browne_2021	high	exp	always	1	habitat	multistate-union	165185	human gut microbiome
+s__165186	human gut microbiome--FALSE	uncultured Ruminococcus sp.	species	Browne_2021	high	exp	always	1	habitat	multistate-union	165186	human gut microbiome
+s__165188	human gut microbiome--FALSE	uncultured Megasphaera sp.	species	Browne_2021	high	exp	always	1	habitat	multistate-union	165188	human gut microbiome
+s__165190	human gut microbiome--FALSE	uncultured Collinsella sp.	species	Browne_2021	high	exp	always	1	habitat	multistate-union	165190	human gut microbiome
+s__166486	human gut microbiome--FALSE	Roseburia intestinalis	species	Browne_2021	high	exp	always	1	habitat	multistate-union	166486	human gut microbiome
+s__169435	human gut microbiome--FALSE	Anaerotruncus colihominis	species	Browne_2021	high	exp	always	1	habitat	multistate-union	169435	human gut microbiome
+s__1757166	human gut microbiome--FALSE	uncultured Ruminiclostridium sp.	species	Browne_2021	high	exp	always	1	habitat	multistate-union	1757166	human gut microbiome
+s__180164	human gut microbiome--FALSE	Blautia schinkii	species	Browne_2021	high	exp	always	1	habitat	multistate-union	180164	human gut microbiome
+s__1806509	human gut microbiome--FALSE	Fusicatenibacter sp. 2789STDY5834925	species	Browne_2021	high	exp	always	1	habitat	multistate-union	1806509	human gut microbiome
+s__187979	human gut microbiome--FALSE	Mitsuokella jalaludinii	species	Browne_2021	high	exp	always	1	habitat	multistate-union	187979	human gut microbiome
+s__195049	human gut microbiome--FALSE	uncultured Clostridiaceae bacterium	species	Browne_2021	high	exp	always	1	habitat	multistate-union	195049	human gut microbiome
+s__208479	human gut microbiome--FALSE	Enterocloster bolteae	species	Browne_2021	high	exp	always	1	habitat	multistate-union	208479	human gut microbiome
+s__259315	human gut microbiome--FALSE	uncultured Faecalibacterium sp.	species	Browne_2021	high	exp	always	1	habitat	multistate-union	259315	human gut microbiome
+s__28052	human gut microbiome--FALSE	Lachnospira pectinoschiza	species	Browne_2021	high	exp	always	1	habitat	multistate-union	28052	human gut microbiome
+s__286138	human gut microbiome--FALSE	uncultured Dorea sp.	species	Browne_2021	high	exp	always	1	habitat	multistate-union	286138	human gut microbiome
+s__292800	human gut microbiome--FALSE	Flavonifractor plautii	species	Browne_2021	high	exp	always	1	habitat	multistate-union	292800	human gut microbiome
+s__29347	human gut microbiome--FALSE	[Clostridium] scindens	species	Browne_2021	high	exp	always	1	habitat	multistate-union	29347	human gut microbiome
+s__29354	human gut microbiome--FALSE	Lacrimispora celerecrescens	species	Browne_2021	high	exp	always	1	habitat	multistate-union	29354	human gut microbiome
+s__29361	human gut microbiome--FALSE	Faecalimonas nexilis	species	Browne_2021	high	exp	always	1	habitat	multistate-union	29361	human gut microbiome
+s__29364	human gut microbiome--FALSE	[Clostridium] polysaccharolyticum	species	Browne_2021	high	exp	always	1	habitat	multistate-union	29364	human gut microbiome
+s__297314	human gut microbiome--FALSE	uncultured Lachnospiraceae bacterium	species	Browne_2021	high	exp	always	1	habitat	multistate-union	297314	human gut microbiome
+s__301302	human gut microbiome--FALSE	Roseburia faecis	species	Browne_2021	high	exp	always	1	habitat	multistate-union	301302	human gut microbiome
+s__33035	human gut microbiome--FALSE	Blautia producta	species	Browne_2021	high	exp	always	1	habitat	multistate-union	33035	human gut microbiome
+s__33038	human gut microbiome--FALSE	Mediterraneibacter gnavus	species	Browne_2021	high	exp	always	1	habitat	multistate-union	33038	human gut microbiome
+s__33039	human gut microbiome--FALSE	Mediterraneibacter torques	species	Browne_2021	high	exp	always	1	habitat	multistate-union	33039	human gut microbiome
+s__33043	human gut microbiome--FALSE	Coprococcus eutactus	species	Browne_2021	high	exp	always	1	habitat	multistate-union	33043	human gut microbiome
+s__339676	human gut microbiome--FALSE	Terrisporobacter sp. ASI1	species	Browne_2021	high	exp	always	1	habitat	multistate-union	339676	human gut microbiome
+s__358742	human gut microbiome--FALSE	Enterocloster aldenensis	species	Browne_2021	high	exp	always	1	habitat	multistate-union	358742	human gut microbiome
+s__360807	human gut microbiome--FALSE	Roseburia inulinivorans	species	Browne_2021	high	exp	always	1	habitat	multistate-union	360807	human gut microbiome
+s__39482	human gut microbiome--FALSE	Faecalicatena contorta	species	Browne_2021	high	exp	always	1	habitat	multistate-union	39482	human gut microbiome
+s__39485	human gut microbiome--FALSE	Lachnospira eligens	species	Browne_2021	high	exp	always	1	habitat	multistate-union	39485	human gut microbiome
+s__39486	human gut microbiome--FALSE	Dorea formicigenerans	species	Browne_2021	high	exp	always	1	habitat	multistate-union	39486	human gut microbiome
+s__39490	human gut microbiome--FALSE	Eubacterium ramulus	species	Browne_2021	high	exp	always	1	habitat	multistate-union	39490	human gut microbiome
+s__39491	human gut microbiome--FALSE	Agathobacter rectalis	species	Browne_2021	high	exp	always	1	habitat	multistate-union	39491	human gut microbiome
+s__39492	human gut microbiome--FALSE	[Eubacterium] siraeum	species	Browne_2021	high	exp	always	1	habitat	multistate-union	39492	human gut microbiome
+s__39496	human gut microbiome--FALSE	Eubacterium ventriosum	species	Browne_2021	high	exp	always	1	habitat	multistate-union	39496	human gut microbiome
+s__40518	human gut microbiome--FALSE	Ruminococcus bromii	species	Browne_2021	high	exp	always	1	habitat	multistate-union	40518	human gut microbiome
+s__40520	human gut microbiome--FALSE	Blautia obeum	species	Browne_2021	high	exp	always	1	habitat	multistate-union	40520	human gut microbiome
+s__410072	human gut microbiome--FALSE	Allocoprococcus comes	species	Browne_2021	high	exp	always	1	habitat	multistate-union	410072	human gut microbiome
+s__418240	human gut microbiome--FALSE	Blautia wexlerae	species	Browne_2021	high	exp	always	1	habitat	multistate-union	418240	human gut microbiome
+s__427146	human gut microbiome--FALSE	uncultured Anaerovorax sp.	species	Browne_2021	high	exp	always	1	habitat	multistate-union	427146	human gut microbiome
+s__446043	human gut microbiome--FALSE	uncultured Lachnospira sp.	species	Browne_2021	high	exp	always	1	habitat	multistate-union	446043	human gut microbiome
+s__458253	human gut microbiome--FALSE	uncultured Coprococcus sp.	species	Browne_2021	high	exp	always	1	habitat	multistate-union	458253	human gut microbiome
+s__46503	human gut microbiome--FALSE	Parabacteroides merdae	species	Browne_2021	high	exp	always	1	habitat	multistate-union	46503	human gut microbiome
+s__479906	human gut microbiome--FALSE	Romboutsia sp. G12	species	Browne_2021	high	exp	always	1	habitat	multistate-union	479906	human gut microbiome
+s__512314	human gut microbiome--FALSE	uncultured Roseburia sp.	species	Browne_2021	high	exp	always	1	habitat	multistate-union	512314	human gut microbiome
+s__53443	human gut microbiome--FALSE	Blautia hydrogenotrophica	species	Browne_2021	high	exp	always	1	habitat	multistate-union	53443	human gut microbiome
+s__59620	human gut microbiome--FALSE	uncultured Clostridium sp.	species	Browne_2021	high	exp	always	1	habitat	multistate-union	59620	human gut microbiome
+s__649756	human gut microbiome--FALSE	Anaerostipes hadrus	species	Browne_2021	high	exp	always	1	habitat	multistate-union	649756	human gut microbiome
+s__707003	human gut microbiome--FALSE	uncultured Oscillospiraceae bacterium	species	Browne_2021	high	exp	always	1	habitat	multistate-union	707003	human gut microbiome
+s__741655	human gut microbiome--FALSE	uncultured Propionispira sp.	species	Browne_2021	high	exp	always	1	habitat	multistate-union	741655	human gut microbiome
+s__745368	human gut microbiome--FALSE	Gemmiger formicilis	species	Browne_2021	high	exp	always	1	habitat	multistate-union	745368	human gut microbiome
+s__765821	human gut microbiome--FALSE	uncultured Blautia sp.	species	Browne_2021	high	exp	always	1	habitat	multistate-union	765821	human gut microbiome
+s__823	human gut microbiome--FALSE	Parabacteroides distasonis	species	Browne_2021	high	exp	always	1	habitat	multistate-union	823	human gut microbiome
+s__84030	human gut microbiome--FALSE	Lacrimispora saccharolytica	species	Browne_2021	high	exp	always	1	habitat	multistate-union	84030	human gut microbiome
+s__853	human gut microbiome--FALSE	Faecalibacterium prausnitzii	species	Browne_2021	high	exp	always	1	habitat	multistate-union	853	human gut microbiome
+s__876091	human gut microbiome--FALSE	uncultured Oscillibacter sp.	species	Browne_2021	high	exp	always	1	habitat	multistate-union	876091	human gut microbiome
+s__88431	human gut microbiome--FALSE	Dorea longicatena	species	Browne_2021	high	exp	always	1	habitat	multistate-union	88431	human gut microbiome
+s__89014	human gut microbiome--FALSE	Blautia luti	species	Browne_2021	high	exp	always	1	habitat	multistate-union	89014	human gut microbiome
+s__905011	human gut microbiome--FALSE	uncultured Anaerotruncus sp.	species	Browne_2021	high	exp	always	1	habitat	multistate-union	905011	human gut microbiome

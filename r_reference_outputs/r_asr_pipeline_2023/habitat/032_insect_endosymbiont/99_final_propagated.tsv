@@ -1,0 +1,9 @@
+NCBI_ID	Attribute	Taxon_name	Rank	Attribute_source	Confidence_in_curation	Evidence	Frequency	Score	Attribute_group	Attribute_type	taxid	Attribute_group_2
+s__101534	insect endosymbiont--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__101534	insect endosymbiont--TRUE	Candidatus Blochmanniella pennsylvanica	species	ProTraits	medium	igc	always	1	habitat	multistate-union	101534	insect endosymbiont
+s__203907	insect endosymbiont--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__203907	insect endosymbiont--TRUE	Candidatus Blochmanniella floridana	species	ProTraits	medium	igc	always	1	habitat	multistate-union	203907	insect endosymbiont
+s__251535	insect endosymbiont--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__251535	insect endosymbiont--TRUE	Candidatus Blochmanniella vafra	species	ProTraits	medium	igc	always	1	habitat	multistate-union	251535	insect endosymbiont
+s__251542	insect endosymbiont--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__251542	insect endosymbiont--TRUE	Candidatus Blochmanniella chromaiodes	species	ProTraits	medium	igc	always	1	habitat	multistate-union	251542	insect endosymbiont

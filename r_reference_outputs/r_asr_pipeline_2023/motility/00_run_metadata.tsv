@@ -1,0 +1,6 @@
+field	value
+trait	motility
+input_file	C:/Users/delan/OneDrive/Desktop/bugphyzz_package/src/bugphyzz/prepared/motility_05_prepared.tsv
+attribute_group	motility
+configured_type	binary
+input_rows	19610

@@ -1,0 +1,3 @@
+NCBI_ID	Attribute	Taxon_name	Rank	Attribute_source	Confidence_in_curation	Evidence	Frequency	Score	Attribute_group	Attribute_type	taxid	Attribute_group_2
+t__880724	submarine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__880724	submarine--TRUE	Methanotorris igneus Kol 5	strain	BacMap	low	nas	always	1	habitat	multistate-union	880724	submarine

@@ -1,0 +1,15 @@
+NCBI_ID	Attribute	Taxon_name	Rank	Attribute_source	Confidence_in_curation	Evidence	Frequency	Score	Attribute_group	Attribute_type	taxid	Attribute_group_2
+s__208596	sea water--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__208596	sea water--TRUE	Carnobacterium sp. 17-4	species	BacMap	low	nas	always	1	habitat	multistate-union	208596	sea water
+s__983545	sea water--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__983545	sea water--TRUE	Glaciecola sp. 4H-3-7+YE-5	species	BacMap	low	nas	always	1	habitat	multistate-union	983545	sea water
+s__983548	sea water--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__983548	sea water--TRUE	Dokdonia sp. 4H-3-7-5	species	BacMap	low	nas	always	1	habitat	multistate-union	983548	sea water
+t__643562	sea water--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__643562	sea water--TRUE	Pseudodesulfovibrio aespoeensis Aspo-2	strain	BacMap	low	nas	always	1	habitat	multistate-union	643562	sea water
+t__760568	sea water--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__760568	sea water--TRUE	Desulfofundulus kuznetsovii DSM 6115	strain	BacMap	low	nas	always	1	habitat	multistate-union	760568	sea water
+t__797210	sea water--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__797210	sea water--TRUE	Halopiger xanaduensis SH-6	strain	BacMap	low	nas	always	1	habitat	multistate-union	797210	sea water
+t__868595	sea water--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__868595	sea water--TRUE	Desulfotomaculum nigrificans CO-1-SRB	strain	BacMap	low	nas	always	1	habitat	multistate-union	868595	sea water

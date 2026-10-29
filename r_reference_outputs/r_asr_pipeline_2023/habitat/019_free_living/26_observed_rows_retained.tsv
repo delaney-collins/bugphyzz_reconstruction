@@ -1,0 +1,1239 @@
+NCBI_ID	Attribute	Taxon_name	Rank	Attribute_source	Confidence_in_curation	Evidence	Frequency	Score	Attribute_group	Attribute_type	taxid	Attribute_group_2
+s__1002672	free-living--TRUE	Candidatus Pelagibacter sp. IMCC9063	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1002672	free-living
+s__1003110	free-living--TRUE	Micromonospora maris	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1003110	free-living
+s__1006	free-living--TRUE	Marivirga tractuosa	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1006	free-living
+s__1006005	free-living--TRUE	Metallosphaera cuprina	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1006005	free-living
+s__1007104	free-living--TRUE	Sphingomonas sp. S17	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1007104	free-living
+s__100716	free-living--TRUE	Chloroherpeton thalassium	species	ProTraits	medium	igc	always	1	habitat	multistate-union	100716	free-living
+s__1008	free-living--TRUE	Saprospira grandis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1008	free-living
+s__1008460	free-living--TRUE	Pyrococcus yayanosii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1008460	free-living
+s__101192	free-living--TRUE	Methanomethylovorans hollandica	species	ProTraits	medium	igc	always	1	habitat	multistate-union	101192	free-living
+s__101385	free-living--TRUE	Aequorivita sublithincola	species	ProTraits	medium	igc	always	1	habitat	multistate-union	101385	free-living
+s__102116	free-living--TRUE	Stanieria cyanosphaera	species	ProTraits	medium	igc	always	1	habitat	multistate-union	102116	free-living
+s__102129	free-living--TRUE	Leptolyngbya sp. PCC 7375	species	ProTraits	medium	igc	always	1	habitat	multistate-union	102129	free-living
+s__102134	free-living--TRUE	Desulfoscipio gibsoniae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	102134	free-living
+s__102235	free-living--TRUE	Cyanobacterium stanieri	species	ProTraits	medium	igc	always	1	habitat	multistate-union	102235	free-living
+s__102897	free-living--TRUE	Parafrankia sp. EUN1f	species	ProTraits	medium	igc	always	1	habitat	multistate-union	102897	free-living
+s__1031	free-living--TRUE	Thiothrix nivea	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1031	free-living
+s__1032527	free-living--TRUE	Pedosphaera parvula	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1032527	free-living
+s__1033734	free-living--TRUE	Bacillus timonensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1033734	free-living
+s__1033846	free-living--TRUE	Marinobacter adhaerens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1033846	free-living
+s__1033854	free-living--TRUE	Thioalkalivibrio sulfidiphilus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1033854	free-living
+s__1034015	free-living--TRUE	Nitrososphaera viennensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1034015	free-living
+s__1034769	free-living--TRUE	Paenibacillus sp. HW567	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1034769	free-living
+s__103690	free-living--TRUE	Nostoc sp. PCC 7120 = FACHB-418	species	ProTraits	medium	igc	always	1	habitat	multistate-union	103690	free-living
+s__103731	free-living--TRUE	Saccharothrix espanaensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	103731	free-living
+s__103816	free-living--TRUE	Rhodococcus pyridinivorans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	103816	free-living
+s__104	free-living--TRUE	Cyclobacterium marinum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	104	free-living
+s__104269	free-living--TRUE	Tenacibaculum amylolyticum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	104269	free-living
+s__1042877	free-living--TRUE	Thermococcus sp. 4557	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1042877	free-living
+s__1043168	free-living--TRUE	Micromonospora equina	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1043168	free-living
+s__1046555	free-living--TRUE	Brevibacterium ammoniilyticum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1046555	free-living
+s__1049	free-living--TRUE	Allochromatium vinosum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1049	free-living
+s__1052014	free-living--TRUE	Natronococcus roseus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1052014	free-living
+s__1053	free-living--TRUE	Halorhodospira halophila	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1053	free-living
+s__1055352	free-living--TRUE	Streptomyces sp. W007	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1055352	free-living
+s__1055487	free-living--TRUE	Methylotenera versatilis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1055487	free-living
+s__105560	free-living--TRUE	Methylibium petroleiphilum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	105560	free-living
+s__1058	free-living--TRUE	Thiocapsa roseopersicina	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1058	free-living
+s__106	free-living--TRUE	Runella slithyformis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	106	free-living
+s__1061	free-living--TRUE	Rhodobacter capsulatus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1061	free-living
+s__1063	free-living--TRUE	Cereibacter sphaeroides	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1063	free-living
+s__106578	free-living--TRUE	Thermoanaerobacter siderophilus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	106578	free-living
+s__106590	free-living--TRUE	Cupriavidus necator	species	ProTraits	medium	igc	always	1	habitat	multistate-union	106590	free-living
+s__1069	free-living--TRUE	Rhodomicrobium vannielii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1069	free-living
+s__1071078	free-living--TRUE	Bacillus sp. NSP9.1	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1071078	free-living
+s__1071079	free-living--TRUE	Bacillus sp. SB47	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1071079	free-living
+s__1073330	free-living--TRUE	Streptomyces zinciresistens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1073330	free-living
+s__1076	free-living--TRUE	Rhodopseudomonas palustris	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1076	free-living
+s__107709	free-living--TRUE	Opitutus terrae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	107709	free-living
+s__1078085	free-living--TRUE	Paenisporosarcina sp. HGH0030	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1078085	free-living
+s__1078086	free-living--TRUE	Streptomyces sp. HGB0020	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1078086	free-living
+s__1078505	free-living--TRUE	Paenibacillus sp. HGH0039	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1078505	free-living
+s__108	free-living--TRUE	Spirosoma linguale	species	ProTraits	medium	igc	always	1	habitat	multistate-union	108	free-living
+s__108007	free-living--TRUE	Thermanaerovibrio velox	species	ProTraits	medium	igc	always	1	habitat	multistate-union	108007	free-living
+s__1080712	free-living--TRUE	Methanomassiliicoccus luminyensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1080712	free-living
+s__108150	free-living--TRUE	Thermoanaerobacter italicus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	108150	free-living
+s__1083	free-living--TRUE	Magnetospirillum molischianum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1083	free-living
+s__1084	free-living--TRUE	Pararhodospirillum photometricum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1084	free-living
+s__1085	free-living--TRUE	Rhodospirillum rubrum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1085	free-living
+s__1092	free-living--TRUE	Chlorobium limicola	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1092	free-living
+s__1094	free-living--TRUE	Chlorobium phaeovibrioides	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1094	free-living
+s__1096	free-living--TRUE	Chlorobium phaeobacteroides	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1096	free-living
+s__1097	free-living--TRUE	Chlorobaculum tepidum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1097	free-living
+s__1098	free-living--TRUE	Prosthecochloris vibrioformis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1098	free-living
+s__11	free-living--TRUE	Cellulomonas gilvus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	11	free-living
+s__1100	free-living--TRUE	Pelodictyon luteolum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1100	free-living
+s__1101190	free-living--TRUE	Methylopila sp. M107	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1101190	free-living
+s__1102	free-living--TRUE	Prosthecochloris aestuarii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1102	free-living
+s__110319	free-living--TRUE	Nocardioides sp. CF8	species	ProTraits	medium	igc	always	1	habitat	multistate-union	110319	free-living
+s__1104324	free-living--TRUE	Pyrobaculum ferrireducens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1104324	free-living
+s__110500	free-living--TRUE	Pelotomaculum thermopropionicum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	110500	free-living
+s__110662	free-living--TRUE	Synechococcus sp. CC9605	species	ProTraits	medium	igc	always	1	habitat	multistate-union	110662	free-living
+s__1108	free-living--TRUE	Chloroflexus aurantiacus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1108	free-living
+s__1111069	free-living--TRUE	Thermus sp. CCB_US3_UF1	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1111069	free-living
+s__1112273	free-living--TRUE	Methylophilus sp. 1	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1112273	free-living
+s__111501	free-living--TRUE	Flagellimonas ruestringensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	111501	free-living
+s__111564	free-living--TRUE	Kineosphaera limosa	species	ProTraits	medium	igc	always	1	habitat	multistate-union	111564	free-living
+s__1115834	free-living--TRUE	Methylophilus sp. 42	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1115834	free-living
+s__1116375	free-living--TRUE	Vibrio sp. EJY3	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1116375	free-living
+s__111781	free-living--TRUE	[Leptolyngbya] sp. PCC 7376	species	ProTraits	medium	igc	always	1	habitat	multistate-union	111781	free-living
+s__1118153	free-living--TRUE	Halomonas sp. GFAJ-1	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1118153	free-living
+s__1118963	free-living--TRUE	Arthrobacter sp. Rue61a	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1118963	free-living
+s__111955	free-living--TRUE	Sulfurisphaera tokodaii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	111955	free-living
+s__1121832	free-living--TRUE	Fodinicurvata sediminis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1121832	free-living
+s__1123045	free-living--TRUE	Ponticaulis koreensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1123045	free-living
+s__1124597	free-living--TRUE	Magnetococcus marinus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1124597	free-living
+s__1126	free-living--TRUE	Microcystis aeruginosa	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1126	free-living
+s__1127743	free-living--TRUE	Bacillus sp. 5B6	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1127743	free-living
+s__1127744	free-living--TRUE	Bacillus sp. JS	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1127744	free-living
+s__1128911	free-living--TRUE	Paraglaciecola arctica	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1128911	free-living
+s__1131551	free-living--TRUE	Methylotenera sp. 1P/1	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1131551	free-living
+s__1131703	free-living--TRUE	Sphaerochaeta globosa	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1131703	free-living
+s__1131707	free-living--TRUE	Sphaerochaeta pleomorpha	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1131707	free-living
+s__1134405	free-living--TRUE	Melioribacter roseus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1134405	free-living
+s__1134474	free-living--TRUE	Cellvibrio sp. BR	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1134474	free-living
+s__113653	free-living--TRUE	Geoglobus ahangari	species	ProTraits	medium	igc	always	1	habitat	multistate-union	113653	free-living
+s__114	free-living--TRUE	Gemmata obscuriglobus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	114	free-living
+s__114687	free-living--TRUE	Streptomyces auratus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	114687	free-living
+s__1147	free-living--TRUE	Synechocystis sp. PCC 6714	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1147	free-living
+s__1147129	free-living--TRUE	Dehalobacter sp. DCA	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1147129	free-living
+s__1148	free-living--TRUE	Synechocystis sp. PCC 6803	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1148	free-living
+s__1148157	free-living--TRUE	Acinetobacter oleivorans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1148157	free-living
+s__1155739	free-living--TRUE	Moorena producens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1155739	free-living
+s__1157949	free-living--TRUE	Thermotoga sp. EMP	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1157949	free-living
+s__1158146	free-living--TRUE	Thioalkalivibrio sp. ALJT	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1158146	free-living
+s__1158150	free-living--TRUE	Thioalkalivibrio sp. ALD1	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1158150	free-living
+s__1158152	free-living--TRUE	Thioalkalivibrio sp. AL21	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1158152	free-living
+s__1158155	free-living--TRUE	Thioalkalivibrio sp. AKL7	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1158155	free-living
+s__1158162	free-living--TRUE	Thioalkalivibrio sp. ALgr5	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1158162	free-living
+s__1158163	free-living--TRUE	Thioalkalivibrio sp. ALMg3	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1158163	free-living
+s__1158167	free-living--TRUE	Thioalkalivibrio sp. ALMg13-2	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1158167	free-living
+s__1158170	free-living--TRUE	Thioalkalivibrio sp. ALE12	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1158170	free-living
+s__1158172	free-living--TRUE	Thioalkalivibrio sp. ALE16	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1158172	free-living
+s__1158173	free-living--TRUE	Thioalkalivibrio sp. ALE17	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1158173	free-living
+s__1158174	free-living--TRUE	Thioalkalivibrio sp. ALE18	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1158174	free-living
+s__1158176	free-living--TRUE	Thioalkalivibrio sp. ALE22	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1158176	free-living
+s__1158183	free-living--TRUE	Thioalkalivibrio sp. ARh5	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1158183	free-living
+s__1158184	free-living--TRUE	Thioalkalivibrio sp. ALM2T	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1158184	free-living
+s__1161401	free-living--TRUE	Euryhalocaulis caribicus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1161401	free-living
+s__1164	free-living--TRUE	Trichormus azollae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1164	free-living
+s__1165	free-living--TRUE	Anabaena cylindrica	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1165	free-living
+s__1165096	free-living--TRUE	Methylotenera sp. 73s	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1165096	free-living
+s__1169025	free-living--TRUE	Streptomyces pratensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1169025	free-living
+s__117207	free-living--TRUE	Sphingopyxis alaskensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	117207	free-living
+s__1172179	free-living--TRUE	Streptomyces sp. 142MFCol3.1	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1172179	free-living
+s__1172188	free-living--TRUE	Terracoccus sp. 273MFTsu3.1	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1172188	free-living
+s__1173023	free-living--TRUE	Fischerella sp. PCC 9431	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1173023	free-living
+s__1173025	free-living--TRUE	Geitlerinema sp. PCC 7407	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1173025	free-living
+s__1173026	free-living--TRUE	Gloeocapsa sp. PCC 7428	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1173026	free-living
+s__1173032	free-living--TRUE	Chamaesiphon minutus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1173032	free-living
+s__1174684	free-living--TRUE	Sphingopyxis sp. MC1	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1174684	free-living
+s__1175444	free-living--TRUE	Methanocella conradii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1175444	free-living
+s__1175445	free-living--TRUE	Methanocella arvoryzae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1175445	free-living
+s__1178	free-living--TRUE	Nostoc commune	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1178	free-living
+s__1178482	free-living--TRUE	Halomonas huangheensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1178482	free-living
+s__1179	free-living--TRUE	Desmonostoc muscorum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1179	free-living
+s__118000	free-living--TRUE	Denitrovibrio acetiphilus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	118000	free-living
+s__118161	free-living--TRUE	Pleurocapsa sp. PCC 7319	species	ProTraits	medium	igc	always	1	habitat	multistate-union	118161	free-living
+s__118323	free-living--TRUE	Oxynema acuminatum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	118323	free-living
+s__1183377	free-living--TRUE	Pyrococcus sp. ST04	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1183377	free-living
+s__1184387	free-living--TRUE	Mesotoga prima	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1184387	free-living
+s__118562	free-living--TRUE	Limnospira platensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	118562	free-living
+s__119	free-living--TRUE	Rubinisphaera brasiliensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	119	free-living
+s__119219	free-living--TRUE	Cupriavidus metallidurans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	119219	free-living
+s__119394	free-living--TRUE	Pseudothermotoga thermarum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	119394	free-living
+s__119484	free-living--TRUE	Syntrophobacter fumaroxidans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	119484	free-living
+s__119532	free-living--TRUE	Microcoleus vaginatus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	119532	free-living
+s__119858	free-living--TRUE	Bacillus sonorensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	119858	free-living
+s__119864	free-living--TRUE	Marinomonas mediterranea	species	ProTraits	medium	igc	always	1	habitat	multistate-union	119864	free-living
+s__120	free-living--TRUE	Planctopirus limnophila	species	ProTraits	medium	igc	always	1	habitat	multistate-union	120	free-living
+s__1200300	free-living--TRUE	Thermogladius calderae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1200300	free-living
+s__1203257	free-living--TRUE	Streptomyces sp. AA1529	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1203257	free-living
+s__1203471	free-living--TRUE	Geotalea daltonii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1203471	free-living
+s__1206	free-living--TRUE	Trichodesmium erythraeum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1206	free-living
+s__120962	free-living--TRUE	Roseiflexus castenholzii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	120962	free-living
+s__1210045	free-living--TRUE	Streptomyces sp. AA0539	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1210045	free-living
+s__121277	free-living--TRUE	Pyrobaculum arsenaticum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	121277	free-living
+s__1216	free-living--TRUE	Prochloron didemni	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1216	free-living
+s__121723	free-living--TRUE	Photobacterium sp. SKA34	species	ProTraits	medium	igc	always	1	habitat	multistate-union	121723	free-living
+s__1217908	free-living--TRUE	Octadecabacter antarcticus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1217908	free-living
+s__1219	free-living--TRUE	Prochlorococcus marinus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1219	free-living
+s__122	free-living--TRUE	Gimesia maris	species	ProTraits	medium	igc	always	1	habitat	multistate-union	122	free-living
+s__1229	free-living--TRUE	Nitrosococcus oceani	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1229	free-living
+s__1229909	free-living--TRUE	Candidatus Nitrosopumilus sediminis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1229909	free-living
+s__1231	free-living--TRUE	Nitrosospira multiformis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1231	free-living
+s__1233873	free-living--TRUE	Geobacillus sp. GHH01	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1233873	free-living
+s__1234595	free-living--TRUE	Pacificimonas flava	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1234595	free-living
+s__124	free-living--TRUE	Blastopirellula marina	species	ProTraits	medium	igc	always	1	habitat	multistate-union	124	free-living
+s__1246484	free-living--TRUE	Halobacillus sp. BAB-2008	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1246484	free-living
+s__125	free-living--TRUE	Pirellula staleyi	species	ProTraits	medium	igc	always	1	habitat	multistate-union	125	free-living
+s__1263866	free-living--TRUE	Rhodopirellula europaea	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1263866	free-living
+s__1265494	free-living--TRUE	Thioalkalivibrio sp. ALE11	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1265494	free-living
+s__1265601	free-living--TRUE	Streptomyces sp. PAMC 26508	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1265601	free-living
+s__1266909	free-living--TRUE	Thioalkalivibrio sp. ALE19	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1266909	free-living
+s__1266911	free-living--TRUE	Thioalkalivibrio sp. ALRh	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1266911	free-living
+s__1266914	free-living--TRUE	Thioalkalivibrio sp. AKL19	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1266914	free-living
+s__126740	free-living--TRUE	Thermotoga sp. RQ2	species	ProTraits	medium	igc	always	1	habitat	multistate-union	126740	free-living
+s__1267533	free-living--TRUE	Acidobacteriaceae bacterium KBS 83	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1267533	free-living
+s__1267534	free-living--TRUE	Acidobacteriaceae bacterium KBS 89	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1267534	free-living
+s__1269813	free-living--TRUE	Thioalkalivibrio sp. ALR17-21	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1269813	free-living
+s__1270	free-living--TRUE	Micrococcus luteus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1270	free-living
+s__1276	free-living--TRUE	Kytococcus sedentarius	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1276	free-living
+s__128	free-living--TRUE	Isosphaera pallida	species	ProTraits	medium	igc	always	1	habitat	multistate-union	128	free-living
+s__1282876	free-living--TRUE	Parvibaculaceae bacterium Mf 1.05b.01	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1282876	free-living
+s__1282886	free-living--TRUE	Aeromonas sp. MDS8	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1282886	free-living
+s__1288079	free-living--TRUE	Streptomyces sp. CNT318	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1288079	free-living
+s__1295609	free-living--TRUE	Thermodesulfobacterium geofontis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1295609	free-living
+s__1297742	free-living--TRUE	Pseudomyxococcus hansupus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1297742	free-living
+s__1298857	free-living--TRUE	Candidatus Solirubrobacter pratensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1298857	free-living
+s__1298862	free-living--TRUE	Caulobacter sp. URHA0033	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1298862	free-living
+s__1298863	free-living--TRUE	Marmoricola sp. URHB0036	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1298863	free-living
+s__1299	free-living--TRUE	Deinococcus radiodurans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1299	free-living
+s__129910	free-living--TRUE	Limnospira maxima	species	ProTraits	medium	igc	always	1	habitat	multistate-union	129910	free-living
+s__129958	free-living--TRUE	Carboxydothermus hydrogenoformans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	129958	free-living
+s__1304888	free-living--TRUE	Limisalsivibrio acetivorans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1304888	free-living
+s__1305740	free-living--TRUE	Marinobacter nanhaiticus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1305740	free-living
+s__131540	free-living--TRUE	Thiomicrorhabdus arctica	species	ProTraits	medium	igc	always	1	habitat	multistate-union	131540	free-living
+s__131568	free-living--TRUE	Kineococcus radiotolerans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	131568	free-living
+s__1316941	free-living--TRUE	Archaeoglobus sulfaticallidus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1316941	free-living
+s__132919	free-living--TRUE	Rhodococcus jostii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	132919	free-living
+s__132920	free-living--TRUE	Exiguobacterium antarcticum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	132920	free-living
+s__1329899	free-living--TRUE	Cycloclasticus zancles	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1329899	free-living
+s__1333523	free-living--TRUE	Salinarchaeum sp. Harcht-Bsk1	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1333523	free-living
+s__133453	free-living--TRUE	Caldilinea aerophila	species	ProTraits	medium	igc	always	1	habitat	multistate-union	133453	free-living
+s__133539	free-living--TRUE	Nitrosococcus halophilus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	133539	free-living
+s__133552	free-living--TRUE	Methylocapsa acidiphila	species	ProTraits	medium	igc	always	1	habitat	multistate-union	133552	free-living
+s__1335757	free-living--TRUE	Spiribacter curvatus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1335757	free-living
+s__1335760	free-living--TRUE	Sphingobium bisphenolivorans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1335760	free-living
+s__1341119	free-living--TRUE	Luminiphilus syltensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1341119	free-living
+s__134676	free-living--TRUE	Actinoplanes sp. SE50/110	species	ProTraits	medium	igc	always	1	habitat	multistate-union	134676	free-living
+s__135577	free-living--TRUE	Idiomarina loihiensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	135577	free-living
+s__135735	free-living--TRUE	Priestia endophytica	species	ProTraits	medium	igc	always	1	habitat	multistate-union	135735	free-living
+s__136094	free-living--TRUE	Thermocrinis albus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	136094	free-living
+s__1365176	free-living--TRUE	Thermofilum adornatum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1365176	free-living
+s__13690	free-living--TRUE	Sphingobium yanoikuyae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	13690	free-living
+s__13769	free-living--TRUE	Natrialba magadii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	13769	free-living
+s__13773	free-living--TRUE	Pyrobaculum aerophilum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	13773	free-living
+s__1381596	free-living--TRUE	Marinimicrobium sp. LS-A18	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1381596	free-living
+s__138336	free-living--TRUE	Blastococcus saxobsidens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	138336	free-living
+s__1390	free-living--TRUE	Bacillus amyloliquefaciens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1390	free-living
+s__1392	free-living--TRUE	Bacillus anthracis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1392	free-living
+s__139208	free-living--TRUE	Isoptericola variabilis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	139208	free-living
+s__1393	free-living--TRUE	Brevibacillus brevis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1393	free-living
+s__1394889	free-living--TRUE	Thermosynechococcus sp. NK55a	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1394889	free-living
+s__1396	free-living--TRUE	Bacillus cereus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1396	free-living
+s__1398	free-living--TRUE	Heyndrickxia coagulans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1398	free-living
+s__1399115	free-living--TRUE	Exiguobacterium sp. MH3	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1399115	free-living
+s__14	free-living--TRUE	Dictyoglomus thermophilum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	14	free-living
+s__1402	free-living--TRUE	Bacillus licheniformis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1402	free-living
+s__1404	free-living--TRUE	Priestia megaterium	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1404	free-living
+s__1405	free-living--TRUE	Bacillus mycoides	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1405	free-living
+s__1406	free-living--TRUE	Paenibacillus polymyxa	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1406	free-living
+s__1408	free-living--TRUE	Bacillus pumilus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1408	free-living
+s__1413	free-living--TRUE	Evansella cellulosilytica	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1413	free-living
+s__1416614	free-living--TRUE	Gloeobacter kilaueensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1416614	free-living
+s__1421	free-living--TRUE	Lysinibacillus sphaericus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1421	free-living
+s__1422	free-living--TRUE	Geobacillus stearothermophilus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1422	free-living
+s__1423	free-living--TRUE	Bacillus subtilis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1423	free-living
+s__1426	free-living--TRUE	Parageobacillus thermoglucosidasius	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1426	free-living
+s__1428	free-living--TRUE	Bacillus thuringiensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1428	free-living
+s__142864	free-living--TRUE	Cylindrospermum stagnale	species	ProTraits	medium	igc	always	1	habitat	multistate-union	142864	free-living
+s__142877	free-living--TRUE	Desulfitobacterium metallireducens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	142877	free-living
+s__1449	free-living--TRUE	Amphibacillus xylanus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1449	free-living
+s__1452	free-living--TRUE	Bacillus atrophaeus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1452	free-living
+s__145262	free-living--TRUE	Methanothermobacter thermautotrophicus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	145262	free-living
+s__145263	free-living--TRUE	Methanothermobacter marburgensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	145263	free-living
+s__1462	free-living--TRUE	Geobacillus kaustophilus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1462	free-living
+s__1465	free-living--TRUE	Brevibacillus laterosporus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1465	free-living
+s__146786	free-living--TRUE	Thermosynechococcus vestitus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	146786	free-living
+s__146826	free-living--TRUE	Halorhabdus utahensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	146826	free-living
+s__146907	free-living--TRUE	Desulfitobacterium sp. PCE1	species	ProTraits	medium	igc	always	1	habitat	multistate-union	146907	free-living
+s__146919	free-living--TRUE	Salinibacter ruber	species	ProTraits	medium	igc	always	1	habitat	multistate-union	146919	free-living
+s__146938	free-living--TRUE	Azovibrio restrictus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	146938	free-living
+s__146939	free-living--TRUE	Azospira oryzae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	146939	free-living
+s__1471	free-living--TRUE	Bacillus methanolicus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1471	free-living
+s__147268	free-living--TRUE	Thiomicrospira cyclica	species	ProTraits	medium	igc	always	1	habitat	multistate-union	147268	free-living
+s__1482	free-living--TRUE	Virgibacillus halodenitrificans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1482	free-living
+s__1488	free-living--TRUE	Clostridium acetobutylicum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1488	free-living
+s__148813	free-living--TRUE	Sulfuricurvum kujiense	species	ProTraits	medium	igc	always	1	habitat	multistate-union	148813	free-living
+s__1491	free-living--TRUE	Clostridium botulinum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1491	free-living
+s__1493	free-living--TRUE	Clostridium cellulovorans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1493	free-living
+s__149715	free-living--TRUE	Marinitoga piezophila	species	ProTraits	medium	igc	always	1	habitat	multistate-union	149715	free-living
+s__150340	free-living--TRUE	Vibrio antiquarius	species	ProTraits	medium	igc	always	1	habitat	multistate-union	150340	free-living
+s__1510	free-living--TRUE	Thermoclostridium stercorarium	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1510	free-living
+s__1511	free-living--TRUE	Acetoanaerobium sticklandii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1511	free-living
+s__1515	free-living--TRUE	Acetivibrio thermocellus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1515	free-living
+s__1517	free-living--TRUE	Thermoanaerobacterium thermosaccharolyticum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1517	free-living
+s__151895	free-living--TRUE	Pseudopedobacter saltans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	151895	free-living
+s__1520	free-living--TRUE	Clostridium beijerinckii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1520	free-living
+s__1521	free-living--TRUE	Ruminiclostridium cellulolyticum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1521	free-living
+s__152260	free-living--TRUE	Chloroflexus aggregans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	152260	free-living
+s__152475	free-living--TRUE	Thioalkalivibrio thiocyanoxidans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	152475	free-living
+s__1525	free-living--TRUE	Neomoorella thermoacetica	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1525	free-living
+s__153233	free-living--TRUE	Oceanicaulis alexandrii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	153233	free-living
+s__1534	free-living--TRUE	Clostridium kluyveri	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1534	free-living
+s__1538	free-living--TRUE	Clostridium ljungdahlii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1538	free-living
+s__153948	free-living--TRUE	Nitrosomonas sp. AL212	species	ProTraits	medium	igc	always	1	habitat	multistate-union	153948	free-living
+s__154	free-living--TRUE	Winmispira thermophila	species	ProTraits	medium	igc	always	1	habitat	multistate-union	154	free-living
+s__155077	free-living--TRUE	Cellvibrio japonicus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	155077	free-living
+s__155322	free-living--TRUE	Bacillus toyonensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	155322	free-living
+s__1556	free-living--TRUE	Gottschalkia acidurici	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1556	free-living
+s__155863	free-living--TRUE	Methanothermococcus okinawensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	155863	free-living
+s__155892	free-living--TRUE	Caulobacter vibrioides	species	ProTraits	medium	igc	always	1	habitat	multistate-union	155892	free-living
+s__155978	free-living--TRUE	Acaryochloris marina	species	ProTraits	medium	igc	always	1	habitat	multistate-union	155978	free-living
+s__1563	free-living--TRUE	Desulfosporosinus orientis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1563	free-living
+s__1564	free-living--TRUE	Desulforamulus ruminis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1564	free-living
+s__1570	free-living--TRUE	Halobacillus halophilus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1570	free-living
+s__158327	free-living--TRUE	Hahella chejuensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	158327	free-living
+s__158899	free-living--TRUE	Collimonas fungivorans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	158899	free-living
+s__159291	free-living--TRUE	Alkalispirochaeta americana	species	ProTraits	medium	igc	always	1	habitat	multistate-union	159291	free-living
+s__159743	free-living--TRUE	Paenibacillus terrae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	159743	free-living
+s__160232	free-living--TRUE	Nanoarchaeum equitans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	160232	free-living
+s__160233	free-living--TRUE	Ignicoccus hospitalis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	160233	free-living
+s__160791	free-living--TRUE	Rhizorhabdus wittichii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	160791	free-living
+s__160808	free-living--TRUE	Acidithiobacillus ferrivorans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	160808	free-living
+s__160846	free-living--TRUE	Natrialba taiwanensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	160846	free-living
+s__161360	free-living--TRUE	Planococcus antarcticus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	161360	free-living
+s__161493	free-living--TRUE	Anaeromyxobacter dehalogenans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	161493	free-living
+s__163003	free-living--TRUE	Thermococcus cleftensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	163003	free-living
+s__164451	free-living--TRUE	Vulcanisaeta distributa	species	ProTraits	medium	igc	always	1	habitat	multistate-union	164451	free-living
+s__166314	free-living--TRUE	Synechococcus sp. WH 8109	species	ProTraits	medium	igc	always	1	habitat	multistate-union	166314	free-living
+s__166318	free-living--TRUE	Synechococcus sp. WH 8016	species	ProTraits	medium	igc	always	1	habitat	multistate-union	166318	free-living
+s__1665	free-living--TRUE	Arthrobacter globiformis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1665	free-living
+s__166501	free-living--TRUE	Thermobaculum terrenum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	166501	free-living
+s__167642	free-living--TRUE	Ilyobacter polytropus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	167642	free-living
+s__167964	free-living--TRUE	Anaerolinea thermophila	species	ProTraits	medium	igc	always	1	habitat	multistate-union	167964	free-living
+s__168695	free-living--TRUE	Salinispora tropica	species	ProTraits	medium	igc	always	1	habitat	multistate-union	168695	free-living
+s__168697	free-living--TRUE	Salinispora arenicola	species	ProTraits	medium	igc	always	1	habitat	multistate-union	168697	free-living
+s__1703	free-living--TRUE	Brevibacterium linens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1703	free-living
+s__170652	free-living--TRUE	Vibrio brasiliensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	170652	free-living
+s__1708	free-living--TRUE	Cellulomonas fimi	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1708	free-living
+s__1711	free-living--TRUE	Cellulomonas flavigena	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1711	free-living
+s__171437	free-living--TRUE	Tistrella mobilis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	171437	free-living
+s__171695	free-living--TRUE	Thermodesulfatator indicus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	171695	free-living
+s__172049	free-living--TRUE	Thermococcus sibiricus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	172049	free-living
+s__173041	free-living--TRUE	Pelagirhabdus fermentum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	173041	free-living
+s__173365	free-living--TRUE	Methylobacter tundripaludum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	173365	free-living
+s__173480	free-living--TRUE	Gemmatimonas aurantiaca	species	ProTraits	medium	igc	always	1	habitat	multistate-union	173480	free-living
+s__174632	free-living--TRUE	Candidatus Brocadia anammoxidans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	174632	free-living
+s__175696	free-living--TRUE	Thermaerobacter subterraneus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	175696	free-living
+s__1757	free-living--TRUE	Thermoanaerobacter ethanolicus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1757	free-living
+s__176102	free-living--TRUE	Pseudoalteromonas agarivorans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	176102	free-living
+s__177758	free-living--TRUE	Pseudothermotoga lettingae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	177758	free-living
+s__178606	free-living--TRUE	Leptospirillum ferriphilum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	178606	free-living
+s__179636	free-living--TRUE	Alicycliphilus denitrificans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	179636	free-living
+s__179878	free-living--TRUE	Sphingomonas elodea	species	ProTraits	medium	igc	always	1	habitat	multistate-union	179878	free-living
+s__180	free-living--TRUE	Leptospirillum ferrooxidans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	180	free-living
+s__180281	free-living--TRUE	Cyanobium sp. PCC 7001	species	ProTraits	medium	igc	always	1	habitat	multistate-union	180281	free-living
+s__181486	free-living--TRUE	Pyrobaculum calidifontis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	181486	free-living
+s__181663	free-living--TRUE	Desulfosudis oleivorans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	181663	free-living
+s__182210	free-living--TRUE	Pseudodesulfovibrio aespoeensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	182210	free-living
+s__182640	free-living--TRUE	Kribbella flavida	species	ProTraits	medium	igc	always	1	habitat	multistate-union	182640	free-living
+s__182710	free-living--TRUE	Oceanobacillus iheyensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	182710	free-living
+s__183	free-living--TRUE	Leptonema illini	species	ProTraits	medium	igc	always	1	habitat	multistate-union	183	free-living
+s__1833	free-living--TRUE	Rhodococcus erythropolis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1833	free-living
+s__1836	free-living--TRUE	Saccharopolyspora erythraea	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1836	free-living
+s__184064	free-living--TRUE	Thermodesulfobium narugense	species	ProTraits	medium	igc	always	1	habitat	multistate-union	184064	free-living
+s__184117	free-living--TRUE	Thermoproteus uzoniensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	184117	free-living
+s__184914	free-living--TRUE	Corallococcus coralloides	species	ProTraits	medium	igc	always	1	habitat	multistate-union	184914	free-living
+s__184917	free-living--TRUE	Solidesulfovibrio magneticus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	184917	free-living
+s__1852	free-living--TRUE	Saccharomonospora viridis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1852	free-living
+s__185300	free-living--TRUE	Paludibacter propionicigenes	species	ProTraits	medium	igc	always	1	habitat	multistate-union	185300	free-living
+s__1859	free-living--TRUE	Frankia alni	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1859	free-living
+s__1861	free-living--TRUE	Geodermatophilus obscurus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1861	free-living
+s__186189	free-living--TRUE	Xylanimonas cellulosilytica	species	ProTraits	medium	igc	always	1	habitat	multistate-union	186189	free-living
+s__186192	free-living--TRUE	Marinithermus hydrothermalis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	186192	free-living
+s__1866	free-living--TRUE	Actinoplanes missouriensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1866	free-living
+s__186931	free-living--TRUE	Thioalkalivibrio nitratireducens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	186931	free-living
+s__187137	free-living--TRUE	Oceanithermus profundus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	187137	free-living
+s__187303	free-living--TRUE	Methylocystis hydrogenophila	species	ProTraits	medium	igc	always	1	habitat	multistate-union	187303	free-living
+s__187304	free-living--TRUE	Roseibium aggregatum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	187304	free-living
+s__187493	free-living--TRUE	Thalassolituus oleivorans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	187493	free-living
+s__187878	free-living--TRUE	Thermococcus gammatolerans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	187878	free-living
+s__188	free-living--TRUE	Paramagnetospirillum magnetotacticum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	188	free-living
+s__1888	free-living--TRUE	Streptomyces albus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1888	free-living
+s__19	free-living--TRUE	Syntrophotalea carbinolica	species	ProTraits	medium	igc	always	1	habitat	multistate-union	19	free-living
+s__190	free-living--TRUE	Aquaspirillum serpens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	190	free-living
+s__1901	free-living--TRUE	Streptomyces clavuligerus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1901	free-living
+s__1902	free-living--TRUE	Streptomyces coelicolor	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1902	free-living
+s__190893	free-living--TRUE	Vibrio coralliilyticus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	190893	free-living
+s__191026	free-living--TRUE	Maridesulfovibrio hydrothermalis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	191026	free-living
+s__1911	free-living--TRUE	Streptomyces griseus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1911	free-living
+s__1912	free-living--TRUE	Streptomyces hygroscopicus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1912	free-living
+s__191495	free-living--TRUE	Conexibacter woesei	species	ProTraits	medium	igc	always	1	habitat	multistate-union	191495	free-living
+s__191579	free-living--TRUE	Fluviicola taffensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	191579	free-living
+s__1916	free-living--TRUE	Streptomyces lividans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1916	free-living
+s__191768	free-living--TRUE	Plesiocystis pacifica	species	ProTraits	medium	igc	always	1	habitat	multistate-union	191768	free-living
+s__191863	free-living--TRUE	Chthoniobacter flavus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	191863	free-living
+s__192	free-living--TRUE	Azospirillum brasilense	species	ProTraits	medium	igc	always	1	habitat	multistate-union	192	free-living
+s__192073	free-living--TRUE	Shewanella denitrificans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	192073	free-living
+s__192843	free-living--TRUE	Rhodoferax ferrireducens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	192843	free-living
+s__1930	free-living--TRUE	Streptomyces scabiei	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1930	free-living
+s__194867	free-living--TRUE	Sphingomonas sp. ATCC 31555	species	ProTraits	medium	igc	always	1	habitat	multistate-union	194867	free-living
+s__1951	free-living--TRUE	Streptomyces purpureus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1951	free-living
+s__195253	free-living--TRUE	Synechococcus sp. PCC 6312	species	ProTraits	medium	igc	always	1	habitat	multistate-union	195253	free-living
+s__196162	free-living--TRUE	Nocardioides sp. JS614	species	ProTraits	medium	igc	always	1	habitat	multistate-union	196162	free-living
+s__196588	free-living--TRUE	Erythrobacter cryptus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	196588	free-living
+s__197162	free-living--TRUE	Deferribacter desulfuricans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	197162	free-living
+s__197222	free-living--TRUE	Paraglaciecola mesophila	species	ProTraits	medium	igc	always	1	habitat	multistate-union	197222	free-living
+s__198252	free-living--TRUE	Candidatus Pelagibacter communis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	198252	free-living
+s__198481	free-living--TRUE	Psychrobacter luti	species	ProTraits	medium	igc	always	1	habitat	multistate-union	198481	free-living
+s__199596	free-living--TRUE	Methylocella silvestris	species	ProTraits	medium	igc	always	1	habitat	multistate-union	199596	free-living
+s__2001	free-living--TRUE	Streptosporangium roseum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2001	free-living
+s__2006	free-living--TRUE	Thermobispora bispora	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2006	free-living
+s__2014	free-living--TRUE	Nocardiopsis dassonvillei	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2014	free-living
+s__2020	free-living--TRUE	Thermomonospora curvata	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2020	free-living
+s__2021	free-living--TRUE	Thermobifida fusca	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2021	free-living
+s__202611	free-living--TRUE	Lysinibacillus odysseyi	species	ProTraits	medium	igc	always	1	habitat	multistate-union	202611	free-living
+s__202747	free-living--TRUE	Sulfurimonas autotrophica	species	ProTraits	medium	igc	always	1	habitat	multistate-union	202747	free-living
+s__204773	free-living--TRUE	Herminiimonas arsenicoxydans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	204773	free-living
+s__2057	free-living--TRUE	Sphaerobacter thermophilus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2057	free-living
+s__2066	free-living--TRUE	Kitasatospora setae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2066	free-living
+s__208216	free-living--TRUE	Parvularcula bermudensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	208216	free-living
+s__208226	free-living--TRUE	Alkaliphilus metalliredigens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	208226	free-living
+s__208443	free-living--TRUE	Amycolatopsis balhimycina	species	ProTraits	medium	igc	always	1	habitat	multistate-union	208443	free-living
+s__210408	free-living--TRUE	Thiorhodococcus drewsii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	210408	free-living
+s__212663	free-living--TRUE	Vibrio tasmaniensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	212663	free-living
+s__213224	free-living--TRUE	Geothermobacter ehrlichii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	213224	free-living
+s__215591	free-living--TRUE	Gracilinema caldarium	species	ProTraits	medium	igc	always	1	habitat	multistate-union	215591	free-living
+s__215813	free-living--TRUE	Dinoroseobacter shibae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	215813	free-living
+s__216465	free-living--TRUE	Polaromonas naphthalenivorans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	216465	free-living
+s__2171	free-living--TRUE	Methanobacterium palustre	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2171	free-living
+s__217511	free-living--TRUE	Fulvimarina pelagi	species	ProTraits	medium	igc	always	1	habitat	multistate-union	217511	free-living
+s__2176	free-living--TRUE	Methanohalophilus mahii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2176	free-living
+s__2180	free-living--TRUE	Methanothermus fervidus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2180	free-living
+s__218208	free-living--TRUE	Desulfatibacillum aliphaticivorans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	218208	free-living
+s__2187	free-living--TRUE	Methanococcus vannielii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2187	free-living
+s__2188	free-living--TRUE	Methanococcus voltae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2188	free-living
+s__2189	free-living--TRUE	Methanotorris igneus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2189	free-living
+s__2190	free-living--TRUE	Methanocaldococcus jannaschii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2190	free-living
+s__2198	free-living--TRUE	Methanoculleus marisnigri	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2198	free-living
+s__2203	free-living--TRUE	Methanospirillum hungatei	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2203	free-living
+s__2208	free-living--TRUE	Methanosarcina barkeri	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2208	free-living
+s__2209	free-living--TRUE	Methanosarcina mazei	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2209	free-living
+s__221359	free-living--TRUE	Synechococcus sp. RS9916	species	ProTraits	medium	igc	always	1	habitat	multistate-union	221359	free-living
+s__221360	free-living--TRUE	Synechococcus sp. RS9917	species	ProTraits	medium	igc	always	1	habitat	multistate-union	221360	free-living
+s__2214	free-living--TRUE	Methanosarcina acetivorans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2214	free-living
+s__221822	free-living--TRUE	Phaeobacter inhibens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	221822	free-living
+s__2223	free-living--TRUE	Methanothrix soehngenii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2223	free-living
+s__2224	free-living--TRUE	Methanothrix thermoacetophila	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2224	free-living
+s__2234	free-living--TRUE	Archaeoglobus fulgidus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2234	free-living
+s__2238	free-living--TRUE	Haloarcula marismortui	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2238	free-living
+s__2242	free-living--TRUE	Halobacterium salinarum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2242	free-living
+s__2246	free-living--TRUE	Haloferax volcanii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2246	free-living
+s__2247	free-living--TRUE	Halorubrum lacusprofundi	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2247	free-living
+s__225194	free-living--TRUE	Citrifermentans bemidjiense	species	ProTraits	medium	igc	always	1	habitat	multistate-union	225194	free-living
+s__225196	free-living--TRUE	Geopsychrobacter electrodiphilus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	225196	free-living
+s__2252	free-living--TRUE	Haloferax mediterranei	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2252	free-living
+s__225422	free-living--TRUE	Sulfitobacter indolifex	species	ProTraits	medium	igc	always	1	habitat	multistate-union	225422	free-living
+s__2257	free-living--TRUE	Natronomonas pharaonis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2257	free-living
+s__2261	free-living--TRUE	Pyrococcus furiosus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2261	free-living
+s__2265	free-living--TRUE	Thermococcus litoralis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2265	free-living
+s__2269	free-living--TRUE	Thermofilum pendens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2269	free-living
+s__2271	free-living--TRUE	Thermoproteus tenax	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2271	free-living
+s__2275	free-living--TRUE	Desulfurococcus mucosus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2275	free-living
+s__2277	free-living--TRUE	Pyrobaculum islandicum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2277	free-living
+s__228	free-living--TRUE	Pseudoalteromonas haloplanktis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	228	free-living
+s__2280	free-living--TRUE	Staphylothermus marinus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2280	free-living
+s__2285	free-living--TRUE	Sulfolobus acidocaldarius	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2285	free-living
+s__228574	free-living--TRUE	Paenibacillus lactis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	228574	free-living
+s__2287	free-living--TRUE	Saccharolobus solfataricus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2287	free-living
+s__228745	free-living--TRUE	Thermovibrio ammonificans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	228745	free-living
+s__2296	free-living--TRUE	Desulforapulum autotrophicum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2296	free-living
+s__2303	free-living--TRUE	Thermoplasma acidophilum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2303	free-living
+s__2317	free-living--TRUE	Methanosphaera stadtmanae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2317	free-living
+s__2320	free-living--TRUE	Methanopyrus kandleri	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2320	free-living
+s__2322	free-living--TRUE	Methanohalobium evestigatum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2322	free-living
+s__232259	free-living--TRUE	Belliella baltica	species	ProTraits	medium	igc	always	1	habitat	multistate-union	232259	free-living
+s__2325	free-living--TRUE	Thermoanaerobacter kivui	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2325	free-living
+s__232721	free-living--TRUE	Acidovorax sp. JS42	species	ProTraits	medium	igc	always	1	habitat	multistate-union	232721	free-living
+s__233055	free-living--TRUE	Desulfitobacterium dichloroeliminans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	233055	free-living
+s__2331	free-living--TRUE	Halanaerobium praevalens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2331	free-living
+s__2336	free-living--TRUE	Thermotoga maritima	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2336	free-living
+s__2337	free-living--TRUE	Thermotoga neapolitana	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2337	free-living
+s__234831	free-living--TRUE	Pseudoalteromonas sp. SM9913	species	ProTraits	medium	igc	always	1	habitat	multistate-union	234831	free-living
+s__2350	free-living--TRUE	Haliscomenobacter hydrossis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2350	free-living
+s__2352	free-living--TRUE	Flexistipes sinusarabici	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2352	free-living
+s__2358	free-living--TRUE	Desulfomonile tiedjei	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2358	free-living
+s__236097	free-living--TRUE	Alcanivorax sp. DG881	species	ProTraits	medium	igc	always	1	habitat	multistate-union	236097	free-living
+s__237727	free-living--TRUE	Erythrobacter sp. NAP1	species	ProTraits	medium	igc	always	1	habitat	multistate-union	237727	free-living
+s__24	free-living--TRUE	Shewanella putrefaciens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	24	free-living
+s__240237	free-living--TRUE	Woodsholea maritima	species	ProTraits	medium	igc	always	1	habitat	multistate-union	240237	free-living
+s__241425	free-living--TRUE	Crinalium epipsammum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	241425	free-living
+s__2421	free-living--TRUE	Thermosipho africanus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2421	free-living
+s__2424	free-living--TRUE	Fervidobacterium nodosum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2424	free-living
+s__2426	free-living--TRUE	Teredinibacter turnerae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2426	free-living
+s__242703	free-living--TRUE	Acidilobus saccharovorans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	242703	free-living
+s__2434	free-living--TRUE	Roseobacter denitrificans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2434	free-living
+s__244365	free-living--TRUE	Methylohalobius crimeensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	244365	free-living
+s__244573	free-living--TRUE	Thiocapsa marina	species	ProTraits	medium	igc	always	1	habitat	multistate-union	244573	free-living
+s__244787	free-living--TRUE	Nautilia profundicola	species	ProTraits	medium	igc	always	1	habitat	multistate-union	244787	free-living
+s__245160	free-living--TRUE	Fictibacillus macauensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	245160	free-living
+s__246969	free-living--TRUE	Thermococcus sp. AM4	species	ProTraits	medium	igc	always	1	habitat	multistate-union	246969	free-living
+s__247633	free-living--TRUE	marine gamma proteobacterium HTCC2143	species	ProTraits	medium	igc	always	1	habitat	multistate-union	247633	free-living
+s__247634	free-living--TRUE	marine gamma proteobacterium HTCC2148	species	ProTraits	medium	igc	always	1	habitat	multistate-union	247634	free-living
+s__247639	free-living--TRUE	marine gamma proteobacterium HTCC2080	species	ProTraits	medium	igc	always	1	habitat	multistate-union	247639	free-living
+s__248026	free-living--TRUE	Cupriavidus pinatubonensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	248026	free-living
+s__252307	free-living--TRUE	Robiginitalea biformata	species	ProTraits	medium	igc	always	1	habitat	multistate-union	252307	free-living
+s__252966	free-living--TRUE	Mahella australiensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	252966	free-living
+s__253239	free-living--TRUE	Ethanoligenens harbinense	species	ProTraits	medium	igc	always	1	habitat	multistate-union	253239	free-living
+s__253245	free-living--TRUE	Owenweeksia hongkongensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	253245	free-living
+s__256618	free-living--TRUE	Parvibaculum lavamentivorans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	256618	free-living
+s__256701	free-living--TRUE	Glutamicibacter arilaitensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	256701	free-living
+s__256826	free-living--TRUE	Methanobacterium aarhusense	species	ProTraits	medium	igc	always	1	habitat	multistate-union	256826	free-living
+s__258591	free-living--TRUE	Litchfieldella anticariensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	258591	free-living
+s__259354	free-living--TRUE	Desulfatibacillum alkenivorans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	259354	free-living
+s__259537	free-living--TRUE	Dechloromonas aromatica (nom. nud.)	species	ProTraits	medium	igc	always	1	habitat	multistate-union	259537	free-living
+s__260552	free-living--TRUE	Microbulbifer agarilyticus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	260552	free-living
+s__261292	free-living--TRUE	Nitrosomonas sp. Is79A3	species	ProTraits	medium	igc	always	1	habitat	multistate-union	261292	free-living
+s__261685	free-living--TRUE	Thermosinus carboxydivorans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	261685	free-living
+s__261964	free-living--TRUE	Kangiella koreensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	261964	free-living
+s__262077	free-living--TRUE	Marinobacter daepoensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	262077	free-living
+s__263378	free-living--TRUE	Salipiger mucosus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	263378	free-living
+s__263511	free-living--TRUE	Crocosphaera watsonii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	263511	free-living
+s__265291	free-living--TRUE	Comamonas badia	species	ProTraits	medium	igc	always	1	habitat	multistate-union	265291	free-living
+s__265606	free-living--TRUE	Rhodopirellula baltica	species	ProTraits	medium	igc	always	1	habitat	multistate-union	265606	free-living
+s__266	free-living--TRUE	Paracoccus denitrificans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	266	free-living
+s__266009	free-living--TRUE	Methylovorus glucosotrophus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	266009	free-living
+s__266779	free-living--TRUE	Chelativorans sp. BNC1	species	ProTraits	medium	igc	always	1	habitat	multistate-union	266779	free-living
+s__269261	free-living--TRUE	Nitratifractor salsuginis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	269261	free-living
+s__270374	free-living--TRUE	Marinobacter sp. ELB17	species	ProTraits	medium	igc	always	1	habitat	multistate-union	270374	free-living
+s__270496	free-living--TRUE	Fundidesulfovibrio putealis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	270496	free-living
+s__271	free-living--TRUE	Thermus aquaticus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	271	free-living
+s__271065	free-living--TRUE	Methylotuvimicrobium alcaliphilum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	271065	free-living
+s__271097	free-living--TRUE	Shewanella sediminis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	271097	free-living
+s__271098	free-living--TRUE	Shewanella halifaxensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	271098	free-living
+s__272131	free-living--TRUE	Nostoc punctiforme	species	ProTraits	medium	igc	always	1	habitat	multistate-union	272131	free-living
+s__2724	free-living--TRUE	Hirschia baltica	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2724	free-living
+s__2734	free-living--TRUE	Symbiobacterium thermophilum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2734	free-living
+s__2736	free-living--TRUE	Verrucomicrobium spinosum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2736	free-living
+s__274	free-living--TRUE	Thermus thermophilus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	274	free-living
+s__2743	free-living--TRUE	Marinobacter nauticus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2743	free-living
+s__274539	free-living--TRUE	Chlorobaculum parvum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	274539	free-living
+s__2746	free-living--TRUE	Halomonas elongata	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2746	free-living
+s__277	free-living--TRUE	Meiothermus ruber	species	ProTraits	medium	igc	always	1	habitat	multistate-union	277	free-living
+s__278956	free-living--TRUE	Opitutaceae bacterium TAV1	species	ProTraits	medium	igc	always	1	habitat	multistate-union	278956	free-living
+s__278963	free-living--TRUE	Acidobacteriaceae bacterium TAA 166	species	ProTraits	medium	igc	always	1	habitat	multistate-union	278963	free-living
+s__279369	free-living--TRUE	Novosphingopyxis baekryungensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	279369	free-living
+s__280	free-living--TRUE	Xanthobacter autotrophicus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	280	free-living
+s__28049	free-living--TRUE	Acidothermus cellulolyticus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	28049	free-living
+s__28068	free-living--TRUE	Rubrivivax gelatinosus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	28068	free-living
+s__28072	free-living--TRUE	Nostoc sp. PCC 7524	species	ProTraits	medium	igc	always	1	habitat	multistate-union	28072	free-living
+s__28108	free-living--TRUE	Alteromonas macleodii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	28108	free-living
+s__281714	free-living--TRUE	Nocardioides alkalitolerans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	281714	free-living
+s__28187	free-living--TRUE	Acetohalobium arabaticum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	28187	free-living
+s__28199	free-living--TRUE	Arcobacter nitrofigilis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	28199	free-living
+s__282197	free-living--TRUE	Jannaschia rubra	species	ProTraits	medium	igc	always	1	habitat	multistate-union	282197	free-living
+s__28223	free-living--TRUE	Desulfobacula toluolica	species	ProTraits	medium	igc	always	1	habitat	multistate-union	28223	free-living
+s__28229	free-living--TRUE	Colwellia psychrerythraea	species	ProTraits	medium	igc	always	1	habitat	multistate-union	28229	free-living
+s__28232	free-living--TRUE	Geobacter metallireducens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	28232	free-living
+s__28262	free-living--TRUE	Thermodesulfovibrio yellowstonii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	28262	free-living
+s__283811	free-living--TRUE	Stackebrandtia nassauensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	283811	free-living
+s__284016	free-living--TRUE	Phenylobacterium zucineum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	284016	free-living
+s__28448	free-living--TRUE	Komagataeibacter xylinus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	28448	free-living
+s__285	free-living--TRUE	Comamonas testosteroni	species	ProTraits	medium	igc	always	1	habitat	multistate-union	285	free-living
+s__285091	free-living--TRUE	Alloalcanivorax dieselolei	species	ProTraits	medium	igc	always	1	habitat	multistate-union	285091	free-living
+s__285540	free-living--TRUE	Streptomyces thermolilacinus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	285540	free-living
+s__285679	free-living--TRUE	Micromonospora lupini	species	ProTraits	medium	igc	always	1	habitat	multistate-union	285679	free-living
+s__287487	free-living--TRUE	Haliea salexigens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	287487	free-living
+s__288	free-living--TRUE	Pseudoalteromonas atlantica	species	ProTraits	medium	igc	always	1	habitat	multistate-union	288	free-living
+s__28896	free-living--TRUE	Thermoanaerobacterium saccharolyticum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	28896	free-living
+s__288965	free-living--TRUE	Acetivibrio clariflavus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	288965	free-living
+s__290399	free-living--TRUE	Arthrobacter sp. FB24	species	ProTraits	medium	igc	always	1	habitat	multistate-union	290399	free-living
+s__290400	free-living--TRUE	Jannaschia sp. CCS1	species	ProTraits	medium	igc	always	1	habitat	multistate-union	290400	free-living
+s__291990	free-living--TRUE	Thermosediminibacter oceani	species	ProTraits	medium	igc	always	1	habitat	multistate-union	291990	free-living
+s__292414	free-living--TRUE	Ruegeria sp. TM1040	species	ProTraits	medium	igc	always	1	habitat	multistate-union	292414	free-living
+s__292566	free-living--TRUE	Dactylococcopsis salina	species	ProTraits	medium	igc	always	1	habitat	multistate-union	292566	free-living
+s__29288	free-living--TRUE	Natronococcus occultus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	29288	free-living
+s__29291	free-living--TRUE	Methanococcoides burtonii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	29291	free-living
+s__29292	free-living--TRUE	Pyrococcus abyssi	species	ProTraits	medium	igc	always	1	habitat	multistate-union	29292	free-living
+s__293	free-living--TRUE	Brevundimonas diminuta	species	ProTraits	medium	igc	always	1	habitat	multistate-union	293	free-living
+s__29303	free-living--TRUE	Streptantibioticus cattleyicolor	species	ProTraits	medium	igc	always	1	habitat	multistate-union	29303	free-living
+s__293091	free-living--TRUE	Haloquadratum walsbyi	species	ProTraits	medium	igc	always	1	habitat	multistate-union	293091	free-living
+s__29323	free-living--TRUE	Thermoanaerobacter brockii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	29323	free-living
+s__293256	free-living--TRUE	Alkalidesulfovibrio alkalitolerans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	293256	free-living
+s__29329	free-living--TRUE	Thermoanaerobacterium xylanolyticum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	29329	free-living
+s__293386	free-living--TRUE	Bacillus stratosphericus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	293386	free-living
+s__29360	free-living--TRUE	Cellulosilyticum lentocellum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	29360	free-living
+s__29362	free-living--TRUE	Ruminiclostridium papyrosolvens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	29362	free-living
+s__294	free-living--TRUE	Pseudomonas fluorescens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	294	free-living
+s__29405	free-living--TRUE	Microlunatus phosphovorus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	29405	free-living
+s__29494	free-living--TRUE	Vibrio furnissii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	29494	free-living
+s__29497	free-living--TRUE	Vibrio splendidus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	29497	free-living
+s__29543	free-living--TRUE	Pelobacter propionicus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	29543	free-living
+s__29549	free-living--TRUE	Rhodothermus marinus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	29549	free-living
+s__296591	free-living--TRUE	Polaromonas sp. JS666	species	ProTraits	medium	igc	always	1	habitat	multistate-union	296591	free-living
+s__298655	free-living--TRUE	Pseudofrankia saprophytica	species	ProTraits	medium	igc	always	1	habitat	multistate-union	298655	free-living
+s__300	free-living--TRUE	Ectopseudomonas mendocina	species	ProTraits	medium	igc	always	1	habitat	multistate-union	300	free-living
+s__300231	free-living--TRUE	Brumicola nitratireducens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	300231	free-living
+s__301375	free-living--TRUE	Methanothrix harundinacea	species	ProTraits	medium	igc	always	1	habitat	multistate-union	301375	free-living
+s__303	free-living--TRUE	Pseudomonas putida	species	ProTraits	medium	igc	always	1	habitat	multistate-union	303	free-living
+s__303682	free-living--TRUE	Thauera sp. 28	species	ProTraits	medium	igc	always	1	habitat	multistate-union	303682	free-living
+s__304895	free-living--TRUE	Catenulispora acidiphila	species	ProTraits	medium	igc	always	1	habitat	multistate-union	304895	free-living
+s__305700	free-living--TRUE	Thauera sp. 27	species	ProTraits	medium	igc	always	1	habitat	multistate-union	305700	free-living
+s__306546	free-living--TRUE	Marinimicrobium agarilyticum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	306546	free-living
+s__307627	free-living--TRUE	Winogradskyella poriferorum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	307627	free-living
+s__309805	free-living--TRUE	Persephonella marina	species	ProTraits	medium	igc	always	1	habitat	multistate-union	309805	free-living
+s__309806	free-living--TRUE	Sulfurihydrogenibium azorense	species	ProTraits	medium	igc	always	1	habitat	multistate-union	309806	free-living
+s__309886	free-living--TRUE	Deinococcus apachensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	309886	free-living
+s__309887	free-living--TRUE	Deinococcus maricopensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	309887	free-living
+s__310575	free-living--TRUE	Advenella kashmirensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	310575	free-living
+s__310783	free-living--TRUE	Deinococcus deserti	species	ProTraits	medium	igc	always	1	habitat	multistate-union	310783	free-living
+s__311400	free-living--TRUE	Thermococcus kodakarensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	311400	free-living
+s__311458	free-living--TRUE	Candidatus Caldarchaeum subterraneum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	311458	free-living
+s__312277	free-living--TRUE	Flavobacterium indicum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	312277	free-living
+s__312279	free-living--TRUE	Emticicia oligotrophica	species	ProTraits	medium	igc	always	1	habitat	multistate-union	312279	free-living
+s__313588	free-living--TRUE	Croceibacter atlanticus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	313588	free-living
+s__313589	free-living--TRUE	Janibacter sp. HTCC2649	species	ProTraits	medium	igc	always	1	habitat	multistate-union	313589	free-living
+s__313598	free-living--TRUE	Polaribacter sp. MED152	species	ProTraits	medium	igc	always	1	habitat	multistate-union	313598	free-living
+s__313603	free-living--TRUE	Maribacter sp. HTCC2170	species	ProTraits	medium	igc	always	1	habitat	multistate-union	313603	free-living
+s__313612	free-living--TRUE	Lyngbya sp. PCC 8106	species	ProTraits	medium	igc	always	1	habitat	multistate-union	313612	free-living
+s__313625	free-living--TRUE	Synechococcus sp. BL107	species	ProTraits	medium	igc	always	1	habitat	multistate-union	313625	free-living
+s__313627	free-living--TRUE	Bacillus sp. NRRL B-14911	species	ProTraits	medium	igc	always	1	habitat	multistate-union	313627	free-living
+s__313985	free-living--TRUE	Trichlorobacter lovleyi	species	ProTraits	medium	igc	always	1	habitat	multistate-union	313985	free-living
+s__314254	free-living--TRUE	Oceanicaulis sp. HTCC2633	species	ProTraits	medium	igc	always	1	habitat	multistate-union	314254	free-living
+s__314255	free-living--TRUE	Pseudooceanicola batsensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	314255	free-living
+s__314262	free-living--TRUE	Roseobacter sp. MED193	species	ProTraits	medium	igc	always	1	habitat	multistate-union	314262	free-living
+s__314263	free-living--TRUE	Roseovarius nubinhibens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	314263	free-living
+s__314266	free-living--TRUE	Sphingomonas sp. SKA58	species	ProTraits	medium	igc	always	1	habitat	multistate-union	314266	free-living
+s__314267	free-living--TRUE	Sulfitobacter sp. NAS-14.1	species	ProTraits	medium	igc	always	1	habitat	multistate-union	314267	free-living
+s__314270	free-living--TRUE	Rhodobacteraceae bacterium HTCC2083	species	ProTraits	medium	igc	always	1	habitat	multistate-union	314270	free-living
+s__314287	free-living--TRUE	gamma proteobacterium HTCC2207	species	ProTraits	medium	igc	always	1	habitat	multistate-union	314287	free-living
+s__314290	free-living--TRUE	Vibrio sp. MED222	species	ProTraits	medium	igc	always	1	habitat	multistate-union	314290	free-living
+s__314344	free-living--TRUE	Mariprofundus ferrooxydans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	314344	free-living
+s__314722	free-living--TRUE	Pseudoxanthomonas suwonensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	314722	free-living
+s__316	free-living--TRUE	Stutzerimonas stutzeri	species	ProTraits	medium	igc	always	1	habitat	multistate-union	316	free-living
+s__316068	free-living--TRUE	Leadbetterella byssophila	species	ProTraits	medium	igc	always	1	habitat	multistate-union	316068	free-living
+s__316277	free-living--TRUE	Syntrophus aciditrophicus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	316277	free-living
+s__316278	free-living--TRUE	Synechococcus sp. RCC307	species	ProTraits	medium	igc	always	1	habitat	multistate-union	316278	free-living
+s__316279	free-living--TRUE	Synechococcus sp. CC9902	species	ProTraits	medium	igc	always	1	habitat	multistate-union	316279	free-living
+s__316997	free-living--TRUE	Rubrivivax benzoatilyticus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	316997	free-living
+s__317575	free-living--TRUE	Methylothermus thermalis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	317575	free-living
+s__317664	free-living--TRUE	Quadrisphaera granulorum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	317664	free-living
+s__317936	free-living--TRUE	Nostoc sp. PCC 7107	species	ProTraits	medium	igc	always	1	habitat	multistate-union	317936	free-living
+s__31899	free-living--TRUE	Caldicellulosiruptor bescii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	31899	free-living
+s__31909	free-living--TRUE	Halothermothrix orenii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	31909	free-living
+s__31958	free-living--TRUE	Amycolatopsis orientalis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	31958	free-living
+s__32046	free-living--TRUE	Synechococcus elongatus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	32046	free-living
+s__32049	free-living--TRUE	Picosynechococcus sp. PCC 7002	species	ProTraits	medium	igc	always	1	habitat	multistate-union	32049	free-living
+s__32051	free-living--TRUE	Synechococcus sp. WH 7803	species	ProTraits	medium	igc	always	1	habitat	multistate-union	32051	free-living
+s__32054	free-living--TRUE	Calothrix parietina	species	ProTraits	medium	igc	always	1	habitat	multistate-union	32054	free-living
+s__32057	free-living--TRUE	Calothrix sp. PCC 7103	species	ProTraits	medium	igc	always	1	habitat	multistate-union	32057	free-living
+s__321318	free-living--TRUE	Dietzia cinnamea	species	ProTraits	medium	igc	always	1	habitat	multistate-union	321318	free-living
+s__321327	free-living--TRUE	Synechococcus sp. JA-3-3Ab	species	ProTraits	medium	igc	always	1	habitat	multistate-union	321327	free-living
+s__321332	free-living--TRUE	Synechococcus sp. JA-2-3B'a(2-13)	species	ProTraits	medium	igc	always	1	habitat	multistate-union	321332	free-living
+s__324057	free-living--TRUE	Paenibacillus sp. JDR-2	species	ProTraits	medium	igc	always	1	habitat	multistate-union	324057	free-living
+s__325778	free-living--TRUE	Methanococcoides alaskense	species	ProTraits	medium	igc	always	1	habitat	multistate-union	325778	free-living
+s__326544	free-living--TRUE	Paraglaciecola psychrophila	species	ProTraits	medium	igc	always	1	habitat	multistate-union	326544	free-living
+s__327160	free-living--TRUE	Candidatus Accumulibacter phosphatis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	327160	free-living
+s__328515	free-living--TRUE	Nonlabens dokdonensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	328515	free-living
+s__329	free-living--TRUE	Ralstonia pickettii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	329	free-living
+s__33	free-living--TRUE	Myxococcus fulvus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	33	free-living
+s__330214	free-living--TRUE	Nitrospira defluvii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	330214	free-living
+s__33059	free-living--TRUE	Acidithiobacillus caldus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	33059	free-living
+s__33072	free-living--TRUE	Gloeobacter violaceus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	33072	free-living
+s__33075	free-living--TRUE	Acidobacterium capsulatum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	33075	free-living
+s__330922	free-living--TRUE	Psychrobacter cryohalolentis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	330922	free-living
+s__331648	free-living--TRUE	Nonlabens spongiae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	331648	free-living
+s__331992	free-living--TRUE	Kamptonema formosum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	331992	free-living
+s__332055	free-living--TRUE	Sphingobium indicum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	332055	free-living
+s__332163	free-living--TRUE	Candidatus Solibacter usitatus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	332163	free-living
+s__332168	free-living--TRUE	Halococcus hamelinensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	332168	free-living
+s__332249	free-living--TRUE	Truepera radiovictrix	species	ProTraits	medium	igc	always	1	habitat	multistate-union	332249	free-living
+s__332953	free-living--TRUE	Halovivax asiaticus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	332953	free-living
+s__334543	free-living--TRUE	Psychrobacter arcticus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	334543	free-living
+s__334771	free-living--TRUE	Ignisphaera aggregans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	334771	free-living
+s__336261	free-living--TRUE	Thermovirga lienii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	336261	free-living
+s__337090	free-living--TRUE	Chlorobium chlorochromatii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	337090	free-living
+s__338192	free-living--TRUE	Nitrosopumilus maritimus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	338192	free-living
+s__33903	free-living--TRUE	Streptomyces avermitilis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	33903	free-living
+s__33906	free-living--TRUE	Actinopolyspora mortivallis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	33906	free-living
+s__33910	free-living--TRUE	Amycolatopsis mediterranei	species	ProTraits	medium	igc	always	1	habitat	multistate-union	33910	free-living
+s__33934	free-living--TRUE	Anoxybacillus flavithermus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	33934	free-living
+s__33940	free-living--TRUE	Geobacillus thermodenitrificans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	33940	free-living
+s__33941	free-living--TRUE	Geobacillus thermoleovorans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	33941	free-living
+s__33943	free-living--TRUE	Kyrpidia tusciae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	33943	free-living
+s__33952	free-living--TRUE	Acetobacterium woodii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	33952	free-living
+s__33954	free-living--TRUE	Clostridium magnum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	33954	free-living
+s__339862	free-living--TRUE	Desulfosporosinus youngiae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	339862	free-living
+s__34	free-living--TRUE	Myxococcus xanthus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	34	free-living
+s__34018	free-living--TRUE	Rhodospirillum centenum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	34018	free-living
+s__34029	free-living--TRUE	Leptothrix cholodnii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	34029	free-living
+s__34058	free-living--TRUE	Methylobacter marinus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	34058	free-living
+s__34068	free-living--TRUE	Cycloclasticus pugetii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	34068	free-living
+s__34073	free-living--TRUE	Variovorax paradoxus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	34073	free-living
+s__34090	free-living--TRUE	Pelodictyon phaeoclathratiforme	species	ProTraits	medium	igc	always	1	habitat	multistate-union	34090	free-living
+s__342948	free-living--TRUE	Thermococcus onnurineus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	342948	free-living
+s__342949	free-living--TRUE	Pyrococcus sp. NA2	species	ProTraits	medium	igc	always	1	habitat	multistate-union	342949	free-living
+s__343517	free-living--TRUE	Paenibacillus barengoltzii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	343517	free-living
+s__344736	free-living--TRUE	Salipiger bermudensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	344736	free-living
+s__344884	free-living--TRUE	Algoriphagus terrigena	species	ProTraits	medium	igc	always	1	habitat	multistate-union	344884	free-living
+s__346045	free-living--TRUE	Amycolatopsis benzoatilytica	species	ProTraits	medium	igc	always	1	habitat	multistate-union	346045	free-living
+s__346185	free-living--TRUE	Flagellimonas eckloniae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	346185	free-living
+s__348043	free-living--TRUE	Streptomyces davaonensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	348043	free-living
+s__350	free-living--TRUE	Zoogloea ramigera	species	ProTraits	medium	igc	always	1	habitat	multistate-union	350	free-living
+s__351052	free-living--TRUE	Alkalilimnicola ehrlichii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	351052	free-living
+s__351187	free-living--TRUE	Salinispora pacifica	species	ProTraits	medium	igc	always	1	habitat	multistate-union	351187	free-living
+s__351604	free-living--TRUE	Geotalea uraniireducens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	351604	free-living
+s__351745	free-living--TRUE	Shewanella sp. W3-18-1	species	ProTraits	medium	igc	always	1	habitat	multistate-union	351745	free-living
+s__354	free-living--TRUE	Azotobacter vinelandii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	354	free-living
+s__354356	free-living--TRUE	Niastella koreensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	354356	free-living
+s__355249	free-living--TRUE	Streptomyces sp. Tu6071	species	ProTraits	medium	igc	always	1	habitat	multistate-union	355249	free-living
+s__35554	free-living--TRUE	Geobacter sulfurreducens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	35554	free-living
+s__35701	free-living--TRUE	Heliomicrobium modesticaldum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	35701	free-living
+s__35751	free-living--TRUE	Sporichthya polymorpha	species	ProTraits	medium	igc	always	1	habitat	multistate-union	35751	free-living
+s__357794	free-living--TRUE	Psychromonas ingrahamii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	357794	free-living
+s__357808	free-living--TRUE	Roseiflexus sp. RS-1	species	ProTraits	medium	igc	always	1	habitat	multistate-union	357808	free-living
+s__35786	free-living--TRUE	Coprothermobacter proteolyticus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	35786	free-living
+s__35797	free-living--TRUE	Nitrococcus mobilis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	35797	free-living
+s__35801	free-living--TRUE	Nitrospina gracilis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	35801	free-living
+s__358220	free-living--TRUE	Acidovorax sp. KKS102	species	ProTraits	medium	igc	always	1	habitat	multistate-union	358220	free-living
+s__35839	free-living--TRUE	Holophaga foetida	species	ProTraits	medium	igc	always	1	habitat	multistate-union	35839	free-living
+s__358766	free-living--TRUE	Methanoregula boonei	species	ProTraits	medium	igc	always	1	habitat	multistate-union	358766	free-living
+s__359303	free-living--TRUE	Shewanella loihica	species	ProTraits	medium	igc	always	1	habitat	multistate-union	359303	free-living
+s__359408	free-living--TRUE	Methylotenera mobilis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	359408	free-living
+s__360911	free-living--TRUE	Exiguobacterium sp. AT1b	species	ProTraits	medium	igc	always	1	habitat	multistate-union	360911	free-living
+s__361575	free-living--TRUE	Pseudarthrobacter phenanthrenivorans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	361575	free-living
+s__362523	free-living--TRUE	Mariniflexile gromovii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	362523	free-living
+s__362781	free-living--TRUE	Tenacibaculum aestuarii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	362781	free-living
+s__363832	free-living--TRUE	Solirubrobacter soli	species	ProTraits	medium	igc	always	1	habitat	multistate-union	363832	free-living
+s__366602	free-living--TRUE	Caulobacter sp. K31	species	ProTraits	medium	igc	always	1	habitat	multistate-union	366602	free-living
+s__36738	free-living--TRUE	Halococcus salifodinae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	36738	free-living
+s__36745	free-living--TRUE	Clostridium saccharoperbutylacetonicum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	36745	free-living
+s__368405	free-living--TRUE	Paraglaciecola chathamensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	368405	free-living
+s__36854	free-living--TRUE	Desulfitobacterium dehalogenans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	36854	free-living
+s__36861	free-living--TRUE	Thiobacillus denitrificans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	36861	free-living
+s__36873	free-living--TRUE	Paraburkholderia xenovorans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	36873	free-living
+s__369791	free-living--TRUE	Mesonia mobilis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	369791	free-living
+s__370405	free-living--TRUE	Gallionella capsiferriformans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	370405	free-living
+s__373994	free-living--TRUE	Rivularia sp. PCC 7116	species	ProTraits	medium	igc	always	1	habitat	multistate-union	373994	free-living
+s__37448	free-living--TRUE	Polaromonas vacuolata	species	ProTraits	medium	igc	always	1	habitat	multistate-union	37448	free-living
+s__374838	free-living--TRUE	Reinekea blandensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	374838	free-living
+s__37487	free-living--TRUE	Marichromatium purpuratum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	37487	free-living
+s__375286	free-living--TRUE	Janthinobacterium sp. Marseille	species	ProTraits	medium	igc	always	1	habitat	multistate-union	375286	free-living
+s__375929	free-living--TRUE	Natranaerobius thermophilus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	375929	free-living
+s__37636	free-living--TRUE	Thermus scotoductus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	37636	free-living
+s__37752	free-living--TRUE	Flavobacterium hibernum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	37752	free-living
+s__377615	free-living--TRUE	Thermobacillus composti	species	ProTraits	medium	igc	always	1	habitat	multistate-union	377615	free-living
+s__378211	free-living--TRUE	Methyloversatilis universalis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	378211	free-living
+s__379064	free-living--TRUE	Cyanobacterium aponinum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	379064	free-living
+s__379067	free-living--TRUE	Streptomyces bingchenggensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	379067	free-living
+s__37919	free-living--TRUE	Rhodococcus opacus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	37919	free-living
+s__37926	free-living--TRUE	Thermocrispum municipale	species	ProTraits	medium	igc	always	1	habitat	multistate-union	37926	free-living
+s__379547	free-living--TRUE	Candidatus Aciduliprofundum boonei	species	ProTraits	medium	igc	always	1	habitat	multistate-union	379547	free-living
+s__38026	free-living--TRUE	Methanolobus vulcani	species	ProTraits	medium	igc	always	1	habitat	multistate-union	38026	free-living
+s__38072	free-living--TRUE	Bacillus infernus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	38072	free-living
+s__380749	free-living--TRUE	Hydrogenobaculum sp. Y04AAS1	species	ProTraits	medium	igc	always	1	habitat	multistate-union	380749	free-living
+s__381445	free-living--TRUE	Amycolatopsis nigrescens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	381445	free-living
+s__382464	free-living--TRUE	Verrucomicrobiia bacterium DG1235	species	ProTraits	medium	igc	always	1	habitat	multistate-union	382464	free-living
+s__38313	free-living--TRUE	Shewanella algae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	38313	free-living
+s__385025	free-living--TRUE	Cycloclasticus sp. P1	species	ProTraits	medium	igc	always	1	habitat	multistate-union	385025	free-living
+s__387341	free-living--TRUE	Halovivax ruber	species	ProTraits	medium	igc	always	1	habitat	multistate-union	387341	free-living
+s__387343	free-living--TRUE	Halopiger xanaduensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	387343	free-living
+s__387659	free-living--TRUE	Marixanthomonas ophiurae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	387659	free-living
+s__388259	free-living--TRUE	Natronorubrum sulfidifaciens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	388259	free-living
+s__388401	free-living--TRUE	Rhodobacteraceae bacterium HTCC2150	species	ProTraits	medium	igc	always	1	habitat	multistate-union	388401	free-living
+s__388408	free-living--TRUE	Roseibium alexandrii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	388408	free-living
+s__388741	free-living--TRUE	Mesobacillus selenatarsenatis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	388741	free-living
+s__390877	free-living--TRUE	Nisaea denitrificans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	390877	free-living
+s__390884	free-living--TRUE	Echinicola vietnamensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	390884	free-living
+s__39152	free-living--TRUE	Methanococcus maripaludis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	39152	free-living
+s__391600	free-living--TRUE	Brevundimonas sp. BAL3	species	ProTraits	medium	igc	always	1	habitat	multistate-union	391600	free-living
+s__391613	free-living--TRUE	Roseovarius sp. TM1035	species	ProTraits	medium	igc	always	1	habitat	multistate-union	391613	free-living
+s__392484	free-living--TRUE	Methylophaga thiooxydans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	392484	free-living
+s__392734	free-living--TRUE	Terriglobus roseus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	392734	free-living
+s__393662	free-living--TRUE	Congregibacter litoralis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	393662	free-living
+s__394098	free-living--TRUE	Bhargavaea cecembensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	394098	free-living
+s__395922	free-living--TRUE	Coraliomargarita akajimensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	395922	free-living
+s__395961	free-living--TRUE	Cyanothece sp. PCC 7425	species	ProTraits	medium	igc	always	1	habitat	multistate-union	395961	free-living
+s__396005	free-living--TRUE	Gilvimarinus chinensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	396005	free-living
+s__396595	free-living--TRUE	Thioalkalivibrio sp. K90mix	species	ProTraits	medium	igc	always	1	habitat	multistate-union	396595	free-living
+s__39669	free-living--TRUE	Methanosalsum zhilinae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	39669	free-living
+s__39765	free-living--TRUE	Hydrogenovibrio crunogenus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	39765	free-living
+s__39766	free-living--TRUE	Sulfurimonas denitrificans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	39766	free-living
+s__39775	free-living--TRUE	Methylomicrobium album	species	ProTraits	medium	igc	always	1	habitat	multistate-union	39775	free-living
+s__398743	free-living--TRUE	Zunongwangia profunda	species	ProTraits	medium	igc	always	1	habitat	multistate-union	398743	free-living
+s__39960	free-living--TRUE	Erythrobacter litoralis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	39960	free-living
+s__399726	free-living--TRUE	Thermoanaerobacter sp. X514	species	ProTraits	medium	igc	always	1	habitat	multistate-union	399726	free-living
+s__400668	free-living--TRUE	Marinomonas sp. MWYL1	species	ProTraits	medium	igc	always	1	habitat	multistate-union	400668	free-living
+s__40137	free-living--TRUE	Afipia carboxidovorans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	40137	free-living
+s__40269	free-living--TRUE	Aliivibrio salmonicida	species	ProTraits	medium	igc	always	1	habitat	multistate-union	40269	free-living
+s__403181	free-living--TRUE	Haloferax mucosum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	403181	free-living
+s__403191	free-living--TRUE	Haloferax elongans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	403191	free-living
+s__404011	free-living--TRUE	Shewanella piezotolerans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	404011	free-living
+s__404236	free-living--TRUE	Maritimibacter alkaliphilus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	404236	free-living
+s__404589	free-living--TRUE	Anaeromyxobacter sp. Fw109-5	species	ProTraits	medium	igc	always	1	habitat	multistate-union	404589	free-living
+s__404900	free-living--TRUE	Geminicoccus roseus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	404900	free-living
+s__405	free-living--TRUE	Methylobacillus flagellatus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	405	free-living
+s__405212	free-living--TRUE	Alicyclobacillus acidocaldarius	species	ProTraits	medium	igc	always	1	habitat	multistate-union	405212	free-living
+s__40567	free-living--TRUE	Actinosynnema mirum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	40567	free-living
+s__405746	free-living--TRUE	Leisingera daeponensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	405746	free-living
+s__406552	free-living--TRUE	Natrinema sp. J7-2	species	ProTraits	medium	igc	always	1	habitat	multistate-union	406552	free-living
+s__40752	free-living--TRUE	Thioploca araucae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	40752	free-living
+s__40988	free-living--TRUE	Saccharomonospora azurea	species	ProTraits	medium	igc	always	1	habitat	multistate-union	40988	free-living
+s__40989	free-living--TRUE	Saccharomonospora cyanea	species	ProTraits	medium	igc	always	1	habitat	multistate-union	40989	free-living
+s__40990	free-living--TRUE	Saccharomonospora glauca	species	ProTraits	medium	igc	always	1	habitat	multistate-union	40990	free-living
+s__41	free-living--TRUE	Allostigmatella aurantiaca	species	ProTraits	medium	igc	always	1	habitat	multistate-union	41	free-living
+s__411153	free-living--TRUE	Christiangramia forsetii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	411153	free-living
+s__412895	free-living--TRUE	Desulforamulus hydrothermalis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	412895	free-living
+s__413810	free-living--TRUE	Halalkalicoccus jeotgali	species	ProTraits	medium	igc	always	1	habitat	multistate-union	413810	free-living
+s__413888	free-living--TRUE	Caldicellulosiruptor hydrothermalis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	413888	free-living
+s__413889	free-living--TRUE	Caldicellulosiruptor kronotskyensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	413889	free-living
+s__414	free-living--TRUE	Methylococcus capsulatus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	414	free-living
+s__414778	free-living--TRUE	Planococcus donghaensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	414778	free-living
+s__415	free-living--TRUE	Methylobacter luteus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	415	free-living
+s__415229	free-living--TRUE	Pseudoxanthomonas spadix	species	ProTraits	medium	igc	always	1	habitat	multistate-union	415229	free-living
+s__416273	free-living--TRUE	Natronomonas moolapensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	416273	free-living
+s__420950	free-living--TRUE	Methanolobus psychrophilus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	420950	free-living
+s__420994	free-living--TRUE	Sphingobium ummariense	species	ProTraits	medium	igc	always	1	habitat	multistate-union	420994	free-living
+s__421	free-living--TRUE	Methylomonas methanica	species	ProTraits	medium	igc	always	1	habitat	multistate-union	421	free-living
+s__42234	free-living--TRUE	Streptomyces acidiscabies	species	ProTraits	medium	igc	always	1	habitat	multistate-union	42234	free-living
+s__42238	free-living--TRUE	Streptomyces neyagawaensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	42238	free-living
+s__42422	free-living--TRUE	Halobacteroides halobius	species	ProTraits	medium	igc	always	1	habitat	multistate-union	42422	free-living
+s__42443	free-living--TRUE	Roseobacter litoralis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	42443	free-living
+s__426	free-living--TRUE	Methylosinus trichosporium	species	ProTraits	medium	igc	always	1	habitat	multistate-union	426	free-living
+s__426114	free-living--TRUE	Thiomonas arsenitoxydans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	426114	free-living
+s__42684	free-living--TRUE	Streptomyces collinus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	42684	free-living
+s__427923	free-living--TRUE	Desulfurivibrio alkaliphilus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	427923	free-living
+s__427926	free-living--TRUE	Dethiobacter alkaliphilus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	427926	free-living
+s__42838	free-living--TRUE	Ammonifex degensii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	42838	free-living
+s__42879	free-living--TRUE	Methanococcus aeolicus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	42879	free-living
+s__428994	free-living--TRUE	Sphingobium sp. HDIP04	species	ProTraits	medium	igc	always	1	habitat	multistate-union	428994	free-living
+s__43	free-living--TRUE	Cystobacter fuscus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	43	free-living
+s__43080	free-living--TRUE	Saccharolobus islandicus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	43080	free-living
+s__430914	free-living--TRUE	Halorhabdus tiamatea	species	ProTraits	medium	igc	always	1	habitat	multistate-union	430914	free-living
+s__432329	free-living--TRUE	Deinococcus peraridilitoris	species	ProTraits	medium	igc	always	1	habitat	multistate-union	432329	free-living
+s__433660	free-living--TRUE	Nocardioides halotolerans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	433660	free-living
+s__436114	free-living--TRUE	Sulfurihydrogenibium sp. YO3AOP1	species	ProTraits	medium	igc	always	1	habitat	multistate-union	436114	free-living
+s__43660	free-living--TRUE	Pseudoalteromonas undina	species	ProTraits	medium	igc	always	1	habitat	multistate-union	43660	free-living
+s__43661	free-living--TRUE	Shewanella benthica	species	ProTraits	medium	igc	always	1	habitat	multistate-union	43661	free-living
+s__43663	free-living--TRUE	Paenarthrobacter aurescens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	43663	free-living
+s__43669	free-living--TRUE	Brachybacterium faecium	species	ProTraits	medium	igc	always	1	habitat	multistate-union	43669	free-living
+s__43674	free-living--TRUE	Jonesia denitrificans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	43674	free-living
+s__43687	free-living--TRUE	Metallosphaera sedula	species	ProTraits	medium	igc	always	1	habitat	multistate-union	43687	free-living
+s__438	free-living--TRUE	Acetobacter pasteurianus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	438	free-living
+s__439476	free-living--TRUE	Heteroscytonema crispum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	439476	free-living
+s__43948	free-living--TRUE	Tolumonas auensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	43948	free-living
+s__439496	free-living--TRUE	Rhodobacterales bacterium Y4I	species	ProTraits	medium	igc	always	1	habitat	multistate-union	439496	free-living
+s__439497	free-living--TRUE	Ruegeria sp. R11	species	ProTraits	medium	igc	always	1	habitat	multistate-union	439497	free-living
+s__44001	free-living--TRUE	Caldicellulosiruptor saccharolyticus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	44001	free-living
+s__44012	free-living--TRUE	Ferrimonas balearica	species	ProTraits	medium	igc	always	1	habitat	multistate-union	44012	free-living
+s__440514	free-living--TRUE	Maribacter stanieri	species	ProTraits	medium	igc	always	1	habitat	multistate-union	440514	free-living
+s__442	free-living--TRUE	Gluconobacter oxydans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	442	free-living
+s__44250	free-living--TRUE	Paenibacillus alvei	species	ProTraits	medium	igc	always	1	habitat	multistate-union	44250	free-living
+s__443143	free-living--TRUE	Geobacter sp. M18	species	ProTraits	medium	igc	always	1	habitat	multistate-union	443143	free-living
+s__443144	free-living--TRUE	Geobacter sp. M21	species	ProTraits	medium	igc	always	1	habitat	multistate-union	443144	free-living
+s__446681	free-living--TRUE	Eudoraea adriatica	species	ProTraits	medium	igc	always	1	habitat	multistate-union	446681	free-living
+s__44674	free-living--TRUE	Sulfurospirillum barnesii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	44674	free-living
+s__44676	free-living--TRUE	Geothrix fermentans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	44676	free-living
+s__447217	free-living--TRUE	Anaeromyxobacter sp. K	species	ProTraits	medium	igc	always	1	habitat	multistate-union	447217	free-living
+s__447471	free-living--TRUE	Simiduia agarivorans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	447471	free-living
+s__44930	free-living--TRUE	Natronobacterium gregoryi	species	ProTraits	medium	igc	always	1	habitat	multistate-union	44930	free-living
+s__45248	free-living--TRUE	Leucothrix mucor	species	ProTraits	medium	igc	always	1	habitat	multistate-union	45248	free-living
+s__452627	free-living--TRUE	Amphritea japonica	species	ProTraits	medium	igc	always	1	habitat	multistate-union	452627	free-living
+s__453230	free-living--TRUE	Desulfarculus baarsii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	453230	free-living
+s__453852	free-living--TRUE	Galbibacter orientalis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	453852	free-living
+s__454602	free-living--TRUE	Spongiibacter tropicus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	454602	free-living
+s__455359	free-living--TRUE	Balneola alkaliphila	species	ProTraits	medium	igc	always	1	habitat	multistate-union	455359	free-living
+s__455360	free-living--TRUE	Thalassobaculum salexigens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	455360	free-living
+s__456455	free-living--TRUE	Bizionia argentinensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	456455	free-living
+s__45663	free-living--TRUE	Desulfohalobium retbaense	species	ProTraits	medium	igc	always	1	habitat	multistate-union	45663	free-living
+s__457415	free-living--TRUE	Synergistes sp. 3_1_syn1	species	ProTraits	medium	igc	always	1	habitat	multistate-union	457415	free-living
+s__458033	free-living--TRUE	Chloracidobacterium thermophilum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	458033	free-living
+s__461876	free-living--TRUE	Alkaliphilus oremlandii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	461876	free-living
+s__46234	free-living--TRUE	Anabaena sp. 90	species	ProTraits	medium	igc	always	1	habitat	multistate-union	46234	free-living
+s__46354	free-living--TRUE	Thermoanaerobacter wiegelii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	46354	free-living
+s__46355	free-living--TRUE	Spirochaeta africana	species	ProTraits	medium	igc	always	1	habitat	multistate-union	46355	free-living
+s__46429	free-living--TRUE	Sphingobium chlorophenolicum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	46429	free-living
+s__46540	free-living--TRUE	Thermococcus fumicolans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	46540	free-living
+s__46541	free-living--TRUE	Thermosipho melanesiensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	46541	free-living
+s__466153	free-living--TRUE	Singulisphaera acidiphila	species	ProTraits	medium	igc	always	1	habitat	multistate-union	466153	free-living
+s__467661	free-living--TRUE	Rhodobacteraceae bacterium KLH11	species	ProTraits	medium	igc	always	1	habitat	multistate-union	467661	free-living
+s__46770	free-living--TRUE	Candidatus Cenarchaeum symbiosum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	46770	free-living
+s__47055	free-living--TRUE	Dethiosulfovibrio peptidovorans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	47055	free-living
+s__470826	free-living--TRUE	Psychroflexus sediminis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	470826	free-living
+s__471223	free-living--TRUE	Geobacillus sp. WCH70	species	ProTraits	medium	igc	always	1	habitat	multistate-union	471223	free-living
+s__471499	free-living--TRUE	Dasania marina	species	ProTraits	medium	igc	always	1	habitat	multistate-union	471499	free-living
+s__471827	free-living--TRUE	Desulforudis audaxviator	species	ProTraits	medium	igc	always	1	habitat	multistate-union	471827	free-living
+s__472055	free-living--TRUE	Leptobacterium flavescens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	472055	free-living
+s__473531	free-living--TRUE	Nitrosococcus watsonii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	473531	free-living
+s__475088	free-living--TRUE	Methanosphaerula palustris	species	ProTraits	medium	igc	always	1	habitat	multistate-union	475088	free-living
+s__476529	free-living--TRUE	Leisingera aquimarina	species	ProTraits	medium	igc	always	1	habitat	multistate-union	476529	free-living
+s__477641	free-living--TRUE	Modestobacter marinus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	477641	free-living
+s__477976	free-living--TRUE	Calditerrivibrio nitroreducens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	477976	free-living
+s__47850	free-living--TRUE	Micromonospora aurantiaca (nom. illeg.)	species	ProTraits	medium	igc	always	1	habitat	multistate-union	47850	free-living
+s__47951	free-living--TRUE	Vibrio cyclitrophicus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	47951	free-living
+s__481743	free-living--TRUE	Paenibacillus sp. Y412MC10	species	ProTraits	medium	igc	always	1	habitat	multistate-union	481743	free-living
+s__482564	free-living--TRUE	Phormidium nigroviride	species	ProTraits	medium	igc	always	1	habitat	multistate-union	482564	free-living
+s__488939	free-living--TRUE	Desulfonatronospira thiodismutans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	488939	free-living
+s__48935	free-living--TRUE	Novosphingobium aromaticivorans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	48935	free-living
+s__490759	free-living--TRUE	Marinobacter sp. BSs20148	species	ProTraits	medium	igc	always	1	habitat	multistate-union	490759	free-living
+s__491388	free-living--TRUE	Litoreibacter arenae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	491388	free-living
+s__49186	free-living--TRUE	Marinobacterium stanieri	species	ProTraits	medium	igc	always	1	habitat	multistate-union	49186	free-living
+s__49319	free-living--TRUE	Rubrobacter xylanophilus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	49319	free-living
+s__49338	free-living--TRUE	Desulfitobacterium hafniense	species	ProTraits	medium	igc	always	1	habitat	multistate-union	49338	free-living
+s__496866	free-living--TRUE	Thermoanaerobacter pseudethanolicus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	496866	free-living
+s__497727	free-living--TRUE	Candidatus Nitrososphaera gargensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	497727	free-living
+s__498846	free-living--TRUE	Candidatus Korarchaeum cryptofilum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	498846	free-living
+s__499229	free-living--TRUE	Tepidanaerobacter acetatoxydans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	499229	free-living
+s__500	free-living--TRUE	Thermomicrobium roseum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	500	free-living
+s__501497	free-living--TRUE	Thermodesulfatator atlanticus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	501497	free-living
+s__502394	free-living--TRUE	Deinococcus gobiensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	502394	free-living
+s__50339	free-living--TRUE	Thermoplasma volcanium	species	ProTraits	medium	igc	always	1	habitat	multistate-union	50339	free-living
+s__504937	free-living--TRUE	Haloterrigena salina	species	ProTraits	medium	igc	always	1	habitat	multistate-union	504937	free-living
+s__51	free-living--TRUE	Chondromyces apiculatus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	51	free-living
+s__511062	free-living--TRUE	Oceanimonas sp. GK1	species	ProTraits	medium	igc	always	1	habitat	multistate-union	511062	free-living
+s__511746	free-living--TRUE	Candidatus Methylacidiphilum infernorum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	511746	free-living
+s__51197	free-living--TRUE	Syntrophobotulus glycolicus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	51197	free-living
+s__513050	free-living--TRUE	Dictyoglomus turgidum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	513050	free-living
+s__51589	free-living--TRUE	Haloarcula hispanica	species	ProTraits	medium	igc	always	1	habitat	multistate-union	51589	free-living
+s__516051	free-living--TRUE	Flagellimonas lutaonensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	516051	free-living
+s__517722	free-living--TRUE	Citromicrobium sp. JLT1363	species	ProTraits	medium	igc	always	1	habitat	multistate-union	517722	free-living
+s__519989	free-living--TRUE	Ectothiorhodospira sp. PHS-1	species	ProTraits	medium	igc	always	1	habitat	multistate-union	519989	free-living
+s__52022	free-living--TRUE	Allomeiothermus silvanus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	52022	free-living
+s__522773	free-living--TRUE	Sphingobium lactosutens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	522773	free-living
+s__523742	free-living--TRUE	Marinobacter santoriniensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	523742	free-living
+s__523788	free-living--TRUE	Herminiimonas glaciei	species	ProTraits	medium	igc	always	1	habitat	multistate-union	523788	free-living
+s__524	free-living--TRUE	Acidiphilium cryptum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	524	free-living
+s__52598	free-living--TRUE	Sulfitobacter sp. EE-36	species	ProTraits	medium	igc	always	1	habitat	multistate-union	52598	free-living
+s__52603	free-living--TRUE	Sagittula stellata	species	ProTraits	medium	igc	always	1	habitat	multistate-union	52603	free-living
+s__526216	free-living--TRUE	Oceanibaculum indicum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	526216	free-living
+s__531813	free-living--TRUE	Pelagibacterium halotolerans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	531813	free-living
+s__531844	free-living--TRUE	Flavobacteriaceae bacterium 3519-10	species	ProTraits	medium	igc	always	1	habitat	multistate-union	531844	free-living
+s__53245	free-living--TRUE	Desulfonatronovibrio hydrogenovorans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	53245	free-living
+s__533	free-living--TRUE	Beijerinckia indica	species	ProTraits	medium	igc	always	1	habitat	multistate-union	533	free-living
+s__53358	free-living--TRUE	Intrasporangium calvum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	53358	free-living
+s__53368	free-living--TRUE	Hamadaea tsunoensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	53368	free-living
+s__53399	free-living--TRUE	Hyphomicrobium denitrificans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	53399	free-living
+s__53412	free-living--TRUE	Metapseudomonas resinovorans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	53412	free-living
+s__53422	free-living--TRUE	Thermobrachium celere	species	ProTraits	medium	igc	always	1	habitat	multistate-union	53422	free-living
+s__53437	free-living--TRUE	Nocardiopsis alba	species	ProTraits	medium	igc	always	1	habitat	multistate-union	53437	free-living
+s__53461	free-living--TRUE	Nakamurella multipartita	species	ProTraits	medium	igc	always	1	habitat	multistate-union	53461	free-living
+s__53633	free-living--TRUE	Sulfobacillus acidophilus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	53633	free-living
+s__53635	free-living--TRUE	Acidimicrobium ferrooxidans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	53635	free-living
+s__538379	free-living--TRUE	Sphingobium quisquiliarum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	538379	free-living
+s__53946	free-living--TRUE	Octadecabacter arcticus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	53946	free-living
+s__53953	free-living--TRUE	Pyrococcus horikoshii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	53953	free-living
+s__540060	free-living--TRUE	Limnohabitans planktonicus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	540060	free-living
+s__54010	free-living--TRUE	Pseudonocardia asaccharolytica	species	ProTraits	medium	igc	always	1	habitat	multistate-union	54010	free-living
+s__540988	free-living--TRUE	Thermus islandicus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	540988	free-living
+s__54120	free-living--TRUE	Methanolacinia petrolearia	species	ProTraits	medium	igc	always	1	habitat	multistate-union	54120	free-living
+s__542	free-living--TRUE	Zymomonas mobilis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	542	free-living
+s__54248	free-living--TRUE	Hyperthermus butylicus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	54248	free-living
+s__54252	free-living--TRUE	Pyrolobus fumarii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	54252	free-living
+s__54254	free-living--TRUE	Thermosphaera aggregans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	54254	free-living
+s__54256	free-living--TRUE	Pyrodictium abyssi	species	ProTraits	medium	igc	always	1	habitat	multistate-union	54256	free-living
+s__54261	free-living--TRUE	Ferroglobus placidus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	54261	free-living
+s__54299	free-living--TRUE	Chroococcidiopsis thermalis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	54299	free-living
+s__54308	free-living--TRUE	Pleurocapsa minor	species	ProTraits	medium	igc	always	1	habitat	multistate-union	54308	free-living
+s__543913	free-living--TRUE	beta proteobacterium CB	species	ProTraits	medium	igc	always	1	habitat	multistate-union	543913	free-living
+s__544556	free-living--TRUE	Geobacillus sp. Y412MC61	species	ProTraits	medium	igc	always	1	habitat	multistate-union	544556	free-living
+s__545275	free-living--TRUE	Thioalkalivibrio sp. ALE20	species	ProTraits	medium	igc	always	1	habitat	multistate-union	545275	free-living
+s__54571	free-living--TRUE	Streptomyces venezuelae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	54571	free-living
+s__547188	free-living--TRUE	Phycisphaera mikurensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	547188	free-living
+s__549169	free-living--TRUE	Pseudogulbenkiania ferrooxidans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	549169	free-living
+s__550542	free-living--TRUE	Geobacillus sp. Y412MC52	species	ProTraits	medium	igc	always	1	habitat	multistate-union	550542	free-living
+s__55148	free-living--TRUE	Deinococcus proteolyticus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	55148	free-living
+s__551760	free-living--TRUE	Aromatoleum aromaticum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	551760	free-living
+s__55205	free-living--TRUE	Caldicellulosiruptor owensensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	55205	free-living
+s__55206	free-living--TRUE	Sediminispirochaeta smaragdinae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	55206	free-living
+s__552061	free-living--TRUE	Sediminimonas qiaohouensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	552061	free-living
+s__552063	free-living--TRUE	Salinarimonas rosea	species	ProTraits	medium	igc	always	1	habitat	multistate-union	552063	free-living
+s__55218	free-living--TRUE	Ruegeria lacuscaerulensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	55218	free-living
+s__552810	free-living--TRUE	Dehalogenimonas lykanthroporepellens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	552810	free-living
+s__553151	free-living--TRUE	Halopseudomonas pelagia	species	ProTraits	medium	igc	always	1	habitat	multistate-union	553151	free-living
+s__553611	free-living--TRUE	Photobacterium leiognathi	species	ProTraits	medium	igc	always	1	habitat	multistate-union	553611	free-living
+s__55504	free-living--TRUE	Sporomusa silvacetica	species	ProTraits	medium	igc	always	1	habitat	multistate-union	55504	free-living
+s__55583	free-living--TRUE	Dehalobacter restrictus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	55583	free-living
+s__55601	free-living--TRUE	Vibrio anguillarum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	55601	free-living
+s__55802	free-living--TRUE	Thermococcus barophilus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	55802	free-living
+s__558169	free-living--TRUE	Lentibacillus jeotgali	species	ProTraits	medium	igc	always	1	habitat	multistate-union	558169	free-living
+s__56	free-living--TRUE	Sorangium cellulosum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	56	free-living
+s__561879	free-living--TRUE	Bacillus safensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	561879	free-living
+s__563177	free-living--TRUE	Acidianus hospitalis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	563177	free-living
+s__56636	free-living--TRUE	Aeropyrum pernix	species	ProTraits	medium	igc	always	1	habitat	multistate-union	56636	free-living
+s__566466	free-living--TRUE	gamma proteobacterium NOR5-3	species	ProTraits	medium	igc	always	1	habitat	multistate-union	566466	free-living
+s__56812	free-living--TRUE	Shewanella frigidimarina	species	ProTraits	medium	igc	always	1	habitat	multistate-union	56812	free-living
+s__56957	free-living--TRUE	Thermus oshimai	species	ProTraits	medium	igc	always	1	habitat	multistate-union	56957	free-living
+s__570267	free-living--TRUE	Methanocella paludicola	species	ProTraits	medium	igc	always	1	habitat	multistate-union	570267	free-living
+s__57029	free-living--TRUE	Psychroflexus torquis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	57029	free-living
+s__571115	free-living--TRUE	Meridianimaribacter flavus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	571115	free-living
+s__571800	free-living--TRUE	Psychrobacter sp. G	species	ProTraits	medium	igc	always	1	habitat	multistate-union	571800	free-living
+s__573062	free-living--TRUE	Thermoanaerobacter sp. X513	species	ProTraits	medium	igc	always	1	habitat	multistate-union	573062	free-living
+s__57480	free-living--TRUE	Microvirgula aerodenitrificans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	57480	free-living
+s__576610	free-living--TRUE	Polynucleobacter necessarius	species	ProTraits	medium	igc	always	1	habitat	multistate-union	576610	free-living
+s__57705	free-living--TRUE	Halomicrobium mukohataei	species	ProTraits	medium	igc	always	1	habitat	multistate-union	57705	free-living
+s__580165	free-living--TRUE	Bacillus cytotoxicus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	580165	free-living
+s__581103	free-living--TRUE	Geobacillus sp. Y4.1MC1	species	ProTraits	medium	igc	always	1	habitat	multistate-union	581103	free-living
+s__58116	free-living--TRUE	Glycomyces tenuis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	58116	free-living
+s__58135	free-living--TRUE	Desulfofundulus kuznetsovii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	58135	free-living
+s__58138	free-living--TRUE	Desulfofarcimen acetoxidans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	58138	free-living
+s__58180	free-living--TRUE	Oleidesulfovibrio alaskensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	58180	free-living
+s__58290	free-living--TRUE	Archaeoglobus veneficus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	58290	free-living
+s__583357	free-living--TRUE	Thermoanaerobacter mathranii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	583357	free-living
+s__588857	free-living--TRUE	Thermoanaerobacter sp. X561	species	ProTraits	medium	igc	always	1	habitat	multistate-union	588857	free-living
+s__588932	free-living--TRUE	Brevundimonas naejangsanensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	588932	free-living
+s__591154	free-living--TRUE	Candidatus Methylacidiphilum fumarolicum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	591154	free-living
+s__591197	free-living--TRUE	Ignavibacterium album	species	ProTraits	medium	igc	always	1	habitat	multistate-union	591197	free-living
+s__593133	free-living--TRUE	Lutibacter maritimus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	593133	free-living
+s__595460	free-living--TRUE	Rhodopirellula sp. SWK7	species	ProTraits	medium	igc	always	1	habitat	multistate-union	595460	free-living
+s__59600	free-living--TRUE	Cellulophaga algicola	species	ProTraits	medium	igc	always	1	habitat	multistate-union	59600	free-living
+s__59610	free-living--TRUE	Desulforamulus reducens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	59610	free-living
+s__59754	free-living--TRUE	Alcanivorax borkumensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	59754	free-living
+s__59840	free-living--TRUE	Paenibacillus curdlanolyticus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	59840	free-living
+s__59893	free-living--TRUE	Paenibacillus peoriae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	59893	free-living
+s__59930	free-living--TRUE	Cyanobium gracile	species	ProTraits	medium	igc	always	1	habitat	multistate-union	59930	free-living
+s__59931	free-living--TRUE	Synechococcus sp. WH 7805	species	ProTraits	medium	igc	always	1	habitat	multistate-union	59931	free-living
+s__60035	free-living--TRUE	Citrifermentans bremense	species	ProTraits	medium	igc	always	1	habitat	multistate-union	60035	free-living
+s__60217	free-living--TRUE	Shewanella violacea	species	ProTraits	medium	igc	always	1	habitat	multistate-union	60217	free-living
+s__60478	free-living--TRUE	Shewanella amazonensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	60478	free-living
+s__60480	free-living--TRUE	Shewanella sp. MR-4	species	ProTraits	medium	igc	always	1	habitat	multistate-union	60480	free-living
+s__60481	free-living--TRUE	Shewanella sp. MR-7	species	ProTraits	medium	igc	always	1	habitat	multistate-union	60481	free-living
+s__60847	free-living--TRUE	Halogeometricum borinquense	species	ProTraits	medium	igc	always	1	habitat	multistate-union	60847	free-living
+s__60890	free-living--TRUE	Phaeobacter gallaeciensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	60890	free-living
+s__60893	free-living--TRUE	Desulfobacca acetoxidans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	60893	free-living
+s__60894	free-living--TRUE	Saccharopolyspora spinosa	species	ProTraits	medium	igc	always	1	habitat	multistate-union	60894	free-living
+s__60920	free-living--TRUE	Sanguibacter keddieii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	60920	free-living
+s__60961	free-living--TRUE	Shewanella woodyi	species	ProTraits	medium	igc	always	1	habitat	multistate-union	60961	free-living
+s__61435	free-living--TRUE	Dehalococcoides mccartyi	species	ProTraits	medium	igc	always	1	habitat	multistate-union	61435	free-living
+s__61624	free-living--TRUE	Paenibacillus mucilaginosus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	61624	free-living
+s__62140	free-living--TRUE	Acidiphilium multivorum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	62140	free-living
+s__62319	free-living--TRUE	Halococcus saccharolyticus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	62319	free-living
+s__62320	free-living--TRUE	Haloterrigena turkmenica	species	ProTraits	medium	igc	always	1	habitat	multistate-union	62320	free-living
+s__62322	free-living--TRUE	Shewanella baltica	species	ProTraits	medium	igc	always	1	habitat	multistate-union	62322	free-living
+s__627192	free-living--TRUE	Sphingobium sp. SYK-6	species	ProTraits	medium	igc	always	1	habitat	multistate-union	627192	free-living
+s__62970	free-living--TRUE	Methanogenium frigidum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	62970	free-living
+s__631362	free-living--TRUE	Thiorhodovibrio frisius	species	ProTraits	medium	igc	always	1	habitat	multistate-union	631362	free-living
+s__63186	free-living--TRUE	Zobellia galactanivorans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	63186	free-living
+s__632569	free-living--TRUE	Saccharomonospora marina	species	ProTraits	medium	igc	always	1	habitat	multistate-union	632569	free-living
+s__63363	free-living--TRUE	Aquifex aeolicus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	63363	free-living
+s__63745	free-living--TRUE	Sideroxydans lithotrophicus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	63745	free-living
+s__639313	free-living--TRUE	Hoyosella subflava	species	ProTraits	medium	igc	always	1	habitat	multistate-union	639313	free-living
+s__64104	free-living--TRUE	Bacillus pseudomycoides	species	ProTraits	medium	igc	always	1	habitat	multistate-union	64104	free-living
+s__641107	free-living--TRUE	Clostridium sp. DL-VIII	species	ProTraits	medium	igc	always	1	habitat	multistate-union	641107	free-living
+s__64160	free-living--TRUE	Desulfurobacterium thermolithotrophum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	64160	free-living
+s__64178	free-living--TRUE	Coleofasciculus chthonoplastes	species	ProTraits	medium	igc	always	1	habitat	multistate-union	64178	free-living
+s__643262	free-living--TRUE	Winogradskyella lutea	species	ProTraits	medium	igc	always	1	habitat	multistate-union	643262	free-living
+s__644	free-living--TRUE	Aeromonas hydrophila	species	ProTraits	medium	igc	always	1	habitat	multistate-union	644	free-living
+s__644281	free-living--TRUE	Methanocaldococcus sp. FS406-22	species	ProTraits	medium	igc	always	1	habitat	multistate-union	644281	free-living
+s__64471	free-living--TRUE	Synechococcus sp. CC9311	species	ProTraits	medium	igc	always	1	habitat	multistate-union	64471	free-living
+s__64602	free-living--TRUE	Natrialba asiatica	species	ProTraits	medium	igc	always	1	habitat	multistate-union	64602	free-living
+s__648999	free-living--TRUE	Micromonospora sp. L5	species	ProTraits	medium	igc	always	1	habitat	multistate-union	648999	free-living
+s__649831	free-living--TRUE	Actinoplanes sp. N902-109	species	ProTraits	medium	igc	always	1	habitat	multistate-union	649831	free-living
+s__649841	free-living--TRUE	Sulfuricella denitrificans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	649841	free-living
+s__65	free-living--TRUE	Herpetosiphon aurantiacus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	65	free-living
+s__65093	free-living--TRUE	Halothece sp. PCC 7418	species	ProTraits	medium	igc	always	1	habitat	multistate-union	65093	free-living
+s__651457	free-living--TRUE	Kosmotoga olearia	species	ProTraits	medium	igc	always	1	habitat	multistate-union	651457	free-living
+s__655355	free-living--TRUE	Sunxiuqinia elliptica	species	ProTraits	medium	igc	always	1	habitat	multistate-union	655355	free-living
+s__65553	free-living--TRUE	Sulfurospirillum deleyianum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	65553	free-living
+s__65555	free-living--TRUE	Desulfocapsa sulfexigens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	65555	free-living
+s__656519	free-living--TRUE	Halanaerobium hydrogeniformans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	656519	free-living
+s__658062	free-living--TRUE	Candidatus Korobacter versatilis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	658062	free-living
+s__659	free-living--TRUE	Photobacterium phosphoreum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	659	free-living
+s__66219	free-living--TRUE	Lachnoclostridium phytofermentans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	66219	free-living
+s__663	free-living--TRUE	Vibrio alginolyticus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	663	free-living
+s__664642	free-living--TRUE	Winogradskyella pacifica	species	ProTraits	medium	igc	always	1	habitat	multistate-union	664642	free-living
+s__664683	free-living--TRUE	Vreelandella titanicae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	664683	free-living
+s__665099	free-living--TRUE	Cytobacillus oceanisediminis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	665099	free-living
+s__665957	free-living--TRUE	Bacillus sp. 7_6_55CFAA_CT2	species	ProTraits	medium	igc	always	1	habitat	multistate-union	665957	free-living
+s__665958	free-living--TRUE	Bacillus sp. BT1B_CT2	species	ProTraits	medium	igc	always	1	habitat	multistate-union	665958	free-living
+s__665959	free-living--TRUE	Bacillus sp. 2_A_57_CT2	species	ProTraits	medium	igc	always	1	habitat	multistate-union	665959	free-living
+s__666	free-living--TRUE	Vibrio cholerae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	666	free-living
+s__666685	free-living--TRUE	Rhodanobacter denitrificans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	666685	free-living
+s__666686	free-living--TRUE	Bacillus sp. 1NLA3E	species	ProTraits	medium	igc	always	1	habitat	multistate-union	666686	free-living
+s__667126	free-living--TRUE	Methanocaldococcus villosus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	667126	free-living
+s__668	free-living--TRUE	Aliivibrio fischeri	species	ProTraits	medium	igc	always	1	habitat	multistate-union	668	free-living
+s__668331	free-living--TRUE	Raphidiopsis brookii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	668331	free-living
+s__669	free-living--TRUE	Vibrio harveyi	species	ProTraits	medium	igc	always	1	habitat	multistate-union	669	free-living
+s__670	free-living--TRUE	Vibrio parahaemolyticus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	670	free-living
+s__671	free-living--TRUE	Vibrio proteolyticus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	671	free-living
+s__671143	free-living--TRUE	Candidatus Methylomirabilis oxygeniifera	species	ProTraits	medium	igc	always	1	habitat	multistate-union	671143	free-living
+s__672	free-living--TRUE	Vibrio vulnificus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	672	free-living
+s__67294	free-living--TRUE	Streptomyces filamentosus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	67294	free-living
+s__673	free-living--TRUE	Grimontia hollisae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	673	free-living
+s__673860	free-living--TRUE	Candidatus Aciduliprofundum sp. MAR08-339	species	ProTraits	medium	igc	always	1	habitat	multistate-union	673860	free-living
+s__674	free-living--TRUE	Vibrio mimicus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	674	free-living
+s__675815	free-living--TRUE	Vibrio sp. RC586	species	ProTraits	medium	igc	always	1	habitat	multistate-union	675815	free-living
+s__676	free-living--TRUE	Vibrio fluvialis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	676	free-living
+s__67760	free-living--TRUE	Methanocaldococcus infernus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	67760	free-living
+s__680	free-living--TRUE	Vibrio campbellii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	680	free-living
+s__680118	free-living--TRUE	Methanothermobacter tenebrarum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	680118	free-living
+s__68213	free-living--TRUE	Streptomyces griseoaurantiacus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	68213	free-living
+s__68280	free-living--TRUE	Streptomyces violaceusniger	species	ProTraits	medium	igc	always	1	habitat	multistate-union	68280	free-living
+s__683219	free-living--TRUE	Streptomyces sp. SA3_actG	species	ProTraits	medium	igc	always	1	habitat	multistate-union	683219	free-living
+s__683846	free-living--TRUE	Fervidicoccus fontis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	683846	free-living
+s__685778	free-living--TRUE	Sphingomonas sp. PR090111-T3T-6A	species	ProTraits	medium	igc	always	1	habitat	multistate-union	685778	free-living
+s__68909	free-living--TRUE	Deinococcus geothermalis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	68909	free-living
+s__691437	free-living--TRUE	Geobacillus sp. C56-T3	species	ProTraits	medium	igc	always	1	habitat	multistate-union	691437	free-living
+s__693075	free-living--TRUE	Caldisericum exile	species	ProTraits	medium	igc	always	1	habitat	multistate-union	693075	free-living
+s__69499	free-living--TRUE	Petrotoga mobilis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	69499	free-living
+s__69525	free-living--TRUE	Natrinema pellirubrum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	69525	free-living
+s__702113	free-living--TRUE	Novosphingobium sp. PP1Y	species	ProTraits	medium	igc	always	1	habitat	multistate-union	702113	free-living
+s__70771	free-living--TRUE	Pyrobaculum neutrophilum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	70771	free-living
+s__70799	free-living--TRUE	Nodularia spumigena	species	ProTraits	medium	igc	always	1	habitat	multistate-union	70799	free-living
+s__70863	free-living--TRUE	Shewanella oneidensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	70863	free-living
+s__70864	free-living--TRUE	Shewanella pealeana	species	ProTraits	medium	igc	always	1	habitat	multistate-union	70864	free-living
+s__71253	free-living--TRUE	Arthrobacter rhombi	species	ProTraits	medium	igc	always	1	habitat	multistate-union	71253	free-living
+s__713887	free-living--TRUE	Candidatus Atelocyanobacterium thalassae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	713887	free-living
+s__715451	free-living--TRUE	Alteromonas naphthalenivorans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	715451	free-living
+s__717609	free-living--TRUE	Caldicellulosiruptor obsidiansis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	717609	free-living
+s__717785	free-living--TRUE	Hyphomicrobium sp. MC1	species	ProTraits	medium	igc	always	1	habitat	multistate-union	717785	free-living
+s__71995	free-living--TRUE	Paenibacillus vortex	species	ProTraits	medium	igc	always	1	habitat	multistate-union	71995	free-living
+s__72000	free-living--TRUE	Kocuria rhizophila	species	ProTraits	medium	igc	always	1	habitat	multistate-union	72000	free-living
+s__721785	free-living--TRUE	[Acidovorax] ebreus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	721785	free-living
+s__72360	free-living--TRUE	Bacillus mojavensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	72360	free-living
+s__73141	free-living--TRUE	Thiocystis violascens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	73141	free-living
+s__73780	free-living--TRUE	Methylocaldum szegediense	species	ProTraits	medium	igc	always	1	habitat	multistate-union	73780	free-living
+s__73913	free-living--TRUE	Methanocaldococcus vulcanius	species	ProTraits	medium	igc	always	1	habitat	multistate-union	73913	free-living
+s__73919	free-living--TRUE	Thermaerobacter marianensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	73919	free-living
+s__74109	free-living--TRUE	Photobacterium profundum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	74109	free-living
+s__742013	free-living--TRUE	Delftia sp. Cs1-4	species	ProTraits	medium	igc	always	1	habitat	multistate-union	742013	free-living
+s__74313	free-living--TRUE	Brevundimonas subvibrioides	species	ProTraits	medium	igc	always	1	habitat	multistate-union	74313	free-living
+s__74318	free-living--TRUE	Maricaulis maris	species	ProTraits	medium	igc	always	1	habitat	multistate-union	74318	free-living
+s__744980	free-living--TRUE	Roseibium sp. TrichSKD4	species	ProTraits	medium	igc	always	1	habitat	multistate-union	744980	free-living
+s__745014	free-living--TRUE	gamma proteobacterium HIMB55	species	ProTraits	medium	igc	always	1	habitat	multistate-union	745014	free-living
+s__745310	free-living--TRUE	Sphingomonas sp. MM-1	species	ProTraits	medium	igc	always	1	habitat	multistate-union	745310	free-living
+s__748280	free-living--TRUE	Pseudogulbenkiania sp. NH8B	species	ProTraits	medium	igc	always	1	habitat	multistate-union	748280	free-living
+s__748651	free-living--TRUE	Thioalkalivibrio sp. ALE10	species	ProTraits	medium	igc	always	1	habitat	multistate-union	748651	free-living
+s__748652	free-living--TRUE	Thioalkalivibrio sp. ALJ15	species	ProTraits	medium	igc	always	1	habitat	multistate-union	748652	free-living
+s__748658	free-living--TRUE	Thioalkalivibrio sp. ALSr1	species	ProTraits	medium	igc	always	1	habitat	multistate-union	748658	free-living
+s__74969	free-living--TRUE	Ferroplasma acidiphilum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	74969	free-living
+s__751994	free-living--TRUE	gamma proteobacterium HIMB30	species	ProTraits	medium	igc	always	1	habitat	multistate-union	751994	free-living
+s__75294	free-living--TRUE	Saccharomonospora xinjiangensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	75294	free-living
+s__754476	free-living--TRUE	Methylophaga nitratireducenticrescens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	754476	free-living
+s__754477	free-living--TRUE	Methylophaga frappieri	species	ProTraits	medium	igc	always	1	habitat	multistate-union	754477	free-living
+s__755731	free-living--TRUE	Clostridium sp. BNL1100	species	ProTraits	medium	igc	always	1	habitat	multistate-union	755731	free-living
+s__76020	free-living--TRUE	Amycolatopsis alba	species	ProTraits	medium	igc	always	1	habitat	multistate-union	76020	free-living
+s__767892	free-living--TRUE	Candidatus Puniceispirillum marinum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	767892	free-living
+s__76853	free-living--TRUE	Solibacillus silvestris	species	ProTraits	medium	igc	always	1	habitat	multistate-union	76853	free-living
+s__76887	free-living--TRUE	Caldivirga maquilingensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	76887	free-living
+s__77022	free-living--TRUE	Cylindrospermopsis raciborskii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	77022	free-living
+s__78587	free-living--TRUE	Asticcacaulis excentricus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	78587	free-living
+s__79209	free-living--TRUE	Desulfosporosinus meridiei	species	ProTraits	medium	igc	always	1	habitat	multistate-union	79209	free-living
+s__79329	free-living--TRUE	Chitinophaga pinensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	79329	free-living
+s__795665	free-living--TRUE	Hydrogenophaga sp. PBC	species	ProTraits	medium	igc	always	1	habitat	multistate-union	795665	free-living
+s__79880	free-living--TRUE	Shouchella clausii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	79880	free-living
+s__79885	free-living--TRUE	Alkalihalophilus pseudofirmus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	79885	free-living
+s__80816	free-living--TRUE	Haliangium ochraceum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	80816	free-living
+s__80866	free-living--TRUE	Delftia acidovorans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	80866	free-living
+s__80880	free-living--TRUE	Hylemonella gracilis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	80880	free-living
+s__81029	free-living--TRUE	Hyphomonas adhaerens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	81029	free-living
+s__81032	free-living--TRUE	Hyphomonas neptunium	species	ProTraits	medium	igc	always	1	habitat	multistate-union	81032	free-living
+s__81412	free-living--TRUE	Aminomonas paucivorans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	81412	free-living
+s__81425	free-living--TRUE	Desulfovibrio aminophilus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	81425	free-living
+s__81462	free-living--TRUE	Thermanaerovibrio acidaminovorans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	81462	free-living
+s__81468	free-living--TRUE	Aminobacterium colombiense	species	ProTraits	medium	igc	always	1	habitat	multistate-union	81468	free-living
+s__81475	free-living--TRUE	Frateuria aurantia	species	ProTraits	medium	igc	always	1	habitat	multistate-union	81475	free-living
+s__83171	free-living--TRUE	Methanocaldococcus fervens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	83171	free-living
+s__83406	free-living--TRUE	gamma proteobacterium HdN1	species	ProTraits	medium	igc	always	1	habitat	multistate-union	83406	free-living
+s__83455	free-living--TRUE	Myxococcus stipitatus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	83455	free-living
+s__83984	free-living--TRUE	Methanocorpusculum labreanum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	83984	free-living
+s__83986	free-living--TRUE	Methanoculleus bourgensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	83986	free-living
+s__84030	free-living--TRUE	Lacrimispora saccharolytica	species	ProTraits	medium	igc	always	1	habitat	multistate-union	84030	free-living
+s__84156	free-living--TRUE	Archaeoglobus profundus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	84156	free-living
+s__84159	free-living--TRUE	Paramagnetospirillum magneticum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	84159	free-living
+s__84205	free-living--TRUE	Chlorobium ferrooxidans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	84205	free-living
+s__84405	free-living--TRUE	Hippea maritima	species	ProTraits	medium	igc	always	1	habitat	multistate-union	84405	free-living
+s__84480	free-living--TRUE	Amycolatopsis thermoflava	species	ProTraits	medium	igc	always	1	habitat	multistate-union	84480	free-living
+s__84599	free-living--TRUE	Staphylothermus hellenicus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	84599	free-living
+s__84757	free-living--TRUE	Beutenbergia cavernae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	84757	free-living
+s__84980	free-living--TRUE	Desulfotalea psychrophila	species	ProTraits	medium	igc	always	1	habitat	multistate-union	84980	free-living
+s__85085	free-living--TRUE	Pseudarthrobacter chlorophenolicus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	85085	free-living
+s__85558	free-living--TRUE	Streptomyces turgidiscabies	species	ProTraits	medium	igc	always	1	habitat	multistate-union	85558	free-living
+s__85683	free-living--TRUE	Salisediminibacterium selenitireducens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	85683	free-living
+s__85874	free-living--TRUE	Thermacetogenium phaeum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	85874	free-living
+s__86170	free-living--TRUE	Syntrophothermus lipocalidus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	86170	free-living
+s__862751	free-living--TRUE	Streptomyces sp. SirexAA-E	species	ProTraits	medium	igc	always	1	habitat	multistate-union	862751	free-living
+s__863	free-living--TRUE	Syntrophomonas wolfei	species	ProTraits	medium	igc	always	1	habitat	multistate-union	863	free-living
+s__86304	free-living--TRUE	Saccharophagus degradans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	86304	free-living
+s__863575	free-living--TRUE	Citricoccus nitrophenolicus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	863575	free-living
+s__864051	free-living--TRUE	Burkholderiales bacterium JOSHI_001	species	ProTraits	medium	igc	always	1	habitat	multistate-union	864051	free-living
+s__864702	free-living--TRUE	Leptolyngbyaceae cyanobacterium JSC-12	species	ProTraits	medium	igc	always	1	habitat	multistate-union	864702	free-living
+s__86665	free-living--TRUE	Halalkalibacterium halodurans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	86665	free-living
+s__868131	free-living--TRUE	Methanobacterium paludis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	868131	free-living
+s__870903	free-living--TRUE	Terriglobus saanensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	870903	free-living
+s__875171	free-living--TRUE	Celeribacter baekdonensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	875171	free-living
+s__876	free-living--TRUE	Desulfovibrio desulfuricans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	876	free-living
+s__877455	free-living--TRUE	Methanobacterium lacus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	877455	free-living
+s__878	free-living--TRUE	Solidesulfovibrio fructosivorans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	878	free-living
+s__879	free-living--TRUE	Megalodesulfovibrio gigas	species	ProTraits	medium	igc	always	1	habitat	multistate-union	879	free-living
+s__879567	free-living--TRUE	Pseudodesulfovibrio piezophilus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	879567	free-living
+s__880	free-living--TRUE	Maridesulfovibrio salexigens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	880	free-living
+s__88058	free-living--TRUE	Treponema primitia	species	ProTraits	medium	igc	always	1	habitat	multistate-union	88058	free-living
+s__881	free-living--TRUE	Nitratidesulfovibrio vulgaris	species	ProTraits	medium	igc	always	1	habitat	multistate-union	881	free-living
+s__88190	free-living--TRUE	Thermus antranikianii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	88190	free-living
+s__882104	free-living--TRUE	Methanoregula formicica	species	ProTraits	medium	igc	always	1	habitat	multistate-union	882104	free-living
+s__88382	free-living--TRUE	Promicromonospora sukumoe	species	ProTraits	medium	igc	always	1	habitat	multistate-union	88382	free-living
+s__885581	free-living--TRUE	Desulfosporosinus acidiphilus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	885581	free-living
+s__88688	free-living--TRUE	Caulobacter segnis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	88688	free-living
+s__887061	free-living--TRUE	Methylovorus sp. MP688	species	ProTraits	medium	igc	always	1	habitat	multistate-union	887061	free-living
+s__889	free-living--TRUE	Paucidesulfovibrio longus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	889	free-living
+s__891	free-living--TRUE	Desulfuromonas acetoxidans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	891	free-living
+s__89184	free-living--TRUE	Ruegeria pomeroyi	species	ProTraits	medium	igc	always	1	habitat	multistate-union	89184	free-living
+s__894	free-living--TRUE	Desulfobulbus propionicus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	894	free-living
+s__897	free-living--TRUE	Desulfococcus multivorans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	897	free-living
+s__899	free-living--TRUE	Desulfomicrobium baculatum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	899	free-living
+s__90373	free-living--TRUE	Thiomargarita namibiensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	90373	free-living
+s__905	free-living--TRUE	Acidaminococcus fermentans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	905	free-living
+s__90728	free-living--TRUE	Desulfatiglans anilini	species	ProTraits	medium	igc	always	1	habitat	multistate-union	90728	free-living
+s__911045	free-living--TRUE	Pseudovibrio sp. FO-BEG1	species	ProTraits	medium	igc	always	1	habitat	multistate-union	911045	free-living
+s__911092	free-living--TRUE	Caldanaerobacter subterraneus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	911092	free-living
+s__912	free-living--TRUE	Nitrobacter hamburgensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	912	free-living
+s__913	free-living--TRUE	Nitrobacter winogradskyi	species	ProTraits	medium	igc	always	1	habitat	multistate-union	913	free-living
+s__91464	free-living--TRUE	Synechococcus sp. PCC 7335	species	ProTraits	medium	igc	always	1	habitat	multistate-union	91464	free-living
+s__915	free-living--TRUE	Nitrosomonas europaea	species	ProTraits	medium	igc	always	1	habitat	multistate-union	915	free-living
+s__916	free-living--TRUE	Nitrosomonas eutropha	species	ProTraits	medium	igc	always	1	habitat	multistate-union	916	free-living
+s__920	free-living--TRUE	Acidithiobacillus ferrooxidans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	920	free-living
+s__921	free-living--TRUE	Ancylobacter novellus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	921	free-living
+s__926	free-living--TRUE	Thiomonas intermedia	species	ProTraits	medium	igc	always	1	habitat	multistate-union	926	free-living
+s__927	free-living--TRUE	Halothiobacillus neapolitanus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	927	free-living
+s__929	free-living--TRUE	Thermithiobacillus tepidarius	species	ProTraits	medium	igc	always	1	habitat	multistate-union	929	free-living
+s__92945	free-living--TRUE	Ketogulonicigenium vulgare	species	ProTraits	medium	igc	always	1	habitat	multistate-union	92945	free-living
+s__93466	free-living--TRUE	Fervidobacterium pennivorans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	93466	free-living
+s__936456	free-living--TRUE	Desulfurispirillum indicum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	936456	free-living
+s__936476	free-living--TRUE	Marinomonas posidonica	species	ProTraits	medium	igc	always	1	habitat	multistate-union	936476	free-living
+s__93929	free-living--TRUE	Thermotoga petrophila	species	ProTraits	medium	igc	always	1	habitat	multistate-union	93929	free-living
+s__940	free-living--TRUE	Hydrogenobacter thermophilus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	940	free-living
+s__940614	free-living--TRUE	Granulicella mallensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	940614	free-living
+s__940615	free-living--TRUE	Granulicella tundricola	species	ProTraits	medium	igc	always	1	habitat	multistate-union	940615	free-living
+s__94122	free-living--TRUE	Shewanella sp. ANA-3	species	ProTraits	medium	igc	always	1	habitat	multistate-union	94122	free-living
+s__94132	free-living--TRUE	Ramlibacter tataouinensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	94132	free-living
+s__941449	free-living--TRUE	Desulfovibrio sp. X2	species	ProTraits	medium	igc	always	1	habitat	multistate-union	941449	free-living
+s__94254	free-living--TRUE	Dyadobacter fermentans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	94254	free-living
+s__944559	free-living--TRUE	Paenibacillus sp. HGF7	species	ProTraits	medium	igc	always	1	habitat	multistate-union	944559	free-living
+s__959	free-living--TRUE	Bdellovibrio bacteriovorus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	959	free-living
+s__97084	free-living--TRUE	Halobacteriovorax marinus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	97084	free-living
+s__97393	free-living--TRUE	Ferroplasma acidarmanus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	97393	free-living
+s__97477	free-living--TRUE	Acetomicrobium mobile	species	ProTraits	medium	igc	always	1	habitat	multistate-union	97477	free-living
+s__979	free-living--TRUE	Cellulophaga lytica	species	ProTraits	medium	igc	always	1	habitat	multistate-union	979	free-living
+s__983544	free-living--TRUE	Lacinutrix sp. 5H-3-7-4	species	ProTraits	medium	igc	always	1	habitat	multistate-union	983544	free-living
+s__983545	free-living--TRUE	Glaciecola sp. 4H-3-7+YE-5	species	ProTraits	medium	igc	always	1	habitat	multistate-union	983545	free-living
+s__983548	free-living--TRUE	Dokdonia sp. 4H-3-7-5	species	ProTraits	medium	igc	always	1	habitat	multistate-union	983548	free-living
+s__984	free-living--TRUE	Pedobacter heparinus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	984	free-living
+s__985	free-living--TRUE	Cytophaga hutchinsonii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	985	free-living
+s__985052	free-living--TRUE	Vulcanisaeta moutnovskia	species	ProTraits	medium	igc	always	1	habitat	multistate-union	985052	free-living
+s__986	free-living--TRUE	Flavobacterium johnsoniae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	986	free-living
+s__988	free-living--TRUE	Leeuwenhoekiella marinoflava	species	ProTraits	medium	igc	always	1	habitat	multistate-union	988	free-living
+s__99007	free-living--TRUE	Pyrobaculum oguniense	species	ProTraits	medium	igc	always	1	habitat	multistate-union	99007	free-living
+s__991904	free-living--TRUE	Polymorphum gilvum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	991904	free-living
+s__992012	free-living--TRUE	Vibrio sp. HENC-03	species	ProTraits	medium	igc	always	1	habitat	multistate-union	992012	free-living
+s__995	free-living--TRUE	Solitalea canadensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	995	free-living
+s__99598	free-living--TRUE	Calothrix sp. PCC 7507	species	ProTraits	medium	igc	always	1	habitat	multistate-union	99598	free-living
+s__996	free-living--TRUE	Flavobacterium columnare	species	ProTraits	medium	igc	always	1	habitat	multistate-union	996	free-living
+s__999141	free-living--TRUE	Halomonas sp. TD01	species	ProTraits	medium	igc	always	1	habitat	multistate-union	999141	free-living
+s__999627	free-living--TRUE	Sedimentitalea nanhaiensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	999627	free-living
+t__1173027	free-living--TRUE	Allocoleopsis franciscana PCC 7113	strain	ProTraits	medium	igc	always	1	habitat	multistate-union	1173027	free-living
+t__1173263	free-living--TRUE	Pseudanabaenococcus habilitatus PCC 7502	strain	ProTraits	medium	igc	always	1	habitat	multistate-union	1173263	free-living
+t__118173	free-living--TRUE	Portococcus stanieri PCC 6802	strain	ProTraits	medium	igc	always	1	habitat	multistate-union	118173	free-living
+t__391612	free-living--TRUE	Crocosphaera chwakensis CCY0110	strain	ProTraits	medium	igc	always	1	habitat	multistate-union	391612	free-living
+t__395962	free-living--TRUE	Rippkaea orientalis PCC 8802	strain	ProTraits	medium	igc	always	1	habitat	multistate-union	395962	free-living
+t__41431	free-living--TRUE	Rippkaea orientalis PCC 8801	strain	ProTraits	medium	igc	always	1	habitat	multistate-union	41431	free-living
+t__43989	free-living--TRUE	Crocosphaera subtropica ATCC 51142	strain	ProTraits	medium	igc	always	1	habitat	multistate-union	43989	free-living
+t__480224	free-living--TRUE	Chloroflexus aurantiacus Y-400-fl	strain	ProTraits	medium	igc	always	1	habitat	multistate-union	480224	free-living
+t__497965	free-living--TRUE	Gloeothece verrucosa PCC 7822	strain	ProTraits	medium	igc	always	1	habitat	multistate-union	497965	free-living
+t__65393	free-living--TRUE	Gloeothece citriformis PCC 7424	strain	ProTraits	medium	igc	always	1	habitat	multistate-union	65393	free-living
+t__741277	free-living--TRUE	Fischerella thermalis JSC-11	strain	ProTraits	medium	igc	always	1	habitat	multistate-union	741277	free-living
+t__82654	free-living--TRUE	Thalassoporum mexicanum PCC 7367	strain	ProTraits	medium	igc	always	1	habitat	multistate-union	82654	free-living
+t__84588	free-living--TRUE	Parasynechococcus marenigrum WH 8102	strain	ProTraits	medium	igc	always	1	habitat	multistate-union	84588	free-living
+t__860575	free-living--TRUE	Crocosphaera subtropica ATCC 51472	strain	ProTraits	medium	igc	always	1	habitat	multistate-union	860575	free-living

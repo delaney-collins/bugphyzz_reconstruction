@@ -1,0 +1,8 @@
+parameter	value
+logLik	-67324.5002473323
+AIC	134651.000494665
+n_rates	1
+model	ER
+root_prior	equal
+optimizer_convergence	0
+optimizer_message	relative convergence (4)

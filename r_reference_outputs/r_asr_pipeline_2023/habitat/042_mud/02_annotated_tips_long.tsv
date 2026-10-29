@@ -1,0 +1,15 @@
+tip_label	Attribute	Score
+Halorhodospira_halophila-_-CP000544--_SL1_T	mud--FALSE	0
+Halorhodospira_halophila-_-CP000544--_SL1_T	mud--TRUE	1
+Sulfurimonas_denitrificans-_-CP000153--_DSM_1251_T	mud--FALSE	0
+Sulfurimonas_denitrificans-_-CP000153--_DSM_1251_T	mud--TRUE	1
+Nitratidesulfovibrio_vulgaris-_-AF418179--_DSM_644_T	mud--FALSE	0
+Nitratidesulfovibrio_vulgaris-_-AF418179--_DSM_644_T	mud--TRUE	1
+Pseudodesulfovibrio_aespoeensis-_-CP002431--_Aspo-2_T	mud--FALSE	0
+Pseudodesulfovibrio_aespoeensis-_-CP002431--_Aspo-2_T	mud--TRUE	1
+Desulfarculus_baarsii-_-CP002085--_DSM_2075_T	mud--FALSE	0
+Desulfarculus_baarsii-_-CP002085--_DSM_2075_T	mud--TRUE	1
+Desulfofundulus_kuznetsovii-_-Y11569--_DSM_6115_T	mud--FALSE	0
+Desulfofundulus_kuznetsovii-_-Y11569--_DSM_6115_T	mud--TRUE	1
+Cellulophaga_lytica-_-CP002534--_DSM_7489_T	mud--FALSE	0
+Cellulophaga_lytica-_-CP002534--_DSM_7489_T	mud--TRUE	1

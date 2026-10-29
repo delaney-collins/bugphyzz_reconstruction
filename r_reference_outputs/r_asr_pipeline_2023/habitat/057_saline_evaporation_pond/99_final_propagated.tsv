@@ -1,0 +1,7 @@
+NCBI_ID	Attribute	Taxon_name	Rank	Attribute_source	Confidence_in_curation	Evidence	Frequency	Score	Attribute_group	Attribute_type	taxid	Attribute_group_2
+s__2238	saline evaporation pond--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__2238	saline evaporation pond--TRUE	Haloarcula marismortui	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2238	saline evaporation pond
+s__2252	saline evaporation pond--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__2252	saline evaporation pond--TRUE	Haloferax mediterranei	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2252	saline evaporation pond
+s__60847	saline evaporation pond--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__60847	saline evaporation pond--TRUE	Halogeometricum borinquense	species	ProTraits	medium	igc	always	1	habitat	multistate-union	60847	saline evaporation pond

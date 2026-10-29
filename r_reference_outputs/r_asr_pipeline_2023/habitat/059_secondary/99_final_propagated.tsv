@@ -1,0 +1,109 @@
+NCBI_ID	Attribute	Taxon_name	Rank	Attribute_source	Confidence_in_curation	Evidence	Frequency	Score	Attribute_group	Attribute_type	taxid	Attribute_group_2
+s__1003110	secondary--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1003110	secondary--TRUE	Micromonospora maris	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1003110	secondary
+s__102897	secondary--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__102897	secondary--TRUE	Parafrankia sp. EUN1f	species	ProTraits	medium	igc	always	1	habitat	multistate-union	102897	secondary
+s__103731	secondary--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__103731	secondary--TRUE	Saccharothrix espanaensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	103731	secondary
+s__1055352	secondary--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1055352	secondary--TRUE	Streptomyces sp. W007	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1055352	secondary
+s__106370	secondary--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__106370	secondary--TRUE	Frankia casuarinae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	106370	secondary
+s__1073330	secondary--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1073330	secondary--TRUE	Streptomyces zinciresistens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1073330	secondary
+s__1078086	secondary--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1078086	secondary--TRUE	Streptomyces sp. HGB0020	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1078086	secondary
+s__114687	secondary--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__114687	secondary--TRUE	Streptomyces auratus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	114687	secondary
+s__1169025	secondary--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1169025	secondary--TRUE	Streptomyces pratensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1169025	secondary
+s__1172179	secondary--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1172179	secondary--TRUE	Streptomyces sp. 142MFCol3.1	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1172179	secondary
+s__1203257	secondary--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1203257	secondary--TRUE	Streptomyces sp. AA1529	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1203257	secondary
+s__1265601	secondary--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1265601	secondary--TRUE	Streptomyces sp. PAMC 26508	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1265601	secondary
+s__168697	secondary--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__168697	secondary--TRUE	Salinispora arenicola	species	ProTraits	medium	igc	always	1	habitat	multistate-union	168697	secondary
+s__1836	secondary--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1836	secondary--TRUE	Saccharopolyspora erythraea	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1836	secondary
+s__1866	secondary--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1866	secondary--TRUE	Actinoplanes missouriensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1866	secondary
+s__1888	secondary--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1888	secondary--TRUE	Streptomyces albus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1888	secondary
+s__1901	secondary--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1901	secondary--TRUE	Streptomyces clavuligerus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1901	secondary
+s__1902	secondary--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1902	secondary--TRUE	Streptomyces coelicolor	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1902	secondary
+s__1911	secondary--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1911	secondary--TRUE	Streptomyces griseus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1911	secondary
+s__1912	secondary--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1912	secondary--TRUE	Streptomyces hygroscopicus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1912	secondary
+s__1916	secondary--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1916	secondary--TRUE	Streptomyces lividans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1916	secondary
+s__1930	secondary--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1930	secondary--TRUE	Streptomyces scabiei	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1930	secondary
+s__1951	secondary--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1951	secondary--TRUE	Streptomyces purpureus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1951	secondary
+s__2014	secondary--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__2014	secondary--TRUE	Nocardiopsis dassonvillei	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2014	secondary
+s__2066	secondary--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__2066	secondary--TRUE	Kitasatospora setae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2066	secondary
+s__283811	secondary--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__283811	secondary--TRUE	Stackebrandtia nassauensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	283811	secondary
+s__285679	secondary--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__285679	secondary--TRUE	Micromonospora lupini	species	ProTraits	medium	igc	always	1	habitat	multistate-union	285679	secondary
+s__29303	secondary--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__29303	secondary--TRUE	Streptantibioticus cattleyicolor	species	ProTraits	medium	igc	always	1	habitat	multistate-union	29303	secondary
+s__298653	secondary--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__298653	secondary--TRUE	Parafrankia sp. EAN1pec	species	ProTraits	medium	igc	always	1	habitat	multistate-union	298653	secondary
+s__298654	secondary--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__298654	secondary--TRUE	Pseudofrankia inefficax	species	ProTraits	medium	igc	always	1	habitat	multistate-union	298654	secondary
+s__298655	secondary--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__298655	secondary--TRUE	Pseudofrankia saprophytica	species	ProTraits	medium	igc	always	1	habitat	multistate-union	298655	secondary
+s__33	secondary--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__33	secondary--TRUE	Myxococcus fulvus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	33	secondary
+s__33903	secondary--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__33903	secondary--TRUE	Streptomyces avermitilis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	33903	secondary
+s__34	secondary--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__34	secondary--TRUE	Myxococcus xanthus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	34	secondary
+s__348043	secondary--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__348043	secondary--TRUE	Streptomyces davaonensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	348043	secondary
+s__355249	secondary--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__355249	secondary--TRUE	Streptomyces sp. Tu6071	species	ProTraits	medium	igc	always	1	habitat	multistate-union	355249	secondary
+s__379067	secondary--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__379067	secondary--TRUE	Streptomyces bingchenggensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	379067	secondary
+s__40567	secondary--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__40567	secondary--TRUE	Actinosynnema mirum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	40567	secondary
+s__41	secondary--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__41	secondary--TRUE	Allostigmatella aurantiaca	species	ProTraits	medium	igc	always	1	habitat	multistate-union	41	secondary
+s__42234	secondary--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__42234	secondary--TRUE	Streptomyces acidiscabies	species	ProTraits	medium	igc	always	1	habitat	multistate-union	42234	secondary
+s__42238	secondary--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__42238	secondary--TRUE	Streptomyces neyagawaensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	42238	secondary
+s__42684	secondary--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__42684	secondary--TRUE	Streptomyces collinus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	42684	secondary
+s__47760	secondary--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__47760	secondary--TRUE	Streptomyces aurantiacus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	47760	secondary
+s__47850	secondary--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__47850	secondary--TRUE	Micromonospora aurantiaca (nom. illeg.)	species	ProTraits	medium	igc	always	1	habitat	multistate-union	47850	secondary
+s__54571	secondary--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__54571	secondary--TRUE	Streptomyces venezuelae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	54571	secondary
+s__648999	secondary--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__648999	secondary--TRUE	Micromonospora sp. L5	species	ProTraits	medium	igc	always	1	habitat	multistate-union	648999	secondary
+s__67294	secondary--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__67294	secondary--TRUE	Streptomyces filamentosus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	67294	secondary
+s__68213	secondary--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__68213	secondary--TRUE	Streptomyces griseoaurantiacus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	68213	secondary
+s__68280	secondary--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__68280	secondary--TRUE	Streptomyces violaceusniger	species	ProTraits	medium	igc	always	1	habitat	multistate-union	68280	secondary
+s__683219	secondary--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__683219	secondary--TRUE	Streptomyces sp. SA3_actG	species	ProTraits	medium	igc	always	1	habitat	multistate-union	683219	secondary
+s__710111	secondary--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__710111	secondary--TRUE	Frankia sp. QA3	species	ProTraits	medium	igc	always	1	habitat	multistate-union	710111	secondary
+s__83455	secondary--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__83455	secondary--TRUE	Myxococcus stipitatus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	83455	secondary
+s__85558	secondary--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__85558	secondary--TRUE	Streptomyces turgidiscabies	species	ProTraits	medium	igc	always	1	habitat	multistate-union	85558	secondary
+s__862751	secondary--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__862751	secondary--TRUE	Streptomyces sp. SirexAA-E	species	ProTraits	medium	igc	always	1	habitat	multistate-union	862751	secondary

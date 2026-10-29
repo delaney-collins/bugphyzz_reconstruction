@@ -1,0 +1,2 @@
+reference_name	physiology_name	attribute_group	raw_attribute_type	filtered_attribute_type	raw_rows	filtered_rows	generated_at
+binary	motility	motility	binary	binary	13761	13586	2026-07-15 17:24:49 UTC

@@ -1,0 +1,29 @@
+List of 11
+ $ logLik      : num -16069
+ $ rates       : num 0
+ $ index.matrix: num [1:2, 1:2] NA 1 1 NA
+ $ states      : chr [1:2] "free-living--FALSE" "free-living--TRUE"
+ $ pi          : Named num [1:2] 0.5 0.5
+  ..- attr(*, "names")= chr [1:2] "free-living--FALSE" "free-living--TRUE"
+ $ method      : chr "nlminb"
+ $ root.prior  : chr "flat"
+ $ opt_results :List of 4
+  ..$ convergence: int 0
+  ..$ iterations : int 2
+  ..$ evaluations: Named int [1:2] 2 2
+  .. ..- attr(*, "names")= chr [1:2] "function" "gradient"
+  ..$ message    : chr "both X-convergence and relative convergence (5)"
+ $ data        : num [1:23501, 1:2] 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 ...
+  ..- attr(*, "dimnames")=List of 2
+  .. ..$ : chr [1:23501] "g__48381" "g__816" "g__237" "g__192992" ...
+  .. ..$ : chr [1:2] "free-living--FALSE" "free-living--TRUE"
+ $ tree        :List of 5
+  ..$ edge       : int [1:45013, 1:2] 23502 23503 23504 23504 23505 23506 23507 23508 23509 23509 ...
+  ..$ edge.length: num [1:45013] 0.02046 0.27003 0.000001 0.01679 0.01288 ...
+  ..$ Nnode      : int 21513
+  ..$ node.label : chr [1:21513] "2157" "n23503" "2+48381" "n23505" ...
+  ..$ tip.label  : chr [1:23501] "g__48381" "g__816" "g__237" "g__192992" ...
+  ..- attr(*, "class")= chr "phylo"
+  ..- attr(*, "order")= chr "cladewise"
+ $ lik         :function (q)  
+ - attr(*, "class")= chr "fitMk"

@@ -1,0 +1,11 @@
+tip_label	Attribute	Score
+Thiomonas_intermedia-_-AY455809--_ATCC_15466_T	mine--FALSE	0
+Thiomonas_intermedia-_-AY455809--_ATCC_15466_T	mine--TRUE	1
+Acidithiobacillus_ferrivorans-_-AF376020--_NO-37_T	mine--FALSE	0
+Acidithiobacillus_ferrivorans-_-AF376020--_NO-37_T	mine--TRUE	1
+Acidiphilium_multivorum-_-AB006711--_AIU_301_T	mine--FALSE	0
+Acidiphilium_multivorum-_-AB006711--_AIU_301_T	mine--TRUE	1
+Acidiphilium_cryptum-_-D30773--_ATCC_33463_T	mine--FALSE	0
+Acidiphilium_cryptum-_-D30773--_ATCC_33463_T	mine--TRUE	1
+Geomonas_bremense-_-U96917--_Dfr1_T	mine--FALSE	0
+Geomonas_bremense-_-U96917--_Dfr1_T	mine--TRUE	1

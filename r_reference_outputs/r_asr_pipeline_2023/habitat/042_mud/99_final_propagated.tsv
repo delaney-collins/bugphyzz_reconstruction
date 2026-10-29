@@ -1,0 +1,19 @@
+NCBI_ID	Attribute	Taxon_name	Rank	Attribute_source	Confidence_in_curation	Evidence	Frequency	Score	Attribute_group	Attribute_type	taxid	Attribute_group_2
+s__184917	mud--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__184917	mud--TRUE	Solidesulfovibrio magneticus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	184917	mud
+s__881	mud--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__881	mud--TRUE	Nitratidesulfovibrio vulgaris	species	ProTraits	medium	igc	always	1	habitat	multistate-union	881	mud
+t__326298	mud--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__326298	mud--TRUE	Sulfurimonas denitrificans DSM 1251	strain	BacMap	low	nas	always	1	habitat	multistate-union	326298	mud
+t__349124	mud--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__349124	mud--TRUE	Halorhodospira halophila SL1	strain	BacMap	low	nas	always	1	habitat	multistate-union	349124	mud
+t__643562	mud--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__643562	mud--TRUE	Pseudodesulfovibrio aespoeensis Aspo-2	strain	BacMap	low	nas	always	1	habitat	multistate-union	643562	mud
+t__644282	mud--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__644282	mud--TRUE	Desulfarculus baarsii DSM 2075	strain	BacMap	low	nas	always	1	habitat	multistate-union	644282	mud
+t__760568	mud--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__760568	mud--TRUE	Desulfofundulus kuznetsovii DSM 6115	strain	BacMap	low	nas	always	1	habitat	multistate-union	760568	mud
+t__867900	mud--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__867900	mud--TRUE	Cellulophaga lytica DSM 7489	strain	BacMap	low	nas	always	1	habitat	multistate-union	867900	mud
+t__868595	mud--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__868595	mud--TRUE	Desulfotomaculum nigrificans CO-1-SRB	strain	BacMap	low	nas	always	1	habitat	multistate-union	868595	mud

@@ -1,0 +1,13 @@
+NCBI_ID	Attribute	Taxon_name	Rank	Attribute_source	Confidence_in_curation	Evidence	Frequency	Score	Attribute_group	Attribute_type	taxid	Attribute_group_2
+s__1264	foregut--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1264	foregut--TRUE	Hominimerdicola alba	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1264	foregut
+s__157673	foregut--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__157673	foregut--TRUE	[Mannheimia] succiniciproducens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	157673	foregut
+s__2095	foregut--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__2095	foregut--TRUE	Mycoplasma capricolum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2095	foregut
+s__67854	foregut--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__67854	foregut--TRUE	Actinobacillus succinogenes	species	ProTraits	medium	igc	always	1	habitat	multistate-union	67854	foregut
+s__833	foregut--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__833	foregut--TRUE	Fibrobacter succinogenes	species	ProTraits	medium	igc	always	1	habitat	multistate-union	833	foregut
+s__844	foregut--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__844	foregut--TRUE	Wolinella succinogenes	species	ProTraits	medium	igc	always	1	habitat	multistate-union	844	foregut

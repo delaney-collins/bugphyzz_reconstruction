@@ -1,0 +1,19 @@
+NCBI_ID	Attribute	Taxon_name	Rank	Attribute_source	Confidence_in_curation	Evidence	Frequency	Score	Attribute_group	Attribute_type	taxid	Attribute_group_2
+g__1279	human urine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+g__1279	human urine--TRUE	Staphylococcus	genus	Hilt_2014	high	exp	always	1	habitat	multistate-union	1279	human urine
+g__1375	human urine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+g__1375	human urine--TRUE	Aerococcus	genus	Hilt_2014	high	exp	always	1	habitat	multistate-union	1375	human urine
+g__1578	human urine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+g__1578	human urine--TRUE	Lactobacillus	genus	Hilt_2014	high	exp	always	1	habitat	multistate-union	1578	human urine
+g__1654	human urine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+g__1654	human urine--TRUE	Actinomyces	genus	Hilt_2014	high	exp	always	1	habitat	multistate-union	1654	human urine
+g__1678	human urine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+g__1678	human urine--TRUE	Bifidobacterium	genus	Hilt_2014	high	exp	always	1	habitat	multistate-union	1678	human urine
+g__1716	human urine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+g__1716	human urine--TRUE	Corynebacterium	genus	Hilt_2014	high	exp	always	1	habitat	multistate-union	1716	human urine
+g__2701	human urine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+g__2701	human urine--TRUE	Gardnerella	genus	Hilt_2014	high	exp	always	1	habitat	multistate-union	2701	human urine
+g__76833	human urine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+g__76833	human urine--TRUE	Actinobaculum	genus	Hilt_2014	high	exp	always	1	habitat	multistate-union	76833	human urine
+s__1884	human urine--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1884	human urine--TRUE	Streptomyces acrimycini	species	Hilt_2014	high	exp	always	1	habitat	multistate-union	1884	human urine

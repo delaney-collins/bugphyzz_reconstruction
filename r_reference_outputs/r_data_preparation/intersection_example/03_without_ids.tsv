@@ -1,0 +1,3 @@
+NCBI_ID	Taxon_name	Rank	Attribute	Attribute_source	Confidence_in_curation	Evidence	Frequency	Score	Attribute_group	Attribute_type	taxid
+s__187491	Corynebacterium glaucum	species	dumbbell-shaped	NA	NA	tax	always	1	shape	multistate-intersection	187491
+s__391287	Brucella ciceri	species	dumbbell-shaped	NA	NA	tax	always	1	shape	multistate-intersection	391287

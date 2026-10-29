@@ -1,0 +1,4 @@
+case	annotated_tip_count	requested_node_count	result_row_count
+single_source	1	2299	25799
+distributed_sources	25	2299	25775
+dense_sources	2351	2299	23449

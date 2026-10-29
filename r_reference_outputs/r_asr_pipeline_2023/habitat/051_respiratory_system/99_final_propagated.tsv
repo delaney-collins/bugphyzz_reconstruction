@@ -1,0 +1,7 @@
+NCBI_ID	Attribute	Taxon_name	Rank	Attribute_source	Confidence_in_curation	Evidence	Frequency	Score	Attribute_group	Attribute_type	taxid	Attribute_group_2
+s__1313	respiratory system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1313	respiratory system--TRUE	Streptococcus pneumoniae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1313	respiratory system
+s__257758	respiratory system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__257758	respiratory system--TRUE	Streptococcus pseudopneumoniae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	257758	respiratory system
+s__28037	respiratory system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__28037	respiratory system--TRUE	Streptococcus mitis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	28037	respiratory system

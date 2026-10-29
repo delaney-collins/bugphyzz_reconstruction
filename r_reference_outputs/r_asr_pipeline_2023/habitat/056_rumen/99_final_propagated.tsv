@@ -1,0 +1,19 @@
+NCBI_ID	Attribute	Taxon_name	Rank	Attribute_source	Confidence_in_curation	Evidence	Frequency	Score	Attribute_group	Attribute_type	taxid	Attribute_group_2
+s__1264	rumen--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1264	rumen--TRUE	Hominimerdicola alba	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1264	rumen
+s__157673	rumen--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__157673	rumen--TRUE	[Mannheimia] succiniciproducens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	157673	rumen
+s__2095	rumen--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__2095	rumen--TRUE	Mycoplasma capricolum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2095	rumen
+s__2105	rumen--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__2105	rumen--TRUE	Mycoplasma leachii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2105	rumen
+s__43305	rumen--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__43305	rumen--TRUE	Butyrivibrio proteoclasticus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	43305	rumen
+s__67854	rumen--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__67854	rumen--TRUE	Actinobacillus succinogenes	species	ProTraits	medium	igc	always	1	habitat	multistate-union	67854	rumen
+s__833	rumen--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__833	rumen--TRUE	Fibrobacter succinogenes	species	ProTraits	medium	igc	always	1	habitat	multistate-union	833	rumen
+s__83816	rumen--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__83816	rumen--TRUE	Methanobrevibacter ruminantium	species	ProTraits	medium	igc	always	1	habitat	multistate-union	83816	rumen
+s__844	rumen--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__844	rumen--TRUE	Wolinella succinogenes	species	ProTraits	medium	igc	always	1	habitat	multistate-union	844	rumen

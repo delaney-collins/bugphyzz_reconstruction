@@ -1,0 +1,7 @@
+NCBI_ID	Attribute	Taxon_name	Rank	Attribute_source	Confidence_in_curation	Evidence	Frequency	Score	Attribute_group	Attribute_type	taxid	Attribute_group_2
+s__186739	circulatory system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__186739	circulatory system--TRUE	Candidatus Bartonella washoeensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	186739	circulatory system
+s__33045	circulatory system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__33045	circulatory system--TRUE	Bartonella grahamii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	33045	circulatory system
+s__807	circulatory system--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__807	circulatory system--TRUE	Bartonella elizabethae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	807	circulatory system

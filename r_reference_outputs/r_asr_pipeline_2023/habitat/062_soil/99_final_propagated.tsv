@@ -1,0 +1,119 @@
+NCBI_ID	Attribute	Taxon_name	Rank	Attribute_source	Confidence_in_curation	Evidence	Frequency	Score	Attribute_group	Attribute_type	taxid	Attribute_group_2
+s__1127744	soil--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1127744	soil--TRUE	Bacillus sp. JS	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1127744	soil
+s__1169025	soil--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1169025	soil--TRUE	Streptomyces pratensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1169025	soil
+s__1390	soil--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1390	soil--TRUE	Bacillus amyloliquefaciens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1390	soil
+s__1392	soil--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1392	soil--TRUE	Bacillus anthracis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1392	soil
+s__1396	soil--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1396	soil--TRUE	Bacillus cereus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1396	soil
+s__1402	soil--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1402	soil--TRUE	Bacillus licheniformis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1402	soil
+s__1423	soil--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1423	soil--TRUE	Bacillus subtilis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1423	soil
+s__1428	soil--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1428	soil--TRUE	Bacillus thuringiensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1428	soil
+s__1452	soil--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1452	soil--TRUE	Bacillus atrophaeus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1452	soil
+s__164756	soil--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__164756	soil--TRUE	Mycobacterium sp. MCS	species	ProTraits	medium	igc	always	1	habitat	multistate-union	164756	soil
+s__1859	soil--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1859	soil--TRUE	Frankia alni	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1859	soil
+s__189918	soil--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__189918	soil--TRUE	Mycobacterium sp. KMS	species	ProTraits	medium	igc	always	1	habitat	multistate-union	189918	soil
+s__1902	soil--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1902	soil--TRUE	Streptomyces coelicolor	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1902	soil
+s__1911	soil--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1911	soil--TRUE	Streptomyces griseus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1911	soil
+s__1912	soil--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1912	soil--TRUE	Streptomyces hygroscopicus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1912	soil
+s__1916	soil--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1916	soil--TRUE	Streptomyces lividans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1916	soil
+s__1930	soil--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1930	soil--TRUE	Streptomyces scabiei	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1930	soil
+s__290399	soil--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__290399	soil--TRUE	Arthrobacter sp. FB24	species	BacMap	low	nas	always	1	habitat	multistate-union	290399	soil
+s__298654	soil--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__298654	soil--TRUE	Pseudofrankia inefficax	species	ProTraits	medium	igc	always	1	habitat	multistate-union	298654	soil
+s__33903	soil--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__33903	soil--TRUE	Streptomyces avermitilis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	33903	soil
+s__54571	soil--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__54571	soil--TRUE	Streptomyces venezuelae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	54571	soil
+s__648999	soil--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__648999	soil--TRUE	Micromonospora sp. L5	species	BacMap	low	nas	always	1	habitat	multistate-union	648999	soil
+s__68280	soil--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__68280	soil--TRUE	Streptomyces violaceusniger	species	ProTraits	medium	igc	always	1	habitat	multistate-union	68280	soil
+s__717785	soil--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__717785	soil--TRUE	Hyphomicrobium sp. MC1	species	BacMap	low	nas	always	1	habitat	multistate-union	717785	soil
+s__742013	soil--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__742013	soil--TRUE	Delftia sp. Cs1-4	species	BacMap	low	nas	always	1	habitat	multistate-union	742013	soil
+s__79885	soil--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__79885	soil--TRUE	Alkalihalophilus pseudofirmus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	79885	soil
+s__862751	soil--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__862751	soil--TRUE	Streptomyces sp. SirexAA-E	species	BacMap	low	nas	always	1	habitat	multistate-union	862751	soil
+s__887061	soil--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__887061	soil--TRUE	Methylovorus sp. MP688	species	BacMap	low	nas	always	1	habitat	multistate-union	887061	soil
+t__1005048	soil--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__1005048	soil--TRUE	Collimonas fungivorans Ter331	strain	BacMap	low	nas	always	1	habitat	multistate-union	1005048	soil
+t__1042876	soil--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__1042876	soil--TRUE	Pseudomonas putida S16	strain	BacMap	low	nas	always	1	habitat	multistate-union	1042876	soil
+t__1042878	soil--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__1042878	soil--TRUE	Cupriavidus necator N-1	strain	BacMap	low	nas	always	1	habitat	multistate-union	1042878	soil
+t__290402	soil--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__290402	soil--TRUE	Clostridium beijerinckii NCIMB 8052	strain	BacMap	low	nas	always	1	habitat	multistate-union	290402	soil
+t__350054	soil--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__350054	soil--TRUE	Mycolicibacterium gilvum PYR-GCK	strain	BacMap	low	nas	always	1	habitat	multistate-union	350054	soil
+t__378806	soil--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__378806	soil--TRUE	Allostigmatella aurantiaca DW4/3-1	strain	BacMap	low	nas	always	1	habitat	multistate-union	378806	soil
+t__395960	soil--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__395960	soil--TRUE	Rhodopseudomonas palustris TIE-1	strain	BacMap	low	nas	always	1	habitat	multistate-union	395960	soil
+t__395963	soil--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__395963	soil--TRUE	Beijerinckia indica subsp. indica ATCC 9039	strain	BacMap	low	nas	always	1	habitat	multistate-union	395963	soil
+t__436717	soil--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__436717	soil--TRUE	Acinetobacter oleivorans DR1	strain	BacMap	low	nas	always	1	habitat	multistate-union	436717	soil
+t__443218	soil--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__443218	soil--TRUE	Hoyosella subflava DQS3-9A1	strain	BacMap	low	nas	always	1	habitat	multistate-union	443218	soil
+t__446470	soil--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__446470	soil--TRUE	Stackebrandtia nassauensis DSM 44728	strain	BacMap	low	nas	always	1	habitat	multistate-union	446470	soil
+t__545693	soil--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__545693	soil--TRUE	Priestia megaterium QM B1551	strain	BacMap	low	nas	always	1	habitat	multistate-union	545693	soil
+t__573061	soil--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__573061	soil--TRUE	Clostridium cellulovorans 743B	strain	BacMap	low	nas	always	1	habitat	multistate-union	573061	soil
+t__639283	soil--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__639283	soil--TRUE	Ancylobacter novellus DSM 506	strain	BacMap	low	nas	always	1	habitat	multistate-union	639283	soil
+t__643562	soil--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__643562	soil--TRUE	Pseudodesulfovibrio aespoeensis Aspo-2	strain	BacMap	low	nas	always	1	habitat	multistate-union	643562	soil
+t__652103	soil--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__652103	soil--TRUE	Rhodopseudomonas palustris DX-1	strain	BacMap	low	nas	always	1	habitat	multistate-union	652103	soil
+t__653045	soil--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__653045	soil--TRUE	Streptomyces violaceusniger Tu 4113	strain	BacMap	low	nas	always	1	habitat	multistate-union	653045	soil
+t__66692	soil--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__66692	soil--TRUE	Shouchella clausii KSM-K16	strain	BacMap	low	nas	always	1	habitat	multistate-union	66692	soil
+t__690566	soil--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__690566	soil--TRUE	Sphingobium chlorophenolicum L-1	strain	BacMap	low	nas	always	1	habitat	multistate-union	690566	soil
+t__692420	soil--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__692420	soil--TRUE	Bacillus amyloliquefaciens DSM 7 = ATCC 23350	strain	BacMap	low	nas	always	1	habitat	multistate-union	692420	soil
+t__701347	soil--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__701347	soil--TRUE	[Enterobacter] lignolyticus SCF1	strain	BacMap	low	nas	always	1	habitat	multistate-union	701347	soil
+t__709986	soil--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__709986	soil--TRUE	Deinococcus maricopensis DSM 21211	strain	BacMap	low	nas	always	1	habitat	multistate-union	709986	soil
+t__720555	soil--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__720555	soil--TRUE	Bacillus atrophaeus 1942	strain	BacMap	low	nas	always	1	habitat	multistate-union	720555	soil
+t__760568	soil--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__760568	soil--TRUE	Desulfofundulus kuznetsovii DSM 6115	strain	BacMap	low	nas	always	1	habitat	multistate-union	760568	soil
+t__797210	soil--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__797210	soil--TRUE	Halopiger xanaduensis SH-6	strain	BacMap	low	nas	always	1	habitat	multistate-union	797210	soil
+t__857087	soil--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__857087	soil--TRUE	Methylomonas methanica MC09	strain	BacMap	low	nas	always	1	habitat	multistate-union	857087	soil
+t__858619	soil--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__858619	soil--TRUE	Corynebacterium variabile DSM 44702	strain	BacMap	low	nas	always	1	habitat	multistate-union	858619	soil
+t__868595	soil--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__868595	soil--TRUE	Desulfotomaculum nigrificans CO-1-SRB	strain	BacMap	low	nas	always	1	habitat	multistate-union	868595	soil
+t__929506	soil--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__929506	soil--TRUE	Clostridium botulinum BKT015925	strain	BacMap	low	nas	always	1	habitat	multistate-union	929506	soil
+t__941639	soil--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__941639	soil--TRUE	Heyndrickxia coagulans 2-6	strain	BacMap	low	nas	always	1	habitat	multistate-union	941639	soil
+t__991791	soil--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__991791	soil--TRUE	Clostridium acetobutylicum DSM 1731	strain	BacMap	low	nas	always	1	habitat	multistate-union	991791	soil

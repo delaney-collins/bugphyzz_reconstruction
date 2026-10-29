@@ -1,0 +1,18 @@
+Object of class "fitMk".
+
+Fitted (or set) value of Q:
+                   free-living--FALSE free-living--TRUE
+free-living--FALSE                  0                 0
+free-living--TRUE                   0                 0
+
+Fitted (or set) value of pi:
+free-living--FALSE  free-living--TRUE 
+               0.5                0.5 
+due to treating the root prior as (a) flat.
+
+Log-likelihood: -16068.53794 
+
+Optimization method used was "nlminb"
+
+R thinks it has found the ML solution.
+

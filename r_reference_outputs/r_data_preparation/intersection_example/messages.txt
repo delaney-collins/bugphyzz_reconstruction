@@ -1,0 +1,4 @@
+Finished shape.
+
+26,148 rows were dropped.
+

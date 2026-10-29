@@ -1,0 +1,3 @@
+NCBI_ID	Attribute	Taxon_name	Rank	Attribute_source	Confidence_in_curation	Evidence	Frequency	Score	Attribute_group	Attribute_type	taxid	Attribute_group_2
+s__39485	gastrointestinal tract--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__39485	gastrointestinal tract--TRUE	Lachnospira eligens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	39485	gastrointestinal tract

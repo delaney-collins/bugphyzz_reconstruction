@@ -1,0 +1,175 @@
+NCBI_ID	Attribute	Taxon_name	Rank	Attribute_source	Confidence_in_curation	Evidence	Frequency	Score	Attribute_group	Attribute_type	taxid	Attribute_group_2
+s__1002672	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1002672	marine water body--TRUE	Candidatus Pelagibacter sp. IMCC9063	species	BacMap	low	nas	always	1	habitat	multistate-union	1002672	marine water body
+s__1008460	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1008460	marine water body--TRUE	Pyrococcus yayanosii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1008460	marine water body
+s__1042877	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1042877	marine water body--TRUE	Thermococcus sp. 4557	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1042877	marine water body
+s__110662	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__110662	marine water body--TRUE	Synechococcus sp. CC9605	species	ProTraits	medium	igc	always	1	habitat	multistate-union	110662	marine water body
+s__149715	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__149715	marine water body--TRUE	Marinitoga piezophila	species	ProTraits	medium	igc	always	1	habitat	multistate-union	149715	marine water body
+s__150340	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__150340	marine water body--TRUE	Vibrio antiquarius	species	ProTraits	medium	igc	always	1	habitat	multistate-union	150340	marine water body
+s__155863	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__155863	marine water body--TRUE	Methanothermococcus okinawensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	155863	marine water body
+s__166314	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__166314	marine water body--TRUE	Synechococcus sp. WH 8109	species	ProTraits	medium	igc	always	1	habitat	multistate-union	166314	marine water body
+s__176102	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__176102	marine water body--TRUE	Pseudoalteromonas agarivorans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	176102	marine water body
+s__186192	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__186192	marine water body--TRUE	Marinithermus hydrothermalis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	186192	marine water body
+s__197222	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__197222	marine water body--TRUE	Paraglaciecola mesophila	species	ProTraits	medium	igc	always	1	habitat	multistate-union	197222	marine water body
+s__202747	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__202747	marine water body--TRUE	Sulfurimonas autotrophica	species	ProTraits	medium	igc	always	1	habitat	multistate-union	202747	marine water body
+s__208596	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__208596	marine water body--TRUE	Carnobacterium sp. 17-4	species	BacMap	low	nas	always	1	habitat	multistate-union	208596	marine water body
+s__212663	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__212663	marine water body--TRUE	Vibrio tasmaniensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	212663	marine water body
+s__2189	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__2189	marine water body--TRUE	Methanotorris igneus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2189	marine water body
+s__2190	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__2190	marine water body--TRUE	Methanocaldococcus jannaschii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2190	marine water body
+s__221359	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__221359	marine water body--TRUE	Synechococcus sp. RS9916	species	ProTraits	medium	igc	always	1	habitat	multistate-union	221359	marine water body
+s__221360	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__221360	marine water body--TRUE	Synechococcus sp. RS9917	species	ProTraits	medium	igc	always	1	habitat	multistate-union	221360	marine water body
+s__221822	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__221822	marine water body--TRUE	Phaeobacter inhibens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	221822	marine water body
+s__2280	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__2280	marine water body--TRUE	Staphylothermus marinus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2280	marine water body
+s__228745	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__228745	marine water body--TRUE	Thermovibrio ammonificans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	228745	marine water body
+s__234831	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__234831	marine water body--TRUE	Pseudoalteromonas sp. SM9913	species	ProTraits	medium	igc	always	1	habitat	multistate-union	234831	marine water body
+s__271097	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__271097	marine water body--TRUE	Shewanella sediminis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	271097	marine water body
+s__288	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__288	marine water body--TRUE	Pseudoalteromonas atlantica	species	ProTraits	medium	igc	always	1	habitat	multistate-union	288	marine water body
+s__29292	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__29292	marine water body--TRUE	Pyrococcus abyssi	species	ProTraits	medium	igc	always	1	habitat	multistate-union	29292	marine water body
+s__29494	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__29494	marine water body--TRUE	Vibrio furnissii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	29494	marine water body
+s__29497	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__29497	marine water body--TRUE	Vibrio splendidus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	29497	marine water body
+s__300231	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__300231	marine water body--TRUE	Brumicola nitratireducens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	300231	marine water body
+s__313625	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__313625	marine water body--TRUE	Synechococcus sp. BL107	species	ProTraits	medium	igc	always	1	habitat	multistate-union	313625	marine water body
+s__314262	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__314262	marine water body--TRUE	Roseobacter sp. MED193	species	ProTraits	medium	igc	always	1	habitat	multistate-union	314262	marine water body
+s__314267	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__314267	marine water body--TRUE	Sulfitobacter sp. NAS-14.1	species	ProTraits	medium	igc	always	1	habitat	multistate-union	314267	marine water body
+s__314290	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__314290	marine water body--TRUE	Vibrio sp. MED222	species	ProTraits	medium	igc	always	1	habitat	multistate-union	314290	marine water body
+s__316279	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__316279	marine water body--TRUE	Synechococcus sp. CC9902	species	ProTraits	medium	igc	always	1	habitat	multistate-union	316279	marine water body
+s__32051	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__32051	marine water body--TRUE	Synechococcus sp. WH 7803	species	ProTraits	medium	igc	always	1	habitat	multistate-union	32051	marine water body
+s__326544	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__326544	marine water body--TRUE	Paraglaciecola psychrophila	species	ProTraits	medium	igc	always	1	habitat	multistate-union	326544	marine water body
+s__342949	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__342949	marine water body--TRUE	Pyrococcus sp. NA2	species	ProTraits	medium	igc	always	1	habitat	multistate-union	342949	marine water body
+s__368405	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__368405	marine water body--TRUE	Paraglaciecola chathamensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	368405	marine water body
+s__387092	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__387092	marine water body--TRUE	Nitratiruptor sp. SB155-2	species	ProTraits	medium	igc	always	1	habitat	multistate-union	387092	marine water body
+s__39766	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__39766	marine water body--TRUE	Sulfurimonas denitrificans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	39766	marine water body
+s__404011	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__404011	marine water body--TRUE	Shewanella piezotolerans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	404011	marine water body
+s__426481	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__426481	marine water body--TRUE	Tenacibaculum aiptasiae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	426481	marine water body
+s__43660	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__43660	marine water body--TRUE	Pseudoalteromonas undina	species	ProTraits	medium	igc	always	1	habitat	multistate-union	43660	marine water body
+s__439496	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__439496	marine water body--TRUE	Rhodobacterales bacterium Y4I	species	ProTraits	medium	igc	always	1	habitat	multistate-union	439496	marine water body
+s__47951	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__47951	marine water body--TRUE	Vibrio cyclitrophicus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	47951	marine water body
+s__52598	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__52598	marine water body--TRUE	Sulfitobacter sp. EE-36	species	ProTraits	medium	igc	always	1	habitat	multistate-union	52598	marine water body
+s__55802	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__55802	marine water body--TRUE	Thermococcus barophilus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	55802	marine water body
+s__58290	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__58290	marine water body--TRUE	Archaeoglobus veneficus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	58290	marine water body
+s__59931	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__59931	marine water body--TRUE	Synechococcus sp. WH 7805	species	ProTraits	medium	igc	always	1	habitat	multistate-union	59931	marine water body
+s__60217	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__60217	marine water body--TRUE	Shewanella violacea	species	ProTraits	medium	igc	always	1	habitat	multistate-union	60217	marine water body
+s__60890	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__60890	marine water body--TRUE	Phaeobacter gallaeciensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	60890	marine water body
+s__60961	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__60961	marine water body--TRUE	Shewanella woodyi	species	ProTraits	medium	igc	always	1	habitat	multistate-union	60961	marine water body
+s__64160	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__64160	marine water body--TRUE	Desulfurobacterium thermolithotrophum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	64160	marine water body
+s__644281	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__644281	marine water body--TRUE	Methanocaldococcus sp. FS406-22	species	ProTraits	medium	igc	always	1	habitat	multistate-union	644281	marine water body
+s__64471	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__64471	marine water body--TRUE	Synechococcus sp. CC9311	species	ProTraits	medium	igc	always	1	habitat	multistate-union	64471	marine water body
+s__663	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__663	marine water body--TRUE	Vibrio alginolyticus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	663	marine water body
+s__669	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__669	marine water body--TRUE	Vibrio harveyi	species	ProTraits	medium	igc	always	1	habitat	multistate-union	669	marine water body
+s__670	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__670	marine water body--TRUE	Vibrio parahaemolyticus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	670	marine water body
+s__674	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__674	marine water body--TRUE	Vibrio mimicus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	674	marine water body
+s__67760	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__67760	marine water body--TRUE	Methanocaldococcus infernus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	67760	marine water body
+s__680	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__680	marine water body--TRUE	Vibrio campbellii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	680	marine water body
+s__70864	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__70864	marine water body--TRUE	Shewanella pealeana	species	ProTraits	medium	igc	always	1	habitat	multistate-union	70864	marine water body
+s__715451	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__715451	marine water body--TRUE	Alteromonas naphthalenivorans	species	BacMap	low	nas	always	1	habitat	multistate-union	715451	marine water body
+s__73913	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__73913	marine water body--TRUE	Methanocaldococcus vulcanius	species	ProTraits	medium	igc	always	1	habitat	multistate-union	73913	marine water body
+s__767892	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__767892	marine water body--TRUE	Candidatus Puniceispirillum marinum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	767892	marine water body
+s__83171	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__83171	marine water body--TRUE	Methanocaldococcus fervens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	83171	marine water body
+s__84156	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__84156	marine water body--TRUE	Archaeoglobus profundus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	84156	marine water body
+s__84599	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__84599	marine water body--TRUE	Staphylothermus hellenicus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	84599	marine water body
+s__89184	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__89184	marine water body--TRUE	Ruegeria pomeroyi	species	ProTraits	medium	igc	always	1	habitat	multistate-union	89184	marine water body
+s__94122	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__94122	marine water body--TRUE	Shewanella sp. ANA-3	species	ProTraits	medium	igc	always	1	habitat	multistate-union	94122	marine water body
+s__983545	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__983545	marine water body--TRUE	Glaciecola sp. 4H-3-7+YE-5	species	ProTraits	medium	igc	always	1	habitat	multistate-union	983545	marine water body
+s__992012	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__992012	marine water body--TRUE	Vibrio sp. HENC-03	species	ProTraits	medium	igc	always	1	habitat	multistate-union	992012	marine water body
+t__326298	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__326298	marine water body--TRUE	Sulfurimonas denitrificans DSM 1251	strain	BacMap	low	nas	always	1	habitat	multistate-union	326298	marine water body
+t__458817	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__458817	marine water body--TRUE	Shewanella halifaxensis HAW-EB4	strain	BacMap	low	nas	always	1	habitat	multistate-union	458817	marine water body
+t__472759	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__472759	marine water body--TRUE	Nitrosococcus halophilus Nc 4	strain	BacMap	low	nas	always	1	habitat	multistate-union	472759	marine water body
+t__478801	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__478801	marine water body--TRUE	Kytococcus sedentarius DSM 20547	strain	BacMap	low	nas	always	1	habitat	multistate-union	478801	marine water body
+t__491952	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__491952	marine water body--TRUE	Marinomonas posidonica IVIA-Po-181	strain	BacMap	low	nas	always	1	habitat	multistate-union	491952	marine water body
+t__529709	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__529709	marine water body--TRUE	Pyrococcus yayanosii CH1	strain	BacMap	low	nas	always	1	habitat	multistate-union	529709	marine water body
+t__563040	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__563040	marine water body--TRUE	Sulfurimonas autotrophica DSM 16294	strain	BacMap	low	nas	always	1	habitat	multistate-union	563040	marine water body
+t__665571	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__665571	marine water body--TRUE	Winmispira thermophila DSM 6192	strain	BacMap	low	nas	always	1	habitat	multistate-union	665571	marine water body
+t__670487	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__670487	marine water body--TRUE	Oceanithermus profundus DSM 14977	strain	BacMap	low	nas	always	1	habitat	multistate-union	670487	marine water body
+t__717231	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__717231	marine water body--TRUE	Flexistipes sinusarabici DSM 4947	strain	BacMap	low	nas	always	1	habitat	multistate-union	717231	marine water body
+t__717774	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__717774	marine water body--TRUE	Marinomonas mediterranea MMB-1	strain	BacMap	low	nas	always	1	habitat	multistate-union	717774	marine water body
+t__756272	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__756272	marine water body--TRUE	Rubinisphaera brasiliensis DSM 5305	strain	BacMap	low	nas	always	1	habitat	multistate-union	756272	marine water body
+t__762570	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__762570	marine water body--TRUE	Rhodothermus marinus SG0.5JP17-172	strain	BacMap	low	nas	always	1	habitat	multistate-union	762570	marine water body
+t__84588	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__84588	marine water body--TRUE	Parasynechococcus marenigrum WH 8102	strain	ProTraits	medium	igc	always	1	habitat	multistate-union	84588	marine water body
+t__857087	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__857087	marine water body--TRUE	Methylomonas methanica MC09	strain	BacMap	low	nas	always	1	habitat	multistate-union	857087	marine water body
+t__880724	marine water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__880724	marine water body--TRUE	Methanotorris igneus Kol 5	strain	BacMap	low	nas	always	1	habitat	multistate-union	880724	marine water body

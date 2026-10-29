@@ -1,0 +1,7 @@
+NCBI_ID	Attribute	Taxon_name	Rank	Attribute_source	Confidence_in_curation	Evidence	Frequency	Score	Attribute_group	Attribute_type	taxid	Attribute_group_2
+s__164756	creosote contaminated soil--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__164756	creosote contaminated soil--TRUE	Mycobacterium sp. MCS	species	ProTraits	medium	igc	always	1	habitat	multistate-union	164756	creosote contaminated soil
+s__164757	creosote contaminated soil--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__164757	creosote contaminated soil--TRUE	Mycobacterium sp. JLS	species	ProTraits	medium	igc	always	1	habitat	multistate-union	164757	creosote contaminated soil
+s__189918	creosote contaminated soil--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__189918	creosote contaminated soil--TRUE	Mycobacterium sp. KMS	species	ProTraits	medium	igc	always	1	habitat	multistate-union	189918	creosote contaminated soil

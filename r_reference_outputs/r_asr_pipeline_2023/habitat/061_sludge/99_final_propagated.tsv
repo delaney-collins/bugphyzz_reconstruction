@@ -1,0 +1,19 @@
+NCBI_ID	Attribute	Taxon_name	Rank	Attribute_source	Confidence_in_curation	Evidence	Frequency	Score	Attribute_group	Attribute_type	taxid	Attribute_group_2
+s__742013	sludge--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__742013	sludge--TRUE	Delftia sp. Cs1-4	species	ProTraits	medium	igc	always	1	habitat	multistate-union	742013	sludge
+s__80866	sludge--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__80866	sludge--TRUE	Delftia acidovorans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	80866	sludge
+t__1032480	sludge--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__1032480	sludge--TRUE	Microlunatus phosphovorus NM-1	strain	BacMap	low	nas	always	1	habitat	multistate-union	1032480	sludge
+t__1209989	sludge--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__1209989	sludge--TRUE	Tepidanaerobacter acetatoxydans Re1	strain	BacMap	low	nas	always	1	habitat	multistate-union	1209989	sludge
+t__479434	sludge--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__479434	sludge--TRUE	Sphaerobacter thermophilus DSM 20745	strain	BacMap	low	nas	always	1	habitat	multistate-union	479434	sludge
+t__663278	sludge--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__663278	sludge--TRUE	Ethanoligenens harbinense YUAN-3	strain	BacMap	low	nas	always	1	habitat	multistate-union	663278	sludge
+t__675635	sludge--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__675635	sludge--TRUE	Pseudonocardia benzenivorans CB1190	strain	BacMap	low	nas	always	1	habitat	multistate-union	675635	sludge
+t__79929	sludge--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__79929	sludge--TRUE	Methanothermobacter marburgensis str. Marburg	strain	BacMap	low	nas	always	1	habitat	multistate-union	79929	sludge
+t__880072	sludge--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__880072	sludge--TRUE	Desulfobacca acetoxidans DSM 11109	strain	BacMap	low	nas	always	1	habitat	multistate-union	880072	sludge

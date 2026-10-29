@@ -1,0 +1,7 @@
+property	value
+description	Twenty-five annotated tips spaced across tree tip order: a compact, deterministic multi-source case.
+annotated_tip_count	25
+requested_node_count	2299
+unannotated_tip_count	23476
+returned_node_count	2299
+result_row_count	25775

@@ -1,0 +1,13 @@
+NCBI_ID	Attribute	Taxon_name	Rank	Attribute_source	Confidence_in_curation	Evidence	Frequency	Score	Attribute_group	Attribute_type	taxid	Attribute_group_2
+s__1055487	lentic water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1055487	lentic water body--TRUE	Methylotenera versatilis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1055487	lentic water body
+s__1115834	lentic water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1115834	lentic water body--TRUE	Methylophilus sp. 42	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1115834	lentic water body
+s__1165096	lentic water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1165096	lentic water body--TRUE	Methylotenera sp. 73s	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1165096	lentic water body
+s__266009	lentic water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__266009	lentic water body--TRUE	Methylovorus glucosotrophus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	266009	lentic water body
+s__496866	lentic water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__496866	lentic water body--TRUE	Thermoanaerobacter pseudethanolicus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	496866	lentic water body
+s__887061	lentic water body--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__887061	lentic water body--TRUE	Methylovorus sp. MP688	species	ProTraits	medium	igc	always	1	habitat	multistate-union	887061	lentic water body

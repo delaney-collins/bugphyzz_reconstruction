@@ -1,0 +1,18 @@
+Object of class "fitMk".
+
+Fitted (or set) value of Q:
+                    motility--FALSE      motility--TRUE
+motility--FALSE -5.7000890000000002  5.7000890000000002
+motility--TRUE   5.7000890000000002 -5.7000890000000002
+
+Fitted (or set) value of pi:
+motility--FALSE  motility--TRUE 
+            0.5             0.5 
+due to treating the root prior as (a) flat.
+
+Log-likelihood: -14656.755167 
+
+Optimization method used was "nlminb"
+
+R thinks it has found the ML solution.
+

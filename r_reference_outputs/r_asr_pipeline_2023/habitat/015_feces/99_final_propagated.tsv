@@ -1,0 +1,591 @@
+NCBI_ID	Attribute	Taxon_name	Rank	Attribute_source	Confidence_in_curation	Evidence	Frequency	Score	Attribute_group	Attribute_type	taxid	Attribute_group_2
+s__1041504	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1041504	feces--TRUE	Candidatus Arthromitus sp. SFB-rat-Yit	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1041504	feces
+s__1042156	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1042156	feces--TRUE	Clostridium sp. SY8519	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1042156	feces
+s__105841	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__105841	feces--TRUE	Anaerostipes caccae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	105841	feces
+s__106588	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__106588	feces--TRUE	Pseudoflavonifractor capillosus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	106588	feces
+s__1078089	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1078089	feces--TRUE	Bacteroides sp. HPS0048	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1078089	feces
+s__1078091	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1078091	feces--TRUE	Coprococcus sp. HPP0048	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1078091	feces
+s__109790	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__109790	feces--TRUE	Lactobacillus jensenii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	109790	feces
+s__1111135	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1111135	feces--TRUE	Coriobacteriaceae bacterium BV3Ac1	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1111135	feces
+s__1161942	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1161942	feces--TRUE	Ruminococcus champanellensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1161942	feces
+s__1166130	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1166130	feces--TRUE	Enterobacter sp. R4-368	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1166130	feces
+s__1169319	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1169319	feces--TRUE	Citrobacter sp. KTE30	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1169319	feces
+s__1169321	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1169321	feces--TRUE	Escherichia sp. KTE114	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1169321	feces
+s__1169322	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1169322	feces--TRUE	Citrobacter sp. KTE151	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1169322	feces
+s__1169331	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1169331	feces--TRUE	Escherichia sp. KTE11	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1169331	feces
+s__1169349	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1169349	feces--TRUE	Escherichia sp. KTE31	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1169349	feces
+s__1169350	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1169350	feces--TRUE	Citrobacter sp. KTE32	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1169350	feces
+s__1173691	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1173691	feces--TRUE	Citrobacter sp. A1	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1173691	feces
+s__1182697	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1182697	feces--TRUE	Escherichia sp. KTE96	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1182697	feces
+s__1182732	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1182732	feces--TRUE	Escherichia sp. KTE159	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1182732	feces
+s__1232449	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1232449	feces--TRUE	Clostridiales bacterium VE202-08	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1232449	feces
+s__1232452	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1232452	feces--TRUE	Clostridiales bacterium VE202-14	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1232452	feces
+s__1235790	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1235790	feces--TRUE	Eubacterium sp. 14-2	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1235790	feces
+s__1235792	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1235792	feces--TRUE	Lachnospiraceae bacterium M18-1	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1235792	feces
+s__1235796	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1235796	feces--TRUE	Firmicutes bacterium M10-2	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1235796	feces
+s__1235797	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1235797	feces--TRUE	Oscillibacter sp. 1-3	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1235797	feces
+s__1235798	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1235798	feces--TRUE	Dorea sp. 5-2	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1235798	feces
+s__1235799	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1235799	feces--TRUE	Lachnospiraceae bacterium MD308	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1235799	feces
+s__1235800	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1235800	feces--TRUE	Lachnospiraceae bacterium 10-1	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1235800	feces
+s__1235803	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1235803	feces--TRUE	Parabacteroides sp. ASF519	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1235803	feces
+s__1247	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1247	feces--TRUE	Oenococcus oeni	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1247	feces
+s__1255	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1255	feces--TRUE	Pediococcus pentosaceus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1255	feces
+s__1260	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1260	feces--TRUE	Finegoldia magna	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1260	feces
+s__1263550	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1263550	feces--TRUE	Edwardsiella piscicida	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1263550	feces
+s__126385	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__126385	feces--TRUE	Providencia alcalifaciens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	126385	feces
+s__1279005	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1279005	feces--TRUE	Escherichia sp. KTE172	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1279005	feces
+s__1304	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1304	feces--TRUE	Streptococcus salivarius	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1304	feces
+s__1307	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1307	feces--TRUE	Streptococcus suis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1307	feces
+s__1308	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1308	feces--TRUE	Streptococcus thermophilus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1308	feces
+s__1311	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1311	feces--TRUE	Streptococcus agalactiae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1311	feces
+s__1322	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1322	feces--TRUE	Blautia hansenii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1322	feces
+s__1323	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1323	feces--TRUE	Faecalicoccus pleomorphus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1323	feces
+s__1334193	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1334193	feces--TRUE	[Enterobacter] lignolyticus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1334193	feces
+s__133448	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__133448	feces--TRUE	Citrobacter youngae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	133448	feces
+s__1338	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1338	feces--TRUE	Streptococcus intermedius	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1338	feces
+s__1351	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1351	feces--TRUE	Enterococcus faecalis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1351	feces
+s__1354	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1354	feces--TRUE	Enterococcus hirae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1354	feces
+s__1358	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1358	feces--TRUE	Lactococcus lactis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1358	feces
+s__1376	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1376	feces--TRUE	Aerococcus urinae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1376	feces
+s__1428	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1428	feces--TRUE	Bacillus thuringiensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1428	feces
+s__1465754	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1465754	feces--TRUE	Alistipes timonensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1465754	feces
+s__147802	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__147802	feces--TRUE	Lactobacillus iners	species	ProTraits	medium	igc	always	1	habitat	multistate-union	147802	feces
+s__150055	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__150055	feces--TRUE	Streptococcus lutetiensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	150055	feces
+s__1512	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1512	feces--TRUE	[Clostridium] symbiosum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1512	feces
+s__151276	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__151276	feces--TRUE	Bacteroides coprosuis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	151276	feces
+s__1522	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1522	feces--TRUE	[Clostridium] innocuum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1522	feces
+s__1531	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1531	feces--TRUE	Enterocloster clostridioformis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1531	feces
+s__1535	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1535	feces--TRUE	[Clostridium] leptum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1535	feces
+s__154046	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__154046	feces--TRUE	Hungatella hathewayi	species	ProTraits	medium	igc	always	1	habitat	multistate-union	154046	feces
+s__1547	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1547	feces--TRUE	Thomasclavelia ramosa	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1547	feces
+s__1575	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1575	feces--TRUE	Leifsonia xyli	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1575	feces
+s__1579	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1579	feces--TRUE	Lactobacillus acidophilus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1579	feces
+s__1580	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1580	feces--TRUE	Levilactobacillus brevis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1580	feces
+s__1581	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1581	feces--TRUE	Lentilactobacillus buchneri	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1581	feces
+s__1582	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1582	feces--TRUE	Lacticaseibacillus casei	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1582	feces
+s__1584	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1584	feces--TRUE	Lactobacillus delbrueckii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1584	feces
+s__1587	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1587	feces--TRUE	Lactobacillus helveticus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1587	feces
+s__158836	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__158836	feces--TRUE	Enterobacter hormaechei	species	ProTraits	medium	igc	always	1	habitat	multistate-union	158836	feces
+s__159	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__159	feces--TRUE	Brachyspira hyodysenteriae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	159	feces
+s__1590	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1590	feces--TRUE	Lactiplantibacillus plantarum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1590	feces
+s__1596	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1596	feces--TRUE	Lactobacillus gasseri	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1596	feces
+s__1597	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1597	feces--TRUE	Lacticaseibacillus paracasei	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1597	feces
+s__1598	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1598	feces--TRUE	Limosilactobacillus reuteri	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1598	feces
+s__1599	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1599	feces--TRUE	Latilactobacillus sakei	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1599	feces
+s__1604	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1604	feces--TRUE	Lactobacillus amylovorus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1604	feces
+s__1613	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1613	feces--TRUE	Limosilactobacillus fermentum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1613	feces
+s__1623	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1623	feces--TRUE	Ligilactobacillus ruminis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1623	feces
+s__1624	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1624	feces--TRUE	Ligilactobacillus salivarius	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1624	feces
+s__1625	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1625	feces--TRUE	Fructilactobacillus sanfranciscensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1625	feces
+s__1632	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1632	feces--TRUE	Limosilactobacillus oris	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1632	feces
+s__1638	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1638	feces--TRUE	Listeria ivanovii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1638	feces
+s__1639	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1639	feces--TRUE	Listeria monocytogenes	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1639	feces
+s__1640	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1640	feces--TRUE	Listeria seeligeri	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1640	feces
+s__1643	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1643	feces--TRUE	Listeria welshimeri	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1643	feces
+s__165179	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__165179	feces--TRUE	Segatella copri	species	ProTraits	medium	igc	always	1	habitat	multistate-union	165179	feces
+s__167965	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__167965	feces--TRUE	uncultured Termite group 1 bacterium	species	ProTraits	medium	igc	always	1	habitat	multistate-union	167965	feces
+s__1680	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1680	feces--TRUE	Bifidobacterium adolescentis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1680	feces
+s__1681	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1681	feces--TRUE	Bifidobacterium bifidum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1681	feces
+s__1683	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1683	feces--TRUE	Bifidobacterium angulatum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1683	feces
+s__168384	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__168384	feces--TRUE	Marvinbryantia formatexigens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	168384	feces
+s__1684	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1684	feces--TRUE	Bifidobacterium asteroides	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1684	feces
+s__1685	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1685	feces--TRUE	Bifidobacterium breve	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1685	feces
+s__1686	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1686	feces--TRUE	Bifidobacterium catenulatum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1686	feces
+s__1689	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1689	feces--TRUE	Bifidobacterium dentium	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1689	feces
+s__169435	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__169435	feces--TRUE	Anaerotruncus colihominis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	169435	feces
+s__177972	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__177972	feces--TRUE	Shuttleworthella satelles	species	ProTraits	medium	igc	always	1	habitat	multistate-union	177972	feces
+s__189722	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__189722	feces--TRUE	Hoylesella marshii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	189722	feces
+s__195	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__195	feces--TRUE	Campylobacter coli	species	ProTraits	medium	igc	always	1	habitat	multistate-union	195	feces
+s__196	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__196	feces--TRUE	Campylobacter fetus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	196	feces
+s__197	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__197	feces--TRUE	Campylobacter jejuni	species	ProTraits	medium	igc	always	1	habitat	multistate-union	197	feces
+s__197614	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__197614	feces--TRUE	Streptococcus pasteurianus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	197614	feces
+s__199	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__199	feces--TRUE	Campylobacter concisus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	199	feces
+s__201	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__201	feces--TRUE	Campylobacter lari	species	ProTraits	medium	igc	always	1	habitat	multistate-union	201	feces
+s__2039	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__2039	feces--TRUE	Tropheryma whipplei	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2039	feces
+s__204516	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__204516	feces--TRUE	Phocaeicola massiliensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	204516	feces
+s__208479	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__208479	feces--TRUE	Enterocloster bolteae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	208479	feces
+s__208962	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__208962	feces--TRUE	Escherichia albertii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	208962	feces
+s__213	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__213	feces--TRUE	Helicobacter cinaedi	species	ProTraits	medium	igc	always	1	habitat	multistate-union	213	feces
+s__214856	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__214856	feces--TRUE	Alistipes finegoldii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	214856	feces
+s__216816	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__216816	feces--TRUE	Bifidobacterium longum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	216816	feces
+s__2173	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__2173	feces--TRUE	Methanobrevibacter smithii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2173	feces
+s__244366	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__244366	feces--TRUE	Klebsiella variicola	species	ProTraits	medium	igc	always	1	habitat	multistate-union	244366	feces
+s__246787	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__246787	feces--TRUE	Bacteroides cellulosilyticus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	246787	feces
+s__267818	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__267818	feces--TRUE	Lactobacillus kefiranofaciens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	267818	feces
+s__2702	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__2702	feces--TRUE	Gardnerella vaginalis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2702	feces
+s__28025	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__28025	feces--TRUE	Bifidobacterium animalis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	28025	feces
+s__28026	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__28026	feces--TRUE	Bifidobacterium pseudocatenulatum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	28026	feces
+s__28111	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__28111	feces--TRUE	Bacteroides eggerthii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	28111	feces
+s__28112	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__28112	feces--TRUE	Tannerella forsythia	species	ProTraits	medium	igc	always	1	habitat	multistate-union	28112	feces
+s__28116	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__28116	feces--TRUE	Bacteroides ovatus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	28116	feces
+s__28118	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__28118	feces--TRUE	Odoribacter splanchnicus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	28118	feces
+s__28126	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__28126	feces--TRUE	Segatella buccae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	28126	feces
+s__28129	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__28129	feces--TRUE	Prevotella denticola	species	ProTraits	medium	igc	always	1	habitat	multistate-union	28129	feces
+s__28131	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__28131	feces--TRUE	Prevotella intermedia	species	ProTraits	medium	igc	always	1	habitat	multistate-union	28131	feces
+s__28132	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__28132	feces--TRUE	Prevotella melaninogenica	species	ProTraits	medium	igc	always	1	habitat	multistate-union	28132	feces
+s__28133	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__28133	feces--TRUE	Prevotella nigrescens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	28133	feces
+s__28134	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__28134	feces--TRUE	Hoylesella oralis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	28134	feces
+s__28135	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__28135	feces--TRUE	Segatella oris	species	ProTraits	medium	igc	always	1	habitat	multistate-union	28135	feces
+s__28141	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__28141	feces--TRUE	Cronobacter sakazakii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	28141	feces
+s__282402	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__282402	feces--TRUE	Prevotella multiformis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	282402	feces
+s__28901	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__28901	feces--TRUE	Salmonella enterica	species	ProTraits	medium	igc	always	1	habitat	multistate-union	28901	feces
+s__290053	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__290053	feces--TRUE	Bacteroides helcogenes	species	ProTraits	medium	igc	always	1	habitat	multistate-union	290053	feces
+s__291644	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__291644	feces--TRUE	Bacteroides salyersiae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	291644	feces
+s__291645	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__291645	feces--TRUE	Bacteroides nordii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	291645	feces
+s__29322	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__29322	feces--TRUE	[Eubacterium] cellulosolvens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	29322	feces
+s__29347	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__29347	feces--TRUE	[Clostridium] scindens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	29347	feces
+s__29348	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__29348	feces--TRUE	Thomasclavelia spiroformis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	29348	feces
+s__29466	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__29466	feces--TRUE	Veillonella parvula	species	ProTraits	medium	igc	always	1	habitat	multistate-union	29466	feces
+s__29471	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__29471	feces--TRUE	Pectobacterium atrosepticum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	29471	feces
+s__301301	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__301301	feces--TRUE	Roseburia hominis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	301301	feces
+s__305719	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__305719	feces--TRUE	Segatella baroniae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	305719	feces
+s__310297	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__310297	feces--TRUE	Phocaeicola plebeius	species	ProTraits	medium	igc	always	1	habitat	multistate-union	310297	feces
+s__310298	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__310298	feces--TRUE	Phocaeicola coprocola	species	ProTraits	medium	igc	always	1	habitat	multistate-union	310298	feces
+s__310300	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__310300	feces--TRUE	Bacteroides pyogenes	species	ProTraits	medium	igc	always	1	habitat	multistate-union	310300	feces
+s__310514	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__310514	feces--TRUE	Hallella multisaccharivorax	species	ProTraits	medium	igc	always	1	habitat	multistate-union	310514	feces
+s__31971	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__31971	feces--TRUE	Amedibacillus dolichus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	31971	feces
+s__328812	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__328812	feces--TRUE	Parabacteroides goldsteinii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	328812	feces
+s__329854	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__329854	feces--TRUE	Bacteroides intestinalis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	329854	feces
+s__33034	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__33034	feces--TRUE	Anaerococcus prevotii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	33034	feces
+s__33037	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__33037	feces--TRUE	Anaerococcus vaginalis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	33037	feces
+s__33038	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__33038	feces--TRUE	Mediterraneibacter gnavus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	33038	feces
+s__33039	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__33039	feces--TRUE	Mediterraneibacter torques	species	ProTraits	medium	igc	always	1	habitat	multistate-union	33039	feces
+s__33043	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__33043	feces--TRUE	Coprococcus eutactus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	33043	feces
+s__338188	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__338188	feces--TRUE	Bacteroides finegoldii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	338188	feces
+s__33871	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__33871	feces--TRUE	Coriobacterium glomerans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	33871	feces
+s__33905	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__33905	feces--TRUE	Bifidobacterium thermophilum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	33905	feces
+s__33945	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__33945	feces--TRUE	Enterococcus avium	species	ProTraits	medium	igc	always	1	habitat	multistate-union	33945	feces
+s__33959	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__33959	feces--TRUE	Lactobacillus johnsonii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	33959	feces
+s__33970	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__33970	feces--TRUE	Melissococcus plutonius	species	ProTraits	medium	igc	always	1	habitat	multistate-union	33970	feces
+s__351091	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__351091	feces--TRUE	Oscillibacter valericigenes	species	ProTraits	medium	igc	always	1	habitat	multistate-union	351091	feces
+s__357240	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__357240	feces--TRUE	Franconibacter helveticus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	357240	feces
+s__357276	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__357276	feces--TRUE	Phocaeicola dorei	species	ProTraits	medium	igc	always	1	habitat	multistate-union	357276	feces
+s__358743	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__358743	feces--TRUE	Enterocloster citroniae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	358743	feces
+s__363265	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__363265	feces--TRUE	Leyella stercorea	species	ProTraits	medium	igc	always	1	habitat	multistate-union	363265	feces
+s__371601	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__371601	feces--TRUE	Bacteroides xylanisolvens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	371601	feces
+s__376804	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__376804	feces--TRUE	Phocaeicola barnesiae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	376804	feces
+s__376805	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__376805	feces--TRUE	Phocaeicola salanitronis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	376805	feces
+s__384638	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__384638	feces--TRUE	[Bacteroides] pectinophilus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	384638	feces
+s__386414	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__386414	feces--TRUE	Hoylesella timonensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	386414	feces
+s__387661	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__387661	feces--TRUE	Parabacteroides johnsonii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	387661	feces
+s__39485	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__39485	feces--TRUE	Lachnospira eligens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	39485	feces
+s__39486	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__39486	feces--TRUE	Dorea formicigenerans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	39486	feces
+s__39491	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__39491	feces--TRUE	Agathobacter rectalis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	39491	feces
+s__39496	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__39496	feces--TRUE	Eubacterium ventriosum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	39496	feces
+s__397287	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__397287	feces--TRUE	Lachnospiraceae bacterium 28-4	species	ProTraits	medium	igc	always	1	habitat	multistate-union	397287	feces
+s__397288	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__397288	feces--TRUE	Lachnospiraceae bacterium 3-1	species	ProTraits	medium	igc	always	1	habitat	multistate-union	397288	feces
+s__397290	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__397290	feces--TRUE	Lachnospiraceae bacterium A2	species	ProTraits	medium	igc	always	1	habitat	multistate-union	397290	feces
+s__399742	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__399742	feces--TRUE	Enterobacter sp. 638	species	ProTraits	medium	igc	always	1	habitat	multistate-union	399742	feces
+s__40520	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__40520	feces--TRUE	Blautia obeum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	40520	feces
+s__407975	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__407975	feces--TRUE	Hoylesella pleuritidis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	407975	feces
+s__410072	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__410072	feces--TRUE	Allocoprococcus comes	species	ProTraits	medium	igc	always	1	habitat	multistate-union	410072	feces
+s__411486	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__411486	feces--TRUE	Clostridium sp. M62/1	species	ProTraits	medium	igc	always	1	habitat	multistate-union	411486	feces
+s__411489	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__411489	feces--TRUE	Clostridium sp. L2-50	species	ProTraits	medium	igc	always	1	habitat	multistate-union	411489	feces
+s__413502	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__413502	feces--TRUE	Cronobacter turicensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	413502	feces
+s__419015	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__419015	feces--TRUE	Alloscardovia omnicolens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	419015	feces
+s__41997	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__41997	feces--TRUE	Enterococcus saccharolyticus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	41997	feces
+s__43305	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__43305	feces--TRUE	Butyrivibrio proteoclasticus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	43305	feces
+s__457387	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__457387	feces--TRUE	Bacteroides sp. 1_1_30	species	ProTraits	medium	igc	always	1	habitat	multistate-union	457387	feces
+s__457390	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__457390	feces--TRUE	Bacteroides sp. 3_1_23	species	ProTraits	medium	igc	always	1	habitat	multistate-union	457390	feces
+s__457391	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__457391	feces--TRUE	Bacteroides sp. 3_1_33FAA	species	ProTraits	medium	igc	always	1	habitat	multistate-union	457391	feces
+s__457392	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__457392	feces--TRUE	Bacteroides sp. 3_2_5	species	ProTraits	medium	igc	always	1	habitat	multistate-union	457392	feces
+s__457393	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__457393	feces--TRUE	Bacteroides sp. 4_1_36	species	ProTraits	medium	igc	always	1	habitat	multistate-union	457393	feces
+s__457394	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__457394	feces--TRUE	Bacteroides sp. 4_3_47FAA	species	ProTraits	medium	igc	always	1	habitat	multistate-union	457394	feces
+s__457395	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__457395	feces--TRUE	Bacteroides sp. 9_1_42FAA	species	ProTraits	medium	igc	always	1	habitat	multistate-union	457395	feces
+s__457401	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__457401	feces--TRUE	Escherichia sp. 4_1_40B	species	ProTraits	medium	igc	always	1	habitat	multistate-union	457401	feces
+s__457402	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__457402	feces--TRUE	Eubacterium sp. 3_1_31	species	ProTraits	medium	igc	always	1	habitat	multistate-union	457402	feces
+s__457412	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__457412	feces--TRUE	Ruminococcus sp. 5_1_39BFAA	species	ProTraits	medium	igc	always	1	habitat	multistate-union	457412	feces
+s__457422	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__457422	feces--TRUE	Erysipelotrichaceae bacterium 2_2_44A	species	ProTraits	medium	igc	always	1	habitat	multistate-union	457422	feces
+s__45851	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__45851	feces--TRUE	Eshraghiella crossota	species	ProTraits	medium	igc	always	1	habitat	multistate-union	45851	feces
+s__46228	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__46228	feces--TRUE	[Ruminococcus] lactaris	species	ProTraits	medium	igc	always	1	habitat	multistate-union	46228	feces
+s__46503	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__46503	feces--TRUE	Parabacteroides merdae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	46503	feces
+s__46506	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__46506	feces--TRUE	Bacteroides stercoris	species	ProTraits	medium	igc	always	1	habitat	multistate-union	46506	feces
+s__469585	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__469585	feces--TRUE	Bacteroides sp. 1_1_14	species	ProTraits	medium	igc	always	1	habitat	multistate-union	469585	feces
+s__469590	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__469590	feces--TRUE	Bacteroides sp. 2_2_4	species	ProTraits	medium	igc	always	1	habitat	multistate-union	469590	feces
+s__469591	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__469591	feces--TRUE	Parabacteroides sp. 20_3	species	ProTraits	medium	igc	always	1	habitat	multistate-union	469591	feces
+s__469592	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__469592	feces--TRUE	Bacteroides sp. 3_1_19	species	ProTraits	medium	igc	always	1	habitat	multistate-union	469592	feces
+s__469593	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__469593	feces--TRUE	Bacteroides sp. 3_1_40A	species	ProTraits	medium	igc	always	1	habitat	multistate-union	469593	feces
+s__469597	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__469597	feces--TRUE	Coprobacillus sp. 8_2_54BFAA	species	ProTraits	medium	igc	always	1	habitat	multistate-union	469597	feces
+s__469614	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__469614	feces--TRUE	Erysipelotrichaceae bacterium 6_1_45	species	ProTraits	medium	igc	always	1	habitat	multistate-union	469614	feces
+s__470565	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__470565	feces--TRUE	Prevotella histicola	species	ProTraits	medium	igc	always	1	habitat	multistate-union	470565	feces
+s__470934	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__470934	feces--TRUE	Pantoea vagans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	470934	feces
+s__47678	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__47678	feces--TRUE	Bacteroides caccae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	47678	feces
+s__47715	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__47715	feces--TRUE	Lacticaseibacillus rhamnosus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	47715	feces
+s__47770	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__47770	feces--TRUE	Lactobacillus crispatus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	47770	feces
+s__487174	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__487174	feces--TRUE	Barnesiella intestinihominis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	487174	feces
+s__501571	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__501571	feces--TRUE	Butyricicoccus pullicaecorum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	501571	feces
+s__502558	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__502558	feces--TRUE	Eggerthella sp. YY7918	species	ProTraits	medium	igc	always	1	habitat	multistate-union	502558	feces
+s__51229	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__51229	feces--TRUE	Wigglesworthia glossinidia	species	ProTraits	medium	igc	always	1	habitat	multistate-union	51229	feces
+s__52226	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__52226	feces--TRUE	Mitsuokella multacida	species	ProTraits	medium	igc	always	1	habitat	multistate-union	52226	feces
+s__52227	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__52227	feces--TRUE	Prevotella dentalis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	52227	feces
+s__53443	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__53443	feces--TRUE	Blautia hydrogenotrophica	species	ProTraits	medium	igc	always	1	habitat	multistate-union	53443	feces
+s__54291	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__54291	feces--TRUE	Klebsiella ornithinolytica	species	ProTraits	medium	igc	always	1	habitat	multistate-union	54291	feces
+s__545	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__545	feces--TRUE	Citrobacter koseri	species	ProTraits	medium	igc	always	1	habitat	multistate-union	545	feces
+s__546	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__546	feces--TRUE	Citrobacter freundii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	546	feces
+s__54736	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__54736	feces--TRUE	Salmonella bongori	species	ProTraits	medium	igc	always	1	habitat	multistate-union	54736	feces
+s__548	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__548	feces--TRUE	Klebsiella aerogenes	species	ProTraits	medium	igc	always	1	habitat	multistate-union	548	feces
+s__550	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__550	feces--TRUE	Enterobacter cloacae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	550	feces
+s__552395	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__552395	feces--TRUE	Lachnospiraceae bacterium 4_1_37FAA	species	ProTraits	medium	igc	always	1	habitat	multistate-union	552395	feces
+s__552396	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__552396	feces--TRUE	Erysipelotrichaceae bacterium 5_2_54FAA	species	ProTraits	medium	igc	always	1	habitat	multistate-union	552396	feces
+s__552398	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__552398	feces--TRUE	Ruminococcaceae bacterium D16	species	ProTraits	medium	igc	always	1	habitat	multistate-union	552398	feces
+s__556258	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__556258	feces--TRUE	Bacteroides sp. D1	species	ProTraits	medium	igc	always	1	habitat	multistate-union	556258	feces
+s__556270	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__556270	feces--TRUE	Coprobacillus sp. D7	species	ProTraits	medium	igc	always	1	habitat	multistate-union	556270	feces
+s__562	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__562	feces--TRUE	Escherichia coli	species	ProTraits	medium	igc	always	1	habitat	multistate-union	562	feces
+s__563	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__563	feces--TRUE	Shimwellia blattae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	563	feces
+s__564	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__564	feces--TRUE	Escherichia fergusonii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	564	feces
+s__565	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__565	feces--TRUE	Atlantibacter hermannii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	565	feces
+s__571	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__571	feces--TRUE	Klebsiella oxytoca	species	ProTraits	medium	igc	always	1	habitat	multistate-union	571	feces
+s__573	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__573	feces--TRUE	Klebsiella pneumoniae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	573	feces
+s__585543	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__585543	feces--TRUE	Bacteroides sp. D20	species	ProTraits	medium	igc	always	1	habitat	multistate-union	585543	feces
+s__61645	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__61645	feces--TRUE	Enterobacter asburiae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	61645	feces
+s__621	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__621	feces--TRUE	Shigella boydii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	621	feces
+s__622	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__622	feces--TRUE	Shigella dysenteriae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	622	feces
+s__623	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__623	feces--TRUE	Shigella flexneri	species	ProTraits	medium	igc	always	1	habitat	multistate-union	623	feces
+s__624	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__624	feces--TRUE	Shigella sonnei	species	ProTraits	medium	igc	always	1	habitat	multistate-union	624	feces
+s__626929	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__626929	feces--TRUE	Bacteroides clarus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	626929	feces
+s__626930	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__626930	feces--TRUE	Bacteroides fluxus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	626930	feces
+s__626931	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__626931	feces--TRUE	Bacteroides oleiciplenus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	626931	feces
+s__626935	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__626935	feces--TRUE	Collinsella tanakaei	species	ProTraits	medium	igc	always	1	habitat	multistate-union	626935	feces
+s__630	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__630	feces--TRUE	Yersinia enterocolitica	species	ProTraits	medium	igc	always	1	habitat	multistate-union	630	feces
+s__658082	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__658082	feces--TRUE	Lachnospiraceae bacterium 2_1_58FAA	species	ProTraits	medium	igc	always	1	habitat	multistate-union	658082	feces
+s__658083	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__658083	feces--TRUE	Lachnospiraceae bacterium 6_1_63FAA	species	ProTraits	medium	igc	always	1	habitat	multistate-union	658083	feces
+s__658085	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__658085	feces--TRUE	Lachnospiraceae bacterium 5_1_57FAA	species	ProTraits	medium	igc	always	1	habitat	multistate-union	658085	feces
+s__658086	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__658086	feces--TRUE	Lachnospiraceae bacterium 3_1_57FAA_CT1	species	ProTraits	medium	igc	always	1	habitat	multistate-union	658086	feces
+s__658088	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__658088	feces--TRUE	Lachnospiraceae bacterium 9_1_43BFAA	species	ProTraits	medium	igc	always	1	habitat	multistate-union	658088	feces
+s__658655	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__658655	feces--TRUE	Lachnospiraceae bacterium 1_4_56FAA	species	ProTraits	medium	igc	always	1	habitat	multistate-union	658655	feces
+s__658657	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__658657	feces--TRUE	Erysipelotrichaceae bacterium 21_3	species	ProTraits	medium	igc	always	1	habitat	multistate-union	658657	feces
+s__658659	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__658659	feces--TRUE	Erysipelotrichaceae bacterium 3_1_53	species	ProTraits	medium	igc	always	1	habitat	multistate-union	658659	feces
+s__658661	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__658661	feces--TRUE	Parabacteroides sp. D25	species	ProTraits	medium	igc	always	1	habitat	multistate-union	658661	feces
+s__665939	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__665939	feces--TRUE	Campylobacter sp. 10_1_50	species	ProTraits	medium	igc	always	1	habitat	multistate-union	665939	feces
+s__665940	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__665940	feces--TRUE	Clostridium sp. 7_3_54FAA	species	ProTraits	medium	igc	always	1	habitat	multistate-union	665940	feces
+s__665941	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__665941	feces--TRUE	Coprobacillus sp. 3_3_56FAA	species	ProTraits	medium	igc	always	1	habitat	multistate-union	665941	feces
+s__665949	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__665949	feces--TRUE	Tannerella sp. 6_1_58FAA_CT1	species	ProTraits	medium	igc	always	1	habitat	multistate-union	665949	feces
+s__665951	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__665951	feces--TRUE	Lachnospiraceae bacterium 8_1_57FAA	species	ProTraits	medium	igc	always	1	habitat	multistate-union	665951	feces
+s__665956	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__665956	feces--TRUE	Subdoligranulum sp. 4_3_54A2FAA	species	ProTraits	medium	igc	always	1	habitat	multistate-union	665956	feces
+s__671218	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__671218	feces--TRUE	Alloprevotella rava	species	ProTraits	medium	igc	always	1	habitat	multistate-union	671218	feces
+s__674529	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__674529	feces--TRUE	Bacteroides faecis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	674529	feces
+s__67780	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__67780	feces--TRUE	Edwardsiella ictaluri	species	ProTraits	medium	igc	always	1	habitat	multistate-union	67780	feces
+s__67825	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__67825	feces--TRUE	Citrobacter rodentium	species	ProTraits	medium	igc	always	1	habitat	multistate-union	67825	feces
+s__69218	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__69218	feces--TRUE	Enterobacter cancerogenus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	69218	feces
+s__693444	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__693444	feces--TRUE	Enterobacteriaceae bacterium strain FGI 57	species	ProTraits	medium	igc	always	1	habitat	multistate-union	693444	feces
+s__71453	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__71453	feces--TRUE	Tetragenococcus solitarius	species	ProTraits	medium	igc	always	1	habitat	multistate-union	71453	feces
+s__742723	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__742723	feces--TRUE	Lachnospiraceae bacterium 2_1_46FAA	species	ProTraits	medium	igc	always	1	habitat	multistate-union	742723	feces
+s__754331	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__754331	feces--TRUE	Escherichia sp. TW09308	species	ProTraits	medium	igc	always	1	habitat	multistate-union	754331	feces
+s__754333	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__754333	feces--TRUE	Escherichia sp. TW11588	species	ProTraits	medium	igc	always	1	habitat	multistate-union	754333	feces
+s__76860	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__76860	feces--TRUE	Streptococcus constellatus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	76860	feces
+s__770	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__770	feces--TRUE	Anaplasma marginale	species	ProTraits	medium	igc	always	1	habitat	multistate-union	770	feces
+s__77635	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__77635	feces--TRUE	Bifidobacterium subtile	species	ProTraits	medium	igc	always	1	habitat	multistate-union	77635	feces
+s__78258	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__78258	feces--TRUE	Parascardovia denticolens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	78258	feces
+s__78259	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__78259	feces--TRUE	Scardovia inopinata	species	ProTraits	medium	igc	always	1	habitat	multistate-union	78259	feces
+s__78342	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__78342	feces--TRUE	Bifidobacterium gallicum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	78342	feces
+s__796942	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__796942	feces--TRUE	Stomatobaculum longum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	796942	feces
+s__817	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__817	feces--TRUE	Bacteroides fragilis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	817	feces
+s__818	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__818	feces--TRUE	Bacteroides thetaiotaomicron	species	ProTraits	medium	igc	always	1	habitat	multistate-union	818	feces
+s__820	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__820	feces--TRUE	Bacteroides uniformis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	820	feces
+s__821	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__821	feces--TRUE	Phocaeicola vulgatus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	821	feces
+s__823	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__823	feces--TRUE	Parabacteroides distasonis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	823	feces
+s__83816	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__83816	feces--TRUE	Methanobrevibacter ruminantium	species	ProTraits	medium	igc	always	1	habitat	multistate-union	83816	feces
+s__839	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__839	feces--TRUE	Xylanibacter ruminicola	species	ProTraits	medium	igc	always	1	habitat	multistate-union	839	feces
+s__840	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__840	feces--TRUE	Hoylesella loescheii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	840	feces
+s__84030	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__84030	feces--TRUE	Lacrimispora saccharolytica	species	ProTraits	medium	igc	always	1	habitat	multistate-union	84030	feces
+s__84377	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__84377	feces--TRUE	Brachyspira intermedia	species	ProTraits	medium	igc	always	1	habitat	multistate-union	84377	feces
+s__84378	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__84378	feces--TRUE	Brachyspira murdochii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	84378	feces
+s__853	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__853	feces--TRUE	Faecalibacterium prausnitzii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	853	feces
+s__88431	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__88431	feces--TRUE	Dorea longicatena	species	ProTraits	medium	igc	always	1	habitat	multistate-union	88431	feces
+s__908340	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__908340	feces--TRUE	Clostridium sp. HGF2	species	ProTraits	medium	igc	always	1	habitat	multistate-union	908340	feces
+s__97253	feces--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__97253	feces--TRUE	Eubacterium plexicaudatum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	97253	feces

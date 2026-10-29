@@ -1,0 +1,105 @@
+NCBI_ID	Attribute	Taxon_name	Rank	Attribute_source	Confidence_in_curation	Evidence	Frequency	Score	Attribute_group	Attribute_type	taxid	Attribute_group_2
+s__1094755	blood--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1094755	blood--TRUE	Bartonella sp. DB5-6	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1094755	blood
+s__111504	blood--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__111504	blood--TRUE	Bartonella birtlesii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	111504	blood
+s__139	blood--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__139	blood--TRUE	Borreliella burgdorferi	species	ProTraits	medium	igc	always	1	habitat	multistate-union	139	blood
+s__140	blood--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__140	blood--TRUE	Borrelia hermsii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	140	blood
+s__142	blood--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__142	blood--TRUE	Borrelia turicatae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	142	blood
+s__152480	blood--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__152480	blood--TRUE	Burkholderia ambifaria	species	ProTraits	medium	igc	always	1	habitat	multistate-union	152480	blood
+s__186739	blood--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__186739	blood--TRUE	Candidatus Bartonella washoeensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	186739	blood
+s__28095	blood--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__28095	blood--TRUE	Burkholderia gladioli	species	ProTraits	medium	igc	always	1	habitat	multistate-union	28095	blood
+s__28450	blood--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__28450	blood--TRUE	Burkholderia pseudomallei	species	ProTraits	medium	igc	always	1	habitat	multistate-union	28450	blood
+s__292	blood--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__292	blood--TRUE	Burkholderia cepacia	species	ProTraits	medium	igc	always	1	habitat	multistate-union	292	blood
+s__29518	blood--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__29518	blood--TRUE	Borreliella afzelii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	29518	blood
+s__29519	blood--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__29519	blood--TRUE	Borreliella garinii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	29519	blood
+s__29520	blood--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__29520	blood--TRUE	Borrelia crocidurae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	29520	blood
+s__33044	blood--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__33044	blood--TRUE	Bartonella doshiae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	33044	blood
+s__33045	blood--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__33045	blood--TRUE	Bartonella grahamii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	33045	blood
+s__33046	blood--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__33046	blood--TRUE	Bartonella taylorii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	33046	blood
+s__33047	blood--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__33047	blood--TRUE	Bartonella vinsonii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	33047	blood
+s__33989	blood--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__33989	blood--TRUE	Rickettsia amblyommatis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	33989	blood
+s__33991	blood--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__33991	blood--TRUE	Rickettsia montanensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	33991	blood
+s__33992	blood--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__33992	blood--TRUE	Rickettsia rhipicephali	species	ProTraits	medium	igc	always	1	habitat	multistate-union	33992	blood
+s__35788	blood--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__35788	blood--TRUE	Rickettsia africae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	35788	blood
+s__35789	blood--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__35789	blood--TRUE	Rickettsia helvetica	species	ProTraits	medium	igc	always	1	habitat	multistate-union	35789	blood
+s__35791	blood--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__35791	blood--TRUE	Rickettsia massiliae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	35791	blood
+s__35792	blood--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__35792	blood--TRUE	Rickettsia parkeri	species	ProTraits	medium	igc	always	1	habitat	multistate-union	35792	blood
+s__35793	blood--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__35793	blood--TRUE	Rickettsia sibirica	species	ProTraits	medium	igc	always	1	habitat	multistate-union	35793	blood
+s__35794	blood--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__35794	blood--TRUE	Rickettsia slovaca	species	ProTraits	medium	igc	always	1	habitat	multistate-union	35794	blood
+s__38323	blood--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__38323	blood--TRUE	Bartonella henselae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	38323	blood
+s__388640	blood--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__388640	blood--TRUE	Bartonella australis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	388640	blood
+s__416344	blood--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__416344	blood--TRUE	Burkholderia sp. KJ006	species	ProTraits	medium	igc	always	1	habitat	multistate-union	416344	blood
+s__42862	blood--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__42862	blood--TRUE	Rickettsia felis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	42862	blood
+s__44449	blood--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__44449	blood--TRUE	Borrelia recurrentis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	44449	blood
+s__482957	blood--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__482957	blood--TRUE	Burkholderia lata	species	ProTraits	medium	igc	always	1	habitat	multistate-union	482957	blood
+s__498741	blood--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__498741	blood--TRUE	[Borrelia] finlandensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	498741	blood
+s__52764	blood--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__52764	blood--TRUE	Bartonella alsatica	species	ProTraits	medium	igc	always	1	habitat	multistate-union	52764	blood
+s__56426	blood--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__56426	blood--TRUE	Bartonella clarridgeiae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	56426	blood
+s__57372	blood--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__57372	blood--TRUE	Mycoplasma suis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	57372	blood
+s__57975	blood--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__57975	blood--TRUE	Burkholderia thailandensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	57975	blood
+s__64897	blood--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__64897	blood--TRUE	Borreliella bissettiae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	64897	blood
+s__65123	blood--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__65123	blood--TRUE	Mycoplasma wenyonii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	65123	blood
+s__664662	blood--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__664662	blood--TRUE	Borreliella bavariensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	664662	blood
+s__769	blood--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__769	blood--TRUE	Anaplasma centrale	species	ProTraits	medium	igc	always	1	habitat	multistate-union	769	blood
+s__781	blood--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__781	blood--TRUE	Rickettsia conorii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	781	blood
+s__782	blood--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__782	blood--TRUE	Rickettsia prowazekii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	782	blood
+s__783	blood--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__783	blood--TRUE	Rickettsia rickettsii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	783	blood
+s__785	blood--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__785	blood--TRUE	Rickettsia typhi	species	ProTraits	medium	igc	always	1	habitat	multistate-union	785	blood
+s__786	blood--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__786	blood--TRUE	Rickettsia akari	species	ProTraits	medium	igc	always	1	habitat	multistate-union	786	blood
+s__787	blood--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__787	blood--TRUE	Rickettsia australis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	787	blood
+s__788	blood--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__788	blood--TRUE	Rickettsia canadensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	788	blood
+s__803	blood--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__803	blood--TRUE	Bartonella quintana	species	ProTraits	medium	igc	always	1	habitat	multistate-union	803	blood
+s__807	blood--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__807	blood--TRUE	Bartonella elizabethae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	807	blood
+s__85701	blood--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__85701	blood--TRUE	Bartonella tribocorum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	85701	blood
+s__951	blood--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__951	blood--TRUE	Ehrlichia sennetsu	species	ProTraits	medium	igc	always	1	habitat	multistate-union	951	blood

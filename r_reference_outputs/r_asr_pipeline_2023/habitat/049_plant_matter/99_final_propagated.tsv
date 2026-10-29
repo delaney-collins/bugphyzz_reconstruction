@@ -1,0 +1,167 @@
+NCBI_ID	Attribute	Taxon_name	Rank	Attribute_source	Confidence_in_curation	Evidence	Frequency	Score	Attribute_group	Attribute_type	taxid	Attribute_group_2
+s__1040986	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1040986	plant matter--TRUE	Mesorhizobium sp. WSM3224	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1040986	plant matter
+s__1040989	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1040989	plant matter--TRUE	Bradyrhizobium sp. ARR65	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1040989	plant matter
+s__1079800	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1079800	plant matter--TRUE	Rhizobium mesoamericanum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1079800	plant matter
+s__1096546	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1096546	plant matter--TRUE	Methylobacterium sp. GXF4	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1096546	plant matter
+s__110321	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__110321	plant matter--TRUE	Sinorhizobium medicae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	110321	plant matter
+s__1120045	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1120045	plant matter--TRUE	Rhizobium grahamii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1120045	plant matter
+s__1132836	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1132836	plant matter--TRUE	Rhizobium sp. CCGE 510	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1132836	plant matter
+s__1144314	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1144314	plant matter--TRUE	Rhizobium sp. CF142	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1144314	plant matter
+s__1144321	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1144321	plant matter--TRUE	Pseudomonas sp. GM102	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1144321	plant matter
+s__1144332	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1144332	plant matter--TRUE	Pseudomonas sp. GM50	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1144332	plant matter
+s__115808	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__115808	plant matter--TRUE	Bradyrhizobium sp. ORS 285	species	ProTraits	medium	igc	always	1	habitat	multistate-union	115808	plant matter
+s__1188263	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1188263	plant matter--TRUE	Bradyrhizobium sp. WSM2254	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1188263	plant matter
+s__1230476	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1230476	plant matter--TRUE	Bradyrhizobium sp. DFCI-1	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1230476	plant matter
+s__1297570	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1297570	plant matter--TRUE	Mesorhizobium sp. STM 4661	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1297570	plant matter
+s__1355477	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1355477	plant matter--TRUE	Bradyrhizobium diazoefficiens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1355477	plant matter
+s__172088	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__172088	plant matter--TRUE	Bradyrhizobium sp. th-b2	species	ProTraits	medium	igc	always	1	habitat	multistate-union	172088	plant matter
+s__182337	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__182337	plant matter--TRUE	Erwinia billingiae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	182337	plant matter
+s__1859	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1859	plant matter--TRUE	Frankia alni	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1859	plant matter
+s__189753	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__189753	plant matter--TRUE	Bradyrhizobium sp. Ec3.3	species	ProTraits	medium	igc	always	1	habitat	multistate-union	189753	plant matter
+s__196490	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__196490	plant matter--TRUE	Bradyrhizobium sp. Ai1a-2	species	ProTraits	medium	igc	always	1	habitat	multistate-union	196490	plant matter
+s__204038	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__204038	plant matter--TRUE	Dickeya dadantii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	204038	plant matter
+s__204042	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__204042	plant matter--TRUE	Dickeya zeae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	204042	plant matter
+s__215689	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__215689	plant matter--TRUE	Erwinia sp. Ejp617	species	ProTraits	medium	igc	always	1	habitat	multistate-union	215689	plant matter
+s__223967	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__223967	plant matter--TRUE	Methylorubrum populi	species	ProTraits	medium	igc	always	1	habitat	multistate-union	223967	plant matter
+s__229545	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__229545	plant matter--TRUE	Aster yellows witches'-broom phytoplasma	species	ProTraits	medium	igc	always	1	habitat	multistate-union	229545	plant matter
+s__251701	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__251701	plant matter--TRUE	Pseudomonas syringae group genomosp. 3	species	ProTraits	medium	igc	always	1	habitat	multistate-union	251701	plant matter
+s__28151	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__28151	plant matter--TRUE	Serratia proteamaculans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	28151	plant matter
+s__294	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__294	plant matter--TRUE	Pseudomonas fluorescens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	294	plant matter
+s__29438	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__29438	plant matter--TRUE	Pseudomonas savastanoi	species	ProTraits	medium	igc	always	1	habitat	multistate-union	29438	plant matter
+s__29449	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__29449	plant matter--TRUE	Rhizobium etli	species	ProTraits	medium	igc	always	1	habitat	multistate-union	29449	plant matter
+s__29471	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__29471	plant matter--TRUE	Pectobacterium atrosepticum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	29471	plant matter
+s__303	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__303	plant matter--TRUE	Pseudomonas putida	species	ProTraits	medium	igc	always	1	habitat	multistate-union	303	plant matter
+s__305	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__305	plant matter--TRUE	Ralstonia solanacearum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	305	plant matter
+s__317	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__317	plant matter--TRUE	Pseudomonas syringae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	317	plant matter
+s__318996	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__318996	plant matter--TRUE	Bradyrhizobium sp. WSM1743	species	ProTraits	medium	igc	always	1	habitat	multistate-union	318996	plant matter
+s__319003	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__319003	plant matter--TRUE	Bradyrhizobium sp. WSM1253	species	ProTraits	medium	igc	always	1	habitat	multistate-union	319003	plant matter
+s__31998	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__31998	plant matter--TRUE	Methylobacterium radiotolerans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	31998	plant matter
+s__338565	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__338565	plant matter--TRUE	Erwinia tasmaniensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	338565	plant matter
+s__339	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__339	plant matter--TRUE	Xanthomonas campestris	species	ProTraits	medium	igc	always	1	habitat	multistate-union	339	plant matter
+s__346	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__346	plant matter--TRUE	Xanthomonas citri	species	ProTraits	medium	igc	always	1	habitat	multistate-union	346	plant matter
+s__347	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__347	plant matter--TRUE	Xanthomonas oryzae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	347	plant matter
+s__358	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__358	plant matter--TRUE	Agrobacterium tumefaciens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	358	plant matter
+s__366650	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__366650	plant matter--TRUE	Xanthomonas alfalfae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	366650	plant matter
+s__375	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__375	plant matter--TRUE	Bradyrhizobium japonicum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	375	plant matter
+s__380	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__380	plant matter--TRUE	Sinorhizobium fredii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	380	plant matter
+s__381	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__381	plant matter--TRUE	Mesorhizobium loti	species	ProTraits	medium	igc	always	1	habitat	multistate-union	381	plant matter
+s__382	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__382	plant matter--TRUE	Sinorhizobium meliloti	species	ProTraits	medium	igc	always	1	habitat	multistate-union	382	plant matter
+s__384	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__384	plant matter--TRUE	Rhizobium leguminosarum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	384	plant matter
+s__39645	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__39645	plant matter--TRUE	Mesorhizobium ciceri	species	ProTraits	medium	igc	always	1	habitat	multistate-union	39645	plant matter
+s__398	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__398	plant matter--TRUE	Martinezella tropici	species	ProTraits	medium	igc	always	1	habitat	multistate-union	398	plant matter
+s__39956	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__39956	plant matter--TRUE	Methylobacterium mesophilicum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	39956	plant matter
+s__399742	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__399742	plant matter--TRUE	Enterobacter sp. 638	species	ProTraits	medium	igc	always	1	habitat	multistate-union	399742	plant matter
+s__426117	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__426117	plant matter--TRUE	Methylobacterium sp. 4-46	species	ProTraits	medium	igc	always	1	habitat	multistate-union	426117	plant matter
+s__44255	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__44255	plant matter--TRUE	Bradyrhizobium oligotrophicum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	44255	plant matter
+s__456327	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__456327	plant matter--TRUE	Xanthomonas euvesicatoria	species	ProTraits	medium	igc	always	1	habitat	multistate-union	456327	plant matter
+s__470934	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__470934	plant matter--TRUE	Pantoea vagans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	470934	plant matter
+s__47880	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__47880	plant matter--TRUE	Pseudomonas fulva	species	ProTraits	medium	igc	always	1	habitat	multistate-union	47880	plant matter
+s__489722	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__489722	plant matter--TRUE	Mesorhizobium metallidurans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	489722	plant matter
+s__508869	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__508869	plant matter--TRUE	Bradyrhizobium genosp. SA-4	species	ProTraits	medium	igc	always	1	habitat	multistate-union	508869	plant matter
+s__517433	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__517433	plant matter--TRUE	Pantoea sp. aB	species	ProTraits	medium	igc	always	1	habitat	multistate-union	517433	plant matter
+s__53413	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__53413	plant matter--TRUE	Xanthomonas axonopodis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	53413	plant matter
+s__536018	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__536018	plant matter--TRUE	Mesorhizobium australicum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	536018	plant matter
+s__549	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__549	plant matter--TRUE	Pantoea agglomerans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	549	plant matter
+s__551947	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__551947	plant matter--TRUE	Bradyrhizobium sp. STM 3843	species	ProTraits	medium	igc	always	1	habitat	multistate-union	551947	plant matter
+s__552	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__552	plant matter--TRUE	Erwinia amylovora	species	ProTraits	medium	igc	always	1	habitat	multistate-union	552	plant matter
+s__55208	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__55208	plant matter--TRUE	Pectobacterium wasabiae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	55208	plant matter
+s__553	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__553	plant matter--TRUE	Pantoea ananatis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	553	plant matter
+s__554	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__554	plant matter--TRUE	Pectobacterium carotovorum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	554	plant matter
+s__556	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__556	plant matter--TRUE	Dickeya chrysanthemi	species	ProTraits	medium	igc	always	1	habitat	multistate-union	556	plant matter
+s__56450	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__56450	plant matter--TRUE	Xanthomonas cassavae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	56450	plant matter
+s__587753	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__587753	plant matter--TRUE	Pseudomonas chlororaphis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	587753	plant matter
+s__592316	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__592316	plant matter--TRUE	Pantoea sp. At-9b	species	ProTraits	medium	igc	always	1	habitat	multistate-union	592316	plant matter
+s__593909	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__593909	plant matter--TRUE	Mesorhizobium opportunistum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	593909	plant matter
+s__614	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__614	plant matter--TRUE	Serratia liquefaciens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	614	plant matter
+s__71433	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__71433	plant matter--TRUE	Mesorhizobium amorphae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	71433	plant matter
+s__76745	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__76745	plant matter--TRUE	Sinorhizobium arboris	species	ProTraits	medium	igc	always	1	habitat	multistate-union	76745	plant matter
+s__768490	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__768490	plant matter--TRUE	Serratia sp. AS12	species	ProTraits	medium	igc	always	1	habitat	multistate-union	768490	plant matter
+s__768493	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__768493	plant matter--TRUE	Serratia sp. AS13	species	ProTraits	medium	igc	always	1	habitat	multistate-union	768493	plant matter
+s__79967	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__79967	plant matter--TRUE	Erwinia pyrifoliae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	79967	plant matter
+s__82996	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__82996	plant matter--TRUE	Serratia plymuthica	species	ProTraits	medium	igc	always	1	habitat	multistate-union	82996	plant matter
+s__92645	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__92645	plant matter--TRUE	Herbaspirillum frisingense	species	ProTraits	medium	igc	always	1	habitat	multistate-union	92645	plant matter
+s__930166	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__930166	plant matter--TRUE	Pseudomonas brassicacearum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	930166	plant matter
+s__964	plant matter--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__964	plant matter--TRUE	Herbaspirillum seropedicae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	964	plant matter

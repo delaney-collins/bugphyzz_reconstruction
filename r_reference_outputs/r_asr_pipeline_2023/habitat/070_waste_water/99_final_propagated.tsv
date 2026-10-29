@@ -1,0 +1,15 @@
+NCBI_ID	Attribute	Taxon_name	Rank	Attribute_source	Confidence_in_curation	Evidence	Frequency	Score	Attribute_group	Attribute_type	taxid	Attribute_group_2
+s__256618	waste water--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__256618	waste water--TRUE	Parvibaculum lavamentivorans	species	ProTraits	medium	igc	always	1	habitat	multistate-union	256618	waste water
+s__316277	waste water--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__316277	waste water--TRUE	Syntrophus aciditrophicus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	316277	waste water
+s__717785	waste water--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__717785	waste water--TRUE	Hyphomicrobium sp. MC1	species	BacMap	low	nas	always	1	habitat	multistate-union	717785	waste water
+s__754476	waste water--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__754476	waste water--TRUE	Methylophaga nitratireducenticrescens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	754476	waste water
+s__887061	waste water--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__887061	waste water--TRUE	Methylovorus sp. MP688	species	BacMap	low	nas	always	1	habitat	multistate-union	887061	waste water
+s__916	waste water--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__916	waste water--TRUE	Nitrosomonas eutropha	species	ProTraits	medium	igc	always	1	habitat	multistate-union	916	waste water
+t__1042876	waste water--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__1042876	waste water--TRUE	Pseudomonas putida S16	strain	BacMap	low	nas	always	1	habitat	multistate-union	1042876	waste water

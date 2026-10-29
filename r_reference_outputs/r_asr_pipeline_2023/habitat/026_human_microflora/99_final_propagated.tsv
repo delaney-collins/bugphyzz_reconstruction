@@ -1,0 +1,5 @@
+NCBI_ID	Attribute	Taxon_name	Rank	Attribute_source	Confidence_in_curation	Evidence	Frequency	Score	Attribute_group	Attribute_type	taxid	Attribute_group_2
+t__478801	human microflora--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__478801	human microflora--TRUE	Kytococcus sedentarius DSM 20547	strain	BacMap	low	nas	always	1	habitat	multistate-union	478801	human microflora
+t__858619	human microflora--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__858619	human microflora--TRUE	Corynebacterium variabile DSM 44702	strain	BacMap	low	nas	always	1	habitat	multistate-union	858619	human microflora

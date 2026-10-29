@@ -1,0 +1,7 @@
+NCBI_ID	Attribute	Taxon_name	Rank	Attribute_source	Confidence_in_curation	Evidence	Frequency	Score	Attribute_group	Attribute_type	taxid	Attribute_group_2
+s__1596	vagina--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1596	vagina--TRUE	Lactobacillus gasseri	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1596	vagina
+s__267818	vagina--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__267818	vagina--TRUE	Lactobacillus kefiranofaciens	species	ProTraits	medium	igc	always	1	habitat	multistate-union	267818	vagina
+s__33959	vagina--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__33959	vagina--TRUE	Lactobacillus johnsonii	species	ProTraits	medium	igc	always	1	habitat	multistate-union	33959	vagina

@@ -1,0 +1,7 @@
+property	value
+description	One annotated tip: exercises the single-source case.
+annotated_tip_count	1
+requested_node_count	2299
+unannotated_tip_count	23500
+returned_node_count	2299
+result_row_count	25799

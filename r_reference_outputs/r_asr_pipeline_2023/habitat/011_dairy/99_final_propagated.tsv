@@ -1,0 +1,11 @@
+NCBI_ID	Attribute	Taxon_name	Rank	Attribute_source	Confidence_in_curation	Evidence	Frequency	Score	Attribute_group	Attribute_type	taxid	Attribute_group_2
+s__137591	dairy--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__137591	dairy--TRUE	Weissella cibaria	species	ProTraits	medium	igc	always	1	habitat	multistate-union	137591	dairy
+s__1582	dairy--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1582	dairy--TRUE	Lacticaseibacillus casei	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1582	dairy
+s__1597	dairy--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1597	dairy--TRUE	Lacticaseibacillus paracasei	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1597	dairy
+s__1642	dairy--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1642	dairy--TRUE	Listeria innocua	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1642	dairy
+t__861360	dairy--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__861360	dairy--TRUE	Glutamicibacter arilaitensis Re117	strain	BacMap	low	nas	always	1	habitat	multistate-union	861360	dairy

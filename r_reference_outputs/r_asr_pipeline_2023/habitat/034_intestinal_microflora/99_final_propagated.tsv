@@ -1,0 +1,11 @@
+NCBI_ID	Attribute	Taxon_name	Rank	Attribute_source	Confidence_in_curation	Evidence	Frequency	Score	Attribute_group	Attribute_type	taxid	Attribute_group_2
+s__1680	intestinal microflora--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1680	intestinal microflora--TRUE	Bifidobacterium adolescentis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1680	intestinal microflora
+s__28116	intestinal microflora--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__28116	intestinal microflora--TRUE	Bacteroides ovatus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	28116	intestinal microflora
+t__643562	intestinal microflora--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__643562	intestinal microflora--TRUE	Pseudodesulfovibrio aespoeensis Aspo-2	strain	BacMap	low	nas	always	1	habitat	multistate-union	643562	intestinal microflora
+t__760568	intestinal microflora--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__760568	intestinal microflora--TRUE	Desulfofundulus kuznetsovii DSM 6115	strain	BacMap	low	nas	always	1	habitat	multistate-union	760568	intestinal microflora
+t__868595	intestinal microflora--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+t__868595	intestinal microflora--TRUE	Desulfotomaculum nigrificans CO-1-SRB	strain	BacMap	low	nas	always	1	habitat	multistate-union	868595	intestinal microflora

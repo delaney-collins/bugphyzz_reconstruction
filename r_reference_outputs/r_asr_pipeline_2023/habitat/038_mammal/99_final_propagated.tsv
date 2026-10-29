@@ -1,0 +1,49 @@
+NCBI_ID	Attribute	Taxon_name	Rank	Attribute_source	Confidence_in_curation	Evidence	Frequency	Score	Attribute_group	Attribute_type	taxid	Attribute_group_2
+s__1160234	mammal--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1160234	mammal--TRUE	Brucella sp. UK38/05	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1160234	mammal
+s__1160235	mammal--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1160235	mammal--TRUE	Brucella sp. 63/311	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1160235	mammal
+s__1169233	mammal--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1169233	mammal--TRUE	Brucella sp. F5/06	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1169233	mammal
+s__1169234	mammal--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1169234	mammal--TRUE	Brucella sp. 56/94	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1169234	mammal
+s__120576	mammal--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__120576	mammal--TRUE	Brucella pinnipedialis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	120576	mammal
+s__120577	mammal--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__120577	mammal--TRUE	Brucella ceti	species	ProTraits	medium	igc	always	1	habitat	multistate-union	120577	mammal
+s__1428	mammal--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__1428	mammal--TRUE	Bacillus thuringiensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	1428	mammal
+s__2095	mammal--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__2095	mammal--TRUE	Mycoplasma capricolum	species	ProTraits	medium	igc	always	1	habitat	multistate-union	2095	mammal
+s__235	mammal--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__235	mammal--TRUE	Brucella abortus	species	ProTraits	medium	igc	always	1	habitat	multistate-union	235	mammal
+s__236	mammal--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__236	mammal--TRUE	Brucella ovis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	236	mammal
+s__29459	mammal--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__29459	mammal--TRUE	Brucella melitensis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	29459	mammal
+s__29460	mammal--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__29460	mammal--TRUE	Brucella neotomae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	29460	mammal
+s__29461	mammal--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__29461	mammal--TRUE	Brucella suis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	29461	mammal
+s__36855	mammal--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__36855	mammal--TRUE	Brucella canis	species	ProTraits	medium	igc	always	1	habitat	multistate-union	36855	mammal
+s__437663	mammal--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__437663	mammal--TRUE	Brucella sp. UK1/97	species	ProTraits	medium	igc	always	1	habitat	multistate-union	437663	mammal
+s__437670	mammal--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__437670	mammal--TRUE	Brucella sp. F23/97	species	ProTraits	medium	igc	always	1	habitat	multistate-union	437670	mammal
+s__437671	mammal--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__437671	mammal--TRUE	Brucella sp. F96/2	species	ProTraits	medium	igc	always	1	habitat	multistate-union	437671	mammal
+s__437684	mammal--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__437684	mammal--TRUE	Brucella sp. UK40/99	species	ProTraits	medium	igc	always	1	habitat	multistate-union	437684	mammal
+s__437685	mammal--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__437685	mammal--TRUE	Brucella sp. UK5/01	species	ProTraits	medium	igc	always	1	habitat	multistate-union	437685	mammal
+s__437687	mammal--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__437687	mammal--TRUE	Brucella sp. F8/99	species	ProTraits	medium	igc	always	1	habitat	multistate-union	437687	mammal
+s__444163	mammal--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__444163	mammal--TRUE	Brucella microti	species	ProTraits	medium	igc	always	1	habitat	multistate-union	444163	mammal
+s__49118	mammal--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__49118	mammal--TRUE	Candidatus Arthromitus sp. SFB-mouse	species	ProTraits	medium	igc	always	1	habitat	multistate-union	49118	mammal
+s__520448	mammal--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__520448	mammal--TRUE	Brucella sp. NVSL 07-0026	species	ProTraits	medium	igc	always	1	habitat	multistate-union	520448	mammal
+s__83557	mammal--FALSE	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	NA
+s__83557	mammal--TRUE	Chlamydia caviae	species	ProTraits	medium	igc	always	1	habitat	multistate-union	83557	mammal
