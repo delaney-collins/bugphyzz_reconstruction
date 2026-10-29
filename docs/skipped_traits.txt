@@ -1,0 +1,64 @@
+Skipped vocabulary terms
+========================
+
+[aerophilicity]
+- facultative aerobe
+- microaerotolerant
+
+[biosafety level]
+- biosafety level 1+
+- biosafety level 1.0
+- biosafety level 2.0
+- biosafety level 3**
+- biosafety level 3.0
+- biosafety level L1
+
+[disease association]
+- arthritis
+- caries
+- Endocarditis
+- Fever
+- Infection
+- Infection caused by Escherichia coli (disorder)
+- Meningitis
+- meningitis septicemia
+- Periodontal Disorder
+- periodontal disorder
+- septicemia arthritis
+- Tetnus
+- tumors
+- urlnary tract infection
+
+[habitat]
+- Waste and sludge water
+
+[hemolysis]
+- CAMP test
+
+[shape]
+- coccus-shaped
+- crescent-shaped
+- curved-shaped
+- diplococcus-shaped
+- ellipsoidal
+- filament-shaped
+- flask-shaped
+- helical-shaped
+- other
+- oval-shaped
+- ovoid-shaped
+- pleomorphic-shaped
+- ring-shaped
+- rod-shaped
+- sphere-shaped
+- spiral-shaped
+- spore-shaped
+- square
+- star-shaped
+- vibrio-shaped
+- vibriod cell
+
+Fully skipped traits
+====================
+
+None
