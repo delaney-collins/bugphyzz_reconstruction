@@ -12,19 +12,25 @@ python -m pip install -e .
 
 ## Run
 
-Open `src/bugphyzz_reconstruction/asr/all.py` and change `package_dir` to the full path of this project folder on your computer. You can also edit the `traits` list to choose which traits to process.
-
-Then run:
+From the repository root, run a smaller example with two traits:
 
 ```powershell
-python -m bugphyzz_reconstruction.asr.all
+python examples/all.py --traits motility shape --output-dir asr_output/example
 ```
+
+Run the full pipeline with all default traits:
+
+```powershell
+python examples/all.py --output-dir asr_output/full_build
+```
+
+Use `python examples/all.py --help` for options. Quote trait names containing spaces, for example `--traits "growth temperature"`. Output paths are relative to your current working directory; bundled resources are located automatically in the installed package.
 
 The pipeline reads the bundled tree, taxonomy, and signature thresholds from `src/bugphyzz_reconstruction/resources/`. An internet connection is needed to retrieve source trait data.
 
 ## Outputs
 
-Results are written to `asr_output/full_build/`:
+By default, results are written to `asr_output/full_build/` (override with `--output-dir`):
 
 - `bugphyzz_binary.csv`
 - `bugphyzz_multistate.csv`
